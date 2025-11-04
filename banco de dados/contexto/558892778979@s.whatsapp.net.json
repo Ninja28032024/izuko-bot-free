@@ -1,0 +1,50 @@
+[
+  {
+    "id": "A5D34A169386E7A3D842A11006C338A8",
+    "remetente": "Usuário",
+    "texto": "Ola boa noite",
+    "timestamp": "2025-11-01T00:54:17.114Z",
+    "ordem": 1,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761958467495",
+    "remetente": "Wendel",
+    "texto": "Boa noitee! Td certo por aí?",
+    "timestamp": "2025-11-01T00:54:27.496Z",
+    "ordem": 2,
+    "respondeA": "A5D34A169386E7A3D842A11006C338A8"
+  },
+  {
+    "id": "A5297D268AE479512E0323AA12CC5149",
+    "remetente": "Usuário",
+    "texto": "Mensal",
+    "timestamp": "2025-11-01T01:12:40.265Z",
+    "ordem": 3,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761959570359",
+    "remetente": "Wendel",
+    "texto": "Mensal o q? Fiquei sem entender kkk explica aí melhor.",
+    "timestamp": "2025-11-01T01:12:50.360Z",
+    "ordem": 4,
+    "respondeA": "A5297D268AE479512E0323AA12CC5149"
+  },
+  {
+    "id": "A5D9EB2563E95662C848A6110CD72364",
+    "remetente": "Usuário",
+    "texto": "R$120 mês",
+    "timestamp": "2025-11-01T01:13:11.291Z",
+    "ordem": 5,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761959602358",
+    "remetente": "Wendel",
+    "texto": "Ahh entendi! R$120 por mês é de boa, dependendo do q tá incluso. Tem mais detalhe aí?",
+    "timestamp": "2025-11-01T01:13:22.358Z",
+    "ordem": 6,
+    "respondeA": "A5D9EB2563E95662C848A6110CD72364"
+  }
+]

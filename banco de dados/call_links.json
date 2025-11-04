@@ -1,0 +1,46 @@
+{
+  "voice": [
+    {
+      "link": "https://call.whatsapp.com/voice/7NzL25O3mkX25OFNI9ZJUr",
+      "inUse": true,
+      "user": "201683409866997@lid"
+    },
+    {
+      "link": "https://call.whatsapp.com/voice/u39zKuUFuN8V1uPwNTxzjd",
+      "inUse": true,
+      "user": "244938059026618@lid"
+    },
+    {
+      "link": "https://call.whatsapp.com/voice/t5dirta5EN3ZFzVpr88e6l",
+      "inUse": false,
+      "user": null
+    },
+    {
+      "link": "https://call.whatsapp.com/voice/yf8NwaBHbrNuxBWNRy9I8b",
+      "inUse": false,
+      "user": null
+    }
+  ],
+  "video": [
+    {
+      "link": "https://call.whatsapp.com/video/wvCyw8C48ax2Jlv4fixnew",
+      "inUse": false,
+      "user": null
+    },
+    {
+      "link": "https://call.whatsapp.com/video/R99dOf1GZqgwwz8HA2mAnM",
+      "inUse": false,
+      "user": null
+    },
+    {
+      "link": "https://call.whatsapp.com/video/xlETmNA6tNHiUoW5k837of",
+      "inUse": false,
+      "user": null
+    },
+    {
+      "link": "https://call.whatsapp.com/video/ZXl0yttomtEXhg3bQ7AgVf",
+      "inUse": false,
+      "user": null
+    }
+  ]
+}

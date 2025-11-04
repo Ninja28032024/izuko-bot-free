@@ -1,0 +1,34 @@
+[
+  {
+    "id": "AC9357E1C1F83248C992C2BBF2AE42B0",
+    "remetente": "Usuário",
+    "texto": "Deserdo todos ☝🏻",
+    "timestamp": "2025-10-31T20:51:25.762Z",
+    "ordem": 1,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761943895204",
+    "remetente": "Wendel",
+    "texto": "KKKK vamo ver se aguenta a pressão então, deserda geral mesmo!",
+    "timestamp": "2025-10-31T20:51:35.204Z",
+    "ordem": 2,
+    "respondeA": "AC9357E1C1F83248C992C2BBF2AE42B0"
+  },
+  {
+    "id": "AC091CAC7160E41C8336E5AF230B2473",
+    "remetente": "Usuário",
+    "texto": "To muito rouca credo 😣",
+    "timestamp": "2025-11-01T00:08:30.652Z",
+    "ordem": 3,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761955720728",
+    "remetente": "Wendel",
+    "texto": "Voz de fumante dps de 3 festas seguidas kkkk cuida disso aí, mulher!",
+    "timestamp": "2025-11-01T00:08:40.729Z",
+    "ordem": 4,
+    "respondeA": "AC091CAC7160E41C8336E5AF230B2473"
+  }
+]

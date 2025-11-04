@@ -1,0 +1,164 @@
+[
+  {
+    "pergunta": "O que é, o que é? Tem coroa, mas não é rei, tem escamas, mas não é peixe?",
+    "opcoes": {
+      "a": "Serpente",
+      "b": "Abacaxi",
+      "c": "Dragão"
+    },
+    "resposta": "b"
+  },
+  {
+    "pergunta": "O que é, o que é? Quanto mais se tira, maior fica?",
+    "opcoes": {
+      "a": "Buraco",
+      "b": "Dívida",
+      "c": "Idade"
+    },
+    "resposta": "a"
+  },
+  {
+    "pergunta": "O que é, o que é? Anda com os pés na cabeça?",
+    "opcoes": {
+      "a": "Piolho",
+      "b": "Chapéu",
+      "c": "Acrobata"
+    },
+    "resposta": "a"
+  },
+  {
+    "pergunta": "O que é, o que é? Tem boca, mas não fala, tem leito, mas não dorme?",
+    "opcoes": {
+      "a": "Bebê",
+      "b": "Fogão",
+      "c": "Rio"
+    },
+    "resposta": "c"
+  },
+  {
+    "pergunta": "Qual o único prato que ninguém consegue comer direito?",
+    "opcoes": {
+      "a": "Sopa de letrinhas",
+      "b": "Torta de climão",
+      "c": "Torta de legumes"
+    },
+    "resposta": "b"
+  },
+  {
+    "pergunta": "O que é o que é, sou de pedra porém tenho visitantes quase todos os dias",
+    "opcoes": {
+      "a": "Caverna",
+      "b": "Deuses gregos",
+      "c": "Cristo Redentor"
+    },
+    "resposta": "c"
+  },
+  {
+    "pergunta": "Quem sou eu, sou uma fruta, vermelha, sou fonte rica em vitamina C e dizem que 1 de mim é equivalem a 5 Laranja",
+    "opcoes": {
+      "a": "Maçã",
+      "b": "Acerola",
+      "c": "Uva"
+    },
+    "resposta": "b"
+  },
+  {
+    "pergunta": "Quem sou eu, feito de barro e abrigo pessoas e objetos.",
+    "opcoes": {
+      "a": "Caverna",
+      "b": "Casa",
+      "c": "Tijolos"
+    },
+    "resposta": "c"
+  },
+  {
+    "pergunta": "Quem sou eu, tenho penas com cores vivas, amarelas, azuis, verdes, vermelhas e brancas",
+    "opcoes": {
+      "a": "Papagaio",
+      "b": "Calopsita",
+      "c": "Arara Brasil"
+    },
+    "resposta": "c"
+  },
+  {
+    "pergunta": "O que é, o que é? Feito para andar e não anda.",
+    "opcoes": {
+      "a": "Cadeira",
+      "b": "Barco",
+      "c": "Rua"
+    },
+    "resposta": "c"
+  },
+  {
+    "pergunta": "O que é, o que é? Dá muitas voltas e não sai do lugar.",
+    "opcoes": {
+      "a": "O cadarço",
+      "b": "O relógio",
+      "c": "A vida"
+    },
+    "resposta": "b"
+  },
+  {
+    "pergunta": "O que é, o que é? Tem cabeça e tem dente, não é bicho e nem é gente.",
+    "opcoes": {
+      "a": "Alho",
+      "b": "Estátua",
+      "c": "Espantalho"
+    },
+    "resposta": "a"
+  },
+  {
+    "pergunta": "O que é, o que é? Não se come, mas é bom pra se comer.",
+    "opcoes": {
+      "a": "Coca Cola",
+      "b": "Talher",
+      "c": "Laranja"
+    },
+    "resposta": "b"
+  },
+  {
+    "pergunta": "O que é, o que é? Quanto mais rugas tem mais novo é.",
+    "opcoes": {
+      "a": "O pneu",
+      "b": "O Maracujá",
+      "c": "O velho"
+    },
+    "resposta": "a"
+  },
+  {
+    "pergunta": "O que é, o que é? Nunca volta, embora não tenha ido.",
+    "opcoes": {
+      "a": "O presente",
+      "b": "O futuro",
+      "c": "O passado"
+    },
+    "resposta": "c"
+  },
+  {
+    "pergunta": "O que é, o que é? Fica cheio durante o dia e vazio durante a noite.",
+    "opcoes": {
+      "a": "O Sapato",
+      "b": "A cesta",
+      "c": "A casa"
+    },
+    "resposta": "a"
+  },
+  {
+    "pergunta": "O que é, o que é? Mesmo atravessando no rio não se molha.",
+    "opcoes": {
+      "a": "Pássaro",
+      "b": "A ponte",
+      "c": "O Vento"
+    },
+    "resposta": "b"
+  },
+  {
+    "pergunta": "O que é, o que é? Tem no meio do ovo.",
+    "opcoes": {
+      "a": "A gema",
+      "b": "A casca",
+      "c": "A letra \"V\""
+    },
+    "resposta": "c"
+  }
+]

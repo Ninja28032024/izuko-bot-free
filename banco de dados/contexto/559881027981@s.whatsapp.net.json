@@ -1,0 +1,82 @@
+[
+  {
+    "id": "AC89E329971B5CB9160EF9C4AC7DBE0E",
+    "remetente": "Usuário",
+    "texto": "Válido até quando?",
+    "timestamp": "2025-10-29T21:34:10.721Z",
+    "ordem": 1,
+    "respondeA": "3EB0C6A5E2C3A532C17AB3"
+  },
+  {
+    "id": "AC89E329971B5CB9160EF9C4AC7DBE0E",
+    "remetente": "Usuário",
+    "texto": "Válido até quando?",
+    "timestamp": "2025-10-29T21:34:11.314Z",
+    "ordem": 2,
+    "respondeA": "3EB0C6A5E2C3A532C17AB3"
+  },
+  {
+    "id": "BOT_1761773660704",
+    "remetente": "Wendel",
+    "texto": "Depende do q vc tá falando kkk. Explica aí melhor q eu te falo certinho.",
+    "timestamp": "2025-10-29T21:34:20.704Z",
+    "ordem": 3,
+    "respondeA": "AC89E329971B5CB9160EF9C4AC7DBE0E"
+  },
+  {
+    "id": "BOT_1761773662548",
+    "remetente": "Wendel",
+    "texto": "Depende do q vc tá falando kkk. Explica aí melhor q eu te falo certinho.",
+    "timestamp": "2025-10-29T21:34:22.548Z",
+    "ordem": 4,
+    "respondeA": "AC89E329971B5CB9160EF9C4AC7DBE0E"
+  },
+  {
+    "id": "AC4907E619234EC9B648D027991D50A9",
+    "remetente": "Usuário",
+    "texto": "Kakakakakak",
+    "timestamp": "2025-10-29T21:34:43.071Z",
+    "ordem": 5,
+    "respondeA": "3EB0041F062F7656A85C3F"
+  },
+  {
+    "id": "BOT_1761773691686",
+    "remetente": "Wendel",
+    "texto": "KKKK vc tá rindo mais q minha tia vendo novela kkk. Fala aí, bora continuar o papo.",
+    "timestamp": "2025-10-29T21:34:51.687Z",
+    "ordem": 6,
+    "respondeA": "AC4907E619234EC9B648D027991D50A9"
+  },
+  {
+    "id": "AC02734794BE1FA6E6D92F58F9952BBB",
+    "remetente": "Usuário",
+    "texto": "Tipo, até quando vc vai ficar com os códigos",
+    "timestamp": "2025-10-29T21:34:56.358Z",
+    "ordem": 7,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761773704607",
+    "remetente": "Wendel",
+    "texto": "KKKK sei lá, enquanto tiver rolando o papo eu tô aqui, ué. Se sumir, foi bug ou drama de novela.",
+    "timestamp": "2025-10-29T21:35:04.607Z",
+    "ordem": 8,
+    "respondeA": "AC02734794BE1FA6E6D92F58F9952BBB"
+  },
+  {
+    "id": "AC91CB178EDD310BF1FBBC5AE9402189",
+    "remetente": "Usuário",
+    "texto": "Hummm",
+    "timestamp": "2025-10-29T21:35:26.278Z",
+    "ordem": 9,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761773735208",
+    "remetente": "Wendel",
+    "texto": "KKKK esse \"hummm\" aí tem cara de quem tá bolando alguma coisa... fala logo, tô curioso.",
+    "timestamp": "2025-10-29T21:35:35.209Z",
+    "ordem": 10,
+    "respondeA": "AC91CB178EDD310BF1FBBC5AE9402189"
+  }
+]

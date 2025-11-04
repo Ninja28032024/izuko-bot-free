@@ -1,0 +1,98 @@
+[
+  {
+    "id": "AC3D80DBFF1ADB83F2E98673714394B0",
+    "remetente": "Usuário",
+    "texto": "⊘ Este canal não está mais disponível",
+    "timestamp": "2025-10-29T17:43:32.537Z",
+    "ordem": 1,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761759823067",
+    "remetente": "Wendel",
+    "texto": "Ué, q parada estranha kkk. Será q bugou td?",
+    "timestamp": "2025-10-29T17:43:43.068Z",
+    "ordem": 2,
+    "respondeA": "AC3D80DBFF1ADB83F2E98673714394B0"
+  },
+  {
+    "id": "AC41D91B11FDD1889256E25C0C318FE0",
+    "remetente": "Usuário",
+    "texto": "Consulta de nome ai",
+    "timestamp": "2025-10-29T19:46:11.337Z",
+    "ordem": 3,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761767180673",
+    "remetente": "Wendel",
+    "texto": "Nome de quem, pô? Manda + info aí q eu vejo.",
+    "timestamp": "2025-10-29T19:46:20.674Z",
+    "ordem": 4,
+    "respondeA": "AC41D91B11FDD1889256E25C0C318FE0"
+  },
+  {
+    "id": "AC41D91B11FDD1889256E25C0C318FE0",
+    "remetente": "Usuário",
+    "texto": "Consulta de nome ai",
+    "timestamp": "2025-10-29T20:09:57.505Z",
+    "ordem": 5,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761768608039",
+    "remetente": "Wendel",
+    "texto": "Aff, tu tá só repetindo kkk. Fala logo q nome é esse q vc quer q eu veja.",
+    "timestamp": "2025-10-29T20:10:08.039Z",
+    "ordem": 6,
+    "respondeA": "AC41D91B11FDD1889256E25C0C318FE0"
+  },
+  {
+    "id": "AC41D91B11FDD1889256E25C0C318FE0",
+    "remetente": "Usuário",
+    "texto": "Consulta de nome ai",
+    "timestamp": "2025-10-29T22:40:21.363Z",
+    "ordem": 7,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761777633710",
+    "remetente": "Wendel",
+    "texto": "Mano, tu tá em loop? Manda logo o nome q vc quer, pelamor.",
+    "timestamp": "2025-10-29T22:40:33.711Z",
+    "ordem": 8,
+    "respondeA": "AC41D91B11FDD1889256E25C0C318FE0"
+  },
+  {
+    "id": "ACA8702DF02B3267E26A42D6A472D242",
+    "remetente": "Usuário",
+    "texto": "Pra quem me mandar 40$ mando o arquivo dela",
+    "timestamp": "2025-10-30T23:19:27.799Z",
+    "ordem": 9,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761866379167",
+    "remetente": "Wendel",
+    "texto": "Kkk tá achando q GNT vai cair nessa? Manda o nome logo, sem caô.",
+    "timestamp": "2025-10-30T23:19:39.167Z",
+    "ordem": 10,
+    "respondeA": "ACA8702DF02B3267E26A42D6A472D242"
+  },
+  {
+    "id": "AC710075EEE55D0C5141A28F2FE17792",
+    "remetente": "Usuário",
+    "texto": "Vms 30 votos em",
+    "timestamp": "2025-10-31T03:04:06.653Z",
+    "ordem": 11,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1761879857614",
+    "remetente": "Wendel",
+    "texto": "Vms nd se tu n falar q nome é esse kkk. Tá só jogando frase aleatória aí.",
+    "timestamp": "2025-10-31T03:04:17.615Z",
+    "ordem": 12,
+    "respondeA": "AC710075EEE55D0C5141A28F2FE17792"
+  }
+]
