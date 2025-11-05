@@ -5,13 +5,30 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-v22.13.0-green?style=for-the-badge&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/Node.js-v22+-green?style=for-the-badge&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   <img src="https://img.shields.io/badge/Versão-1.5_Free-blue?style=for-the-badge" alt="Versão">
   <img src="https://img.shields.io/badge/Licença-GPL--3.0-red?style=for-the-badge" alt="Licença">
 </p>
 
 > Bot multifuncional para WhatsApp com 144 comandos, sistema de ranking, moderação avançada e muito mais!
+
+## 📋 Sumário
+
+1. [Sobre o projeto](#-sobre-este-projeto)
+2. [Principais Funcionalidades](#-principais-funcionalidades)
+3. [Instalação](#-instalação)
+   - [Instalação no Termux](#instalação-no-termux)
+   - [Instalação em VPS (Debian/Ubuntu)](#instalação-em-vps-debianubuntu)
+   - [Instalação no Windows](#instalação-no-windows)
+4. [Configuração](#️-configuração)
+5. [Estrutura de Pastas](#-estrutura-de-pastas)
+6. [Documentação Completa](#-documentação-completa)
+7. [Categorias de Comandos](#-categorias-de-comandos)
+8. [Sistema de Ranking](#-sistema-de-ranking)
+9. [Sistema de Moderação](#️-sistema-de-moderação)
+10. [Como Contribuir](#-como-contribuir)
+11. [Licença](#-licença)
 
 ## 📋 Sobre este projeto
 
@@ -35,43 +52,189 @@ O **Izuko Bot** é um bot completo e poderoso para WhatsApp, desenvolvido para f
 
 ### Pré-requisitos
 
-- Node.js v18 ou superior
+- Node.js v18 ou superior (recomendado v22+)
 - NPM ou Yarn
+- Git
+- FFmpeg (para processamento de mídia)
 - Conta do WhatsApp
 
-### Passo a passo
+### Instalação no Termux
 
-1. **Clone o repositório:**
-```bash
+1. **Abra o Termux e atualize os pacotes:**
+
+_Não tem o Termux? [Clique aqui e baixe a última versão](https://www.mediafire.com/file/wxpygdb9bcb5npb/Termux_0.118.3_Dev_Gui.apk) ou [clique aqui e baixe versão da Play Store](https://play.google.com/store/apps/details?id=com.termux) caso a versão do MediaFire não funcione._
+
+```sh
+pkg upgrade -y && pkg update -y
+```
+
+2. **Instale as dependências necessárias:**
+
+```sh
+pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install imagemagick -y
+```
+
+3. **Habilite o acesso à pasta storage:**
+
+```sh
+termux-setup-storage
+```
+
+4. **Navegue até a pasta desejada:**
+
+Pastas mais utilizadas:
+- `/sdcard`
+- `/storage/emulated/0`
+- `/storage/emulated/0/Download`
+
+```sh
+cd /sdcard
+```
+
+5. **Clone o repositório:**
+
+```sh
+git clone https://github.com/Ninja28032024/izuko-bot-free.git
+```
+
+6. **Entre na pasta:**
+
+```sh
+cd izuko-bot-free
+```
+
+7. **Instale as dependências do Node.js:**
+
+```sh
+npm install
+```
+
+8. **Configure o bot:**
+
+Edite o arquivo `settings/settings.json` com seus dados (veja seção de [Configuração](#️-configuração))
+
+9. **Inicie o bot:**
+
+```sh
+node main.js
+```
+
+ou use o script de auto-reconexão:
+
+```sh
+sh start.sh
+```
+
+10. **Escaneie o QR Code:**
+- Um QR Code aparecerá no terminal
+- Abra o WhatsApp > Aparelhos conectados > Conectar um aparelho
+- Escaneie o QR Code
+- Aguarde a conexão ser estabelecida
+
+### Instalação em VPS (Debian/Ubuntu)
+
+1. **Atualize o sistema:**
+
+```sh
+sudo apt update && sudo apt upgrade -y
+```
+
+2. **Instale o Node.js v22:**
+
+```sh
+curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -
+sudo apt install -y nodejs
+```
+
+3. **Instale as dependências do sistema:**
+
+```sh
+sudo apt install git ffmpeg imagemagick -y
+```
+
+4. **Clone o repositório:**
+
+```sh
 git clone https://github.com/Ninja28032024/izuko-bot-free.git
 cd izuko-bot-free
 ```
 
-2. **Instale as dependências:**
-```bash
+5. **Instale as dependências do Node.js:**
+
+```sh
 npm install
 ```
 
-3. **Configure o bot:**
-   - Edite o arquivo `settings/settings.json`
-   - Defina seu número como dono
-   - Personalize o nome do bot
+6. **Configure o bot:**
 
-4. **Inicie o bot:**
-```bash
+Edite o arquivo `settings/settings.json` com seus dados
+
+7. **Inicie o bot:**
+
+```sh
 node main.js
 ```
 
-ou
+**Para manter o bot rodando em background (opcional):**
 
-```bash
-sh start.sh
+Instale o PM2:
+```sh
+sudo npm install -g pm2
 ```
 
-5. **Escaneie o QR Code:**
-   - Um QR Code aparecerá no terminal
-   - Escaneie com seu WhatsApp
-   - Aguarde a conexão ser estabelecida
+Inicie o bot com PM2:
+```sh
+pm2 start main.js --name IzukoBot
+pm2 save
+pm2 startup
+```
+
+Comandos úteis do PM2:
+```sh
+pm2 status          # Ver status
+pm2 logs IzukoBot   # Ver logs
+pm2 restart IzukoBot # Reiniciar
+pm2 stop IzukoBot   # Parar
+```
+
+### Instalação no Windows
+
+1. **Instale o Node.js:**
+
+Baixe e instale o [Node.js v22+](https://nodejs.org/)
+
+2. **Instale o Git:**
+
+Baixe e instale o [Git](https://git-scm.com/)
+
+3. **Instale o FFmpeg:**
+
+- Baixe o [FFmpeg](https://ffmpeg.org/download.html)
+- Extraia e adicione ao PATH do Windows
+- Ou use o Chocolatey: `choco install ffmpeg`
+
+4. **Abra o CMD ou PowerShell e clone o repositório:**
+
+```sh
+git clone https://github.com/Ninja28032024/izuko-bot-free.git
+cd izuko-bot-free
+```
+
+5. **Instale as dependências:**
+
+```sh
+npm install
+```
+
+6. **Configure o bot:**
+
+Edite o arquivo `settings/settings.json` com seus dados
+
+7. **Inicie o bot:**
+
+```sh
+node main.js
+```
 
 ## ⚙️ Configuração
 
@@ -88,14 +251,22 @@ Edite o arquivo `settings/settings.json`:
 }
 ```
 
-| Parâmetro | Descrição |
-|:----------|:----------|
-| `prefix` | Caractere usado para invocar comandos (ex: `&menu`) |
-| `ownerNumber` | JID do dono do bot (garante acesso a comandos restritos) |
-| `botLid` | JID do próprio bot |
-| `nomeBot` | Nome do bot que aparecerá nas mensagens |
-| `nomeDono` | Nome do dono que aparecerá nas mensagens |
-| `versao` | Versão atual do bot |
+### Parâmetros de Configuração
+
+| Parâmetro | Descrição | Exemplo |
+|:----------|:----------|:--------|
+| `prefix` | Caractere usado para invocar comandos | `&`, `/`, `!` |
+| `ownerNumber` | JID do dono do bot (garante acesso a comandos restritos) | `5511999999999@lid` |
+| `botLid` | JID do próprio bot | `5511888888888@lid` |
+| `nomeBot` | Nome do bot que aparecerá nas mensagens | `Izuko Bot` |
+| `nomeDono` | Nome do dono que aparecerá nas mensagens | `Seu Nome` |
+| `versao` | Versão atual do bot | `1.5` |
+
+**Como obter o JID (LID):**
+1. Inicie o bot pela primeira vez
+2. Envie uma mensagem para o bot
+3. O JID será exibido nos logs do console
+4. Formato: `5511999999999@lid` (número + @lid)
 
 ## 📁 Estrutura de Pastas
 
@@ -185,6 +356,26 @@ Bronze I-III → Prata I-III → Platina I-III → Ouro I-III → Diamante I-III
 - **Anti-Imagem:** Impede envio de imagens
 - **Sistema de Advertências:** 3 advertências = banimento automático
 - **Sistema de Mute:** Silenciamento temporário ou permanente
+
+## 🛠️ Tecnologias Utilizadas
+
+Este projeto utiliza as seguintes dependências:
+
+- **[@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys)** - Biblioteca principal para WhatsApp
+- **[axios](https://axios-http.com/)** `v1.12.2` - Cliente HTTP para requisições
+- **[chalk](https://github.com/chalk/chalk)** `v4.1.2` - Estilização de logs no console
+- **[cheerio](https://cheerio.js.org/)** `v1.1.2` - Parser HTML para web scraping
+- **[fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)** `v2.1.3` - Processamento de mídia
+- **[form-data](https://github.com/form-data/form-data)** `v4.0.4` - Envio de formulários multipart
+- **[googleapis](https://github.com/googleapis/google-api-nodejs-client)** `v162.0.0` - Integração com Google Drive
+- **[megajs](https://github.com/qgustavor/mega)** `v1.3.9` - Download de arquivos do Mega
+- **[moment-timezone](https://momentjs.com/timezone/)** `v0.5.45` - Manipulação de datas e fusos horários
+- **[node-cache](https://github.com/node-cache/node-cache)** `v5.1.2` - Sistema de cache em memória
+- **[node-cleanup](https://github.com/jtlapp/node-cleanup)** `v2.1.2` - Gerenciamento de limpeza ao encerrar
+- **[node-cron](https://github.com/node-cron/node-cron)** `v4.2.1` - Agendamento de tarefas
+- **[node-webpmux](https://github.com/Secreto31126/node-webpmux)** `v3.2.0` - Manipulação de stickers WebP
+- **[pino](https://github.com/pinojs/pino)** `v7.11.0` - Sistema de logging estruturado
+- **[sharp](https://sharp.pixelplumbing.com/)** `v0.34.4` - Processamento de imagens
 
 ## 🤝 Como Contribuir
 
