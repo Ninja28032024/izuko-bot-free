@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-v22+-green?style=for-the-badge&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/Node.js-v20+-green?style=for-the-badge&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   <img src="https://img.shields.io/badge/Versão-1.5_Free-blue?style=for-the-badge" alt="Versão">
   <img src="https://img.shields.io/badge/Licença-GPL--3.0-red?style=for-the-badge" alt="Licença">
@@ -52,7 +52,7 @@ O **Izuko Bot** é um bot completo e poderoso para WhatsApp, desenvolvido para f
 
 ### Pré-requisitos
 
-- Node.js v18 ou superior (recomendado v22+)
+- Node.js v18 ou superior (recomendado v20+)
 - NPM ou Yarn
 - Git
 - FFmpeg (para processamento de mídia)
@@ -139,10 +139,10 @@ sh start.sh
 sudo apt update && sudo apt upgrade -y
 ```
 
-2. **Instale o Node.js v22:**
+2. **Instale o Node.js v20:**
 
 ```sh
-curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt install -y nodejs
 ```
 
@@ -201,7 +201,7 @@ pm2 stop IzukoBot   # Parar
 
 1. **Instale o Node.js:**
 
-Baixe e instale o [Node.js v22+](https://nodejs.org/)
+Baixe e instale o [Node.js v20+](https://nodejs.org/)
 
 2. **Instale o Git:**
 
