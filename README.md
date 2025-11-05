@@ -1,4 +1,8 @@
-# 💧 Izuko Bot - Versão Free
+# 💧 Izuko Bot VIP - Free Edition
+
+<p align="center">
+  <img src="https://files.catbox.moe/liglfb.jpg" alt="Izuko Bot" width="800"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-v22.13.0-green?style=for-the-badge&logo=node.js" alt="Node.js">
