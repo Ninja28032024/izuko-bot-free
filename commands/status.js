@@ -1,1 +1,86 @@
-const a0_0x247d68=a0_0x4e84;(function(_0xd36728,_0x308b41){const _0x9c57b1=a0_0x4e84,_0x44b3e1=_0xd36728();while(!![]){try{const _0x45b797=parseInt(_0x9c57b1(0x1d2))/0x1+parseInt(_0x9c57b1(0x1a0))/0x2+parseInt(_0x9c57b1(0x189))/0x3*(-parseInt(_0x9c57b1(0x1b2))/0x4)+parseInt(_0x9c57b1(0x1d7))/0x5+parseInt(_0x9c57b1(0x191))/0x6*(parseInt(_0x9c57b1(0x1a1))/0x7)+parseInt(_0x9c57b1(0x1b8))/0x8*(parseInt(_0x9c57b1(0x1cf))/0x9)+parseInt(_0x9c57b1(0x18c))/0xa*(-parseInt(_0x9c57b1(0x1be))/0xb);if(_0x45b797===_0x308b41)break;else _0x44b3e1['push'](_0x44b3e1['shift']());}catch(_0x1bf412){_0x44b3e1['push'](_0x44b3e1['shift']());}}}(a0_0x1ac5,0x46903));function a0_0x4e84(_0x175afc,_0x40d4f7){const _0x2dee40=a0_0x1ac5();return a0_0x4e84=function(_0x5f3bbe,_0x2776f9){_0x5f3bbe=_0x5f3bbe-0x187;let _0x1ac53=_0x2dee40[_0x5f3bbe];if(a0_0x4e84['RJqAXY']===undefined){var _0x4e843a=function(_0x5054d8){const _0x1fbf24='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x5a7713='',_0x446148='',_0x589126=_0x5a7713+_0x4e843a;for(let _0x240153=0x0,_0x26eeb3,_0x1e4df6,_0x3d9605=0x0;_0x1e4df6=_0x5054d8['charAt'](_0x3d9605++);~_0x1e4df6&&(_0x26eeb3=_0x240153%0x4?_0x26eeb3*0x40+_0x1e4df6:_0x1e4df6,_0x240153++%0x4)?_0x5a7713+=_0x589126['charCodeAt'](_0x3d9605+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x26eeb3>>(-0x2*_0x240153&0x6)):_0x240153:0x0){_0x1e4df6=_0x1fbf24['indexOf'](_0x1e4df6);}for(let _0x230a73=0x0,_0x3993ab=_0x5a7713['length'];_0x230a73<_0x3993ab;_0x230a73++){_0x446148+='%'+('00'+_0x5a7713['charCodeAt'](_0x230a73)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x446148);};a0_0x4e84['EaztEz']=_0x4e843a,_0x175afc=arguments,a0_0x4e84['RJqAXY']=!![];}const _0x408b1f=_0x2dee40[0x0],_0x3c9671=_0x5f3bbe+_0x408b1f,_0x13a639=_0x175afc[_0x3c9671];if(!_0x13a639){const _0xd7b166=function(_0x375be0){this['oNwLhY']=_0x375be0,this['loteLT']=[0x1,0x0,0x0],this['ufZKaP']=function(){return'newState';},this['gXmSzc']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['HRmQSM']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0xd7b166['prototype']['dzRHvx']=function(){const _0x1dcd84=new RegExp(this['gXmSzc']+this['HRmQSM']),_0x23cb96=_0x1dcd84['test'](this['ufZKaP']['toString']())?--this['loteLT'][0x1]:--this['loteLT'][0x0];return this['jkWnlS'](_0x23cb96);},_0xd7b166['prototype']['jkWnlS']=function(_0xa4b752){if(!Boolean(~_0xa4b752))return _0xa4b752;return this['gkFbQh'](this['oNwLhY']);},_0xd7b166['prototype']['gkFbQh']=function(_0x692b9){for(let _0x1e2d62=0x0,_0x653007=this['loteLT']['length'];_0x1e2d62<_0x653007;_0x1e2d62++){this['loteLT']['push'](Math['round'](Math['random']())),_0x653007=this['loteLT']['length'];}return _0x692b9(this['loteLT'][0x0]);},new _0xd7b166(a0_0x4e84)['dzRHvx'](),_0x1ac53=a0_0x4e84['EaztEz'](_0x1ac53),_0x175afc[_0x3c9671]=_0x1ac53;}else _0x1ac53=_0x13a639;return _0x1ac53;},a0_0x4e84(_0x175afc,_0x40d4f7);}const a0_0x2776f9=(function(){const _0x337cf8=a0_0x4e84,_0x47aec7={'EVRiZ':function(_0x19971c,_0x44196b){return _0x19971c!==_0x44196b;},'PYAEL':_0x337cf8(0x18d),'LGBsH':_0x337cf8(0x1ab)};let _0x31021b=!![];return function(_0x5268dd,_0x40e89b){const _0x5222c2=_0x31021b?function(){const _0x51c267=a0_0x4e84;if(_0x47aec7['EVRiZ'](_0x47aec7[_0x51c267(0x1a6)],_0x47aec7[_0x51c267(0x1b5)])){if(_0x40e89b){const _0x9f429a=_0x40e89b['apply'](_0x5268dd,arguments);return _0x40e89b=null,_0x9f429a;}}else return{};}:function(){};return _0x31021b=![],_0x5222c2;};}()),a0_0x5f3bbe=a0_0x2776f9(this,function(){const _0x56914e=a0_0x4e84;return a0_0x5f3bbe[_0x56914e(0x190)]()[_0x56914e(0x1ce)](_0x56914e(0x1a2))['toString']()[_0x56914e(0x1d6)](a0_0x5f3bbe)['search'](_0x56914e(0x1a2));});a0_0x5f3bbe();function a0_0x1ac5(){const _0x27b0b4=['qxbLBMfZig9ZigDLBMvYywLZicHHzg1PBNmPigrLC3rLignSW6mGCg9Kzw0GC29SAwnPDgfYihvTihjLBgf0W7nYAw8GzguGzxn0ywrVigrHCYbKzwzLC2fZlG','ywrTAw4','DgXowMy','cGRWN5ssicOTls0GrevgrvnbuYbetYbrvufsvevmluDftKvsquWGkefoveKTufyPic0TlsOkkIHdB25MAwD1CMhdP8oJBYbhBg9IywWPkG','CfzOufu','cIOHyw50AwXPBMS1icHoW612zwWGnsK6kIa','rfjIq0u','cIOHyw50Axb2mYaOtSoTDMvSidmGlsbtAwZdQM5JAw8PoIOG','uvjrzei','yMfUy28GzguGzgfKB3m','C2vHCMnO','mtGYmti3nNjRwu9XAa','CMvHzezPBgvtEw5J','BfnABLu','ntmYodnpzLncCuG','cIOHyw50Axb2mIaOtSoTDMvSidiGlsbbDMLZBYK6kIa','C2vUze1LC3nHz2u','CgfYC2u','y29UC3rYDwn0B3i','mJe0otq5mfnxvLDoDa','icHozw5ODw0GChjVDg9JB2XVigf0AxzVkq','cIOHyw50AwXPBMS0icHoW612zwWGncK6kIa','ntDQD2zoEMm','zMzYCgu','4P2micPervnbveLwqurpkG','mtbzuwjpBgi','C1L1Bwu','z3j1Cg9Zx2nVBMzPzY5QC29U','vvfqs1m','Dg9tDhjPBMC','mZG2ntaYDersDxHh','EMXiDxm','cIOHyw50AwXPBMSZicHoW612zwWGmYK6kIa','4PYficPbveLwqurpkG','u3fWCe4','Aw5JBhvKzxm','A2viuhi','werSqwO','su9cBMK','yw50AwXPBMS1lMPZB24','ALj3u04','yw50AwXPBMS0lMPZB24','t3bbuMe','C3rHDhvZ','r3r3sNm','otCXmJeYC0fxvujS','n2jpAuLtuq','kcGOlISPkYKRksSK','CMfUA2LUz0rLC2f0AxzHzg8','veLrs2K','cVcFK5WGkLjftefuW5nssu8GreuGsu5uruXjr8oktKnjqsbetYbdtmodkIdWN5oCcGPtyxvKyCoNW7vLCYWGr2vUzxjHBc4Gsw5ZCgvJAw9UzwKGyxmGzgvMzxnHCYbLihnPC3rLBwfZigrLC3rLignSW6mUieeGC2vNDwLYlcbVigvZDgfKBYbPBMrPDMLKDwfSigrLignHzgeGBgvPiguGChjVDg9JB2XVihf1zsbWB2rLihnLCIbHDgL2ywrVig91igrLC2f0AxzHzg8UcGRWN5UH77IpicOTls0GtevjuYbersbdt05uuK9mrsbersbmsu5luYaTls0QcIOHyw50AwXPBMSGke7dRxzLBcaXktOQia','ufLbruW','AM9PBG','rM5XALO','tffwsKC','r1zWB3y','s3vTrfq','DhjPBq','yw50AwXPBMSZlMPZB24','wwD1teO','BML2zwW','cGPvC2uGzxn0zsbJB25OzwnPBwvUDg8GCgfYysbNDwLHCIbZDwfZihbYW7n4Aw1HCYbVCMrLBNmUieeGDMLNAwZdOM5JAweGW6KGysbJAgf2zsbWyxjHigeGDML0W7nYAweUcIaGicaGicaG','rK5jA0u','ndG1mJHNCw9uyNa','twvZDhjLlcbLC3rLihjLBgf0W7nYAw8GzguGAw50zwXPz8oQBMnPysbZW7mGCg9KzsbZzxiGCMv2zwXHzg8GzgvUDhjVigrLihvTignSW6mGkgDYDxbVks4','rM1Qu2q','teDcC0G','vLDHwe4','z3jVDxbnzxrHzgf0yq','mtznD2HUq2S','cIOHyw50Axb2icHoW612zwWGmsaTiejSB3f1zwLVktOQia','vfzUAe0','cIOHyw50AwXPBMSYicHoW612zwWGmIK6kIa','zNziD0O','Cgf0Aa','mtaXmdiZnJDTBvnnAhq','cGRIMPtVUi8GkI0Tlsbtsvnuru1bierfieHptLjbieuGue9erviGls0TkGOQixrVz2DSzs1Yyw5RicHsyw5RAw5NktOQia','ruXIvg4','vwL3y0u','D2f0sLe','yxbWBhK'];a0_0x1ac5=function(){return _0x27b0b4;};return a0_0x1ac5();}const fs=require('fs'),path=require(a0_0x247d68(0x1bd)),lerConfig=_0x448ce5=>{const _0x46248a=a0_0x247d68,_0x57cc5c={'GtwJs':_0x46248a(0x18b),'TLhBh':_0x46248a(0x1cd),'uPrWU':function(_0x2310fc,_0x1db4e4){return _0x2310fc!==_0x1db4e4;},'lSZnU':'amFuq','fvHwJ':_0x46248a(0x192),'pVhPU':'utf-8'},_0x7213f8=path[_0x46248a(0x1a7)](__dirname,'..',_0x57cc5c['TLhBh'],_0x448ce5);if(!fs['existsSync'](_0x7213f8))return{};try{return _0x57cc5c['uPrWU'](_0x57cc5c[_0x46248a(0x1d1)],_0x57cc5c[_0x46248a(0x1bc)])?JSON[_0x46248a(0x1d5)](fs[_0x46248a(0x1d0)](_0x7213f8,_0x57cc5c[_0x46248a(0x1c8)])):_0x4925f0[_0x3c4117]?_0x46248a(0x194):_0x57cc5c[_0x46248a(0x19f)];}catch(_0x2bd764){return{};}},getStatus=(_0x576cf5,_0x187127)=>{const _0x33fd70=a0_0x247d68,_0xd3608={'TVnhM':'✅\x20*ATIVADO*'};return _0x576cf5[_0x187127]?_0xd3608[_0x33fd70(0x1ba)]:_0x33fd70(0x18b);};module['exports']={'name':a0_0x247d68(0x19e),'aliases':[],'execute':async({lux:_0x39c449,from:_0x5d19c4,msg:_0x447df6,isGroup:_0x4221e6,sender:_0x5d5eee,areJidsSameUser:_0x1f87e4})=>{const _0x3d3aa0=a0_0x247d68,_0x298780={'jRwSN':'(((.+)+)+)+$','keHPr':_0x3d3aa0(0x198),'xRwqR':function(_0x242e85,_0x4765de){return _0x242e85===_0x4765de;},'FNIkE':_0x3d3aa0(0x19d),'watJQ':_0x3d3aa0(0x1c4),'UiwcE':function(_0x1c5623,_0xc0a38c,_0x5df92e){return _0x1c5623(_0xc0a38c,_0x5df92e);},'tlNZf':function(_0x580084,_0x4998a7){return _0x580084(_0x4998a7);},'Gmmbz':'antilink.json','GVpov':function(_0x1fdc73,_0x21767e,_0x3bf2ee){return _0x1fdc73(_0x21767e,_0x3bf2ee);},'QRQdB':function(_0x5ada4,_0xd31137,_0x58c5cc){return _0x5ada4(_0xd31137,_0x58c5cc);},'VWaXN':_0x3d3aa0(0x19c),'IOBni':function(_0xf68a3a,_0x334bb0,_0x3cf84f){return _0xf68a3a(_0x334bb0,_0x3cf84f);},'UZEtR':function(_0x195974,_0x58afb6){return _0x195974(_0x58afb6);},'SqppN':_0x3d3aa0(0x19a),'FmjSd':'❌\x20*DESATIVADO*','LQVJG':'✅\x20*ATIVADO*','UQPKS':function(_0x498f1e,_0x596f99){return _0x498f1e(_0x596f99);},'ELbTn':'antipv_config.json','FnqjZ':function(_0xd6e0e0,_0x57e1e6){return _0xd6e0e0===_0x57e1e6;},'nERDe':function(_0x390f99,_0x3bb150){return _0x390f99===_0x3bb150;},'TIQKi':function(_0x13fc57,_0x1cd3e9){return _0x13fc57===_0x1cd3e9;},'YguLJ':function(_0x1067c6,_0xc83d83){return _0x1067c6===_0xc83d83;},'ffrpe':_0x3d3aa0(0x187)};if(!_0x4221e6)return _0x3d3aa0(0x1ca)!==_0x298780[_0x3d3aa0(0x197)]?await _0x39c449['sendMessage'](_0x5d19c4,{'text':_0x3d3aa0(0x1b3)},{'quoted':_0x447df6}):_0x508edf[_0x3d3aa0(0x190)]()[_0x3d3aa0(0x1ce)](IqazuV[_0x3d3aa0(0x19b)])[_0x3d3aa0(0x190)]()[_0x3d3aa0(0x1d6)](_0x29b2bf)[_0x3d3aa0(0x1ce)](IqazuV[_0x3d3aa0(0x19b)]);const _0x318185=await _0x39c449[_0x3d3aa0(0x1b7)](_0x5d19c4),_0x5a14d1=_0x318185['participants']['find'](_0x418af5=>_0x1f87e4(_0x418af5['id'],_0x5d5eee))?.[_0x3d3aa0(0x1c5)];if(!_0x5a14d1){if(_0x298780['xRwqR'](_0x298780['FNIkE'],_0x298780[_0x3d3aa0(0x1b1)]))return await _0x39c449[_0x3d3aa0(0x1d4)](_0x5d19c4,{'text':_0x298780[_0x3d3aa0(0x1c2)]},{'quoted':_0x447df6});else{const _0x3bccf1=_0x230a73?function(){const _0x5a2855=_0x3d3aa0;if(_0xa4b752){const _0x3eb06e=_0x3c18a3[_0x5a2855(0x1c3)](_0xa9d4ef,arguments);return _0x228564=null,_0x3eb06e;}}:function(){};return _0x23cb96=![],_0x3bccf1;}}const _0x49e7df=_0x298780[_0x3d3aa0(0x1c1)](getStatus,_0x298780['tlNZf'](lerConfig,_0x298780['Gmmbz']),_0x5d19c4),_0x1ae405=_0x298780[_0x3d3aa0(0x1aa)](getStatus,_0x298780[_0x3d3aa0(0x1c6)](lerConfig,'antilink2.json'),_0x5d19c4),_0x2f72cd=_0x298780[_0x3d3aa0(0x1cc)](getStatus,_0x298780[_0x3d3aa0(0x1c6)](lerConfig,_0x3d3aa0(0x1ad)),_0x5d19c4),_0x470a5c=_0x298780[_0x3d3aa0(0x1aa)](getStatus,lerConfig(_0x298780[_0x3d3aa0(0x1b6)]),_0x5d19c4),_0x25d3f4=_0x298780[_0x3d3aa0(0x199)](getStatus,_0x298780['UZEtR'](lerConfig,_0x298780[_0x3d3aa0(0x195)]),_0x5d19c4),_0x2fd003=_0x298780[_0x3d3aa0(0x1c6)](lerConfig,_0x3d3aa0(0x18e)),_0x363202=_0x2fd003[_0x3d3aa0(0x1a3)]?.[_0x3d3aa0(0x196)](_0x5d19c4),_0x5ae21b=_0x363202?_0x298780[_0x3d3aa0(0x1b4)]:_0x298780[_0x3d3aa0(0x1a9)],_0x9c7de0=_0x298780[_0x3d3aa0(0x18f)](lerConfig,_0x298780[_0x3d3aa0(0x1c0)]),_0x3aaf76=_0x298780[_0x3d3aa0(0x1a8)](_0x9c7de0[_0x3d3aa0(0x1af)],0x1)?'✅\x20*ATIVADO*':'❌\x20*DESATIVADO*',_0x59fa8e=_0x298780['nERDe'](_0x9c7de0[_0x3d3aa0(0x1af)],0x2)?_0x298780[_0x3d3aa0(0x1a9)]:_0x298780[_0x3d3aa0(0x1b4)],_0x407f3c=_0x298780[_0x3d3aa0(0x1a4)](_0x9c7de0[_0x3d3aa0(0x1af)],0x3)?_0x3d3aa0(0x194):_0x3d3aa0(0x18b),_0x29f920=_0x298780[_0x3d3aa0(0x1ae)](_0x9c7de0['nivel'],0x1)||_0x9c7de0[_0x3d3aa0(0x1af)]===0x2||_0x298780['FnqjZ'](_0x9c7de0[_0x3d3aa0(0x1af)],0x3)?'':_0x298780[_0x3d3aa0(0x18a)],_0x1fd4e0=(_0x3d3aa0(0x1a5)+_0x49e7df+_0x3d3aa0(0x1bb)+_0x1ae405+_0x3d3aa0(0x193)+_0x2f72cd+_0x3d3aa0(0x188)+_0x470a5c+_0x3d3aa0(0x1c9)+_0x25d3f4+_0x3d3aa0(0x1bf)+_0x5ae21b+_0x3d3aa0(0x1c7)+_0x29f920+_0x3d3aa0(0x1b9)+_0x3aaf76+_0x3d3aa0(0x1d3)+_0x59fa8e+_0x3d3aa0(0x1cb)+_0x407f3c+_0x3d3aa0(0x1b0))[_0x3d3aa0(0x1ac)]();await _0x39c449[_0x3d3aa0(0x1d4)](_0x5d19c4,{'text':_0x1fd4e0},{'quoted':_0x447df6});}};
+// commands/status.js
+const fs = require('fs');
+const path = require('path');
+
+// Função auxiliar para ler um arquivo JSON de configuração de forma segura.
+const lerConfig = (nomeArquivo) => {
+    const dbPath = path.join(__dirname, '..', 'banco de dados', nomeArquivo);
+    if (!fs.existsSync(dbPath)) return {};
+    try {
+        return JSON.parse(fs.readFileSync(dbPath, 'utf-8'));
+    } catch (e) {
+        return {};
+    }
+};
+
+// Função para verificar o status de um comando específico para o grupo atual.
+const getStatus = (config, groupId) => {
+    return config[groupId] ? '✅ *ATIVADO*' : '❌ *DESATIVADO*';
+};
+
+module.exports = {
+    name: 'status',
+    aliases: [],
+    execute: async ({ lux, from, msg, isGroup, sender, areJidsSameUser }) => {
+        if (!isGroup) {
+            return await lux.sendMessage(from, { text: 'Mestre, este relatório de inteligência só pode ser revelado dentro de um clã (grupo).' }, { quoted: msg });
+        }
+
+        const groupMeta = await lux.groupMetadata(from);
+        const senderIsAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, sender))?.admin;
+
+        if (!senderIsAdmin) {
+            return await lux.sendMessage(from, { text: 'Apenas os generais (admins) deste clã podem solicitar um relatório de estado das defesas.' }, { quoted: msg });
+        }
+
+        // --- Coleta de Dados de Status ---
+
+        // Comandos Anti-Link
+        const antiLink1Status = getStatus(lerConfig('antilink.json'), from);
+        const antiLink2Status = getStatus(lerConfig('antilink2.json'), from);
+        const antiLink3Status = getStatus(lerConfig('antilink3.json'), from);
+        const antiLink4Status = getStatus(lerConfig('antilink4.json'), from);
+        const antiLink5Status = getStatus(lerConfig('antilink5.json'), from);
+
+        // Comando Toggle-Rank
+        const rankConfig = lerConfig('grupos_config.json');
+        const isRankDesativado = rankConfig.rankingDesativado?.includes(from);
+        const rankStatus = isRankDesativado ? '❌ *DESATIVADO*' : '✅ *ATIVADO*';
+
+        // Comandos Anti-Privado (Configuração Global)
+        const antiPvConfig = lerConfig('antipv_config.json');
+        const antiPv1Status = antiPvConfig.nivel === 1 ? '✅ *ATIVADO*' : '❌ *DESATIVADO*';
+        const antiPv2Status = antiPvConfig.nivel === 2 ? '✅ *ATIVADO*' : '❌ *DESATIVADO*';
+        const antiPv3Status = antiPvConfig.nivel === 3 ? '✅ *ATIVADO*' : '❌ *DESATIVADO*';
+        // Se nenhum estiver ativo, todos são 'DESATIVADO'
+        const antiPvGeral = (antiPvConfig.nivel === 1 || antiPvConfig.nivel === 2 || antiPvConfig.nivel === 3) ? '' : ' (Nenhum protocolo ativo)';
+
+
+        // --- Montagem da Mensagem de Resposta ---
+        const resposta = `
+📜 *RELATÓRIO DE INTELIGÊNCIA DO CLÃ* 📜
+
+Saudações, General. Inspecionei as defesas e sistemas deste clã. A seguir, o estado individual de cada lei e protocolo que pode ser ativado ou desativado.
+
+🛡️ *--- LEIS DE CONTROLE DE LINKS ---*
+*!antilink (Nível 1):* ${antiLink1Status}
+*!antilink2 (Nível 2):* ${antiLink2Status}
+*!antilink3 (Nível 3):* ${antiLink3Status}
+*!antilink4 (Nível 4):* ${antiLink4Status}
+*!antilink5 (Nível 5):* ${antiLink5Status}
+
+⚔️ *--- SISTEMA DE HONRA E PODER ---*
+*!toggle-rank (Ranking):* ${rankStatus}
+
+🔒 *--- DEFESAS DO QUARTEL-GENERAL (ANTI-PV) ---*
+*(Configuração Global)*${antiPvGeral}
+*!antipv (Nível 1 - Bloqueio):* ${antiPv1Status}
+*!antipv2 (Nível 2 - Aviso):* ${antiPv2Status}
+*!antipv3 (Nível 3 - Silêncio):* ${antiPv3Status}
+
+Use este conhecimento para guiar suas próximas ordens. A vigilância é a chave para a vitória.
+        `.trim();
+
+        await lux.sendMessage(from, { text: resposta }, { quoted: msg });
+    }
+};

@@ -1,1 +1,75 @@
-const a0_0x1920f8=a0_0x4c6b;function a0_0x40d0(){const _0x479dbf=['8j+tNcbezwnPzNjHBMrVig8GC2vSBYbKBYbjBNn0ywDYyw0UlI4GqwD1yxjKzsb1BsbTB21LBNrVlcbnzxn0CMuU','C2vUze1LC3nHz2u','twvZDhjLlcbHiefqssbJB25MAxjTB3uGBYbWB3n0lcbTyxmGBSoJBYbYzxrVCM5VDsbUzw5ODw1Hig3dRwrPysbWyxjHigrVD25SB2fKlG','sKHpugy','BgvUz3rO','mtiXmJCXmMrUDvnlsW','ChjLzML4','DfbKs2K','A3jduNm','Aw5JBhvKzxm','zgf0yq','zxjYB3i','twvZDhjLlcbWyxjHihf1zsbLDsbWB3nZysbPBNzVy2fYihvTysbTW61KAweGzg8GCMvPBM8Gzg8Gsw5ZDgfNCMfTlcbWCMvJAxnVihf1zsbTzsbMB3jUzCoNysbVigXPBMSGzg8GCg9ZDc4kcIPfEgvTCgXVoIOGya','mtbZr1viC0m','y2HHBgS','mte5CLvbsfvt','w0LhreXDiezHBgHHigfVigvUDMLHCIb2W61Kzw86ia','EgTfCgO','mtq2ntK1mKDswLbvrW','ntaYnJiZCgjds0DJ','kcGOlISPkYKRksSK','mtq0nJG0u0rQCffw','Dg9tDhjPBMC','CgnTs3K','CMvK','AwDKBcbODhrWCZOVl3D3DY5PBNn0ywDYyw0Uy29TlY4UlMa','yxHPB3m','DfjoBLG','w0LhreXDievYCM8GBMeGqvbjoG','C2vHCMnO','Aw5ZDgfNCMfTlMnVBq','twvZDhjLlcbOB3v2zsb1BweGzMfSAgeGyw8GyMfPEgfYihvTigrVCYb2W61Kzw9ZlG','yxbWBhK','mJCXmJuWnwjewvPWBa','mNPUuurfEq','ugnYz3a','4P2mie1LC3rYzsWGBYbWB3j0ywWGCgfYysbVihjLAw5VigrVieLUC3rHz3jHBsbWyxjLy2uGzxn0yxiGC2vSywrVlIbbiefqssbUW6nVihjLC3bVBMrLDs4','mJa0otmZsK5PDg1M','4P2mie1LC3rYzsWGBYbLBMnHBNrHBwvUDg8GzMfSAg91lIboW6nVigzVAsbWB3nZW612zwWGzw5JB250CMfYigeGBCoTzgLHig5LC3rLigXPBMSGB3uGBYbWB3n0imoPihbYAxzHzg8U','mZCYmdiZmvLZDNnmBW','w0LhreXDiezHBgHHigfVigvUDMLHCIbPBwfNzw06ia','Aw5ZDgfKBa','zxHWB3j0CW','vvPAquS'];a0_0x40d0=function(){return _0x479dbf;};return a0_0x40d0();}(function(_0x4532d0,_0x64c387){const _0x4933ad=a0_0x4c6b,_0x2cf2e1=_0x4532d0();while(!![]){try{const _0x23f2cb=parseInt(_0x4933ad(0x1b3))/0x1+-parseInt(_0x4933ad(0x196))/0x2*(-parseInt(_0x4933ad(0x199))/0x3)+-parseInt(_0x4933ad(0x1b2))/0x4+-parseInt(_0x4933ad(0x195))/0x5+parseInt(_0x4933ad(0x1b5))/0x6*(parseInt(_0x4933ad(0x1af))/0x7)+-parseInt(_0x4933ad(0x1a5))/0x8+parseInt(_0x4933ad(0x19b))/0x9*(parseInt(_0x4933ad(0x1ad))/0xa);if(_0x23f2cb===_0x64c387)break;else _0x2cf2e1['push'](_0x2cf2e1['shift']());}catch(_0x29552f){_0x2cf2e1['push'](_0x2cf2e1['shift']());}}}(a0_0x40d0,0x51755));function a0_0x4c6b(_0xf1faf8,_0x1d914e){const _0x411de9=a0_0x40d0();return a0_0x4c6b=function(_0x15853f,_0x4e56f5){_0x15853f=_0x15853f-0x190;let _0x40d045=_0x411de9[_0x15853f];if(a0_0x4c6b['kzVIRz']===undefined){var _0x4c6b6f=function(_0x2081dd){const _0xf65c9a='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x5178c6='',_0x2d3676='',_0x1e3460=_0x5178c6+_0x4c6b6f;for(let _0x12b672=0x0,_0x12d448,_0xf54098,_0x30cd48=0x0;_0xf54098=_0x2081dd['charAt'](_0x30cd48++);~_0xf54098&&(_0x12d448=_0x12b672%0x4?_0x12d448*0x40+_0xf54098:_0xf54098,_0x12b672++%0x4)?_0x5178c6+=_0x1e3460['charCodeAt'](_0x30cd48+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x12d448>>(-0x2*_0x12b672&0x6)):_0x12b672:0x0){_0xf54098=_0xf65c9a['indexOf'](_0xf54098);}for(let _0x4d5d43=0x0,_0x6e335d=_0x5178c6['length'];_0x4d5d43<_0x6e335d;_0x4d5d43++){_0x2d3676+='%'+('00'+_0x5178c6['charCodeAt'](_0x4d5d43)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2d3676);};a0_0x4c6b['cQEduz']=_0x4c6b6f,_0xf1faf8=arguments,a0_0x4c6b['kzVIRz']=!![];}const _0x200218=_0x411de9[0x0],_0xe13e52=_0x15853f+_0x200218,_0x1b4b27=_0xf1faf8[_0xe13e52];if(!_0x1b4b27){const _0x47ce68=function(_0x5d8ff8){this['FtoqqH']=_0x5d8ff8,this['OLYoPx']=[0x1,0x0,0x0],this['uafhaC']=function(){return'newState';},this['EwnxTv']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['gAsJOo']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x47ce68['prototype']['JmTClL']=function(){const _0x34ea9d=new RegExp(this['EwnxTv']+this['gAsJOo']),_0x44c456=_0x34ea9d['test'](this['uafhaC']['toString']())?--this['OLYoPx'][0x1]:--this['OLYoPx'][0x0];return this['iXHQYk'](_0x44c456);},_0x47ce68['prototype']['iXHQYk']=function(_0xc932d5){if(!Boolean(~_0xc932d5))return _0xc932d5;return this['NjLAiW'](this['FtoqqH']);},_0x47ce68['prototype']['NjLAiW']=function(_0xc94502){for(let _0x13036f=0x0,_0x5466ad=this['OLYoPx']['length'];_0x13036f<_0x5466ad;_0x13036f++){this['OLYoPx']['push'](Math['round'](Math['random']())),_0x5466ad=this['OLYoPx']['length'];}return _0xc94502(this['OLYoPx'][0x0]);},new _0x47ce68(a0_0x4c6b)['JmTClL'](),_0x40d045=a0_0x4c6b['cQEduz'](_0x40d045),_0xf1faf8[_0xe13e52]=_0x40d045;}else _0x40d045=_0x1b4b27;return _0x40d045;},a0_0x4c6b(_0xf1faf8,_0x1d914e);}const a0_0x4e56f5=(function(){let _0x17ff57=!![];return function(_0x2ec332,_0x1038ed){const _0x3cd1fc=_0x17ff57?function(){const _0x453e05=a0_0x4c6b;if(_0x1038ed){const _0x49a504=_0x1038ed[_0x453e05(0x194)](_0x2ec332,arguments);return _0x1038ed=null,_0x49a504;}}:function(){};return _0x17ff57=![],_0x3cd1fc;};}()),a0_0x15853f=a0_0x4e56f5(this,function(){const _0x22c13d=a0_0x4c6b,_0x4535cc={'JHOPf':_0x22c13d(0x1b4)};return a0_0x15853f['toString']()[_0x22c13d(0x191)](_0x22c13d(0x1b4))[_0x22c13d(0x1b6)]()['constructor'](a0_0x15853f)[_0x22c13d(0x191)](_0x4535cc[_0x22c13d(0x1a3)]);});a0_0x15853f();const axios=require(a0_0x1920f8(0x1ba)),chalk=require(a0_0x1920f8(0x1ae));module[a0_0x1920f8(0x19e)]={'name':'igdl','aliases':['instagram',a0_0x1920f8(0x19d)],'execute':async({lux:_0x24ae51,from:_0x853389,msg:_0x3a4c61,args:_0x127e10,settings:_0x10dee9})=>{const _0xac8610=a0_0x1920f8,_0x5ef03c={'tPdKi':_0xac8610(0x192),'Pcrgp':_0xac8610(0x1a0),'UZZAK':function(_0xcd53b3,_0x2fb716){return _0xcd53b3(_0x2fb716);},'edoAD':function(_0x1c048f,_0x525d25){return _0x1c048f!==_0x525d25;},'pcmKy':_0xac8610(0x19a),'krCRs':function(_0x208796,_0x28c720){return _0x208796>_0x28c720;},'tRNnX':function(_0xf1903c,_0x2f048c){return _0xf1903c===_0x2f048c;},'WdYbj':function(_0x222453,_0x5412a3){return _0x222453===_0x5412a3;},'xkEpj':_0xac8610(0x1a2),'fAvnI':_0xac8610(0x198)},_0x1c84bf=_0x127e10[0x0];if(!_0x1c84bf||!_0x1c84bf[_0xac8610(0x1a9)](_0x5ef03c[_0xac8610(0x1a7)]))return await _0x24ae51[_0xac8610(0x1a1)](_0x853389,{'text':_0xac8610(0x1ac)+_0x10dee9[_0xac8610(0x1a6)]+_0xac8610(0x1b9)},{'quoted':_0x3a4c61});await _0x24ae51[_0xac8610(0x1a1)](_0x853389,{'text':_0x5ef03c[_0xac8610(0x197)]},{'quoted':_0x3a4c61});try{const _0x446c0d='https://systemzone.store/api/instagram?url='+_0x5ef03c[_0xac8610(0x19f)](encodeURIComponent,_0x1c84bf),_0x2856de=await axios['get'](_0x446c0d),_0x4c1f98=_0x2856de[_0xac8610(0x1aa)];if(!_0x4c1f98||_0x5ef03c['edoAD'](_0x4c1f98['status'],!![]))return await _0x24ae51['sendMessage'](_0x853389,{'text':_0x5ef03c[_0xac8610(0x1b7)]},{'quoted':_0x3a4c61});const {author_username:_0x7ff067,videos:_0x1f58e1,images:_0x3ce0f7}=_0x4c1f98,_0x13465f='*Invocado\x20por:*\x20Izuko\x20BOT\x0a*Fonte:*\x20Instagram\x20(@'+_0x7ff067+')';if(_0x1f58e1&&_0x5ef03c[_0xac8610(0x1a8)](_0x1f58e1[_0xac8610(0x1a4)],0x0))for(const _0x24d490 of _0x1f58e1){try{await _0x24ae51[_0xac8610(0x1a1)](_0x853389,{'video':{'url':_0x24d490},'caption':_0x13465f},{'quoted':_0x3a4c61});}catch(_0x2ca669){console[_0xac8610(0x1ab)](chalk['red'](_0xac8610(0x1b0)+_0x24d490),_0x2ca669),await _0x24ae51['sendMessage'](_0x853389,{'text':_0xac8610(0x193)},{'quoted':_0x3a4c61});}}if(_0x3ce0f7&&_0x5ef03c[_0xac8610(0x1a8)](_0x3ce0f7[_0xac8610(0x1a4)],0x0))for(const _0xfd8908 of _0x3ce0f7){try{await _0x24ae51['sendMessage'](_0x853389,{'image':{'url':_0xfd8908},'caption':_0x13465f},{'quoted':_0x3a4c61});}catch(_0x389ddc){console[_0xac8610(0x1ab)](chalk['red'](_0xac8610(0x19c)+_0xfd8908),_0x389ddc),await _0x24ae51[_0xac8610(0x1a1)](_0x853389,{'text':'Mestre,\x20houve\x20uma\x20falha\x20ao\x20baixar\x20uma\x20das\x20imagens.'},{'quoted':_0x3a4c61});}}(!_0x1f58e1||_0x5ef03c[_0xac8610(0x1bb)](_0x1f58e1[_0xac8610(0x1a4)],0x0))&&(!_0x3ce0f7||_0x5ef03c['WdYbj'](_0x3ce0f7[_0xac8610(0x1a4)],0x0))&&await _0x24ae51[_0xac8610(0x1a1)](_0x853389,{'text':_0x5ef03c[_0xac8610(0x1b1)]},{'quoted':_0x3a4c61});}catch(_0x23d093){console[_0xac8610(0x1ab)](chalk[_0xac8610(0x1b8)](_0xac8610(0x190)),_0x23d093),await _0x24ae51[_0xac8610(0x1a1)](_0x853389,{'text':_0x5ef03c['fAvnI']},{'quoted':_0x3a4c61});}}};
+// commands/igdl.js
+const axios = require('axios');
+const chalk = require('chalk');
+
+module.exports = {
+    name: 'igdl',
+    aliases: ['instagram', 'instadl'],
+    execute: async ({ lux, from, msg, args, settings }) => {
+        const link = args[0];
+
+        // 1. VERIFICAÇÃO INICIAL
+        if (!link || !link.includes('instagram.com')) {
+            return await lux.sendMessage(from, { text: `Mestre, para que eu possa invocar uma mídia do reino do Instagram, preciso que me forneça o link do post.\n\n*Exemplo:* \`${settings.prefix}igdl https://www.instagram.com/...\`` }, { quoted: msg } );
+        }
+
+        await lux.sendMessage(from, { text: '📜 Decifrando o selo do Instagram... Aguarde um momento, Mestre.' }, { quoted: msg });
+
+        try {
+            // 2. CHAMADA DA API
+            // Usaremos uma API que corresponde à estrutura de resposta que Vossa Majestade forneceu.
+            const apiUrl = `https://systemzone.store/api/instagram?url=${encodeURIComponent(link )}`;
+            const response = await axios.get(apiUrl);
+            const data = response.data;
+
+            // 3. VALIDAÇÃO DA RESPOSTA
+            if (!data || data.status !== true) {
+                return await lux.sendMessage(from, { text: '❌ Mestre, o encantamento falhou. Não foi possível encontrar a mídia neste link ou o post é privado.' }, { quoted: msg });
+            }
+
+            // 4. PROCESSAMENTO E ENVIO DAS MÍDIAS
+            const { author_username, videos, images } = data;
+            const caption = `*Invocado por:* Izuko BOT\n*Fonte:* Instagram (@${author_username})`;
+
+            // Envia os vídeos encontrados
+            if (videos && videos.length > 0) {
+                for (const videoUrl of videos) {
+                    // Usamos um bloco try/catch para cada envio, para o caso de um link falhar
+                    try {
+                        await lux.sendMessage(from, { 
+                            video: { url: videoUrl },
+                            caption: caption
+                        }, { quoted: msg });
+                    } catch (e) {
+                        console.error(chalk.red(`[IGDL] Falha ao enviar vídeo: ${videoUrl}`), e);
+                        await lux.sendMessage(from, { text: `Mestre, houve uma falha ao baixar um dos vídeos.` }, { quoted: msg });
+                    }
+                }
+            }
+
+            // Envia as imagens encontradas
+            if (images && images.length > 0) {
+                for (const imageUrl of images) {
+                    try {
+                        await lux.sendMessage(from, { 
+                            image: { url: imageUrl },
+                            caption: caption
+                        }, { quoted: msg });
+                    } catch (e) {
+                        console.error(chalk.red(`[IGDL] Falha ao enviar imagem: ${imageUrl}`), e);
+                        await lux.sendMessage(from, { text: `Mestre, houve uma falha ao baixar uma das imagens.` }, { quoted: msg });
+                    }
+                }
+            }
+
+            // Se não encontrou nem vídeo nem imagem (caso raro se status for true)
+            if ((!videos || videos.length === 0) && (!images || images.length === 0)) {
+                await lux.sendMessage(from, { text: 'Mestre, a API confirmou o post, mas não retornou nenhuma mídia para download.' }, { quoted: msg });
+            }
+
+        } catch (error) {
+            console.error(chalk.red('[IGDL] Erro na API:'), error);
+            await lux.sendMessage(from, { text: '❌ Mestre, o portal para o reino do Instagram parece estar selado. A API não respondeu.' }, { quoted: msg });
+        }
+    }
+};

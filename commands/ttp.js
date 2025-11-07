@@ -1,1 +1,28 @@
-function a0_0x4a06(){const _0x51b97b=['mJyXmdvfs3PPExi','DhrW','twvZDhjLlcbVihjPDhvHBcbKzsbMB3jQysbMywXOB3uUie8GCg9KzxiGzgeGqvbjigv4DgvYBMeGCg9KzsbLC3rHCIbPBNn0W6f2zwWGB3uGBYb0zxH0BYddQsbJB21WBgv4BYbKzw1HAxmU','AM9PBG','mZG3mZmYAvfKuNDV','mZaWndGYmw5yyM56DW','mZqXote5ywHWsNnr','nJHUrvjNANK','Dg9tDhjPBMC','ogjguxPsCq','t0fUv1e','yxbWBhK','mtaYnJi0mfz3r1fhuW','kcGOlISPkYKRksSK','mJGZmda1sfjvvMDi','mte2mdeXme16vKLJAW','C2vUze1LC3nHz2u','C2vHCMnO'];a0_0x4a06=function(){return _0x51b97b;};return a0_0x4a06();}function a0_0x3577(_0x3a7ea1,_0x373edb){const _0x1c418e=a0_0x4a06();return a0_0x3577=function(_0x112fd4,_0x3bb56b){_0x112fd4=_0x112fd4-0xf9;let _0x4a0607=_0x1c418e[_0x112fd4];if(a0_0x3577['VzTmlq']===undefined){var _0x3577f8=function(_0x3b988c){const _0x3d0e88='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x30ae56='',_0x543bdc='',_0x136387=_0x30ae56+_0x3577f8;for(let _0x47a721=0x0,_0x3aa1ab,_0x39380e,_0x74ab43=0x0;_0x39380e=_0x3b988c['charAt'](_0x74ab43++);~_0x39380e&&(_0x3aa1ab=_0x47a721%0x4?_0x3aa1ab*0x40+_0x39380e:_0x39380e,_0x47a721++%0x4)?_0x30ae56+=_0x136387['charCodeAt'](_0x74ab43+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x3aa1ab>>(-0x2*_0x47a721&0x6)):_0x47a721:0x0){_0x39380e=_0x3d0e88['indexOf'](_0x39380e);}for(let _0x315458=0x0,_0xb723e6=_0x30ae56['length'];_0x315458<_0xb723e6;_0x315458++){_0x543bdc+='%'+('00'+_0x30ae56['charCodeAt'](_0x315458)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x543bdc);};a0_0x3577['CIPzKb']=_0x3577f8,_0x3a7ea1=arguments,a0_0x3577['VzTmlq']=!![];}const _0x1a38a9=_0x1c418e[0x0],_0x50e00b=_0x112fd4+_0x1a38a9,_0x823404=_0x3a7ea1[_0x50e00b];if(!_0x823404){const _0x383dcf=function(_0x26964f){this['SAnShh']=_0x26964f,this['nkmDcf']=[0x1,0x0,0x0],this['maMPEs']=function(){return'newState';},this['LphDoT']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['PRATZL']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x383dcf['prototype']['VmIThi']=function(){const _0x1d767e=new RegExp(this['LphDoT']+this['PRATZL']),_0x477dbc=_0x1d767e['test'](this['maMPEs']['toString']())?--this['nkmDcf'][0x1]:--this['nkmDcf'][0x0];return this['pcRqnk'](_0x477dbc);},_0x383dcf['prototype']['pcRqnk']=function(_0x13bc2b){if(!Boolean(~_0x13bc2b))return _0x13bc2b;return this['pAjGXJ'](this['SAnShh']);},_0x383dcf['prototype']['pAjGXJ']=function(_0x2ff248){for(let _0x5aae7b=0x0,_0x33abf8=this['nkmDcf']['length'];_0x5aae7b<_0x33abf8;_0x5aae7b++){this['nkmDcf']['push'](Math['round'](Math['random']())),_0x33abf8=this['nkmDcf']['length'];}return _0x2ff248(this['nkmDcf'][0x0]);},new _0x383dcf(a0_0x3577)['VmIThi'](),_0x4a0607=a0_0x3577['CIPzKb'](_0x4a0607),_0x3a7ea1[_0x50e00b]=_0x4a0607;}else _0x4a0607=_0x823404;return _0x4a0607;},a0_0x3577(_0x3a7ea1,_0x373edb);}const a0_0x2bbbbe=a0_0x3577;(function(_0x2185c2,_0x3d6182){const _0x1ed48=a0_0x3577,_0x372ea1=_0x2185c2();while(!![]){try{const _0x24f7e0=parseInt(_0x1ed48(0xff))/0x1+parseInt(_0x1ed48(0x107))/0x2+parseInt(_0x1ed48(0x109))/0x3+parseInt(_0x1ed48(0x10a))/0x4*(-parseInt(_0x1ed48(0x103))/0x5)+parseInt(_0x1ed48(0xfd))/0x6+parseInt(_0x1ed48(0x100))/0x7*(-parseInt(_0x1ed48(0xfa))/0x8)+-parseInt(_0x1ed48(0x108))/0x9;if(_0x24f7e0===_0x3d6182)break;else _0x372ea1['push'](_0x372ea1['shift']());}catch(_0x101cbf){_0x372ea1['push'](_0x372ea1['shift']());}}}(a0_0x4a06,0x2a510));const a0_0x3bb56b=(function(){let _0x5ad90f=!![];return function(_0x3fc706,_0x3f22c0){const _0x1c455c=_0x5ad90f?function(){const _0x189b2d=a0_0x3577;if(_0x3f22c0){const _0x1e93a8=_0x3f22c0[_0x189b2d(0xfc)](_0x3fc706,arguments);return _0x3f22c0=null,_0x1e93a8;}}:function(){};return _0x5ad90f=![],_0x1c455c;};}()),a0_0x112fd4=a0_0x3bb56b(this,function(){const _0x5497af=a0_0x3577,_0xaca642={'OAnWQ':_0x5497af(0xfe)};return a0_0x112fd4[_0x5497af(0xf9)]()[_0x5497af(0x102)](_0xaca642[_0x5497af(0xfb)])[_0x5497af(0xf9)]()['constructor'](a0_0x112fd4)[_0x5497af(0x102)](_0xaca642[_0x5497af(0xfb)]);});a0_0x112fd4(),module['exports']={'name':a0_0x2bbbbe(0x104),'execute':async({lux:_0x5b7f7f,msg:_0x33f85b,from:_0x51e58e,args:_0x233d68})=>{const _0x437f3e=a0_0x2bbbbe,_0x23c273={'IgUxu':'Erro\x20no\x20jutsu\x20\x27ttp\x27:'},_0x1eeffd=_0x233d68[_0x437f3e(0x106)]('\x20');if(!_0x1eeffd)return await _0x5b7f7f['sendMessage'](_0x51e58e,{'text':'Mestre,\x20preciso\x20das\x20palavras\x20que\x20devo\x20forjar\x20em\x20arte.'},{'quoted':_0x33f85b});const _0x26e642='matt12226',_0x34c999='https://tedzinho.online/api/ttp/ttp?apikey='+_0x26e642+'&texto='+encodeURIComponent(_0x1eeffd);try{await _0x5b7f7f[_0x437f3e(0x101)](_0x51e58e,{'sticker':{'url':_0x34c999}},{'quoted':_0x33f85b});}catch(_0x238484){console['error'](_0x23c273['IgUxu'],_0x238484),await _0x5b7f7f[_0x437f3e(0x101)](_0x51e58e,{'text':_0x437f3e(0x105)},{'quoted':_0x33f85b});}}};
+// Salvar como: commands/ttp.js
+module.exports = {
+    name: 'ttp',
+    // Sem aliases, conforme ordenado.
+
+    execute: async ({ lux, msg, from, args }) => {
+        const texto = args.join(' ');
+
+        if (!texto) {
+            return await lux.sendMessage(from, { text: 'Mestre, preciso das palavras que devo forjar em arte.' }, { quoted: msg });
+        }
+
+        // A chave da API selada diretamente no jutsu.
+        const API_KEY_TED = 'matt12226';
+        const url = `https://tedzinho.online/api/ttp/ttp?apikey=${API_KEY_TED}&texto=${encodeURIComponent(texto )}`;
+
+        try {
+            // A mesma lógica direta e eficiente do 'attp' é aplicada aqui.
+            await lux.sendMessage(from, { 
+                sticker: { url: url }
+            }, { quoted: msg });
+
+        } catch (error) {
+            console.error("Erro no jutsu 'ttp':", error);
+            await lux.sendMessage(from, { text: 'Mestre, o ritual de forja falhou. O poder da API externa pode estar instável ou o texto é complexo demais.' }, { quoted: msg });
+        }
+    }
+};

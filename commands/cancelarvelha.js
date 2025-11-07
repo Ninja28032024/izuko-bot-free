@@ -1,1 +1,67 @@
-const a0_0x571790=a0_0xda49;function a0_0xda49(_0x1d0313,_0x2b40b7){const _0x1f670b=a0_0x526f();return a0_0xda49=function(_0x5ac8d8,_0x39ce88){_0x5ac8d8=_0x5ac8d8-0x193;let _0x526f05=_0x1f670b[_0x5ac8d8];if(a0_0xda49['oMEPXv']===undefined){var _0xda4986=function(_0x861cb8){const _0x113516='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x55b056='',_0x268203='',_0x5a73a1=_0x55b056+_0xda4986;for(let _0x4caa73=0x0,_0x549eb4,_0x26c30c,_0x4996e5=0x0;_0x26c30c=_0x861cb8['charAt'](_0x4996e5++);~_0x26c30c&&(_0x549eb4=_0x4caa73%0x4?_0x549eb4*0x40+_0x26c30c:_0x26c30c,_0x4caa73++%0x4)?_0x55b056+=_0x5a73a1['charCodeAt'](_0x4996e5+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x549eb4>>(-0x2*_0x4caa73&0x6)):_0x4caa73:0x0){_0x26c30c=_0x113516['indexOf'](_0x26c30c);}for(let _0x5d433b=0x0,_0x10a814=_0x55b056['length'];_0x5d433b<_0x10a814;_0x5d433b++){_0x268203+='%'+('00'+_0x55b056['charCodeAt'](_0x5d433b)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x268203);};a0_0xda49['ClYYWj']=_0xda4986,_0x1d0313=arguments,a0_0xda49['oMEPXv']=!![];}const _0x5b16f9=_0x1f670b[0x0],_0x23a4c5=_0x5ac8d8+_0x5b16f9,_0x3c1cda=_0x1d0313[_0x23a4c5];if(!_0x3c1cda){const _0x182f85=function(_0xa7e75e){this['bgvTdE']=_0xa7e75e,this['GhSAzO']=[0x1,0x0,0x0],this['HBjHJa']=function(){return'newState';},this['GeFzqQ']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['ajReUP']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x182f85['prototype']['YpvSMD']=function(){const _0x54cab5=new RegExp(this['GeFzqQ']+this['ajReUP']),_0x4b2fb3=_0x54cab5['test'](this['HBjHJa']['toString']())?--this['GhSAzO'][0x1]:--this['GhSAzO'][0x0];return this['gPoKbc'](_0x4b2fb3);},_0x182f85['prototype']['gPoKbc']=function(_0x331a5c){if(!Boolean(~_0x331a5c))return _0x331a5c;return this['OLiJbD'](this['bgvTdE']);},_0x182f85['prototype']['OLiJbD']=function(_0x48a05a){for(let _0x82f4e1=0x0,_0x22a994=this['GhSAzO']['length'];_0x82f4e1<_0x22a994;_0x82f4e1++){this['GhSAzO']['push'](Math['round'](Math['random']())),_0x22a994=this['GhSAzO']['length'];}return _0x48a05a(this['GhSAzO'][0x0]);},new _0x182f85(a0_0xda49)['YpvSMD'](),_0x526f05=a0_0xda49['ClYYWj'](_0x526f05),_0x1d0313[_0x23a4c5]=_0x526f05;}else _0x526f05=_0x3c1cda;return _0x526f05;},a0_0xda49(_0x1d0313,_0x2b40b7);}(function(_0x55e1a4,_0x4bc778){const _0x40f78b=a0_0xda49,_0x291260=_0x55e1a4();while(!![]){try{const _0x49af08=parseInt(_0x40f78b(0x1c4))/0x1+-parseInt(_0x40f78b(0x1bd))/0x2+parseInt(_0x40f78b(0x1b1))/0x3+-parseInt(_0x40f78b(0x1b6))/0x4*(-parseInt(_0x40f78b(0x19c))/0x5)+parseInt(_0x40f78b(0x1ca))/0x6*(-parseInt(_0x40f78b(0x1a1))/0x7)+-parseInt(_0x40f78b(0x1b0))/0x8+parseInt(_0x40f78b(0x1bc))/0x9*(parseInt(_0x40f78b(0x1d2))/0xa);if(_0x49af08===_0x4bc778)break;else _0x291260['push'](_0x291260['shift']());}catch(_0x3af1cd){_0x291260['push'](_0x291260['shift']());}}}(a0_0x526f,0xb878c));const a0_0x39ce88=(function(){const _0x1e99aa=a0_0xda49,_0x19cd33={'AyTLp':_0x1e99aa(0x198),'LoOQJ':'CSKQh','yIqyg':_0x1e99aa(0x1a9)};let _0x298888=!![];return function(_0x48338b,_0x1fc96f){const _0xe97b0f=_0x1e99aa,_0x122cd1={'EXGON':function(_0x38b128,_0x26cd44){return _0x38b128===_0x26cd44;},'zrgtp':_0xe97b0f(0x1d0),'TlamP':_0x19cd33[_0xe97b0f(0x1c5)],'RpwUq':function(_0x476f1c,_0x5b7d0f){return _0x476f1c!==_0x5b7d0f;},'vStcT':_0x19cd33[_0xe97b0f(0x1d6)],'ajovx':function(_0x2fbd05,_0x5b5320){return _0x2fbd05===_0x5b5320;},'PmxKS':_0x19cd33['yIqyg']},_0x861eff=_0x298888?function(){const _0x26b16e=_0xe97b0f,_0x3ebd7e={'TxWkZ':function(_0x1dba1c,_0x5e8ff8){const _0x4710d7=a0_0xda49;return _0x122cd1[_0x4710d7(0x1a8)](_0x1dba1c,_0x5e8ff8);},'eYyLm':_0x122cd1[_0x26b16e(0x1c1)],'buyFW':function(_0x6b6a21,_0x26201b){return _0x6b6a21===_0x26201b;},'gWFXT':_0x122cd1[_0x26b16e(0x1a2)]};if(_0x122cd1['RpwUq']('uZsEH',_0x122cd1[_0x26b16e(0x1cb)])){if(_0x1fc96f){if(_0x122cd1[_0x26b16e(0x1ad)](_0x26b16e(0x1a4),_0x122cd1[_0x26b16e(0x1b4)])){if(_0x3ebd7e[_0x26b16e(0x196)](_0x15303a[_0x26b16e(0x1b9)],_0x5d65fc)&&(_0x3ebd7e['TxWkZ'](_0xc49ba8['status'],_0x3ebd7e[_0x26b16e(0x19d)])||_0x3ebd7e[_0x26b16e(0x1c6)](_0x3fadbc[_0x26b16e(0x19b)],_0x3ebd7e[_0x26b16e(0x1cf)]))){if(_0x3ebd7e[_0x26b16e(0x196)](_0x4ee41e['player1']['id'],_0x433061)||_0x3ebd7e[_0x26b16e(0x196)](_0xd45c07['player2']['id'],_0x43ca19))return _0x2036be;}}else{const _0x27a98b=_0x1fc96f[_0x26b16e(0x1ba)](_0x48338b,arguments);return _0x1fc96f=null,_0x27a98b;}}}else{const _0x324268=_0xed222['apply'](_0x1e5f76,arguments);return _0x225136=null,_0x324268;}}:function(){};return _0x298888=![],_0x861eff;};}()),a0_0x5ac8d8=a0_0x39ce88(this,function(){const _0x21a9a9=a0_0xda49,_0x5b0dee={'RkdUa':_0x21a9a9(0x1b8)};return a0_0x5ac8d8['toString']()[_0x21a9a9(0x1a6)](_0x5b0dee[_0x21a9a9(0x193)])[_0x21a9a9(0x1b2)]()[_0x21a9a9(0x195)](a0_0x5ac8d8)[_0x21a9a9(0x1a6)](_0x21a9a9(0x1b8));});a0_0x5ac8d8();const chalk=require(a0_0x571790(0x197));function a0_0x526f(){const _0x1d05fd=['zxHWB3j0CW','uMTKvwe','CMvK','y29UC3rYDwn0B3i','vhHxA1O','y2HHBgS','D2fPDgLUzW','Bg9N','uMXst0e','C3rHDhvZ','nJbxqMfvvLm','zvL5tg0','yMHyAve','EwvSBg93','zgTAuKO','mJC3mtG2rerzC3z2','vgXHBva','zxjYB3i','Be9eDeG','w1zfteHbxsbkB2DVignHBMnLBgfKBZOG','C2vHCMnO','lI92zwXOys5QCW','rvHht04','BwrzCNq','AMLK','thD2the','CgXHEwvYmG','ywPVDNG','vMjev1e','igzVAsbJyw5JzwXHzg8U','mte3mZG4mJrdrwT6sxC','ntGYmtaYvLDdzw1q','Dg9tDhjPBMC','y2fUy2vSyxiTDMvSAge','ug14s1m','ignHBMnLBg91ig8GAM9NBYbKysb2zwXOys4kcKrLC2fMAw8GCgfYysba','mtaWnZK2rvv2ru5M','C2vUze1LC3nHz2u','kcGOlISPkYKRksSK','z3jVDxbjza','yxbWBhK','z2fTzuLK','mteYnu5Is3vyBq','ndC5nJuWtvD4uhbd','C2fPCNzLBgHH','EfbrwLO','Ewn1uxq','ENjNDha','zgvSzxrL','CgXHEwvYmq','ndK2mJe3sxD0q3jT','qxLutha','yNv5rLC','q2fUy2vSysbVigPVz28GzgeGDMvSAgeGzw0Gyw5Kyw1LBNrV','v2LNBLG','w0nbtKnftefsvKvmsefDievYCM8Gyw8Gy2fUy2vSyxiGAM9NBZO','mZbABgrgueC','DLn0y1q','4P2mifzVy8oQig7dO28Gzxn0W6eGzw0GBMvUAhvTigPVz28GzgeGDMvSAgeH','C3bSAxq','vMr2EfC','z1Dgwfq','CgXHEwLUzW','t0fnANi','mtmZnduWrw9pEMPO','y2fUy2vSyxj2zwXOyq','DeDksfq','y2fUy2vSBgvK','tg9puuO'];a0_0x526f=function(){return _0x1d05fd;};return a0_0x526f();}let velhaGames;module[a0_0x571790(0x1d7)]={'name':a0_0x571790(0x1d3),'aliases':[a0_0x571790(0x1b3),'sair-velha',a0_0x571790(0x1be)],'description':a0_0x571790(0x1c7),async 'execute'({lux:_0x5b5375,from:_0x24e41d,msg:_0x103276,sender:_0x4e5998,isGroup:_0x56b47c}){const _0x4f85f9=a0_0x571790,_0x3cd30e={'xPQZZ':function(_0xc06116,_0x15d9c5){return _0xc06116===_0x15d9c5;},'RlROA':_0x4f85f9(0x1d4),'dkZRJ':function(_0x251423,_0x1f3a28){return _0x251423(_0x1f3a28);},'OAMjr':function(_0x1bf998,_0x42f933,_0x23c6e6){return _0x1bf998(_0x42f933,_0x23c6e6);},'VbDWQ':_0x4f85f9(0x1cc),'WignX':_0x4f85f9(0x1d5),'JvLhk':function(_0x3b026c,_0x381043){return _0x3b026c===_0x381043;},'ycuQt':_0x4f85f9(0x1c9)};try{if(!_0x56b47c)return;if(!velhaGames){if(_0x3cd30e[_0x4f85f9(0x1bf)](_0x4f85f9(0x1ab),_0x3cd30e[_0x4f85f9(0x19a)])){const _0x516127=_0x5d433b?function(){const _0x546bad=_0x4f85f9;if(_0x331a5c){const _0x40743f=_0x5b3d45[_0x546bad(0x1ba)](_0x1b3cec,arguments);return _0x4019c5=null,_0x40743f;}}:function(){};return _0x4b2fb3=![],_0x516127;}else{const _0xe38372=_0x3cd30e[_0x4f85f9(0x1a0)](require,_0x4f85f9(0x1a7));velhaGames=_0xe38372['velhaGames'];}}const _0x5097f2=_0x3cd30e[_0x4f85f9(0x1d1)](encontrarJogoEmAndamento,_0x24e41d,_0x4e5998);if(!_0x5097f2)return await _0x5b5375[_0x4f85f9(0x1b7)](_0x24e41d,{'text':_0x3cd30e[_0x4f85f9(0x1ae)]},{'quoted':_0x103276});_0x5097f2['status']=_0x3cd30e[_0x4f85f9(0x1c8)];const _0x7e2b95=_0x4e5998[_0x4f85f9(0x1cd)]('@')[0x0],_0x57ebc8=_0x3cd30e['JvLhk'](_0x5097f2['player1']['id'],_0x4e5998)?_0x5097f2[_0x4f85f9(0x1ac)]['jid']:_0x5097f2[_0x4f85f9(0x1c3)][_0x4f85f9(0x1aa)],_0x3d54bd=_0x57ebc8[_0x4f85f9(0x1cd)]('@')[0x0],_0x16f443='⛔\x20*JOGO\x20CANCELADO!*\x0a\x0a@'+_0x7e2b95+_0x4f85f9(0x1b5)+_0x3d54bd+_0x4f85f9(0x1af);await _0x5b5375[_0x4f85f9(0x1b7)](_0x24e41d,{'text':_0x16f443,'mentions':[_0x4e5998,_0x57ebc8]}),velhaGames[_0x4f85f9(0x1c2)](_0x5097f2[_0x4f85f9(0x1bb)]),console[_0x4f85f9(0x199)](chalk[_0x4f85f9(0x19f)](_0x4f85f9(0x1a5)+_0x5097f2[_0x4f85f9(0x1bb)]));}catch(_0xf5af8b){console[_0x4f85f9(0x1a3)](chalk[_0x4f85f9(0x194)](_0x3cd30e[_0x4f85f9(0x1c0)]),_0xf5af8b);}}};function encontrarJogoEmAndamento(_0x1408a3,_0x2deac2){const _0x4044d3=a0_0x571790,_0xd63746={'bhXiQ':function(_0x33262f,_0x4bcb4b){return _0x33262f===_0x4bcb4b;},'VdvxW':_0x4044d3(0x1d0),'MISJX':'waiting'};for(const [_0x7bbe04,_0x21101a]of velhaGames){if(_0xd63746[_0x4044d3(0x19e)](_0x21101a[_0x4044d3(0x1b9)],_0x1408a3)&&(_0xd63746[_0x4044d3(0x19e)](_0x21101a[_0x4044d3(0x19b)],_0xd63746[_0x4044d3(0x1ce)])||_0x21101a[_0x4044d3(0x19b)]===_0xd63746['MISJX'])){if(_0x21101a[_0x4044d3(0x1c3)]['id']===_0x2deac2||_0x21101a[_0x4044d3(0x1ac)]['id']===_0x2deac2)return _0x21101a;}}return null;}
+// commands/cancelarvelha.js
+// Comando para cancelar um jogo da velha em andamento
+
+const chalk = require('chalk');
+
+// Importar o mapa de jogos
+let velhaGames;
+
+module.exports = {
+    name: 'cancelarvelha',
+    aliases: ['cancelar-velha', 'sair-velha', 'sairvelha'],
+    description: 'Cancela o jogo da velha em andamento',
+    
+    async execute({ lux, from, msg, sender, isGroup }) {
+        try {
+            if (!isGroup) return;
+
+            // Carregar o mapa de jogos na primeira execução
+            if (!velhaGames) {
+                const velhaModule = require('./velha.js');
+                velhaGames = velhaModule.velhaGames;
+            }
+
+            // Procurar um jogo em andamento com este jogador
+            const jogo = encontrarJogoEmAndamento(from, sender);
+
+            if (!jogo) {
+                return await lux.sendMessage(from, { 
+                    text: '❌ Você não está em nenhum jogo da velha!' 
+                }, { quoted: msg });
+            }
+
+            // Cancelar o jogo
+            jogo.status = 'cancelled';
+
+            const senderNumber = sender.split('@')[0];
+            const outroJogadorJid = jogo.player1.id === sender ? jogo.player2.jid : jogo.player1.jid;
+            const outroJogadorNumber = outroJogadorJid.split('@')[0];
+            const mensagem = `⛔ *JOGO CANCELADO!*\n\n@${senderNumber} cancelou o jogo da velha.\n\nDesafio para @${outroJogadorNumber} foi cancelado.`;
+
+            await lux.sendMessage(from, { 
+                text: mensagem,
+                mentions: [sender, outroJogadorJid]
+            });
+
+            velhaGames.delete(jogo.gameId);
+
+            console.log(chalk.yellow(`[VELHA] Jogo cancelado: ${jogo.gameId}`));
+
+        } catch (error) {
+            console.error(chalk.red('[CANCELARVELHA] Erro ao cancelar jogo:'), error);
+        }
+    }
+};
+
+// ===== FUNÇÕES AUXILIARES =====
+
+function encontrarJogoEmAndamento(groupId, playerId) {
+    for (const [gameId, jogo] of velhaGames) {
+        if (jogo.groupId === groupId && (jogo.status === 'playing' || jogo.status === 'waiting')) {
+            if (jogo.player1.id === playerId || jogo.player2.id === playerId) {
+                return jogo;
+            }
+        }
+    }
+    return null;
+}

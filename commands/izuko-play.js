@@ -1,1 +1,92 @@
-const a0_0xcf6683=a0_0xd214;(function(_0x56e2c6,_0xa4e118){const _0x1cd78b=a0_0xd214,_0x5dfd08=_0x56e2c6();while(!![]){try{const _0x44fed0=-parseInt(_0x1cd78b(0x1a5))/0x1*(-parseInt(_0x1cd78b(0x19f))/0x2)+-parseInt(_0x1cd78b(0x1c4))/0x3*(-parseInt(_0x1cd78b(0x1a4))/0x4)+parseInt(_0x1cd78b(0x1d9))/0x5+-parseInt(_0x1cd78b(0x1a1))/0x6+-parseInt(_0x1cd78b(0x1d6))/0x7*(parseInt(_0x1cd78b(0x1d5))/0x8)+parseInt(_0x1cd78b(0x19b))/0x9+-parseInt(_0x1cd78b(0x198))/0xa;if(_0x44fed0===_0xa4e118)break;else _0x5dfd08['push'](_0x5dfd08['shift']());}catch(_0x380d66){_0x5dfd08['push'](_0x5dfd08['shift']());}}}(a0_0x5b2a,0x22b65));const a0_0x55f04e=(function(){const _0x5059b9=a0_0xd214,_0xd7446a={'ptpWy':function(_0x270a84,_0xedf906){return _0x270a84!==_0xedf906;},'yqyZl':_0x5059b9(0x1d2),'oDbxK':'fmgyr'};let _0x39ecae=!![];return function(_0x202e2e,_0x47704b){const _0x5ecbb7=_0x39ecae?function(){const _0xed7a86=a0_0xd214;if(_0xd7446a['ptpWy'](_0xd7446a[_0xed7a86(0x1b8)],_0xd7446a[_0xed7a86(0x193)])){if(_0x47704b){const _0x1e9050=_0x47704b['apply'](_0x202e2e,arguments);return _0x47704b=null,_0x1e9050;}}else{const _0x4f36f1=_0x4156b3?function(){const _0x3d51ba=_0xed7a86;if(_0x1d6964){const _0x145d35=_0xf1020d[_0x3d51ba(0x1cc)](_0x3318e8,arguments);return _0x384082=null,_0x145d35;}}:function(){};return _0x45f3ee=![],_0x4f36f1;}}:function(){};return _0x39ecae=![],_0x5ecbb7;};}()),a0_0xcb5dbe=a0_0x55f04e(this,function(){const _0x503919=a0_0xd214,_0x5f3b57={'XvTBH':_0x503919(0x1bb)};return a0_0xcb5dbe[_0x503919(0x1ae)]()[_0x503919(0x1b9)]('(((.+)+)+)+$')[_0x503919(0x1ae)]()[_0x503919(0x1d7)](a0_0xcb5dbe)['search'](_0x5f3b57[_0x503919(0x1a2)]);});function a0_0x5b2a(){const _0x44f1ac=['rgvJAwzYyw5KBYbVihnLBg8GBxvZAwnHBcbKBYbtCg90Awz5lI4U','B0rIEeS','CMvZDwX0','zM9YBwf0','4PQG77Ipie1LC3rYzsWGBYbWB3j0ywWGCgfYysbVihjLAw5VigrHCYbTzwXVzgLHCYbWyxjLy2uGzxn0yxiGC2vSywrVlIbuzw50zsbUB3zHBwvUDguGBwfPCYb0yxjKzs4','teT3qLi','mtaWndGYmhP4yLjlra','vKHxEMO','re53Bg4','mtaYndKZoe5IAhzfuq','Ahr0Chm6lY9HCgKUBwfOzxiTENvIywLYlNrLy2GVzg93BMXVywqVC3bVDgLMEt91CMW9','q0f5z0O','Bwf0y2G','nMDWzfvqqW','C2vUze1LC3nHz2u','mZe4nZC0rejHzhzd','whzuqKG','y2HHBgS','ndq4mdeYAuHbuLDN','ntq5ntvPvKDyq1q','zxHWB3j0CW','BNLyue4','sw52B2nHBMrVigeGBwvSB2rPysbKzsaIkG','q2fkvhu','8j+tNcaQq2fUW6FdO28Gsw52B2nHzgeGy29Tifn1y2vZC28QcGRWN461icPuW610DwXVoIOG','twvZDhjLlcbKzwnYzxrLihn1ysbVCMrLBsbTDxnPy2fSlGOkvxnLoGOXlIaQ','cVcFJQqGkKjHCMrVCZOQia','kIiGzg9ZihjLAw5VCYbLDmoPCMvVCY4UlG','Dg9tDhjPBMC','C3rHDhvZ','EvLgEwm','ChjLzML4','4P2mie1LC3rYzsWGDw1HigzVCSoNysbZB21ICMLHigLTCgvKAxuGBYbKB3DUBg9Hzcb2AweGu3bVDgLMEs4','zg93BMXVywrFDxjS','4P2mie1LC3rYzsWGBwv1CYbLC3bPW7vLCYbHC3rYywLZig7dO28Gzw5JB250CMfYyw0GysbJyw7dP8oJBYaIkG','uNbKteW','CgXACxe','CMvK','Exf5wMW','C2vHCMnO','zxr3uLK','kcGOlISPkYKRksSK','AxP1A28TCgXHEq','ChqTqLi','4P2mie1LC3rYzsWGzxn0zsbZzwXVigrVifnWB3rPzNKGW6KGAw52W6fSAwrVig91ig8Gzw5Jyw50yw1LBNrVigrHiefqssbMywXOB3uU','zNjVBq','tNvTyMvYrM9YBwf0','rMfSAgeGyw8GyMfPEgfYigeGAw1Hz2vTihbHCMeGBYbIDwzMzxi6ia','kIiU','cUkpSYaQrhvYyCoNW6nVoIOG','m1fwy2Hpwa','yxvKAw8VBxbLzW','wK91z0y','sfLWz1y','CgXHEsbBBgLUAYbKBYbtCg90Awz5xsO','ALb1ANa','cVcFJQqGkKjHCMrVoIOG','q0fjwNi','yxbWBhK','cVcFKyhVUi8GkLzPC3vHBgL6yCoNW7vLCZOQia','yxjYyxLIDwzMzxi','zgf0yq','AM9PBG','wMrJyM0','AKzKyKG','z2v0','zxjYB3i','mtq0mJi4ofbWvgLlBW','n3v0whnryq','y29UC3rYDwn0B3i','CgXHEq','ndi2nJqWuvH5s3zO','8j+tNcaQugvYz2fTAw5OBYbnDxnPy2fSievUy29UDhjHzg8QcGRWN461icPdyw7dP8oJBZOQia','cVcFK4aGkKnYW7rUAwnHoIOG','cVcFK4uGkKvYytOQia','q0Txzvy','yxHPB3m'];a0_0x5b2a=function(){return _0x44f1ac;};return a0_0x5b2a();}a0_0xcb5dbe();const axios=require(a0_0xcf6683(0x191)),chalk=require(a0_0xcf6683(0x1a3));function a0_0xd214(_0x142bf2,_0x483de1){const _0x3c258c=a0_0x5b2a();return a0_0xd214=function(_0xcb5dbe,_0x55f04e){_0xcb5dbe=_0xcb5dbe-0x18e;let _0x5b2a14=_0x3c258c[_0xcb5dbe];if(a0_0xd214['wzniCy']===undefined){var _0xd214c0=function(_0x41bba9){const _0x115281='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x33d5e6='',_0x19707d='',_0x466142=_0x33d5e6+_0xd214c0;for(let _0x3de388=0x0,_0x470a5d,_0x5cc340,_0x3aaae4=0x0;_0x5cc340=_0x41bba9['charAt'](_0x3aaae4++);~_0x5cc340&&(_0x470a5d=_0x3de388%0x4?_0x470a5d*0x40+_0x5cc340:_0x5cc340,_0x3de388++%0x4)?_0x33d5e6+=_0x466142['charCodeAt'](_0x3aaae4+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x470a5d>>(-0x2*_0x3de388&0x6)):_0x3de388:0x0){_0x5cc340=_0x115281['indexOf'](_0x5cc340);}for(let _0x4156b3=0x0,_0x24c071=_0x33d5e6['length'];_0x4156b3<_0x24c071;_0x4156b3++){_0x19707d+='%'+('00'+_0x33d5e6['charCodeAt'](_0x4156b3)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x19707d);};a0_0xd214['HdsAum']=_0xd214c0,_0x142bf2=arguments,a0_0xd214['wzniCy']=!![];}const _0x1e3723=_0x3c258c[0x0],_0x30ef3c=_0xcb5dbe+_0x1e3723,_0x5c85cf=_0x142bf2[_0x30ef3c];if(!_0x5c85cf){const _0x3b3900=function(_0x47e783){this['WhEpLi']=_0x47e783,this['uJiJSX']=[0x1,0x0,0x0],this['EfFScu']=function(){return'newState';},this['QWpgKR']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['TtnBji']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x3b3900['prototype']['dfralT']=function(){const _0x2edd1b=new RegExp(this['QWpgKR']+this['TtnBji']),_0x45f3ee=_0x2edd1b['test'](this['EfFScu']['toString']())?--this['uJiJSX'][0x1]:--this['uJiJSX'][0x0];return this['oBMITE'](_0x45f3ee);},_0x3b3900['prototype']['oBMITE']=function(_0x1d6964){if(!Boolean(~_0x1d6964))return _0x1d6964;return this['mZegeJ'](this['WhEpLi']);},_0x3b3900['prototype']['mZegeJ']=function(_0x45d602){for(let _0x5d8ee5=0x0,_0x55c049=this['uJiJSX']['length'];_0x5d8ee5<_0x55c049;_0x5d8ee5++){this['uJiJSX']['push'](Math['round'](Math['random']())),_0x55c049=this['uJiJSX']['length'];}return _0x45d602(this['uJiJSX'][0x0]);},new _0x3b3900(a0_0xd214)['dfralT'](),_0x5b2a14=a0_0xd214['HdsAum'](_0x5b2a14),_0x142bf2[_0x30ef3c]=_0x5b2a14;}else _0x5b2a14=_0x5c85cf;return _0x5b2a14;},a0_0xd214(_0x142bf2,_0x483de1);}async function getBuffer(_0x9ab457){const _0x5a1259=a0_0xcf6683,_0x306a6a={'CaJTu':'binary'};try{const _0x4ac2ad=await axios[_0x5a1259(0x1d3)](_0x9ab457,{'responseType':_0x5a1259(0x1ce)});return Buffer[_0x5a1259(0x1bf)](_0x4ac2ad[_0x5a1259(0x1cf)],_0x306a6a[_0x5a1259(0x1a9)]);}catch(_0x2e5bef){return console[_0x5a1259(0x1d4)](chalk['red'](_0x5a1259(0x1c1)+_0x9ab457),_0x2e5bef),null;}}module[a0_0xcf6683(0x1a6)]={'name':a0_0xcf6683(0x1bc),'aliases':[a0_0xcf6683(0x1d8),'tocar','musica'],'execute':async({lux:_0x196d9c,from:_0x5323a2,msg:_0xde35cb,args:_0x5e859f,settings:_0x234fd3})=>{const _0x2cdc7f=a0_0xcf6683,_0x4c82f7={'VHWzj':_0x2cdc7f(0x1bb),'CAIZr':function(_0x3e3fa9,_0x132463){return _0x3e3fa9===_0x132463;},'ZOugF':_0x2cdc7f(0x1b6),'nyXPN':function(_0x41afc4,_0x486f22){return _0x41afc4(_0x486f22);},'LKwBR':function(_0x244b9a,_0x16cb17){return _0x244b9a!==_0x16cb17;},'FbhIt':_0x2cdc7f(0x1b0),'DNwln':_0x2cdc7f(0x1be),'RpdLL':_0x2cdc7f(0x1c5),'HYpgV':_0x2cdc7f(0x1b2),'tAIIE':_0x2cdc7f(0x19d),'OWEDo':_0x2cdc7f(0x190),'jPujp':function(_0x346039,_0x23ebf2){return _0x346039!==_0x23ebf2;},'Zdcbm':'gzgoQ','HRDGp':'[IZUKO-PLAY\x20-\x20BUSCA]\x20Erro:','etwRY':_0x2cdc7f(0x196)},_0x56fd91=_0x5e859f[_0x2cdc7f(0x1d0)]('\x20');if(!_0x56fd91)return await _0x196d9c[_0x2cdc7f(0x1a0)](_0x5323a2,{'text':_0x2cdc7f(0x1ab)+_0x234fd3['prefix']+'play\x20[nome\x20da\x20canção]*\x0a2.\x20*'+_0x234fd3[_0x2cdc7f(0x1b1)]+_0x2cdc7f(0x1c8)},{'quoted':_0xde35cb});if(_0x56fd91[_0x2cdc7f(0x19e)](/https?:\/\/open\.spotify\.com\/track\/[a-zA-Z0-9?=]+/)){await _0x196d9c[_0x2cdc7f(0x1a0)](_0x5323a2,{'text':_0x2cdc7f(0x192)},{'quoted':_0xde35cb});try{if(_0x4c82f7[_0x2cdc7f(0x1cb)]('SQgEH',_0x4c82f7[_0x2cdc7f(0x1c6)])){const _0x12c9b6=_0x4baa8a[_0x2cdc7f(0x1cc)](_0x115734,arguments);return _0x2598d7=null,_0x12c9b6;}else{const _0x49e8bc=_0x2cdc7f(0x19c)+_0x4c82f7[_0x2cdc7f(0x1a7)](encodeURIComponent,_0x56fd91),_0x4a17f6=await axios[_0x2cdc7f(0x1d3)](_0x49e8bc),_0x4b676e=_0x4a17f6[_0x2cdc7f(0x1cf)];if(!_0x4b676e||_0x4b676e[_0x2cdc7f(0x1af)]!==0xc8||!_0x4b676e[_0x2cdc7f(0x194)]?.[_0x2cdc7f(0x1b3)]){if(_0x4c82f7[_0x2cdc7f(0x197)](_0x4c82f7['FbhIt'],_0x2cdc7f(0x1b0))){if(_0x4db2e3){const _0x17531f=_0x10fda9[_0x2cdc7f(0x1cc)](_0x18ab14,arguments);return _0xc4ac5=null,_0x17531f;}}else return await _0x196d9c[_0x2cdc7f(0x1a0)](_0x5323a2,{'text':_0x4c82f7[_0x2cdc7f(0x19a)]},{'quoted':_0xde35cb});}const {song:_0x10b26e,artists:_0x471138,album_name:_0x664a99,release_date:_0x2bc12a,thumbnail:_0xbf8712,download_url:_0x3f525e}=_0x4b676e[_0x2cdc7f(0x194)];return await _0x196d9c[_0x2cdc7f(0x1a0)](_0x5323a2,{'image':{'url':_0xbf8712},'caption':_0x2cdc7f(0x1da)+_0x10b26e+_0x2cdc7f(0x1ac)+_0x471138+_0x2cdc7f(0x18e)+_0x664a99+_0x2cdc7f(0x18f)+_0x2bc12a},{'quoted':_0xde35cb}),await _0x196d9c[_0x2cdc7f(0x1a0)](_0x5323a2,{'audio':{'url':_0x3f525e},'mimetype':_0x4c82f7[_0x2cdc7f(0x1b5)]},{'quoted':_0xde35cb});}}catch(_0x1e3184){return console[_0x2cdc7f(0x1d4)](chalk[_0x2cdc7f(0x1b7)]('[IZUKO-PLAY\x20-\x20SPOTIFY\x20LINK]\x20Erro:'),_0x1e3184),await _0x196d9c['sendMessage'](_0x5323a2,{'text':_0x4c82f7[_0x2cdc7f(0x1c7)]},{'quoted':_0xde35cb});}}else{await _0x196d9c[_0x2cdc7f(0x1a0)](_0x5323a2,{'text':_0x2cdc7f(0x1a8)+_0x56fd91+_0x2cdc7f(0x1ad)},{'quoted':_0xde35cb});try{if(_0x4c82f7['tAIIE']!==_0x4c82f7['OWEDo']){const _0x358753='https://systemzone.store/api/play?text='+_0x4c82f7['nyXPN'](encodeURIComponent,_0x56fd91),_0x446138=await axios[_0x2cdc7f(0x1d3)](_0x358753),_0xc656d8=_0x446138[_0x2cdc7f(0x1cf)];if(!_0xc656d8||_0x4c82f7[_0x2cdc7f(0x1c9)](_0xc656d8['status'],!![])||!_0xc656d8[_0x2cdc7f(0x1b3)])return _0x4c82f7[_0x2cdc7f(0x1d1)]===_0x4c82f7[_0x2cdc7f(0x1d1)]?await _0x196d9c[_0x2cdc7f(0x1a0)](_0x5323a2,{'text':_0x2cdc7f(0x1b4)+_0x56fd91+_0x2cdc7f(0x1c2)},{'quoted':_0xde35cb}):(_0x5c7749[_0x2cdc7f(0x1d4)](_0x4a65be[_0x2cdc7f(0x1b7)](_0x2cdc7f(0x1c1)+_0x56e5b2),_0x5f1395),null);const {title:_0x245a3f,author:_0x211316,duration:_0x1ca409,views:_0x5ad2af,thumbnail:_0x1b2c97,download_url:_0x5c473f}=_0xc656d8;return await _0x196d9c[_0x2cdc7f(0x1a0)](_0x5323a2,{'image':{'url':_0x1b2c97},'caption':_0x2cdc7f(0x1aa)+_0x245a3f+_0x2cdc7f(0x1ca)+_0x211316+_0x2cdc7f(0x1c3)+_0x1ca409+_0x2cdc7f(0x1cd)+new Intl[(_0x2cdc7f(0x1c0))](_0x2cdc7f(0x1bd))[_0x2cdc7f(0x195)](_0x5ad2af)},{'quoted':_0xde35cb}),await _0x196d9c['sendMessage'](_0x5323a2,{'audio':{'url':_0x5c473f},'mimetype':_0x4c82f7[_0x2cdc7f(0x1b5)]},{'quoted':_0xde35cb});}else return _0x35dc5a['toString']()['search'](vRrnzK[_0x2cdc7f(0x199)])['toString']()['constructor'](_0x48acbe)[_0x2cdc7f(0x1b9)](vRrnzK[_0x2cdc7f(0x199)]);}catch(_0x1e7651){return console['error'](chalk[_0x2cdc7f(0x1b7)](_0x4c82f7['HRDGp']),_0x1e7651),await _0x196d9c[_0x2cdc7f(0x1a0)](_0x5323a2,{'text':_0x4c82f7[_0x2cdc7f(0x1ba)]},{'quoted':_0xde35cb});}}}};
+// commands/izuko-play.js
+const axios = require('axios');
+const chalk = require('chalk');
+
+// Função auxiliar para baixar a imagem como um Buffer
+async function getBuffer(url) {
+    try {
+        const response = await axios.get(url, { responseType: 'arraybuffer' });
+        return Buffer.from(response.data, 'binary');
+    } catch (error) {
+        console.error(chalk.red(`Falha ao baixar a imagem para o buffer: ${url}`), error);
+        return null;
+    }
+}
+
+module.exports = {
+    name: 'izuko-play',
+    aliases: ['play', 'tocar', 'musica'], // Aliases personalizados
+    execute: async ({ lux, from, msg, args, settings }) => {
+        const query = args.join(' ');
+
+        if (!query) {
+            return await lux.sendMessage(from, { text: `Mestre, decrete sua ordem musical.\n\nUse:\n1. *${settings.prefix}play [nome da canção]*\n2. *${settings.prefix}play [link do Spotify]*` }, { quoted: msg });
+        }
+
+        // =================================================================
+        // == LÓGICA 1: DOWNLOAD VIA LINK DO SPOTIFY (Mantida)
+        // =================================================================
+        if (query.match(/https?:\/\/open\.spotify\.com\/track\/[a-zA-Z0-9?=]+/ )) {
+            await lux.sendMessage(from, { text: "Decifrando o selo musical do Spotify..." }, { quoted: msg });
+
+            try {
+                const apiUrl = `https://api.maher-zubair.tech/download/spotify?url=${encodeURIComponent(query )}`;
+                const response = await axios.get(apiUrl);
+                const data = response.data;
+
+                if (!data || data.status !== 200 || !data.result?.download_url) {
+                    return await lux.sendMessage(from, { text: "❌ Mestre, este selo do Spotify é inválido ou o encantamento da API falhou." }, { quoted: msg });
+                }
+
+                const { song, artists, album_name, release_date, thumbnail, download_url } = data.result;
+
+                await lux.sendMessage(from, { 
+                    image: { url: thumbnail }, 
+                    caption: `📜 *Pergaminho Musical Encontrado*\n\n🎵 *Canção:* ${song}\n🎤 *Bardos:* ${artists}\n📀 *Crônica:* ${album_name}\n📅 *Era:* ${release_date}` 
+                }, { quoted: msg });
+
+                return await lux.sendMessage(from, { audio: { url: download_url }, mimetype: "audio/mpeg" }, { quoted: msg });
+
+            } catch (e) {
+                console.error(chalk.red('[IZUKO-PLAY - SPOTIFY LINK] Erro:'), e);
+                return await lux.sendMessage(from, { text: "❌ Mestre, uma força sombria impediu o download via Spotify." }, { quoted: msg });
+            }
+        }
+
+        // =================================================================
+        // == LÓGICA 2: BUSCA POR NOME (API ATUALIZADA)
+        // =================================================================
+        else {
+            await lux.sendMessage(from, { text: `Invocando a melodia de "*${query}*" dos reinos etéreos...` }, { quoted: msg });
+
+            try {
+                const apiUrl = `https://systemzone.store/api/play?text=${encodeURIComponent(query )}`;
+                const response = await axios.get(apiUrl);
+                const trackData = response.data;
+
+                if (!trackData || trackData.status !== true || !trackData.download_url) {
+                    return await lux.sendMessage(from, { text: `❌ Mestre, meus espiões astrais não encontraram a canção "*${query}*".` }, { quoted: msg });
+                }
+
+                // Extrai os dados da nova API
+                const { title, author, duration, views, thumbnail, download_url } = trackData;
+
+                // Envia a imagem com os detalhes da música
+                await lux.sendMessage(from, { 
+                    image: { url: thumbnail }, 
+                    caption: `📜 *Canção Invocada com Sucesso*\n\n🎵 *Título:* ${title}\n🎤 *Bardo:* ${author}\n⏳ *Duração:* ${duration}\n👁️ *Visualizações:* ${new Intl.NumberFormat('pt-BR').format(views)}`
+                }, { quoted: msg });
+
+                // Envia o áudio da música
+                return await lux.sendMessage(from, { 
+                    audio: { url: download_url }, 
+                    mimetype: "audio/mpeg" 
+                }, { quoted: msg });
+
+            } catch (error) {
+                console.error(chalk.red("[IZUKO-PLAY - BUSCA] Erro:"), error);
+                return await lux.sendMessage(from, { text: "⚠️ Mestre, o portal para o reino das melodias parece estar selado. Tente novamente mais tarde." }, { quoted: msg });
+            }
+        }
+    }
+};

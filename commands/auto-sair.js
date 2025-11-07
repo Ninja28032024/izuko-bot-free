@@ -1,1 +1,59 @@
-const a0_0x3699da=a0_0x5cc5;(function(_0x527930,_0x560f42){const _0x42c2a8=a0_0x5cc5,_0x331923=_0x527930();while(!![]){try{const _0x13a1d6=parseInt(_0x42c2a8(0x11d))/0x1*(parseInt(_0x42c2a8(0xf8))/0x2)+-parseInt(_0x42c2a8(0x122))/0x3*(parseInt(_0x42c2a8(0x121))/0x4)+parseInt(_0x42c2a8(0xfb))/0x5+parseInt(_0x42c2a8(0x117))/0x6+-parseInt(_0x42c2a8(0x101))/0x7+parseInt(_0x42c2a8(0x116))/0x8*(-parseInt(_0x42c2a8(0x10f))/0x9)+-parseInt(_0x42c2a8(0x10b))/0xa;if(_0x13a1d6===_0x560f42)break;else _0x331923['push'](_0x331923['shift']());}catch(_0x4b48fb){_0x331923['push'](_0x331923['shift']());}}}(a0_0x5185,0xd081d));const a0_0x1d1391=(function(){let _0x51e233=!![];return function(_0x3bf0da,_0x24a8b2){const _0x1fcd60=_0x51e233?function(){const _0x545bc2=a0_0x5cc5;if(_0x24a8b2){const _0x53c504=_0x24a8b2[_0x545bc2(0x104)](_0x3bf0da,arguments);return _0x24a8b2=null,_0x53c504;}}:function(){};return _0x51e233=![],_0x1fcd60;};}()),a0_0x32c9dd=a0_0x1d1391(this,function(){const _0x2b21e5=a0_0x5cc5,_0x57288c={'Wvxrn':'(((.+)+)+)+$'};return a0_0x32c9dd['toString']()[_0x2b21e5(0x123)](_0x57288c['Wvxrn'])[_0x2b21e5(0xfa)]()[_0x2b21e5(0x115)](a0_0x32c9dd)[_0x2b21e5(0x123)](_0x2b21e5(0x105));});a0_0x32c9dd();const {delay}=require(a0_0x3699da(0x119));module[a0_0x3699da(0x114)]={'name':a0_0x3699da(0x10c),'aliases':[a0_0x3699da(0x106),a0_0x3699da(0x102)],'execute':async({lux:_0x414e4b,from:_0x188cfb,msg:_0x39e905,isOwner:_0x2b973f,isGroup:_0x4de71,args:_0x275ca4})=>{const _0x36a3f3=a0_0x3699da,_0x6e9407={'VwMTO':'(((.+)+)+)+$','UqYMh':_0x36a3f3(0x11b),'uAGSh':_0x36a3f3(0x11e),'yukMW':'Mestre,\x20este\x20decreto\x20de\x20retirada\x20só\x20pode\x20ser\x20proclamado\x20em\x20um\x20grupo.','NSnkU':'Mestre,\x20Vossa\x20Majestade\x20precisa\x20especificar\x20o\x20tempo\x20para\x20a\x20minha\x20retirada.\x0a\x0a*Exemplos:*\x0a`!auto-sair\x205m`\x20(5\x20minutos)\x0a`!auto-sair\x2030s`\x20(30\x20segundos)','uYNTs':function(_0xb7e9db,_0x3e16ed){return _0xb7e9db(_0x3e16ed);},'zxpZB':function(_0xefc05,_0x3e144d){return _0xefc05!==_0x3e144d;},'eyVMt':'Mestre,\x20o\x20formato\x20do\x20tempo\x20é\x20inválido.\x20Use\x20\x22m\x22\x20para\x20minutos\x20ou\x20\x22s\x22\x20para\x20segundos.','ROFzr':function(_0x3befcb,_0x4cefa8){return _0x3befcb===_0x4cefa8;},'WIlGs':function(_0x51a912,_0x389d80){return _0x51a912*_0x389d80;},'hFJBv':function(_0x4486cb,_0x45e1c9){return _0x4486cb*_0x45e1c9;},'JNgHL':function(_0x4701f1,_0x5c76fa){return _0x4701f1!==_0x5c76fa;},'gitJY':_0x36a3f3(0x107),'qvfJi':_0x36a3f3(0x11c),'SeohR':function(_0x3f8ce5,_0x4244de){return _0x3f8ce5*_0x4244de;},'yLWuU':function(_0x560494,_0x337d2e,_0x20e554){return _0x560494(_0x337d2e,_0x20e554);}};if(!_0x2b973f){if(_0x6e9407['UqYMh']!==_0x36a3f3(0x113))return;else return _0x35e651[_0x36a3f3(0xfa)]()[_0x36a3f3(0x123)](ZmzCGk[_0x36a3f3(0xfc)])[_0x36a3f3(0xfa)]()['constructor'](_0x512d7d)[_0x36a3f3(0x123)](ZmzCGk[_0x36a3f3(0xfc)]);}if(!_0x4de71){if(_0x6e9407['uAGSh']===_0x6e9407[_0x36a3f3(0x10a)])return await _0x414e4b['sendMessage'](_0x188cfb,{'text':_0x6e9407[_0x36a3f3(0x110)]},{'quoted':_0x39e905});else{const _0x507dd4=_0x189885?function(){const _0x116ce3=_0x36a3f3;if(_0x366d0d){const _0x266557=_0x597958[_0x116ce3(0x104)](_0x33b036,arguments);return _0x105f66=null,_0x266557;}}:function(){};return _0x51ffc1=![],_0x507dd4;}}const _0x68d375=_0x275ca4[0x0];if(!_0x68d375)return await _0x414e4b['sendMessage'](_0x188cfb,{'text':_0x6e9407[_0x36a3f3(0x11a)]},{'quoted':_0x39e905});const _0x2d08fe=_0x6e9407[_0x36a3f3(0x10e)](parseInt,_0x68d375),_0x2d4a3c=_0x68d375['slice'](-0x1)[_0x36a3f3(0x103)]();if(_0x6e9407[_0x36a3f3(0x10e)](isNaN,_0x2d08fe)||_0x6e9407['zxpZB'](_0x2d4a3c,'m')&&_0x2d4a3c!=='s')return await _0x414e4b[_0x36a3f3(0xf7)](_0x188cfb,{'text':_0x6e9407['eyVMt']},{'quoted':_0x39e905});let _0x193342,_0x2208ea;if(_0x6e9407[_0x36a3f3(0x118)](_0x2d4a3c,'m'))_0x193342=_0x6e9407[_0x36a3f3(0x124)](_0x6e9407[_0x36a3f3(0xff)](_0x2d08fe,0x3c),0x3e8),_0x2208ea=_0x2d08fe+_0x36a3f3(0xf9);else{if(_0x6e9407[_0x36a3f3(0xfd)](_0x6e9407[_0x36a3f3(0x112)],_0x6e9407['qvfJi']))_0x193342=_0x6e9407['SeohR'](_0x2d08fe,0x3e8),_0x2208ea=_0x2d08fe+_0x36a3f3(0x11f);else{const _0x222036=_0x47c063[_0x36a3f3(0x104)](_0x7fb858,arguments);return _0x1f2206=null,_0x222036;}}await _0x414e4b[_0x36a3f3(0xf7)](_0x188cfb,{'text':_0x36a3f3(0x100)+_0x2208ea+_0x36a3f3(0xf6)},{'quoted':_0x39e905}),_0x6e9407[_0x36a3f3(0x108)](setTimeout,async()=>{const _0x395e91=_0x36a3f3;try{await _0x414e4b[_0x395e91(0xf7)](_0x188cfb,{'text':_0x395e91(0x10d)}),await _0x414e4b[_0x395e91(0x125)](_0x188cfb);}catch(_0x220579){console['error'](_0x395e91(0x120)+_0x188cfb+':',_0x220579),await _0x414e4b['sendMessage'](_0x39e905[_0x395e91(0x109)][_0x395e91(0x111)]||_0x39e905[_0x395e91(0x109)][_0x395e91(0xfe)],{'text':'Mestre,\x20houve\x20uma\x20falha\x20no\x20meu\x20ritual\x20de\x20retirada\x20do\x20grupo.\x20Minha\x20presença\x20aqui\x20pode\x20ter\x20sido\x20forçada.'});}},_0x193342);}};function a0_0x5cc5(_0xea0b2f,_0x18b48a){const _0x3dddc6=a0_0x5185();return a0_0x5cc5=function(_0x32c9dd,_0x1d1391){_0x32c9dd=_0x32c9dd-0xf6;let _0x518504=_0x3dddc6[_0x32c9dd];if(a0_0x5cc5['FmUXzl']===undefined){var _0x5cc567=function(_0x543b20){const _0x11ae65='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x365b27='',_0x4baa40='',_0x1aa1e2=_0x365b27+_0x5cc567;for(let _0x4d51ac=0x0,_0x1d40f9,_0x30ccf9,_0x56222c=0x0;_0x30ccf9=_0x543b20['charAt'](_0x56222c++);~_0x30ccf9&&(_0x1d40f9=_0x4d51ac%0x4?_0x1d40f9*0x40+_0x30ccf9:_0x30ccf9,_0x4d51ac++%0x4)?_0x365b27+=_0x1aa1e2['charCodeAt'](_0x56222c+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x1d40f9>>(-0x2*_0x4d51ac&0x6)):_0x4d51ac:0x0){_0x30ccf9=_0x11ae65['indexOf'](_0x30ccf9);}for(let _0x189885=0x0,_0x3f19d2=_0x365b27['length'];_0x189885<_0x3f19d2;_0x189885++){_0x4baa40+='%'+('00'+_0x365b27['charCodeAt'](_0x189885)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x4baa40);};a0_0x5cc5['fcKAXB']=_0x5cc567,_0xea0b2f=arguments,a0_0x5cc5['FmUXzl']=!![];}const _0xb6928f=_0x3dddc6[0x0],_0x58445c=_0x32c9dd+_0xb6928f,_0x586834=_0xea0b2f[_0x58445c];if(!_0x586834){const _0x53762c=function(_0x1ca906){this['TJmFJx']=_0x1ca906,this['iGaIAA']=[0x1,0x0,0x0],this['hiMSSb']=function(){return'newState';},this['FDqjdQ']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['lNnUqO']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x53762c['prototype']['sBxUpp']=function(){const _0x352de0=new RegExp(this['FDqjdQ']+this['lNnUqO']),_0x51ffc1=_0x352de0['test'](this['hiMSSb']['toString']())?--this['iGaIAA'][0x1]:--this['iGaIAA'][0x0];return this['SPUmvg'](_0x51ffc1);},_0x53762c['prototype']['SPUmvg']=function(_0x366d0d){if(!Boolean(~_0x366d0d))return _0x366d0d;return this['YXyWXE'](this['TJmFJx']);},_0x53762c['prototype']['YXyWXE']=function(_0xc75a30){for(let _0x5d7812=0x0,_0x3253a6=this['iGaIAA']['length'];_0x5d7812<_0x3253a6;_0x5d7812++){this['iGaIAA']['push'](Math['round'](Math['random']())),_0x3253a6=this['iGaIAA']['length'];}return _0xc75a30(this['iGaIAA'][0x0]);},new _0x53762c(a0_0x5cc5)['sBxUpp'](),_0x518504=a0_0x5cc5['fcKAXB'](_0x518504),_0xea0b2f[_0x58445c]=_0x518504;}else _0x518504=_0x586834;return _0x518504;},a0_0x5cc5(_0xea0b2f,_0x18b48a);}function a0_0x5185(){const _0x29e0aa=['nte5mduXnuTlweTRsG','vNDnve8','sK5NseW','CMvTB3rLsMLK','AezkqNy','4PYficPpuKrftsbsrunfqKLeqsWGtuvtvfjflIOkcKLUAwnPyw5KBYbWCM90B2nVBg8GzguGCMv0AxjHzgeGAg9UCM9Zys4GrgvPEgfYzwKGzxn0zsbJBmoJigvTicO','otq2otzUsLPKwhq','yxv0B2XLyxzL','Dg9mB3DLCKnHC2u','yxbWBhK','kcGOlISPkYKRksSK','C2fPCI1HDxrV','BKDPD1G','EuXxDvu','A2v5','Dufhu2G','oti5ndiZmffUu0fVuW','yxv0BY1ZywLY','q3vTChjPBMrVigeGB3jKzw0GzMLUywWGzguGvM9ZC2eGtwfQzxn0ywrLlI4UiefKzxvZlG','DvLovhm','mtmZndK0odr0AuzlzwC','ExvRtvC','CgfYDgLJAxbHBNq','z2L0sLK','rvDiu1q','zxHWB3j0CW','y29UC3rYDwn0B3i','ofHQC0DPvG','nZyWnJyWog5VBKXgAG','uK9gENi','qhDOAxnRzxLZB2nRzxrZl2jHAwXLExm','tLnUA1u','D3PwEe0','yLf4Eei','mtiZmJzTDKzQBeK','s21wwvy','ihnLz3vUzg8OCYK','w0f1Dg8Tu2fPCL0GrMfSAgeGyw8GDgvUDgfYihnHAxiGzg8Gz3j1Cg8G','nhntELzSrq','nZaWnJqXvw9YC3fK','C2vHCMnO','v0LSr3m','z3jVDxbmzwf2zq','kI4kcKzVAsb1BweGAg9UCMeGC2vYDMLYlG','C2vUze1LC3nHz2u','mtK2qNvNrhvr','ig1PBNv0BYHZkq','Dg9tDhjPBMC'];a0_0x5185=function(){return _0x29e0aa;};return a0_0x5185();}
+// commands/auto-sair.js
+const { delay } = require('@whiskeysockets/baileys');
+
+module.exports = {
+    name: 'auto-sair',
+    aliases: ['sair-auto', 'autoleave'],
+    execute: async ({ lux, from, msg, isOwner, isGroup, args }) => {
+        
+        // 1. Verificação de Permissão (Dono) e Local (Grupo)
+        if (!isOwner) {
+            // Comando silencioso para não-donos, para não revelar sua existência.
+            return;
+        }
+        if (!isGroup) {
+            return await lux.sendMessage(from, { text: 'Mestre, este decreto de retirada só pode ser proclamado em um grupo.' }, { quoted: msg });
+        }
+
+        // 2. Validação da Entrada (Formato do Tempo)
+        const tempoInput = args[0];
+        if (!tempoInput) {
+            return await lux.sendMessage(from, { text: 'Mestre, Vossa Majestade precisa especificar o tempo para a minha retirada.\n\n*Exemplos:*\n`!auto-sair 5m` (5 minutos)\n`!auto-sair 30s` (30 segundos)' }, { quoted: msg });
+        }
+
+        // 3. Extração do Tempo e da Unidade
+        const tempoValor = parseInt(tempoInput);
+        const unidade = tempoInput.slice(-1).toLowerCase();
+
+        if (isNaN(tempoValor) || (unidade !== 'm' && unidade !== 's')) {
+            return await lux.sendMessage(from, { text: 'Mestre, o formato do tempo é inválido. Use "m" para minutos ou "s" para segundos.' }, { quoted: msg });
+        }
+
+        // 4. Cálculo do Atraso em Milissegundos
+        let atrasoMs;
+        let tempoTexto;
+
+        if (unidade === 'm') {
+            atrasoMs = tempoValor * 60 * 1000;
+            tempoTexto = `${tempoValor} minuto(s)`;
+        } else { // unidade === 's'
+            atrasoMs = tempoValor * 1000;
+            tempoTexto = `${tempoValor} segundo(s)`;
+        }
+
+        // 5. Confirmação e Agendamento da Saída
+        await lux.sendMessage(from, { text: `✅ *ORDEM RECEBIDA, MESTRE.*\n\nIniciando protocolo de retirada honrosa. Deixarei este clã em *${tempoTexto}*.\n\nFoi uma honra servir.` }, { quoted: msg });
+
+        // Usa a função 'setTimeout' do Node.js para agendar a ação futura
+        setTimeout(async () => {
+            try {
+                await lux.sendMessage(from, { text: `Cumprindo a ordem final de Vossa Majestade... Adeus.` });
+                await lux.groupLeave(from);
+            } catch (error) {
+                console.error(`[Auto-Sair] Falha ao tentar sair do grupo ${from}:`, error);
+                // Se a saída falhar, envia uma mensagem privada para o dono
+                await lux.sendMessage(msg.key.participant || msg.key.remoteJid, { text: `Mestre, houve uma falha no meu ritual de retirada do grupo. Minha presença aqui pode ter sido forçada.` });
+            }
+        }, atrasoMs);
+    }
+};

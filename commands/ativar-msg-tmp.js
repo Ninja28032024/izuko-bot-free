@@ -1,1 +1,49 @@
-const a0_0x2f0491=a0_0x3a57;(function(_0xf419e7,_0x3d5106){const _0x238a87=a0_0x3a57,_0x1f90a5=_0xf419e7();while(!![]){try{const _0x120981=-parseInt(_0x238a87(0x109))/0x1+parseInt(_0x238a87(0xfd))/0x2*(-parseInt(_0x238a87(0x107))/0x3)+-parseInt(_0x238a87(0xf9))/0x4*(-parseInt(_0x238a87(0x105))/0x5)+parseInt(_0x238a87(0x10f))/0x6+parseInt(_0x238a87(0x106))/0x7+-parseInt(_0x238a87(0x110))/0x8*(-parseInt(_0x238a87(0x10b))/0x9)+parseInt(_0x238a87(0xfb))/0xa;if(_0x120981===_0x3d5106)break;else _0x1f90a5['push'](_0x1f90a5['shift']());}catch(_0xdc9b3e){_0x1f90a5['push'](_0x1f90a5['shift']());}}}(a0_0x2eeb,0xba233));function a0_0x3a57(_0x38da31,_0x35eb02){const _0x3f6528=a0_0x2eeb();return a0_0x3a57=function(_0x58b343,_0x43d7ae){_0x58b343=_0x58b343-0xf3;let _0x2eeb6e=_0x3f6528[_0x58b343];if(a0_0x3a57['XwYiXC']===undefined){var _0x3a57e9=function(_0x122d69){const _0x5b4a25='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x49e985='',_0x513a46='',_0xcf75e0=_0x49e985+_0x3a57e9;for(let _0x2c13b4=0x0,_0x917898,_0x34c690,_0x51b45a=0x0;_0x34c690=_0x122d69['charAt'](_0x51b45a++);~_0x34c690&&(_0x917898=_0x2c13b4%0x4?_0x917898*0x40+_0x34c690:_0x34c690,_0x2c13b4++%0x4)?_0x49e985+=_0xcf75e0['charCodeAt'](_0x51b45a+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x917898>>(-0x2*_0x2c13b4&0x6)):_0x2c13b4:0x0){_0x34c690=_0x5b4a25['indexOf'](_0x34c690);}for(let _0x118873=0x0,_0x52dae0=_0x49e985['length'];_0x118873<_0x52dae0;_0x118873++){_0x513a46+='%'+('00'+_0x49e985['charCodeAt'](_0x118873)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x513a46);};a0_0x3a57['bxqAXL']=_0x3a57e9,_0x38da31=arguments,a0_0x3a57['XwYiXC']=!![];}const _0x4a8264=_0x3f6528[0x0],_0x2e912a=_0x58b343+_0x4a8264,_0x21646e=_0x38da31[_0x2e912a];if(!_0x21646e){const _0x14beb6=function(_0x49b469){this['eWHpvr']=_0x49b469,this['HqLlDB']=[0x1,0x0,0x0],this['TyGFpK']=function(){return'newState';},this['QTjYIk']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['zOIwQM']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x14beb6['prototype']['GCiTNO']=function(){const _0x2e5f80=new RegExp(this['QTjYIk']+this['zOIwQM']),_0x1b3677=_0x2e5f80['test'](this['TyGFpK']['toString']())?--this['HqLlDB'][0x1]:--this['HqLlDB'][0x0];return this['LMjwzW'](_0x1b3677);},_0x14beb6['prototype']['LMjwzW']=function(_0x48c7c4){if(!Boolean(~_0x48c7c4))return _0x48c7c4;return this['SogQzb'](this['eWHpvr']);},_0x14beb6['prototype']['SogQzb']=function(_0x50f756){for(let _0x152d52=0x0,_0x223a74=this['HqLlDB']['length'];_0x152d52<_0x223a74;_0x152d52++){this['HqLlDB']['push'](Math['round'](Math['random']())),_0x223a74=this['HqLlDB']['length'];}return _0x50f756(this['HqLlDB'][0x0]);},new _0x14beb6(a0_0x3a57)['GCiTNO'](),_0x2eeb6e=a0_0x3a57['bxqAXL'](_0x2eeb6e),_0x38da31[_0x2e912a]=_0x2eeb6e;}else _0x2eeb6e=_0x21646e;return _0x2eeb6e;},a0_0x3a57(_0x38da31,_0x35eb02);}function a0_0x2eeb(){const _0x17790c=['yxbWBhK','EwLiCue','mta2mtbdwKTPC2y','nZK0mdeWsu91wvbp','ntq5m3fRBu9MsG','ywrTAw4','nZy3mZi2zg9uCe9m','zMLUza','mtiZmdnzvhrcD00','r2vUzxjHBcWGzxn0zsbKzwnYzxrVihpdSYbWB2rLihnLCIbWCM9JBgfTywrVigvTihvTignSW6mU','CeLJzgK','zxHWB3j0CW','mti5mta3nfnsCNn1rG','mJe5mLjezxbdua','msbZzw1HBMe','z3jVDxbnzxrHzgf0yq','CgfYDgLJAxbHBNrZ','rffNq1i','qxbLBMfZigDLBMvYywLZihbVzgvTigfSDgvYyxiGyxmGBgvPCYbKBYb0zw1WBYbUzxn0zsbJBmoJlG','C2vUze1LC3nHz2u','4O+ZicPmruKGreeGruzftuvssurbreuGqvrjvKfeqsOG4O+ZcGPqB3iGzgvJCMv0BYbKzsb1BsbNzw5LCMfSlcbHCYbTzw5ZywDLBNmGBMvZDguGy2ZdOYbHz29YysbKzxnHCgfYzwnLCSoJBYbHCmoZCYaQ','Dg9mB3DLCKnHC2u','Dg9tDhjPBMC','rgfPtfK','mJqGAg9Yyxm','mJyWogXHCwDPza','r2vUzxjHBcWGDw1HigfUB21HBgLHigLTCgvKAxuGysbHBhrLCMhdP8oJBYbKysbSzwKGzgeGzwzLBwvYAwrHzguU','mJK4mteXmevkALfkEG','se5isuC','otm0wK5uwgDW','otaGzgLHCW','u2LUDgf4zsbKBYbQDxrZDsbPBMnVCNjLDgeSieDLBMvYywWUcGOQvxnVignVCNjLDg86kIbGyxrPDMfYlw1ZzY10BxaGpgr1CMhdP8oJBZ5GcGOQrhvYyCoNW7vLCYbwW6fSAwrHCZOQcI0GmJqGAg9Yyxmklsa3igrPyxmGkg91ideGC2vTyw5HkqOTidKWigrPyxm','y29UC3rYDwn0B3i','C2vHCMnO','nYbKAwfZ'];a0_0x2eeb=function(){return _0x17790c;};return a0_0x2eeb();}const a0_0x43d7ae=(function(){let _0x3c91d8=!![];return function(_0x13a629,_0x722689){const _0x51eb19=_0x3c91d8?function(){const _0x1b01e2=a0_0x3a57;if(_0x722689){const _0x84029d=_0x722689[_0x1b01e2(0x103)](_0x13a629,arguments);return _0x722689=null,_0x84029d;}}:function(){};return _0x3c91d8=![],_0x51eb19;};}()),a0_0x58b343=a0_0x43d7ae(this,function(){const _0x2aa17f=a0_0x3a57,_0x52160e={'DaiLY':'(((.+)+)+)+$'};return a0_0x58b343[_0x2aa17f(0xf6)]()[_0x2aa17f(0x101)](_0x52160e[_0x2aa17f(0xf7)])[_0x2aa17f(0xf6)]()[_0x2aa17f(0x100)](a0_0x58b343)[_0x2aa17f(0x101)](_0x52160e['DaiLY']);});a0_0x58b343(),module[a0_0x2f0491(0x10e)]={'name':'ativar-msg-tmp','execute':async({lux:_0x2d2935,msg:_0x2f097c,from:_0x26e430,isGroup:_0x5dc906,sender:_0x5051bb,args:_0x2f485d,areJidsSameUser:_0x4b4541,settings:_0xc0a5bc})=>{const _0xbe8665=a0_0x2f0491,_0x3fb082={'CgMhY':_0xbe8665(0x10c),'Vrjrj':_0xbe8665(0xf8),'HNHIG':_0xbe8665(0x111),'DQgCR':_0xbe8665(0x102),'pIcdi':_0xbe8665(0xfe),'yiHqA':_0xbe8665(0xff),'hVRTP':_0xbe8665(0xfa)};if(!_0x5dc906)return await _0x2d2935[_0xbe8665(0xf3)](_0x26e430,{'text':_0x3fb082['CgMhY']},{'quoted':_0x2f097c});const _0x2925c6=await _0x2d2935[_0xbe8665(0x112)](_0x26e430),_0x4dabf1=_0x2925c6[_0xbe8665(0x113)]['find'](_0x3e8511=>_0x4b4541(_0x3e8511['id'],_0x5051bb))?.[_0xbe8665(0x108)],_0x488e71=_0x2925c6[_0xbe8665(0x113)][_0xbe8665(0x10a)](_0x2bc562=>_0x4b4541(_0x2bc562['id'],_0xc0a5bc['botLid']))?.['admin'];if(!_0x4dabf1)return await _0x2d2935[_0xbe8665(0xf3)](_0x26e430,{'text':_0xbe8665(0x115)},{'quoted':_0x2f097c});if(!_0x488e71)return await _0x2d2935[_0xbe8665(0xf3)](_0x26e430,{'text':'Não\x20tenho\x20a\x20patente\x20necessária\x20para\x20executar\x20este\x20decreto.'},{'quoted':_0x2f097c});const _0x345d5e=_0x2f485d['join']('\x20')[_0xbe8665(0xf5)]();let _0x350fc7,_0x40ac00;switch(_0x345d5e){case _0xbe8665(0xf8):_0x350fc7=0x15180,_0x40ac00=_0x3fb082['Vrjrj'];break;case _0xbe8665(0x102):case _0x3fb082[_0xbe8665(0xfc)]:_0x350fc7=0x93a80,_0x40ac00=_0x3fb082[_0xbe8665(0x114)];break;case _0x3fb082[_0xbe8665(0x10d)]:_0x350fc7=0x76a700,_0x40ac00=_0x3fb082[_0xbe8665(0x10d)];break;default:return await _0x2d2935['sendMessage'](_0x26e430,{'text':_0x3fb082[_0xbe8665(0x104)]},{'quoted':_0x2f097c});}try{await _0x2d2935['groupToggleEphemeral'](_0x26e430,_0x350fc7),await _0x2d2935[_0xbe8665(0xf3)](_0x26e430,{'text':_0xbe8665(0xf4)+_0x40ac00+'*.'});}catch(_0x468b03){await _0x2d2935[_0xbe8665(0xf3)](_0x26e430,{'text':_0x3fb082['hVRTP']},{'quoted':_0x2f097c});}}};
+// Salvar como: commands/ativar-msg-tmp.js
+module.exports = {
+    name: 'ativar-msg-tmp',
+    // Sem aliases, conforme ordenado.
+
+    execute: async ({ lux, msg, from, isGroup, sender, args, areJidsSameUser, settings }) => {
+        if (!isGroup) return await lux.sendMessage(from, { text: 'General, este decreto só pode ser proclamado em um clã.' }, { quoted: msg });
+
+        const groupMeta = await lux.groupMetadata(from);
+        const senderIsAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, sender))?.admin;
+        const botIsAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, settings.botLid))?.admin;
+
+        if (!senderIsAdmin) return await lux.sendMessage(from, { text: 'Apenas generais podem alterar as leis do tempo neste clã.' }, { quoted: msg });
+        if (!botIsAdmin) return await lux.sendMessage(from, { text: 'Não tenho a patente necessária para executar este decreto.' }, { quoted: msg });
+
+        const tempoArgs = args.join(' ').toLowerCase();
+        let duracaoSegundos;
+        let duracaoTexto;
+
+        // Mapeia os argumentos para a duração em segundos que a API espera.
+        switch (tempoArgs) {
+            case '24 horas':
+                duracaoSegundos = 86400; // 24 * 60 * 60
+                duracaoTexto = '24 horas';
+                break;
+            case '7 dias':
+            case '1 semana':
+                duracaoSegundos = 604800; // 7 * 24 * 60 * 60
+                duracaoTexto = '7 dias';
+                break;
+            case '90 dias':
+                duracaoSegundos = 7776000; // 90 * 24 * 60 * 60
+                duracaoTexto = '90 dias';
+                break;
+            default:
+                // Se o argumento for inválido, envia o manual de uso.
+                return await lux.sendMessage(from, { 
+                    text: 'Sintaxe do jutsu incorreta, General.\n\n*Uso correto:* `ativar-msg-tmp <duração>`\n\n*Durações Válidas:*\n- 24 horas\n- 7 dias (ou 1 semana)\n- 90 dias' 
+                }, { quoted: msg });
+        }
+        
+        try {
+            await lux.groupToggleEphemeral(from, duracaoSegundos);
+            await lux.sendMessage(from, { text: `⏳ *LEI DA EFEMERIDADE ATIVADA* ⏳\n\nPor decreto de um general, as mensagens neste clã agora desaparecerão após *${duracaoTexto}*.` });
+        } catch (e) {
+            await lux.sendMessage(from, { text: 'General, uma anomalia impediu a alteração da lei da efemeridade.' }, { quoted: msg });
+        }
+    }
+};

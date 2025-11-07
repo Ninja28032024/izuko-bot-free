@@ -1,1 +1,58 @@
-const a0_0x9f07f2=a0_0x24e5;(function(_0x2348ca,_0x4e0b01){const _0x4b38e6=a0_0x24e5,_0xad4638=_0x2348ca();while(!![]){try{const _0x2d827e=-parseInt(_0x4b38e6(0xa2))/0x1+-parseInt(_0x4b38e6(0x99))/0x2*(-parseInt(_0x4b38e6(0xa7))/0x3)+parseInt(_0x4b38e6(0x7a))/0x4+parseInt(_0x4b38e6(0x8c))/0x5*(parseInt(_0x4b38e6(0x83))/0x6)+-parseInt(_0x4b38e6(0x9a))/0x7*(-parseInt(_0x4b38e6(0x87))/0x8)+-parseInt(_0x4b38e6(0xab))/0x9+parseInt(_0x4b38e6(0xa3))/0xa*(-parseInt(_0x4b38e6(0x8b))/0xb);if(_0x2d827e===_0x4e0b01)break;else _0xad4638['push'](_0xad4638['shift']());}catch(_0x2a50f3){_0xad4638['push'](_0xad4638['shift']());}}}(a0_0xe6f8,0x5accf));const a0_0x2ce516=(function(){let _0x2a1ac1=!![];return function(_0x3714ca,_0x565445){const _0x27cdbe=_0x2a1ac1?function(){if(_0x565445){const _0xf9703f=_0x565445['apply'](_0x3714ca,arguments);return _0x565445=null,_0xf9703f;}}:function(){};return _0x2a1ac1=![],_0x27cdbe;};}()),a0_0x95a536=a0_0x2ce516(this,function(){const _0x4d13b3=a0_0x24e5,_0x39fed7={'zpASO':_0x4d13b3(0x8e)};return a0_0x95a536[_0x4d13b3(0x89)]()[_0x4d13b3(0x9f)](_0x4d13b3(0x8e))['toString']()[_0x4d13b3(0xa5)](a0_0x95a536)[_0x4d13b3(0x9f)](_0x39fed7[_0x4d13b3(0xb3)]);});a0_0x95a536();function a0_0x24e5(_0xb17141,_0x5807a9){const _0x53214d=a0_0xe6f8();return a0_0x24e5=function(_0x95a536,_0x2ce516){_0x95a536=_0x95a536-0x79;let _0xe6f845=_0x53214d[_0x95a536];if(a0_0x24e5['zPvxCy']===undefined){var _0x24e5d9=function(_0x4d95d8){const _0x311516='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x271530='',_0x2ba4e4='',_0x27db64=_0x271530+_0x24e5d9;for(let _0x52917e=0x0,_0xb323e8,_0x4b570c,_0x1605c6=0x0;_0x4b570c=_0x4d95d8['charAt'](_0x1605c6++);~_0x4b570c&&(_0xb323e8=_0x52917e%0x4?_0xb323e8*0x40+_0x4b570c:_0x4b570c,_0x52917e++%0x4)?_0x271530+=_0x27db64['charCodeAt'](_0x1605c6+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0xb323e8>>(-0x2*_0x52917e&0x6)):_0x52917e:0x0){_0x4b570c=_0x311516['indexOf'](_0x4b570c);}for(let _0x50070d=0x0,_0x2332ef=_0x271530['length'];_0x50070d<_0x2332ef;_0x50070d++){_0x2ba4e4+='%'+('00'+_0x271530['charCodeAt'](_0x50070d)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2ba4e4);};a0_0x24e5['dXDilK']=_0x24e5d9,_0xb17141=arguments,a0_0x24e5['zPvxCy']=!![];}const _0x417fd6=_0x53214d[0x0],_0x2f7080=_0x95a536+_0x417fd6,_0x351dba=_0xb17141[_0x2f7080];if(!_0x351dba){const _0x5cc26f=function(_0x2fe169){this['SeAyVv']=_0x2fe169,this['uxHpju']=[0x1,0x0,0x0],this['ISEgqa']=function(){return'newState';},this['OlpoAR']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['uUQzJh']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x5cc26f['prototype']['tTBmBL']=function(){const _0x51cb7b=new RegExp(this['OlpoAR']+this['uUQzJh']),_0x4e8f5c=_0x51cb7b['test'](this['ISEgqa']['toString']())?--this['uxHpju'][0x1]:--this['uxHpju'][0x0];return this['xaRBtt'](_0x4e8f5c);},_0x5cc26f['prototype']['xaRBtt']=function(_0x655de3){if(!Boolean(~_0x655de3))return _0x655de3;return this['CnRpXr'](this['SeAyVv']);},_0x5cc26f['prototype']['CnRpXr']=function(_0xc0e9ea){for(let _0x327968=0x0,_0x2a7285=this['uxHpju']['length'];_0x327968<_0x2a7285;_0x327968++){this['uxHpju']['push'](Math['round'](Math['random']())),_0x2a7285=this['uxHpju']['length'];}return _0xc0e9ea(this['uxHpju'][0x0]);},new _0x5cc26f(a0_0x24e5)['tTBmBL'](),_0xe6f845=a0_0x24e5['dXDilK'](_0xe6f845),_0xb17141[_0x2f7080]=_0xe6f845;}else _0xe6f845=_0x351dba;return _0xe6f845;},a0_0x24e5(_0xb17141,_0x5807a9);}const fs=require('fs'),path=require(a0_0x9f07f2(0xa9)),chalk=require(a0_0x9f07f2(0x8a)),{downloadContentFromMessage,getContentType}=require(a0_0x9f07f2(0x81));function a0_0xe6f8(){const _0x102f4b=['y29UDgv4DeLUzM8','tKXvCue','CxvVDgvKtwvZC2fNzq','mZCYntiWyK13B3vS','Aw1Hz2u','Dg9tDhjPBMC','y2HHBgS','mti0ntjHu2TYD1y','mJCYndeZmePHwKfHyW','BwTKAxjtEw5J','kcGOlISPkYKRksSK','t29pvNq','4PYfie9YzgvTigv4zwn1DgfKys4GqsbUB3zHigLTywDLBsbKBYbTzw51igzVAsbZywX2ysbJB21VicO','kIbUBYbWzxjNyw1PBMHVigrLigLTywDLBNmU','wfj2y0G','Bg9N','DLzdwwq','z0DhteW','sfjQrNe','yxbWBhK','4P2mie1LC3rYzsWGB2nVCNjLDsb1BweGzMfSAgeGyw8GDgvUDgfYihnHBhzHCIbHigLTywDLBsbUBYbIyw5JBYbKzsbKywrVCY4','mZu5mdu2sKz5EMzm','mJfcBxv1DNe','D3jPDgvgAwXLu3LUyW','y29Uy2f0','C2vUze1LC3nHz2u','Aw1Hz2vnzxnZywDL','C2vHCMnO','t3LquKO','BwvUDsbPBwC','mJy0mduXtvfPEeXK','nde5mg5erw1sBq','AwnWq3G','y29UC3rYDwn0B3i','ywrKAw1NBwvUDq','nKLnwLLlCG','zNjVBq','Cgf0Aa','wvDUz1q','ntC1nJuZnu1bAgLKzW','C3bSAxq','twvZDhjLlcbWB3iGzMf2B3iSicPTyxjXDwuQihvTysbPBwfNzw0GCgfYysbXDwuGzxuGCg9ZC2eGywrPy2LVBSoHlwXHigfVihbLCMDHBwLUAg8Gzg8GBwvUDs4','lMPWzwC','EujrDeK','zxHPC3rZu3LUyW','CMvK','BwvZC2fNzq','ENbbu08','zxH0zw5KzwruzxH0twvZC2fNzq','mJGYnti2neDuq3LAEG','AM9PBG','zxHWB3j0CW','uvrAteq','ihrLBNrVDsb1C2fYig8Gy29Tyw5KBYaHywrKlwLTz21LBNuU','BNjsBwy','v3nwrxa','qhDOAxnRzxLZB2nRzxrZl2jHAwXLExm','w1bfuK1ju1pdG08GtKvhqurbxsbpihvZDCoHCMLVia','nKTRv0XVCW'];a0_0xe6f8=function(){return _0x102f4b;};return a0_0xe6f8();}module[a0_0x9f07f2(0x7c)]={'name':'add-imgmenu','aliases':[a0_0x9f07f2(0xa6)],'description':'Adiciona\x20uma\x20imagem\x20marcada\x20ao\x20banco\x20de\x20dados\x20do\x20menu.','execute':async({lux:_0x2841f,from:_0x3dc5e3,msg:_0x5504ae,isOwner:_0x28e6b0,sender:_0x67dfc2})=>{const _0x15d311=a0_0x9f07f2,_0x4c0639={'QTZLD':_0x15d311(0xad),'OyPRJ':function(_0x36dffa,_0x41c747){return _0x36dffa(_0x41c747);},'ACMQQ':function(_0x40cdaf,_0x1d454e){return _0x40cdaf===_0x1d454e;},'OoOVt':_0x15d311(0x79),'yBQtI':function(_0x391983,_0x36fcc6,_0x406554){return _0x391983(_0x36fcc6,_0x406554);},'WsVEp':_0x15d311(0x88),'bAiEY':'banco\x20de\x20dados','YWngT':_0x15d311(0xa1),'FEgGB':function(_0x1c57f0,_0x1a6640){return _0x1c57f0===_0x1a6640;},'gGGLL':_0x15d311(0x96),'nrRmf':_0x15d311(0xa4),'wTTuy':_0x15d311(0x85),'vVCYd':'Erro\x20ao\x20salvar\x20imagem\x20de\x20menu:'};if(!_0x28e6b0)return console[_0x15d311(0x93)](chalk[_0x15d311(0xb1)](_0x15d311(0x82)+_0x67dfc2[_0x15d311(0xac)]('@')[0x0]+_0x15d311(0x7e))),_0x2841f[_0x15d311(0x9d)](_0x3dc5e3,{'text':'🛡️\x20*ACESSO\x20NEGADO*\x20🛡️\x0a\x0aEste\x20é\x20um\x20jutsu\x20de\x20administração,\x20reservado\x20apenas\x20para\x20o\x20Mestre\x20Supremo.'},{'quoted':_0x5504ae});const _0x2d92c8=_0x4c0639[_0x15d311(0xa0)](getContentType,_0x5504ae['message']),_0x2cbe82=_0x4c0639['ACMQQ'](_0x2d92c8,_0x4c0639[_0x15d311(0x8f)])&&_0x5504ae['message'][_0x15d311(0x79)]['contextInfo']&&_0x5504ae['message'][_0x15d311(0x79)][_0x15d311(0x84)]['quotedMessage']&&_0x5504ae['message'][_0x15d311(0x79)]['contextInfo']['quotedMessage'][_0x15d311(0x9e)];if(!_0x2cbe82)return _0x2841f['sendMessage'](_0x3dc5e3,{'text':_0x4c0639['QTZLD']},{'quoted':_0x5504ae});const _0x2b6c1e=_0x5504ae[_0x15d311(0xb2)][_0x15d311(0x79)][_0x15d311(0x84)][_0x15d311(0x86)],_0x5101ad=await _0x4c0639[_0x15d311(0xaf)](downloadContentFromMessage,_0x2b6c1e[_0x15d311(0x9e)],_0x4c0639[_0x15d311(0x80)]);let _0x44b2a9=Buffer[_0x15d311(0xa8)]([]);for await(const _0x430c7f of _0x5101ad){_0x44b2a9=Buffer[_0x15d311(0x9c)]([_0x44b2a9,_0x430c7f]);}const _0x5a4b29=path[_0x15d311(0x7b)](__dirname,'..',_0x4c0639['bAiEY'],_0x4c0639[_0x15d311(0xaa)]);if(!fs[_0x15d311(0xb0)](_0x5a4b29)){if(_0x4c0639['FEgGB'](_0x4c0639[_0x15d311(0x95)],_0x4c0639[_0x15d311(0x7f)])){const _0x38e9e3=_0x50070d?function(){const _0x276fca=_0x15d311;if(_0x655de3){const _0x44e400=_0x2e9c95[_0x276fca(0x97)](_0x1cd300,arguments);return _0x574adc=null,_0x44e400;}}:function(){};return _0x4e8f5c=![],_0x38e9e3;}else fs[_0x15d311(0x8d)](_0x5a4b29,{'recursive':!![]});}const _0x45db96=Date['now'](),_0x3dead9=_0x45db96+_0x15d311(0xae),_0x302d28=path[_0x15d311(0x7b)](_0x5a4b29,_0x3dead9);try{fs[_0x15d311(0x9b)](_0x302d28,_0x44b2a9),await _0x2841f[_0x15d311(0x9d)](_0x3dc5e3,{'text':_0x15d311(0x90)+_0x3dead9+_0x15d311(0x91)},{'quoted':_0x5504ae});}catch(_0x1d9072){if(_0x4c0639['FEgGB'](_0x4c0639['wTTuy'],_0x15d311(0x92)))return _0x3241b[_0x15d311(0x9d)](_0x1305ae,{'text':_0x4c0639[_0x15d311(0x7d)]},{'quoted':_0x4772b9});else console['error'](chalk[_0x15d311(0xb1)](_0x4c0639[_0x15d311(0x94)]),_0x1d9072),await _0x2841f[_0x15d311(0x9d)](_0x3dc5e3,{'text':_0x15d311(0x98)},{'quoted':_0x5504ae});}}};
+// commands/add-imgmenu.js
+const fs = require('fs');
+const path = require('path');
+const chalk = require('chalk');
+const { downloadContentFromMessage, getContentType } = require('@whiskeysockets/baileys');
+
+module.exports = {
+    name: 'add-imgmenu',
+    aliases: ['addimgmenu'],
+    description: 'Adiciona uma imagem marcada ao banco de dados do menu.',
+    execute: async ({ lux, from, msg, isOwner, sender }) => {
+        // --- SELO DE AUTORIDADE SUPREMA ---
+        if (!isOwner) {
+            console.log(chalk.red(`[PERMISSÃO NEGADA] O usuário ${sender.split('@')[0]} tentou usar o comando !add-imgmenu.`));
+            return lux.sendMessage(from, { text: '🛡️ *ACESSO NEGADO* 🛡️\n\nEste é um jutsu de administração, reservado apenas para o Mestre Supremo.' }, { quoted: msg });
+        }
+
+        const type = getContentType(msg.message);
+        const isQuotedImage = type === 'extendedTextMessage' && msg.message.extendedTextMessage.contextInfo && msg.message.extendedTextMessage.contextInfo.quotedMessage && msg.message.extendedTextMessage.contextInfo.quotedMessage.imageMessage;
+        
+        if (!isQuotedImage) {
+            return lux.sendMessage(from, { text: 'Mestre, por favor, *marque* uma imagem para que eu possa adicioná-la ao pergaminho do menu.' }, { quoted: msg });
+        }
+
+        const quotedMessage = msg.message.extendedTextMessage.contextInfo.quotedMessage;
+        const stream = await downloadContentFromMessage(quotedMessage.imageMessage, 'image');
+
+        // Cria um buffer a partir do stream
+        let buffer = Buffer.from([]);
+        for await (const chunk of stream) {
+            buffer = Buffer.concat([buffer, chunk]);
+        }
+
+        // Define o caminho para a pasta de imagens do menu
+        const menuImgDir = path.join(__dirname, '..', 'banco de dados', 'menu img');
+        
+        // Garante que a pasta exista
+        if (!fs.existsSync(menuImgDir)) {
+            fs.mkdirSync(menuImgDir, { recursive: true });
+        }
+
+        // Gera um nome de arquivo único (timestamp + extensão)
+        const timestamp = Date.now();
+        const filename = `${timestamp}.jpeg`; // Assumindo que a imagem é JPEG/PNG e salvando como JPEG
+        const savePath = path.join(menuImgDir, filename);
+
+        try {
+            // Salva o buffer da imagem no arquivo
+            fs.writeFileSync(savePath, buffer);
+
+            await lux.sendMessage(from, { text: `✅ Ordem executada. A nova imagem do menu foi salva como *${filename}* no pergaminho de imagens.` }, { quoted: msg });
+
+        } catch (error) {
+            console.error(chalk.red('Erro ao salvar imagem de menu:'), error);
+            await lux.sendMessage(from, { text: '❌ Mestre, ocorreu uma falha ao tentar salvar a imagem no banco de dados.' }, { quoted: msg });
+        }
+    }
+};

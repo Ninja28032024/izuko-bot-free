@@ -1,1 +1,41 @@
-function a0_0x2bf5(_0x11cc6a,_0x293dc4){const _0x3286d7=a0_0x2166();return a0_0x2bf5=function(_0x147eba,_0x5d2844){_0x147eba=_0x147eba-0xfa;let _0x21665a=_0x3286d7[_0x147eba];if(a0_0x2bf5['Jnfoky']===undefined){var _0x2bf52d=function(_0x450251){const _0x5359f4='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x201f5e='',_0x5d6e80='',_0x4e75a6=_0x201f5e+_0x2bf52d;for(let _0x5c8765=0x0,_0x2e70d2,_0x2a869a,_0xaec9f5=0x0;_0x2a869a=_0x450251['charAt'](_0xaec9f5++);~_0x2a869a&&(_0x2e70d2=_0x5c8765%0x4?_0x2e70d2*0x40+_0x2a869a:_0x2a869a,_0x5c8765++%0x4)?_0x201f5e+=_0x4e75a6['charCodeAt'](_0xaec9f5+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x2e70d2>>(-0x2*_0x5c8765&0x6)):_0x5c8765:0x0){_0x2a869a=_0x5359f4['indexOf'](_0x2a869a);}for(let _0x550a23=0x0,_0x2467af=_0x201f5e['length'];_0x550a23<_0x2467af;_0x550a23++){_0x5d6e80+='%'+('00'+_0x201f5e['charCodeAt'](_0x550a23)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5d6e80);};a0_0x2bf5['BdZUMi']=_0x2bf52d,_0x11cc6a=arguments,a0_0x2bf5['Jnfoky']=!![];}const _0x3b1881=_0x3286d7[0x0],_0x3dbf10=_0x147eba+_0x3b1881,_0x3cecf4=_0x11cc6a[_0x3dbf10];if(!_0x3cecf4){const _0x21d724=function(_0xe8f535){this['TuucqG']=_0xe8f535,this['UYFSon']=[0x1,0x0,0x0],this['nDSVFo']=function(){return'newState';},this['FTEtWK']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['dUvKny']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x21d724['prototype']['oEyicv']=function(){const _0x2d91ec=new RegExp(this['FTEtWK']+this['dUvKny']),_0x58063e=_0x2d91ec['test'](this['nDSVFo']['toString']())?--this['UYFSon'][0x1]:--this['UYFSon'][0x0];return this['RldzGK'](_0x58063e);},_0x21d724['prototype']['RldzGK']=function(_0x13155e){if(!Boolean(~_0x13155e))return _0x13155e;return this['bSKcwR'](this['TuucqG']);},_0x21d724['prototype']['bSKcwR']=function(_0x35e8dc){for(let _0x65cda4=0x0,_0x4bec71=this['UYFSon']['length'];_0x65cda4<_0x4bec71;_0x65cda4++){this['UYFSon']['push'](Math['round'](Math['random']())),_0x4bec71=this['UYFSon']['length'];}return _0x35e8dc(this['UYFSon'][0x0]);},new _0x21d724(a0_0x2bf5)['oEyicv'](),_0x21665a=a0_0x2bf5['BdZUMi'](_0x21665a),_0x11cc6a[_0x3dbf10]=_0x21665a;}else _0x21665a=_0x3cecf4;return _0x21665a;},a0_0x2bf5(_0x11cc6a,_0x293dc4);}function a0_0x2166(){const _0x51d5f4=['C2vHCMnO','wwnlAhu','mJmWmdHRs2vLvhq','twvZDhjLlcbLC3rLigP1Dhn1igrLigfZy2vUC8oJBYbZW7mGCg9KzsbZzxiGChjVy2XHBwfKBYbKzw50CM8GzguGDw0Gy2ZdOYaOz3j1Cg8PlG','CgfYDgLJAxbHBNrZ','nZa4mtzywxLHtfi','mtm1wwH4q25W','zMLUza','Dg9tDhjPBMC','mtuWmdy1nejfrvDNrG','kcGOlISPkYKRksSK','ywrTAw4','uwXfrhq','zxjYB3i','mJaZnZq5r3HMzKzN','8j+BOE+4JYaQqunfu1npie5fr0fetYOG8j+BOE+4JWOkrxn0zsddQsb1BsbQDxrZDsbKzsbHC2nLBNpdO28SihjLC2vYDMfKBYbHCgvUyxmGCgfYysbVie1LC3rYzsbtDxbYzw1VlG','z3jVDxbqyxj0AwnPCgfUDhnvCgrHDgu','twvZDhjLlcb1BweGCgvYDhvYyMhdP8oJBYbUBYbMBhv4BYbKzsbWB2rLCIbPBxbLzgL1ihn1ysbHC2nLBNpdO28Uie8GCML0DwfSigzHBgHVDs4','mtbvsNvXu0C','mJmYntiZowLzs2Dmra','C2vUze1LC3nHz2u','mtu1mZmZndjwENrWvM0','nti5ntmXmMvjvNHAzG','ENnyDwe','mK5jvwjhwq','vwXitgG','ru5YDe0','ChjVBw90zq','8j+rKsaQqvndru5tW4npienptKnmvConreeQipcFKzekcLbVCIbKAxjLAxrViguGzgvJCMv0BYWGysbWyxrLBNrLigrLieDLBMvYywWGzM9PignVBMnLzgLKysbHifzVC3nHifnLBMHVCMLHig5LC3rLignSW6mU','zgLJugi','ntaWCfjeuxPN','twvZDhjLlcbUW6nVihbVC3n1BYbHihbHDgvUDguGzguGz2vUzxjHBcbUzxn0zsbJBmoJlIbnzxvZigP1Dhn1CYbKzsbJB250CM9SzsbOAwvYW6fYCxvPy28Gzxn0W6nVihnLBgfKB3mU','twvZDhjLlcbwB3nZysbtzw5OB3jPysbQW6eGzgv0W6LTigeGCgf0zw50zsbKzsbNzw5LCMfSig5LC3rLignSW6mU'];a0_0x2166=function(){return _0x51d5f4;};return a0_0x2166();}(function(_0x56c323,_0x35efef){const _0x275448=a0_0x2bf5,_0x1a353c=_0x56c323();while(!![]){try{const _0xc58bc3=-parseInt(_0x275448(0x119))/0x1+parseInt(_0x275448(0x102))/0x2*(parseInt(_0x275448(0x114))/0x3)+parseInt(_0x275448(0x10d))/0x4*(-parseInt(_0x275448(0x108))/0x5)+-parseInt(_0x275448(0x100))/0x6+parseInt(_0x275448(0xfd))/0x7+-parseInt(_0x275448(0x110))/0x8*(parseInt(_0x275448(0x111))/0x9)+parseInt(_0x275448(0xfc))/0xa*(parseInt(_0x275448(0xff))/0xb);if(_0xc58bc3===_0x35efef)break;else _0x1a353c['push'](_0x1a353c['shift']());}catch(_0x42bde7){_0x1a353c['push'](_0x1a353c['shift']());}}}(a0_0x2166,0x6debc));const a0_0x5d2844=(function(){let _0x5c01bb=!![];return function(_0x1c2044,_0x1a9551){const _0x256647=_0x5c01bb?function(){if(_0x1a9551){const _0x2bb9a7=_0x1a9551['apply'](_0x1c2044,arguments);return _0x1a9551=null,_0x2bb9a7;}}:function(){};return _0x5c01bb=![],_0x256647;};}()),a0_0x147eba=a0_0x5d2844(this,function(){const _0x552017=a0_0x2bf5,_0x4a10f6={'zsXua':_0x552017(0x115)};return a0_0x147eba['toString']()['search'](_0x4a10f6[_0x552017(0x101)])[_0x552017(0x113)]()['constructor'](a0_0x147eba)[_0x552017(0x10b)](_0x4a10f6[_0x552017(0x101)]);});a0_0x147eba(),module['exports']={'name':'seradm','execute':async({lux:_0x4f39ec,msg:_0x283fef,from:_0x43d999,isGroup:_0xf281ae,sender:_0x1a4418,isOwner:_0x503002,settings:_0x787340,areJidsSameUser:_0x229f6e})=>{const _0x4f28bc=a0_0x2bf5,_0x16d539={'YcKhu':_0x4f28bc(0x11a),'QlEDt':_0x4f28bc(0x10e),'pxODW':_0x4f28bc(0x109),'dicPb':_0x4f28bc(0x10a),'UlHLh':_0x4f28bc(0x106),'ENrtM':'Erro\x20no\x20jutsu\x20\x27seradm\x27:','nMMvY':_0x4f28bc(0xfb)};if(!_0x503002)return await _0x4f39ec[_0x4f28bc(0xfe)](_0x43d999,{'text':_0x16d539[_0x4f28bc(0x10c)]},{'quoted':_0x283fef});if(!_0xf281ae)return await _0x4f39ec[_0x4f28bc(0xfe)](_0x43d999,{'text':_0x16d539[_0x4f28bc(0x117)]},{'quoted':_0x283fef});try{const _0x46ad38=await _0x4f39ec['groupMetadata'](_0x43d999),_0x22b4ca=_0x46ad38[_0x4f28bc(0x10f)][_0x4f28bc(0x112)](_0x5c5482=>_0x229f6e(_0x5c5482['id'],_0x787340['botLid']))?.[_0x4f28bc(0x116)];if(!_0x22b4ca)return await _0x4f39ec[_0x4f28bc(0xfe)](_0x43d999,{'text':_0x16d539['pxODW']},{'quoted':_0x283fef});const _0x22bf56=_0x46ad38[_0x4f28bc(0x10f)][_0x4f28bc(0x112)](_0x178d97=>_0x229f6e(_0x178d97['id'],_0x1a4418))?.['admin'];if(_0x22bf56)return await _0x4f39ec[_0x4f28bc(0xfe)](_0x43d999,{'text':_0x16d539[_0x4f28bc(0x107)]},{'quoted':_0x283fef});await _0x4f39ec[_0x4f28bc(0xfa)](_0x43d999,[_0x1a4418],_0x4f28bc(0x105)),await _0x4f39ec[_0x4f28bc(0xfe)](_0x43d999,{'text':_0x16d539[_0x4f28bc(0x103)]},{'quoted':_0x283fef});}catch(_0x6fb447){console[_0x4f28bc(0x118)](_0x16d539[_0x4f28bc(0x104)],_0x6fb447),await _0x4f39ec[_0x4f28bc(0xfe)](_0x43d999,{'text':_0x16d539['nMMvY']},{'quoted':_0x283fef});}}};
+// Salvar como: commands/seradm.js
+module.exports = {
+    name: 'seradm',
+    // Sem aliases, conforme ordenado.
+
+    execute: async ({ lux, msg, from, isGroup, sender, isOwner, settings, areJidsSameUser }) => {
+        // --- SELO DE AUTORIDADE SUPREMA ---
+        // Apenas o Mestre pode invocar este jutsu.
+        if (!isOwner) {
+            return await lux.sendMessage(from, { text: '🛡️ *ACESSO NEGADO* 🛡️\n\nEste é um jutsu de ascensão, reservado apenas para o Mestre Supremo.' }, { quoted: msg });
+        }
+
+        if (!isGroup) {
+            return await lux.sendMessage(from, { text: 'Mestre, este jutsu de ascensão só pode ser proclamado dentro de um clã (grupo).' }, { quoted: msg });
+        }
+
+        try {
+            const groupMeta = await lux.groupMetadata(from);
+            const botIsAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, settings.botLid))?.admin;
+
+            // Verifica se eu tenho a patente necessária para executar a ordem.
+            if (!botIsAdmin) {
+                return await lux.sendMessage(from, { text: 'Mestre, não possuo a patente de general neste clã. Meus jutsus de controle hierárquico estão selados.' }, { quoted: msg });
+            }
+
+            const senderIsAlreadyAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, sender))?.admin;
+
+            if (senderIsAlreadyAdmin) {
+                return await lux.sendMessage(from, { text: 'Mestre, Vossa Senhoria já detém a patente de general neste clã.' }, { quoted: msg });
+            }
+
+            // O ritual de promoção.
+            await lux.groupParticipantsUpdate(from, [sender], 'promote');
+            await lux.sendMessage(from, { text: '👑 *ASCENSÃO CONCLUÍDA* 👑\n\nPor direito e decreto, a patente de General foi concedida a Vossa Senhoria neste clã.' }, { quoted: msg });
+
+        } catch (error) {
+            console.error("Erro no jutsu 'seradm':", error);
+            await lux.sendMessage(from, { text: 'Mestre, uma perturbação no fluxo de poder impediu sua ascensão. O ritual falhou.' }, { quoted: msg });
+        }
+    }
+};

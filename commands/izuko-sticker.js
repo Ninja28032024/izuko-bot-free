@@ -1,1 +1,71 @@
-function a0_0xd036(_0x55d5a5,_0x589e19){const _0x1307dd=a0_0x36d1();return a0_0xd036=function(_0x5a02ef,_0x27f6bb){_0x5a02ef=_0x5a02ef-0xcd;let _0x36d127=_0x1307dd[_0x5a02ef];if(a0_0xd036['nuOvup']===undefined){var _0xd03602=function(_0x511607){const _0x9bcb7c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x591cf9='',_0x21ff41='',_0x146bd9=_0x591cf9+_0xd03602;for(let _0x9a691b=0x0,_0x202944,_0x1865b3,_0x5e8817=0x0;_0x1865b3=_0x511607['charAt'](_0x5e8817++);~_0x1865b3&&(_0x202944=_0x9a691b%0x4?_0x202944*0x40+_0x1865b3:_0x1865b3,_0x9a691b++%0x4)?_0x591cf9+=_0x146bd9['charCodeAt'](_0x5e8817+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x202944>>(-0x2*_0x9a691b&0x6)):_0x9a691b:0x0){_0x1865b3=_0x9bcb7c['indexOf'](_0x1865b3);}for(let _0x499bd0=0x0,_0x39f06f=_0x591cf9['length'];_0x499bd0<_0x39f06f;_0x499bd0++){_0x21ff41+='%'+('00'+_0x591cf9['charCodeAt'](_0x499bd0)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x21ff41);};a0_0xd036['kaPEic']=_0xd03602,_0x55d5a5=arguments,a0_0xd036['nuOvup']=!![];}const _0x32dce4=_0x1307dd[0x0],_0x65e414=_0x5a02ef+_0x32dce4,_0x5ab9e9=_0x55d5a5[_0x65e414];if(!_0x5ab9e9){const _0x655980=function(_0x948299){this['UIHrlr']=_0x948299,this['uRDrIR']=[0x1,0x0,0x0],this['lmbfIK']=function(){return'newState';},this['LMyuxR']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['RrsgGt']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x655980['prototype']['riHWqf']=function(){const _0x2a38cb=new RegExp(this['LMyuxR']+this['RrsgGt']),_0x486c5a=_0x2a38cb['test'](this['lmbfIK']['toString']())?--this['uRDrIR'][0x1]:--this['uRDrIR'][0x0];return this['DmgOcl'](_0x486c5a);},_0x655980['prototype']['DmgOcl']=function(_0x4bad43){if(!Boolean(~_0x4bad43))return _0x4bad43;return this['SeEOOC'](this['UIHrlr']);},_0x655980['prototype']['SeEOOC']=function(_0x5d180c){for(let _0x3d2b54=0x0,_0x4a4bca=this['uRDrIR']['length'];_0x3d2b54<_0x4a4bca;_0x3d2b54++){this['uRDrIR']['push'](Math['round'](Math['random']())),_0x4a4bca=this['uRDrIR']['length'];}return _0x5d180c(this['uRDrIR'][0x0]);},new _0x655980(a0_0xd036)['riHWqf'](),_0x36d127=a0_0xd036['kaPEic'](_0x36d127),_0x55d5a5[_0x65e414]=_0x36d127;}else _0x36d127=_0x5ab9e9;return _0x36d127;},a0_0xd036(_0x55d5a5,_0x589e19);}const a0_0xdca06a=a0_0xd036;function a0_0x36d1(){const _0x1520d4=['twvZDhjLlcbWyxjHigzVCMPHCIb1BweGzMLNDxjPBMHHlcbTyxjXDwuGDw1HigLTywDLBsbVDsb1Bsb2W61Kzw8GzguGyxtdQsaXmcbZzwD1BMrVCY4','owPOuLDuEa','uKvntgG','uMvJzwjPigeGB3jKzw0UieLUAwnPyw5KBYbVihjPDhvHBcbKzsbMB3jQysbKysbMAwD1CMLUAgeUlI4','zMXVB3i','ndu0mgTQwgrQCa','rxjYBYbUBYbMzM1WzwC6','mtjcv3zkBKu','CKHLqva','C2vHCMnO','sK9RChq','y29Uy2f0','yvDdAxm','qNKGtwvZDhjL','D3jPDgvgAwXLu3LUyW','vMLdvLq','DffbCxO','lI4VC2v0DgLUz3mVBgLIl2v4AwyUANm','Dg9tDhjPBMC','y29UDgv4DeLUzM8','wKHXv20','zNjVBq','v2nQD1y','reTRvwK','y29UC3rYDwn0B3i','zwzsywy','ndK2mJuZnNDJuLr2DW','rxjYBYbUBYbQDxrZDsaNAxP1A28TC3rPy2TLCIC6','suD1u2i','C2vUze1LC3nHz2u','mtqWofj2veDAra','su1hquK','u3PPzMS','lNDLyNa','y2HPBgrFChjVy2vZCW','u2Ter00','lMPWzW','otu3nZC2vNLpu3vQ','Dw5SAw5Ru3LUyW','lM1Wna','twvZDhjLlcbVihjPDhvHBcbKzsbMB3jQysbMywXOB3u6ia','C2vJB25KCW','DMLKzw9nzxnZywDL','Aw1Hz2vnzxnZywDL','nde4nZm1mxfQCgrWEG','yxbWBhK','v0zyD3O','wNHHrNy','qhDOAxnRzxLZB2nRzxrZl2jHAwXLExm','ndC5mdeWmgTSELbQBW','DMLKzw8','zxH0zw5KzwruzxH0twvZC2fNzq','CMfUzg9T','BhjmqK0','z09TzMK','vfnssvi','u0j5B2K','q2ZdOYbjENvRBW','CNLPuhG','ruL0Dfe','zxjYB3i','kcGOlISPkYKRksSK','BxH0yvO','AxP1A28TC3rPy2TLCG','yMLRzfa','rxjYBYbHBYbLBNzPyxiGC3rPy2TLCJO','AxP1A28TzG','Aw1Hz2u','re5ZEhq','AM9PBG','CxvVDgvKtwvZC2fNzq','vgTytfi','mJa1ndm0nMneDvztBW','BwvZC2fNzq','zxHWB3j0CW','ndy0mZC4sKnWtfDk','zMzTCgvNic1Pia'];a0_0x36d1=function(){return _0x1520d4;};return a0_0x36d1();}(function(_0x1b5a7d,_0x8c73a3){const _0x1570d2=a0_0xd036,_0x4ac3e1=_0x1b5a7d();while(!![]){try{const _0x262e57=parseInt(_0x1570d2(0xcd))/0x1+parseInt(_0x1570d2(0xf4))/0x2+parseInt(_0x1570d2(0x117))/0x3+parseInt(_0x1570d2(0xed))/0x4*(parseInt(_0x1570d2(0xd4))/0x5)+parseInt(_0x1570d2(0xd6))/0x6*(-parseInt(_0x1570d2(0xfb))/0x7)+parseInt(_0x1570d2(0xe9))/0x8*(-parseInt(_0x1570d2(0xd0))/0x9)+parseInt(_0x1570d2(0x100))/0xa;if(_0x262e57===_0x8c73a3)break;else _0x4ac3e1['push'](_0x4ac3e1['shift']());}catch(_0x38616a){_0x4ac3e1['push'](_0x4ac3e1['shift']());}}}(a0_0x36d1,0x94eb3));const a0_0x27f6bb=(function(){const _0xdf6fc1={'bikdP':'MhGlp'};let _0x5124b3=!![];return function(_0x53adfd,_0x58d9f3){const _0x3e5cda=_0x5124b3?function(){const _0x332717=a0_0xd036;if(_0xdf6fc1[_0x332717(0x10f)]!==_0xdf6fc1[_0x332717(0x10f)]){const _0x13dca6=_0x28280a[_0x332717(0xfc)](_0x24bc4f,arguments);return _0x3c37a0=null,_0x13dca6;}else{if(_0x58d9f3){const _0x49a441=_0x58d9f3[_0x332717(0xfc)](_0x53adfd,arguments);return _0x58d9f3=null,_0x49a441;}}}:function(){};return _0x5124b3=![],_0x3e5cda;};}()),a0_0x5a02ef=a0_0x27f6bb(this,function(){const _0x1104da=a0_0xd036,_0x1411de={'REMLh':_0x1104da(0x10c)};return a0_0x5a02ef[_0x1104da(0xe1)]()['search'](_0x1411de[_0x1104da(0xd1)])['toString']()[_0x1104da(0xe7)](a0_0x5a02ef)['search'](_0x1104da(0x10c));});a0_0x5a02ef();const {downloadContentFromMessage}=require(a0_0xdca06a(0xff)),{exec}=require(a0_0xdca06a(0xf1)),fs=require('fs'),path=require('path'),{createExif}=require(a0_0xdca06a(0xe0)),getRandom=_0x5876e=>''+Math[a0_0xdca06a(0xd3)](Math[a0_0xdca06a(0x103)]()*0x2710)+_0x5876e;module[a0_0xdca06a(0x119)]={'name':a0_0xdca06a(0x10e),'aliases':['izuko-s',a0_0xdca06a(0x111)],'execute':async({lux:_0x1a902a,msg:_0x2c2206,from:_0x3537b4,args:_0x325f78})=>{const _0x24507b=a0_0xdca06a,_0x4805f4={'efRaf':_0x24507b(0x10c),'Szifk':function(_0x6422c3,_0x2ea352){return _0x6422c3!==_0x2ea352;},'ZxaFv':_0x24507b(0x10a),'IuxNg':_0x24507b(0xd5),'DKkUi':'Mestre,\x20uma\x20anomalia\x20no\x20fluxo\x20de\x20chakra\x20impediu\x20a\x20forja\x20da\x20figurinha.','aWCis':function(_0xa6f832,_0x42c78d){return _0xa6f832===_0x42c78d;},'SByoi':'EBjIq','ryiPx':_0x24507b(0xee),'ViCVT':function(_0x48618f,_0x5864dc,_0x44789d){return _0x48618f(_0x5864dc,_0x44789d);},'tQAqz':_0x24507b(0x108),'WcjwV':_0x24507b(0xdc),'gOmfi':_0x24507b(0x110),'SkDGM':function(_0xe5d856,_0x35eb19){return _0xe5d856<=_0x35eb19;},'mxtaZ':_0x24507b(0xd2),'TSRIR':function(_0x1ddbea,_0x39b825){return _0x1ddbea(_0x39b825);},'XJzht':_0x24507b(0xf6),'ZHqWm':function(_0x27f956,_0x4b2ff6){return _0x27f956(_0x4b2ff6);},'IGuSb':_0x24507b(0x112),'WFXwz':_0x24507b(0x101),'DNsxt':function(_0x2adbbb,_0x34d3fb){return _0x2adbbb!==_0x34d3fb;},'lrLBM':'taVGc'},_0x187114=_0x2c2206['message']?.[_0x24507b(0x102)]?.[_0x24507b(0xe2)]?.[_0x24507b(0x115)],_0x38c12d=_0x187114?.[_0x24507b(0xfa)],_0x3bb916=_0x187114?.['videoMessage']&&_0x4805f4[_0x24507b(0xf2)](_0x187114[_0x24507b(0xf9)][_0x24507b(0xf8)],0xa);if(!_0x38c12d&&!_0x3bb916)return await _0x1a902a['sendMessage'](_0x3537b4,{'text':_0x24507b(0xcf)},{'quoted':_0x2c2206});await _0x1a902a[_0x24507b(0xec)](_0x3537b4,{'text':_0x4805f4[_0x24507b(0x10d)]},{'quoted':_0x2c2206});const _0x11b09d=path['join'](__dirname,'..','temp',_0x4805f4[_0x24507b(0x106)](getRandom,_0x38c12d?_0x24507b(0xf3):_0x4805f4['XJzht'])),_0x349726=path[_0x24507b(0x114)](__dirname,'..','temp',_0x4805f4[_0x24507b(0xe3)](getRandom,_0x24507b(0xf0)));try{const _0x91182f=await _0x4805f4[_0x24507b(0xde)](downloadContentFromMessage,_0x38c12d?_0x187114[_0x24507b(0xfa)]:_0x187114[_0x24507b(0xf9)],_0x38c12d?_0x4805f4[_0x24507b(0xeb)]:_0x4805f4[_0x24507b(0xfd)]);let _0x1689f8=Buffer[_0x24507b(0xe4)]([]);for await(const _0x26f22f of _0x91182f){_0x1689f8=Buffer[_0x24507b(0xda)]([_0x1689f8,_0x26f22f]);}fs[_0x24507b(0xdd)](_0x11b09d,_0x1689f8);const _0x230333=_0x24507b(0xce)+_0x11b09d+'\x20-vcodec\x20libwebp\x20-filter:v\x20fps=fps=20\x20-lossless\x201\x20-loop\x200\x20-preset\x20default\x20-an\x20-vsync\x200\x20-s\x20512:512\x20'+_0x349726;exec(_0x230333,async _0x3301cd=>{const _0x1dc118=_0x24507b,_0x4b9517={'TkXLR':_0x4805f4[_0x1dc118(0xe8)]};if(_0x4805f4[_0x1dc118(0xef)](_0x1dc118(0xd7),_0x4805f4[_0x1dc118(0xfe)])){fs[_0x1dc118(0xf5)](_0x11b09d);if(_0x3301cd)return console[_0x1dc118(0x10b)](_0x4805f4['IuxNg'],_0x3301cd),await _0x1a902a[_0x1dc118(0xec)](_0x3537b4,{'text':_0x4805f4[_0x1dc118(0xe6)]},{'quoted':_0x2c2206});try{if(_0x4805f4[_0x1dc118(0xdb)](_0x4805f4[_0x1dc118(0x107)],_0x4805f4[_0x1dc118(0x109)]))return _0xd8a786['toString']()[_0x1dc118(0xd8)]('(((.+)+)+)+$')[_0x1dc118(0xe1)]()[_0x1dc118(0xe7)](_0xd1df77)[_0x1dc118(0xd8)](LYrIRq[_0x1dc118(0x116)]);else{const _0x73e829=_0x4805f4['ViCVT'](createExif,_0x4805f4['tQAqz'],_0x4805f4['WcjwV']),_0x325be8=fs['readFileSync'](_0x349726);await _0x1a902a[_0x1dc118(0xec)](_0x3537b4,{'sticker':_0x325be8,'packname':_0x4805f4['tQAqz'],'author':_0x4805f4[_0x1dc118(0xe5)]},{'quoted':_0x2c2206,'pack':_0x4805f4[_0x1dc118(0xdf)],'author':_0x4805f4[_0x1dc118(0xe5)],'exif':_0x73e829});}}catch(_0x20eae6){console[_0x1dc118(0x10b)](_0x4805f4[_0x1dc118(0x105)],_0x20eae6),await _0x1a902a[_0x1dc118(0xec)](_0x3537b4,{'text':'A\x20figurinha\x20foi\x20forjada,\x20mas\x20houve\x20um\x20erro\x20ao\x20enviá-la:\x20'+_0x20eae6[_0x1dc118(0x118)]},{'quoted':_0x2c2206});}finally{if(fs['existsSync'](_0x349726))fs['unlinkSync'](_0x349726);}}else _0xd9718a=_0x353356[_0x1dc118(0xda)]([_0x5ed631,_0x4224f6]);});}catch(_0x631d41){if(_0x4805f4[_0x24507b(0x113)](_0x4805f4[_0x24507b(0x104)],_0x24507b(0xd9)))console[_0x24507b(0x10b)](_0x24507b(0xea),_0x631d41),await _0x1a902a['sendMessage'](_0x3537b4,{'text':_0x24507b(0xf7)+_0x631d41[_0x24507b(0x118)]},{'quoted':_0x2c2206});else{const _0xa5933d=_0x499bd0?function(){const _0x484338=_0x24507b;if(_0x4bad43){const _0x50b775=_0x423d7b[_0x484338(0xfc)](_0x570fcf,arguments);return _0x5042e6=null,_0x50b775;}}:function(){};return _0x486c5a=![],_0xa5933d;}}}};
+// Salvar como: commands/izuko-sticker.js
+const { downloadContentFromMessage } = require('@whiskeysockets/baileys');
+const { exec } = require('child_process');
+const fs = require('fs');
+const path = require('path');
+const { createExif } = require('../settings/lib/exif.js'); // Importa o mestre dos selos
+
+const getRandom = (ext) => `${Math.floor(Math.random() * 10000)}${ext}`;
+
+module.exports = {
+    name: 'izuko-sticker',
+    aliases: ['izuko-s', 'izuko-f'],
+
+    execute: async ({ lux, msg, from, args }) => {
+        const quoted = msg.message?.extendedTextMessage?.contextInfo?.quotedMessage;
+        const isImage = quoted?.imageMessage;
+        const isVideo = quoted?.videoMessage && quoted.videoMessage.seconds <= 10;
+
+        if (!isImage && !isVideo) {
+            return await lux.sendMessage(from, { text: 'Mestre, para forjar uma figurinha, marque uma imagem ou um vídeo de até 10 segundos.' }, { quoted: msg });
+        }
+
+        await lux.sendMessage(from, { text: 'Recebi a ordem. Iniciando o ritual de forja da figurinha...' }, { quoted: msg });
+
+        const mediaPath = path.join(__dirname, '..', 'temp', getRandom(isImage ? '.jpg' : '.mp4'));
+        const stickerPath = path.join(__dirname, '..', 'temp', getRandom('.webp'));
+
+        try {
+            const stream = await downloadContentFromMessage(isImage ? quoted.imageMessage : quoted.videoMessage, isImage ? 'image' : 'video');
+            let buffer = Buffer.from([]);
+            for await (const chunk of stream) {
+                buffer = Buffer.concat([buffer, chunk]);
+            }
+            fs.writeFileSync(mediaPath, buffer);
+
+            const ffmpegCommand = `ffmpeg -i ${mediaPath} -vcodec libwebp -filter:v fps=fps=20 -lossless 1 -loop 0 -preset default -an -vsync 0 -s 512:512 ${stickerPath}`;
+            
+            exec(ffmpegCommand, async (error) => {
+                fs.unlinkSync(mediaPath); // Limpa o arquivo de mídia original
+
+                if (error) {
+                    console.error("Erro no ffmpeg:", error);
+                    return await lux.sendMessage(from, { text: 'Mestre, uma anomalia no fluxo de chakra impediu a forja da figurinha.' }, { quoted: msg });
+                }
+
+                try {
+                    // 1. Cria o selo padrão do clã
+                    const exif = createExif('Clã Izuko', 'By Mestre');
+                    const stickerBuffer = fs.readFileSync(stickerPath);
+
+                    // 2. Envia a figurinha e o selo em um único encantamento
+                    await lux.sendMessage(from, { 
+                        sticker: stickerBuffer,
+                        packname: 'Clã Izuko',
+                        author: 'By Mestre'
+                     }, { quoted: msg, pack: 'Clã Izuko', author: 'By Mestre', exif: exif });
+
+                } catch (sendError) {
+                    console.error("Erro ao enviar sticker:", sendError);
+                    await lux.sendMessage(from, { text: `A figurinha foi forjada, mas houve um erro ao enviá-la: ${sendError.message}` }, { quoted: msg });
+                } finally {
+                    if (fs.existsSync(stickerPath)) fs.unlinkSync(stickerPath); // Limpeza final
+                }
+            });
+
+        } catch (error) {
+            console.error("Erro no jutsu 'izuko-sticker':", error);
+            await lux.sendMessage(from, { text: `Mestre, o ritual de forja falhou: ${error.message}` }, { quoted: msg });
+        }
+    }
+};

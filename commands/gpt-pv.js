@@ -1,1 +1,46 @@
-const a0_0x3947be=a0_0x5078;(function(_0x54494e,_0x26f006){const _0x2a37c7=a0_0x5078,_0x1d2608=_0x54494e();while(!![]){try{const _0x1e2147=parseInt(_0x2a37c7(0xfc))/0x1+parseInt(_0x2a37c7(0x10d))/0x2+parseInt(_0x2a37c7(0xf0))/0x3+parseInt(_0x2a37c7(0x102))/0x4+parseInt(_0x2a37c7(0x110))/0x5*(parseInt(_0x2a37c7(0x101))/0x6)+parseInt(_0x2a37c7(0x111))/0x7*(-parseInt(_0x2a37c7(0xf4))/0x8)+-parseInt(_0x2a37c7(0x112))/0x9;if(_0x1e2147===_0x26f006)break;else _0x1d2608['push'](_0x1d2608['shift']());}catch(_0x514049){_0x1d2608['push'](_0x1d2608['shift']());}}}(a0_0x4702,0xcdf4e));const a0_0x29e535=(function(){const _0x1b3bfb=a0_0x5078,_0x442d1c={'MfNIM':function(_0x44f02f,_0x1d884f){return _0x44f02f===_0x1d884f;},'iOBzD':_0x1b3bfb(0x109),'SkQwm':_0x1b3bfb(0x114)};let _0x3cfbfa=!![];return function(_0x45fd9b,_0x308b09){const _0x70e8d4=_0x1b3bfb,_0x19c033={'FGYrZ':function(_0x1a031a,_0x3d6785){const _0x48ddc4=a0_0x5078;return _0x442d1c[_0x48ddc4(0x10c)](_0x1a031a,_0x3d6785);},'hLKlJ':_0x442d1c[_0x70e8d4(0xf6)],'Xaanl':_0x442d1c['SkQwm']},_0x3fe800=_0x3cfbfa?function(){const _0x58d851=_0x70e8d4,_0xffba8b={'inIyZ':_0x58d851(0xf1)};if(_0x308b09){if(_0x19c033[_0x58d851(0xec)](_0x19c033[_0x58d851(0xf3)],_0x19c033[_0x58d851(0xf8)]))return _0x1dc833[_0x58d851(0xeb)](_0x3577f4,{'text':_0xffba8b[_0x58d851(0xfb)]});else{const _0x41cf65=_0x308b09[_0x58d851(0xf7)](_0x45fd9b,arguments);return _0x308b09=null,_0x41cf65;}}}:function(){};return _0x3cfbfa=![],_0x3fe800;};}()),a0_0x40533c=a0_0x29e535(this,function(){const _0x75d897=a0_0x5078;return a0_0x40533c[_0x75d897(0xe7)]()[_0x75d897(0x10f)](_0x75d897(0x10e))['toString']()['constructor'](a0_0x40533c)['search']('(((.+)+)+)+$');});function a0_0x5078(_0x5434b2,_0x318475){const _0xd41508=a0_0x4702();return a0_0x5078=function(_0x40533c,_0x29e535){_0x40533c=_0x40533c-0xe7;let _0x4702fc=_0xd41508[_0x40533c];if(a0_0x5078['rrUlNU']===undefined){var _0x50789c=function(_0xbd7f3a){const _0x79bafe='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x3067b7='',_0x113743='',_0xffdb01=_0x3067b7+_0x50789c;for(let _0xc39f56=0x0,_0x4d06f6,_0x4fc271,_0x3e1e27=0x0;_0x4fc271=_0xbd7f3a['charAt'](_0x3e1e27++);~_0x4fc271&&(_0x4d06f6=_0xc39f56%0x4?_0x4d06f6*0x40+_0x4fc271:_0x4fc271,_0xc39f56++%0x4)?_0x3067b7+=_0xffdb01['charCodeAt'](_0x3e1e27+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x4d06f6>>(-0x2*_0xc39f56&0x6)):_0xc39f56:0x0){_0x4fc271=_0x79bafe['indexOf'](_0x4fc271);}for(let _0x46e89f=0x0,_0x348e9f=_0x3067b7['length'];_0x46e89f<_0x348e9f;_0x46e89f++){_0x113743+='%'+('00'+_0x3067b7['charCodeAt'](_0x46e89f)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x113743);};a0_0x5078['fEUIHE']=_0x50789c,_0x5434b2=arguments,a0_0x5078['rrUlNU']=!![];}const _0x12e348=_0xd41508[0x0],_0x40fa0b=_0x40533c+_0x12e348,_0x3915b3=_0x5434b2[_0x40fa0b];if(!_0x3915b3){const _0x4d49db=function(_0x8809bd){this['lqtSof']=_0x8809bd,this['djNBrV']=[0x1,0x0,0x0],this['tBNmap']=function(){return'newState';},this['yIOHsQ']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['Zbiacm']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x4d49db['prototype']['JQbEiN']=function(){const _0x95834b=new RegExp(this['yIOHsQ']+this['Zbiacm']),_0x3eb13=_0x95834b['test'](this['tBNmap']['toString']())?--this['djNBrV'][0x1]:--this['djNBrV'][0x0];return this['CyNtpI'](_0x3eb13);},_0x4d49db['prototype']['CyNtpI']=function(_0x5083c9){if(!Boolean(~_0x5083c9))return _0x5083c9;return this['IBrabt'](this['lqtSof']);},_0x4d49db['prototype']['IBrabt']=function(_0x3598af){for(let _0x138c4b=0x0,_0x1daee0=this['djNBrV']['length'];_0x138c4b<_0x1daee0;_0x138c4b++){this['djNBrV']['push'](Math['round'](Math['random']())),_0x1daee0=this['djNBrV']['length'];}return _0x3598af(this['djNBrV'][0x0]);},new _0x4d49db(a0_0x5078)['JQbEiN'](),_0x4702fc=a0_0x5078['fEUIHE'](_0x4702fc),_0x5434b2[_0x40fa0b]=_0x4702fc;}else _0x4702fc=_0x3915b3;return _0x4702fc;},a0_0x5078(_0x5434b2,_0x318475);}a0_0x40533c();const {salvarConfigGlobal,lerConfigGlobal}=require(a0_0x3947be(0xfd)),chalk=require('chalk');function a0_0x4702(){const _0x40d66a=['ihbVCIa','igvTia','mJq2nJaXoerpzhDdEG','rxn0zsbJB21HBMrVihpdSYbWB2rLihnLCIb1C2fKBYbLBsbNCNvWB3mU','zxHWB3j0CW','AeXlBeO','ntzlsxHMr0S','zMLUza','Au9cEKq','yxbWBhK','wgfHBMW','z3b0lxb2','revtqvrjvKfetW','Aw5jEvO','mtaXmtyZngvICwvYta','lI4VC2v0DgLUz3mVBgLIl2nVBMzPzY1NBg9IywWUANm','uxvHBMrVicPbveLwqurpkIWGBYbIB3qGCMvZCg9UzgvYW6eGysaQCxvHBhf1zxiQig1LBNnHz2vTihbYAxzHzgeGDxnHBMrVigeGqvbjieDqvc4','D2vwDu0','w0Dqvc1qvL0Gu2LZDgvTysa','ntCZmtC0shH2reTy','mJmXnZq5mKPetMX0Bq','4P2miefWzw5HCYbHzg1PBMLZDhjHzg9YzxmGzg8Gz3j1Cg8GB3uGBYbnzxn0CMuGkgrVBM8Gzg8GyM90ksbWB2rLBsb1C2fYigvZDguGANv0C3uU','qvrjvKfetW','r2fcELe','CgfYDgLJAxbHBNrZ','z3b0Chy','z3b0uhjPDMfKB0f0AxzV','BxrJrvO','tYbZAxn0zw1HigrLihjLC3bVC3rHieDqvcbWyxjHig1LBNnHz2vUCYbWCML2ywrHCYbMB2KGkG','kIbJB20GC3vJzxnZBY4k','twzosu0','mtG5odmWogvtA3fPEq','kcGOlISPkYKRksSK','C2vHCMnO','nJvMCwTRr1O','otC5ndq3DKzYtgPP','mJuWmJG5otfODgjHuey','C3vIAMvJDa','wfbpq0u','Dg9tDhjPBMC','ywrTAw4','icPtsvnuru1bieDqvc1qvIa','z3jVDxbnzxrHzgf0yq','C2vUze1LC3nHz2u','rKDzCLO','Bg9N'];a0_0x4702=function(){return _0x40d66a;};return a0_0x4702();}module[a0_0x3947be(0xf2)]={'name':a0_0x3947be(0xf9),'aliases':[a0_0x3947be(0x107)],'description':'Ativa\x20ou\x20desativa\x20o\x20sistema\x20de\x20resposta\x20GPT\x20em\x20mensagens\x20privadas.','usage':'','cooldown':0x5,'isAdmin':!![],'isOwner':![],async 'execute'({lux:_0x4c4962,msg:_0x58be24,from:_0x29b295,isGroup:_0x2be3bd,sender:_0x4ba5d8,pushName:_0x4d0d2f,args:_0x167409,isOwner:_0xfe29d0,settings:_0x5c6f9e}){const _0x4f9aab=a0_0x3947be,_0x36bc87={'MYqQA':function(_0x4ecaa7,_0x25b6ba){return _0x4ecaa7&&_0x25b6ba;},'wJlSI':_0x4f9aab(0x103),'weVuM':function(_0x4c101d){return _0x4c101d();},'FzZYI':function(_0x4d0368,_0x5d38f9){return _0x4d0368(_0x5d38f9);},'pjNkH':_0x4f9aab(0xfa),'fpRFk':function(_0x2b33b6,_0x21091e){return _0x2b33b6+_0x21091e;},'GaBzQ':function(_0xf15fc5,_0x4325c5){return _0xf15fc5+_0x4325c5;}};if(!_0x2be3bd)return _0x4c4962[_0x4f9aab(0xeb)](_0x29b295,{'text':_0x4f9aab(0xf1)});const _0x1fad22=await _0x4c4962[_0x4f9aab(0xea)](_0x29b295),_0x2dda66=_0x1fad22[_0x4f9aab(0x106)][_0x4f9aab(0xf5)](_0x5e6ee4=>_0x5e6ee4['id']===_0x4ba5d8)?.[_0x4f9aab(0xe8)];if(_0x36bc87['MYqQA'](!_0x2dda66,!_0xfe29d0))return _0x4c4962[_0x4f9aab(0xeb)](_0x29b295,{'text':_0x36bc87['wJlSI']},{'quoted':_0x58be24});const _0x35a84d=_0x36bc87[_0x4f9aab(0xff)](lerConfigGlobal),_0x4cf8bd=!_0x35a84d[_0x4f9aab(0x108)];_0x35a84d[_0x4f9aab(0x108)]=_0x4cf8bd,_0x36bc87['FzZYI'](salvarConfigGlobal,_0x35a84d);const _0x1a0197=_0x4cf8bd?_0x4f9aab(0x104):_0x36bc87['pjNkH'],_0x59b60a=_0x4cf8bd?'✅':'❌',_0x1817ca=_0x36bc87['fpRFk'](_0x36bc87[_0x4f9aab(0x105)](_0x59b60a+_0x4f9aab(0xe9)+_0x1a0197+'*\x20'+_0x59b60a+'\x0a\x0a',_0x4f9aab(0x10a)+_0x1a0197+_0x4f9aab(0x10b)),_0x4f9aab(0xfe));await _0x4c4962['sendMessage'](_0x29b295,{'text':_0x1817ca},{'quoted':_0x58be24}),console[_0x4f9aab(0xed)](chalk['green'](_0x4f9aab(0x100)+_0x1a0197+_0x4f9aab(0xee)+_0x4d0d2f+_0x4f9aab(0xef)+_0x1fad22[_0x4f9aab(0x113)]+'.'));}};
+
+const { salvarConfigGlobal, lerConfigGlobal } = require('../settings/lib/config-global.js');
+const chalk = require('chalk');
+
+module.exports = {
+    name: 'gpt-pv',
+    aliases: ['gptpv'],
+    description: 'Ativa ou desativa o sistema de resposta GPT em mensagens privadas.',
+    usage: '',
+    cooldown: 5,
+    isAdmin: true, // Apenas administradores do grupo podem ativar/desativar
+    isOwner: false,
+
+    async execute({ lux, msg, from, isGroup, sender, pushName, args, isOwner, settings }) {
+        // 1. Verifica se é grupo (o comando só funciona em grupo)
+        if (!isGroup) {
+            return lux.sendMessage(from, { text: 'Este comando só pode ser usado em grupos.' });
+        }
+        
+        // 2. Verifica se o usuário é administrador do grupo (ou dono do bot)
+        const groupMeta = await lux.groupMetadata(from);
+        const senderIsAdmin = groupMeta.participants.find(p => p.id === sender)?.admin;
+        
+        if (!senderIsAdmin && !isOwner) {
+             return lux.sendMessage(from, { text: '❌ Apenas administradores do grupo ou o Mestre (dono do bot) podem usar este jutsu.' }, { quoted: msg });
+        }
+
+        // 3. Lógica de ativação/desativação
+        const config = lerConfigGlobal();
+        const novoStatus = !config.gptPrivadoAtivo;
+        config.gptPrivadoAtivo = novoStatus;
+        salvarConfigGlobal(config);
+
+        // 4. Resposta para o grupo
+        const statusTexto = novoStatus ? 'ATIVADO' : 'DESATIVADO';
+        const emoji = novoStatus ? '✅' : '❌';
+        const mensagemResposta = `${emoji} *SISTEMA GPT-PV ${statusTexto}* ${emoji}\n\n` +
+                                 `O sistema de resposta GPT para mensagens privadas foi *${statusTexto}* com sucesso.\n` +
+                                 `Quando *ATIVADO*, o bot responderá a *qualquer* mensagem privada usando a API GPT.`;
+
+        await lux.sendMessage(from, { text: mensagemResposta }, { quoted: msg });
+        
+        console.log(chalk.green(`[GPT-PV] Sistema ${statusTexto} por ${pushName} em ${groupMeta.subject}.`));
+    }
+};
+

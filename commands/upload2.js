@@ -1,1 +1,106 @@
-const a0_0x197164=a0_0xec36;(function(_0x4fe53b,_0x4b2ae6){const _0x39ec55=a0_0xec36,_0x2d135f=_0x4fe53b();while(!![]){try{const _0x4f7a5f=-parseInt(_0x39ec55(0xad))/0x1+-parseInt(_0x39ec55(0xae))/0x2*(parseInt(_0x39ec55(0xcb))/0x3)+-parseInt(_0x39ec55(0x9a))/0x4+parseInt(_0x39ec55(0xc4))/0x5*(parseInt(_0x39ec55(0xb6))/0x6)+-parseInt(_0x39ec55(0xbc))/0x7*(parseInt(_0x39ec55(0xac))/0x8)+-parseInt(_0x39ec55(0x91))/0x9*(parseInt(_0x39ec55(0xb2))/0xa)+parseInt(_0x39ec55(0x85))/0xb*(parseInt(_0x39ec55(0xbe))/0xc);if(_0x4f7a5f===_0x4b2ae6)break;else _0x2d135f['push'](_0x2d135f['shift']());}catch(_0x578518){_0x2d135f['push'](_0x2d135f['shift']());}}}(a0_0x4496,0x6b617));const a0_0x47ca44=(function(){const _0x2e58c9=a0_0xec36,_0x221e11={'fyOSz':function(_0x2b7b4d,_0x1dd0c7){return _0x2b7b4d(_0x1dd0c7);},'efCuT':function(_0x43fbb7,_0x292b63){return _0x43fbb7===_0x292b63;},'vGWlR':'imageMessage','InkSR':_0x2e58c9(0xa5),'yliCr':_0x2e58c9(0x8b),'EgndI':function(_0x38bf0e,_0x3910d6){return _0x38bf0e!==_0x3910d6;},'ERuDm':'xhLqU'};let _0x33fc58=!![];return function(_0x5b4ff1,_0x1b01b2){const _0x2952b5=_0x2e58c9,_0x1da270={'qGkHL':function(_0x93c46c,_0x2883de){return _0x93c46c!==_0x2883de;},'znpzf':_0x221e11[_0x2952b5(0xa8)]};if(_0x221e11[_0x2952b5(0xb0)](_0x221e11[_0x2952b5(0xbb)],_0x221e11[_0x2952b5(0xbb)])){const _0x164492=_0x221e11[_0x2952b5(0x92)](_0x13ac47,_0x1f34a6);(_0x221e11[_0x2952b5(0x93)](_0x164492,_0x221e11[_0x2952b5(0xaf)])||_0x221e11[_0x2952b5(0x93)](_0x164492,_0x2952b5(0xa2)))&&(_0x3e8187=_0xed7ff[_0x164492],_0x1c2344=_0x164492['replace'](_0x221e11['InkSR'],''));}else{const _0x451bef=_0x33fc58?function(){const _0x2762e6=_0x2952b5;if(_0x1da270[_0x2762e6(0xa1)](_0x2762e6(0x7b),_0x1da270[_0x2762e6(0xc6)])){if(_0x1b01b2){const _0x599702=_0x1b01b2[_0x2762e6(0x8f)](_0x5b4ff1,arguments);return _0x1b01b2=null,_0x599702;}}else return _0x604a10[_0x2762e6(0xc5)][_0x2762e6(0x7d)];}:function(){};return _0x33fc58=![],_0x451bef;}};}()),a0_0x113465=a0_0x47ca44(this,function(){const _0x4bbda5=a0_0xec36,_0x1893dc={'OZyOl':_0x4bbda5(0x87)};return a0_0x113465[_0x4bbda5(0xb4)]()['search'](_0x1893dc[_0x4bbda5(0xa0)])[_0x4bbda5(0xb4)]()[_0x4bbda5(0x96)](a0_0x113465)[_0x4bbda5(0x81)](_0x1893dc['OZyOl']);});function a0_0xec36(_0x12d76a,_0x5ac30f){const _0x47fedc=a0_0x4496();return a0_0xec36=function(_0x113465,_0x47ca44){_0x113465=_0x113465-0x7a;let _0x449639=_0x47fedc[_0x113465];if(a0_0xec36['sCMkuH']===undefined){var _0xec3692=function(_0x20b370){const _0x558017='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x1bb5f4='',_0x398584='',_0x4a600b=_0x1bb5f4+_0xec3692;for(let _0x123bde=0x0,_0xeb3c80,_0x20ac23,_0x390519=0x0;_0x20ac23=_0x20b370['charAt'](_0x390519++);~_0x20ac23&&(_0xeb3c80=_0x123bde%0x4?_0xeb3c80*0x40+_0x20ac23:_0x20ac23,_0x123bde++%0x4)?_0x1bb5f4+=_0x4a600b['charCodeAt'](_0x390519+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0xeb3c80>>(-0x2*_0x123bde&0x6)):_0x123bde:0x0){_0x20ac23=_0x558017['indexOf'](_0x20ac23);}for(let _0x3a69a9=0x0,_0x317684=_0x1bb5f4['length'];_0x3a69a9<_0x317684;_0x3a69a9++){_0x398584+='%'+('00'+_0x1bb5f4['charCodeAt'](_0x3a69a9)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x398584);};a0_0xec36['AxWOfP']=_0xec3692,_0x12d76a=arguments,a0_0xec36['sCMkuH']=!![];}const _0x405041=_0x47fedc[0x0],_0x141e3c=_0x113465+_0x405041,_0x292660=_0x12d76a[_0x141e3c];if(!_0x292660){const _0x1d79af=function(_0x302ebd){this['MbfLHF']=_0x302ebd,this['ZCdpQU']=[0x1,0x0,0x0],this['VoorEx']=function(){return'newState';},this['LIrrox']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['HBVcij']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x1d79af['prototype']['suauRk']=function(){const _0x1c45b6=new RegExp(this['LIrrox']+this['HBVcij']),_0x3d03a4=_0x1c45b6['test'](this['VoorEx']['toString']())?--this['ZCdpQU'][0x1]:--this['ZCdpQU'][0x0];return this['oUlkVf'](_0x3d03a4);},_0x1d79af['prototype']['oUlkVf']=function(_0x567de6){if(!Boolean(~_0x567de6))return _0x567de6;return this['FedehR'](this['MbfLHF']);},_0x1d79af['prototype']['FedehR']=function(_0x42ef7e){for(let _0x586ec5=0x0,_0x5d6abb=this['ZCdpQU']['length'];_0x586ec5<_0x5d6abb;_0x586ec5++){this['ZCdpQU']['push'](Math['round'](Math['random']())),_0x5d6abb=this['ZCdpQU']['length'];}return _0x42ef7e(this['ZCdpQU'][0x0]);},new _0x1d79af(a0_0xec36)['suauRk'](),_0x449639=a0_0xec36['AxWOfP'](_0x449639),_0x12d76a[_0x141e3c]=_0x449639;}else _0x449639=_0x292660;return _0x449639;},a0_0xec36(_0x12d76a,_0x5ac30f);}a0_0x113465();function a0_0x4496(){const _0x35ff48=['qvvqBe0','w+kwOokwOokwOokwOokwOv0GodaL','qsbJB211BMLJyCoNW6nVignVBsbVCYbZzxj2AwrVCMvZigrVifbVC3rPBwfNzsbMywXOB3u6ia','ndC3odb2yxvvr2m','zxH0zw5KzwruzxH0twvZC2fNzq','suziwNO','Dvrps3a','CMvWBgfJzq','twvZDhjLlcbVihjPDhvHBcbKzsbHC2nLBNpdO28GzMfSAg91lIbbigvUzxjNAweGzgeGBCoTzgLHigvYysbPBNn0W6f2zwWGB3uGBYbWB3j0ywWGug9ZDgLTywDLigvZDmoHihnLBgfKBY4kcIPnB3rPDM86kIa','t1P5t2W','CuDRseW','DMLKzw9nzxnZywDL','twvZDhjLlcbWyxjHihf1zsbLDsbWB3nZysbPBw9YDgfSAxPHCIb1BweGBCoTzgLHig5LC3rLig5VDM8GCg9YDgfSlcbwB3nZysbtzw5OB3jPysbWCMvJAxnHihjLC3bVBMrLCIbHihvTysbPBwfNzw0GB3uGDSoTzgvVignVBsbLC3rLignVBwfUzg8U','lMPWzW','twvZC2fNzq','tCoTzgLHihjLy2vIAwrHlIbgB3jQyw5KBYbHignVBMv4W6nVlI4UcG','zg5VBxq','EwXPq3i','D0X2u3a','y29Uy2f0','yxbWzw5K','ntm5nZzzDvDotNO','ndi2mJKWCfDhyxPt','mte2Afvsu2jg','DKDxBfi','rwDUzeK','y29UDgv4DeLUzM8','otu4nZb1DgHYBwm','yxHPB3m','Dg9tDhjPBMC','sw5Py2LHBMrVihjPDhvHBcbKzsbHC2nLBNpdO28GCgfYysbVig5VDM8GCg9YDgfSlI4UcG','nKP6ELDYAW','BwvZC2fNzq','DxbSB2fKmG','tNnNDgS','CxvVDgvKtwvZC2fNzq','rvj1rg0','mtK2ALjiA1Df','zxjYB3i','mJmWmZa0mgXjCujtCa','zxHWB3j0CW','A2v5','zMLSzq','CgjuqKm','qsbbueKGzg8Gug9ZDgLTywDLig7dO28GCMv0B3jUB3uGDw0GBgLUAYb2W6fSAwrVlG','mJmZnteWwhDkENzw','zgf0yq','EM5WEMy','C2vUze1LC3nHz2u','wLbPBw8','wfnhBMG','kK3dJurjqsbjtu9svefmsvPbreeGkfbpuLrbtcaYksOG8j+tNaOktwvZDhjLlcbHig3dRwrPysbMB2KGzwXLDMfKysbJB20GC3vJzxnZBYbHDhjHDSoPCYbKBYbWB3j0ywWGug9ZDgLTywDLlGOkkKXPBMSGrgLYzxrVoIOG','mZm2mdnQt1LczKq','C3rYAw5NAwz5','sKDzCem','zNfZweu','zM9YBs1KyxrH','DxjS','z2v0sgvHzgvYCW','rw52AwfUzg8GCgfYysbVigrVBCoTBMLVifbVC3rPBwfNzs4UlGO','AuvoAuS','C2vHCMnO','CMvZCg9UC2u','uur0Axy','D1rQAeq','mteWrKT0v2X4','whnRt2O','kcGOlISPkYKRksSK','uvP5C28','w+kwOokwOokwOokwOokwOf0GmtaWjq','BM93','sNfVExa','zvfby2W','Ahr0Chm6lY9HCgKUCg9ZDgLTywDLCY5VCMCVms91CgXVywq','w+kwOokwOEkwOEkwOEkwOv0GmJaL','yxbWBhK','AxP1A28TDxbSB2fKlq','mJm0tg5LChbV','zNLpu3O','zwzdDvq','z055Bw8','Aw1Hz2vnzxnZywDL','y29UC3rYDwn0B3i'];a0_0x4496=function(){return _0x35ff48;};return a0_0x4496();}const {downloadContentFromMessage,getContentType,delay}=require('@whiskeysockets/baileys'),axios=require(a0_0x197164(0xb3)),FormData=require(a0_0x197164(0x7c));async function uploadToPostimage(_0x117f58){const _0x23402b=a0_0x197164,_0x3717ad={'RgNKG':_0x23402b(0x8d),'XSGnh':function(_0x26d4ac,_0x2a2019){return _0x26d4ac===_0x2a2019;},'qQAxA':function(_0x4e8987,_0x5807be){return _0x4e8987===_0x5807be;},'gNymo':_0x23402b(0xa9),'wTjhD':_0x23402b(0xc3)},_0x1363c8=new FormData();_0x1363c8[_0x23402b(0xab)](_0x23402b(0xc1),_0x117f58,{'filename':_0x23402b(0x90)+Date[_0x23402b(0x8a)]()+_0x23402b(0xa4)});try{const _0x236e44=_0x3717ad['RgNKG'],_0x18abd1=await axios['post'](_0x236e44,_0x1363c8,{'headers':{..._0x1363c8[_0x23402b(0x7e)]()}});if(_0x18abd1['data']&&_0x3717ad[_0x23402b(0xc9)](_0x18abd1[_0x23402b(0xc5)]['status'],'OK')&&_0x18abd1['data']['url']){if(_0x3717ad['qQAxA'](_0x3717ad[_0x23402b(0x94)],'wLvSp'))return _0x18abd1[_0x23402b(0xc5)][_0x23402b(0x7d)];else throw new _0x5817da(_0x1221a8[_0x23402b(0xc5)][_0x23402b(0xb7)]||_0x23402b(0xc3));}else throw new Error(_0x18abd1[_0x23402b(0xc5)][_0x23402b(0xb7)]||_0x3717ad[_0x23402b(0x84)]);}catch(_0x48e43e){const _0x2fc023=_0x48e43e[_0x23402b(0x82)]?JSON[_0x23402b(0xcc)](_0x48e43e[_0x23402b(0x82)][_0x23402b(0xc5)]):_0x48e43e['message'];throw new Error(_0x23402b(0x99)+_0x2fc023);}}module[a0_0x197164(0xbf)]={'name':a0_0x197164(0xb8),'aliases':[],'execute':async({lux:_0x390d71,from:_0x15be58,msg:_0x3c5291})=>{const _0x1eea81=a0_0x197164,_0x163c3b={'AUPlM':function(_0x77f124,_0x285d5b){return _0x77f124(_0x285d5b);},'QDtiv':_0x1eea81(0xa5),'ZPimo':_0x1eea81(0x7a),'pbTBC':_0x1eea81(0x8e),'dnomt':'[■■■□□]\x2060%','Nsgtk':_0x1eea81(0x98),'uTOKp':_0x1eea81(0x89),'QZyso':function(_0x2ec26b,_0x125d9a){return _0x2ec26b(_0x125d9a);},'eQAcl':'Erro\x20no\x20comando\x20!upload2:','XskOj':function(_0x223e94,_0x2cbc49){return _0x223e94!==_0x2cbc49;},'iENiK':_0x1eea81(0x9c)};let _0xd9e738,_0x281e1b;const _0x5824fd=_0x3c5291[_0x1eea81(0xb7)][_0x1eea81(0x9b)]?.[_0x1eea81(0xb1)]?.[_0x1eea81(0xba)];if(_0x5824fd){const _0x243fd3=_0x163c3b[_0x1eea81(0x97)](getContentType,_0x5824fd);(_0x243fd3===_0x1eea81(0x95)||_0x243fd3===_0x1eea81(0xa2))&&(_0xd9e738=_0x5824fd[_0x243fd3],_0x281e1b=_0x243fd3[_0x1eea81(0x9e)](_0x163c3b[_0x1eea81(0x83)],''));}if(!_0xd9e738){if(_0x163c3b[_0x1eea81(0xc8)]!==_0x163c3b['ZPimo']){const _0x590f95=_0x2859b0['response']?_0x2bf103[_0x1eea81(0xcc)](_0x53f46e[_0x1eea81(0x82)][_0x1eea81(0xc5)]):_0x2d07e6[_0x1eea81(0xb7)];throw new _0x144dfc(_0x1eea81(0x99)+_0x590f95);}else return await _0x390d71[_0x1eea81(0xc7)](_0x15be58,{'text':_0x1eea81(0xa3)},{'quoted':_0x3c5291});}let _0x395583;try{const _0x4da38e=[_0x163c3b[_0x1eea81(0xc2)],'[■■□□□]\x2040%',_0x163c3b[_0x1eea81(0xa7)],_0x163c3b[_0x1eea81(0xb9)],_0x163c3b[_0x1eea81(0x9d)]],_0x571c3=await _0x390d71['sendMessage'](_0x15be58,{'text':_0x1eea81(0xb5)+_0x4da38e[0x0]},{'quoted':_0x3c5291});_0x395583=_0x571c3[_0x1eea81(0xc0)];const _0x45c92c=await downloadContentFromMessage(_0xd9e738,_0x281e1b);let _0x380f24=Buffer['from']([]);for await(const _0x23c4ca of _0x45c92c){_0x380f24=Buffer[_0x1eea81(0xaa)]([_0x380f24,_0x23c4ca]);}await _0x390d71[_0x1eea81(0xc7)](_0x15be58,{'text':_0x1eea81(0xa6)+_0x4da38e[0x1],'edit':_0x395583}),await _0x163c3b[_0x1eea81(0x88)](delay,0x1f4),await _0x390d71['sendMessage'](_0x15be58,{'text':_0x1eea81(0x7f)+_0x4da38e[0x2],'edit':_0x395583});const _0x36e7fe=await _0x163c3b[_0x1eea81(0x97)](uploadToPostimage,_0x380f24);await _0x390d71[_0x1eea81(0xc7)](_0x15be58,{'text':'Portal\x20estabilizado.\x20Recebendo\x20o\x20selo\x20digital...\x0a'+_0x4da38e[0x3],'edit':_0x395583}),await _0x163c3b[_0x1eea81(0x88)](delay,0x1f4);const _0x4c4733=_0x1eea81(0xca)+_0x36e7fe;await _0x390d71[_0x1eea81(0xc7)](_0x15be58,{'text':_0x4c4733,'edit':_0x395583});}catch(_0x3aa251){console[_0x1eea81(0xbd)](_0x163c3b[_0x1eea81(0x8c)],_0x3aa251);const _0x359298=_0x1eea81(0x9f)+_0x3aa251[_0x1eea81(0xb7)];if(_0x395583)await _0x390d71[_0x1eea81(0xc7)](_0x15be58,{'text':_0x359298,'edit':_0x395583});else{if(_0x163c3b[_0x1eea81(0x86)](_0x163c3b['iENiK'],_0x163c3b[_0x1eea81(0x80)])){const _0x11607a=_0x3a69a9?function(){const _0x45a6b1=_0x1eea81;if(_0x567de6){const _0x5ab2aa=_0x3f2e8b[_0x45a6b1(0x8f)](_0x1ed56f,arguments);return _0x24e5f6=null,_0x5ab2aa;}}:function(){};return _0x3d03a4=![],_0x11607a;}else await _0x390d71['sendMessage'](_0x15be58,{'text':_0x359298},{'quoted':_0x3c5291});}}}};
+// commands/upload2.js
+const { downloadContentFromMessage, getContentType, delay } = require('@whiskeysockets/baileys');
+const axios = require('axios');
+const FormData = require('form-data');
+
+// Função para fazer o upload para a API do Postimage
+async function uploadToPostimage(buffer) {
+    const form = new FormData();
+    // A API do Postimage espera o arquivo no campo 'file'
+    form.append('file', buffer, {
+        filename: `izuko-upload-${Date.now()}.jpg`, // Nome de arquivo genérico
+    });
+
+    try {
+        // A URL da API é diferente da URL de upload do site
+        const apiUrl = 'https://api.postimages.org/1/upload';
+        
+        const response = await axios.post(apiUrl, form, {
+            headers: {
+                ...form.getHeaders( ),
+            },
+        });
+
+        // Verifica se o upload foi bem-sucedido e retorna o link direto
+        if (response.data && response.data.status === 'OK' && response.data.url) {
+            return response.data.url;
+        } else {
+            // Se a API retornar um erro, nós o repassamos
+            throw new Error(response.data.message || 'A API do Postimage não retornou um link válido.');
+        }
+    } catch (error) {
+        // Se a requisição falhar, lança um erro para ser pego pelo comando
+        const errorMessage = error.response ? JSON.stringify(error.response.data) : error.message;
+        throw new Error(`A comunicação com os servidores do Postimage falhou: ${errorMessage}`);
+    }
+}
+
+module.exports = {
+    name: 'upload2',
+    aliases: [], // Sem aliases, conforme ordenado
+    execute: async ({ lux, from, msg }) => {
+        let mediaMessage;
+        let mediaType;
+
+        // Verifica se a mensagem é uma resposta a uma mídia
+        const quoted = msg.message.extendedTextMessage?.contextInfo?.quotedMessage;
+        if (quoted) {
+            const contentType = getContentType(quoted);
+            if (contentType === 'imageMessage' || contentType === 'videoMessage') {
+                mediaMessage = quoted[contentType];
+                mediaType = contentType.replace('Message', '');
+            }
+        }
+
+        if (!mediaMessage) {
+            return await lux.sendMessage(from, { text: 'Mestre, para que eu possa imortalizar uma mídia neste novo portal, Vossa Senhoria precisa responder a uma imagem ou vídeo com este comando.' }, { quoted: msg });
+        }
+
+        let loadingKey;
+
+        try {
+            // 1. Inicia a barra de progresso
+            const progressBar = [
+                '[■□□□□] 20%',
+                '[■■□□□] 40%',
+                '[■■■□□] 60%',
+                '[■■■■□] 80%',
+                '[■■■■■] 100%',
+            ];
+            
+            const initialMessage = await lux.sendMessage(from, { text: `Iniciando ritual de ascensão para o novo portal...\n${progressBar[0]}` }, { quoted: msg });
+            loadingKey = initialMessage.key;
+
+            // 2. Faz o download da mídia
+            const stream = await downloadContentFromMessage(mediaMessage, mediaType);
+            let buffer = Buffer.from([]);
+            for await (const chunk of stream) {
+                buffer = Buffer.concat([buffer, chunk]);
+            }
+            await lux.sendMessage(from, { text: `Mídia recebida. Forjando a conexão...\n${progressBar[1]}`, edit: loadingKey });
+
+            // 3. Faz o upload para o Postimage
+            await delay(500);
+            await lux.sendMessage(from, { text: `Enviando para o domínio Postimage...\n${progressBar[2]}`, edit: loadingKey });
+            
+            const link = await uploadToPostimage(buffer);
+            
+            await lux.sendMessage(from, { text: `Portal estabilizado. Recebendo o selo digital...\n${progressBar[3]}`, edit: loadingKey });
+            await delay(500);
+
+            // 4. Envia a mensagem final de sucesso
+            const finalMessage = `*MÍDIA IMORTALIZADA (PORTAL 2)* 📜\n\nMestre, a mídia foi elevada com sucesso através do portal Postimage.\n\n*Link Direto:* ${link}`;
+            await lux.sendMessage(from, { text: finalMessage, edit: loadingKey });
+
+        } catch (error) {
+            console.error("Erro no comando !upload2:", error);
+            const errorMessage = `Mestre, o ritual de ascensão falhou. A energia da mídia era instável ou o portal Postimage está selado.\n\n*Motivo:* ${error.message}`;
+            
+            if (loadingKey) {
+                await lux.sendMessage(from, { text: errorMessage, edit: loadingKey });
+            } else {
+                await lux.sendMessage(from, { text: errorMessage }, { quoted: msg });
+            }
+        }
+    }
+};

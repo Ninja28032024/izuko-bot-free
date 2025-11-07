@@ -1,1 +1,48 @@
-const a0_0x140e17=a0_0x42a1;(function(_0x25c001,_0x145838){const _0x4567aa=a0_0x42a1,_0x2febd7=_0x25c001();while(!![]){try{const _0x5249e=-parseInt(_0x4567aa(0x10d))/0x1+-parseInt(_0x4567aa(0x111))/0x2*(parseInt(_0x4567aa(0x11f))/0x3)+-parseInt(_0x4567aa(0x127))/0x4*(-parseInt(_0x4567aa(0x104))/0x5)+-parseInt(_0x4567aa(0x123))/0x6+-parseInt(_0x4567aa(0x115))/0x7+-parseInt(_0x4567aa(0x110))/0x8+parseInt(_0x4567aa(0x129))/0x9;if(_0x5249e===_0x145838)break;else _0x2febd7['push'](_0x2febd7['shift']());}catch(_0xa40344){_0x2febd7['push'](_0x2febd7['shift']());}}}(a0_0x7e2a,0xa415e));const a0_0x4b4a32=(function(){const _0x45d7ea=a0_0x42a1,_0x298a8a={'FWueU':function(_0x43a488,_0x1a20d2){return _0x43a488!==_0x1a20d2;},'zhuWQ':_0x45d7ea(0xfd)};let _0x5c2cfe=!![];return function(_0xd78c05,_0x4052ce){const _0x20099a=_0x45d7ea;if(_0x298a8a[_0x20099a(0x125)](_0x20099a(0xfd),_0x298a8a['zhuWQ'])){const _0x1032cd=_0x1e4d7d['apply'](_0x572944,arguments);return _0x4d0629=null,_0x1032cd;}else{const _0x25671c=_0x5c2cfe?function(){if(_0x4052ce){const _0x1b2b82=_0x4052ce['apply'](_0xd78c05,arguments);return _0x4052ce=null,_0x1b2b82;}}:function(){};return _0x5c2cfe=![],_0x25671c;}};}()),a0_0x5c51c2=a0_0x4b4a32(this,function(){const _0x352882=a0_0x42a1,_0xe7acec={'dCBOn':_0x352882(0x112)};return a0_0x5c51c2[_0x352882(0x118)]()[_0x352882(0x128)](_0x352882(0x112))[_0x352882(0x118)]()['constructor'](a0_0x5c51c2)[_0x352882(0x128)](_0xe7acec['dCBOn']);});a0_0x5c51c2();const fs=require('fs'),path=require('path'),{isRankingAtivo}=require(a0_0x140e17(0x122)),charadasPath=path[a0_0x140e17(0x10f)](__dirname,'..',a0_0x140e17(0xfe),a0_0x140e17(0x109)),charadas=JSON['parse'](fs[a0_0x140e17(0x11b)](charadasPath,a0_0x140e17(0x119)));function a0_0x42a1(_0x126b36,_0x340855){const _0x3e0bae=a0_0x7e2a();return a0_0x42a1=function(_0x5c51c2,_0x4b4a32){_0x5c51c2=_0x5c51c2-0xfd;let _0x7e2a59=_0x3e0bae[_0x5c51c2];if(a0_0x42a1['rgegNF']===undefined){var _0x42a144=function(_0x2316cf){const _0x45fe1c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2e5826='',_0x4a05d5='',_0x20c472=_0x2e5826+_0x42a144;for(let _0x2302a7=0x0,_0x23fc5e,_0x1a4dbd,_0x362cf8=0x0;_0x1a4dbd=_0x2316cf['charAt'](_0x362cf8++);~_0x1a4dbd&&(_0x23fc5e=_0x2302a7%0x4?_0x23fc5e*0x40+_0x1a4dbd:_0x1a4dbd,_0x2302a7++%0x4)?_0x2e5826+=_0x20c472['charCodeAt'](_0x362cf8+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x23fc5e>>(-0x2*_0x2302a7&0x6)):_0x2302a7:0x0){_0x1a4dbd=_0x45fe1c['indexOf'](_0x1a4dbd);}for(let _0x15e7c7=0x0,_0x1a6f02=_0x2e5826['length'];_0x15e7c7<_0x1a6f02;_0x15e7c7++){_0x4a05d5+='%'+('00'+_0x2e5826['charCodeAt'](_0x15e7c7)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x4a05d5);};a0_0x42a1['GrmKha']=_0x42a144,_0x126b36=arguments,a0_0x42a1['rgegNF']=!![];}const _0x168a03=_0x3e0bae[0x0],_0x2e7670=_0x5c51c2+_0x168a03,_0x506dcd=_0x126b36[_0x2e7670];if(!_0x506dcd){const _0x78a602=function(_0x490c37){this['oDsAnM']=_0x490c37,this['LSPBVA']=[0x1,0x0,0x0],this['mtMcOe']=function(){return'newState';},this['cfKYEx']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['FnUgIO']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x78a602['prototype']['COylSh']=function(){const _0x4db855=new RegExp(this['cfKYEx']+this['FnUgIO']),_0x45150e=_0x4db855['test'](this['mtMcOe']['toString']())?--this['LSPBVA'][0x1]:--this['LSPBVA'][0x0];return this['cRKpou'](_0x45150e);},_0x78a602['prototype']['cRKpou']=function(_0x8d383c){if(!Boolean(~_0x8d383c))return _0x8d383c;return this['MqTSZy'](this['oDsAnM']);},_0x78a602['prototype']['MqTSZy']=function(_0xcc1f98){for(let _0x199bf3=0x0,_0x40033c=this['LSPBVA']['length'];_0x199bf3<_0x40033c;_0x199bf3++){this['LSPBVA']['push'](Math['round'](Math['random']())),_0x40033c=this['LSPBVA']['length'];}return _0xcc1f98(this['LSPBVA'][0x0]);},new _0x78a602(a0_0x42a1)['COylSh'](),_0x7e2a59=a0_0x42a1['GrmKha'](_0x7e2a59),_0x126b36[_0x2e7670]=_0x7e2a59;}else _0x7e2a59=_0x506dcd;return _0x7e2a59;},a0_0x42a1(_0x126b36,_0x340855);}function a0_0x7e2a(){const _0x5352b7=['nJG2ndm3nMjesvzctq','mJiZoePzvgLnDa','kcGOlISPkYKRksSK','cMmPia','CgvYz3vUDge','mZu1mtCXnNnQCu9eAa','BgvUz3rO','B3bJB2vZ','Dg9tDhjPBMC','DxrMltG','cGPszxnWB25KysbJB20GysbSzxrYysbKysbHBhrLCM5HDgL2ysbJB3jYzxrHicHLEdOGiMeIks4GvM9JW6OGDgvTidmWihnLz3vUzg9Ziq','CMvHzezPBgvtEw5J','8j+tNcbpihnPC3rLBweGzguGCMfUA2LUzYbLC3tdOsbKzxnHDgL2ywrVig5LC3rLigDYDxbVlIbvC2uGycf0B2DNBguTCMfUA2aGCgfYysbHDgL2W6eTBg8U','y2HHCMfKyq','uNzJtwG','mtu2ouTZsvHXqq','kIeGqsbfC2zPBMDLig7dO28GzxnWzxjHihbVCIbUAw5NDCoPBs4GtYbKzxnHzMLVigzVAsbJyw5JzwXHzg8U','8j+oSIaQq0ftu0LotYbeqsbfu0zjtKDfkIdWN46YcGOQ','lI4VC2v0DgLUz3mVBgLIl3jHBMTPBMCTBg9NAwmUANm','mJq2nJq5mKH5CKXeuW','thLKz24','rLD1zvu','4O+Zie8GDgvTCg8GC2uGzxnNB3rVDsWGkG','mJbfzMDgCgG','C2vHCMnO','mJK0odi5nJvKCg1brNu','s0f6rwm','yMfUy28GzguGzgfKB3m','C2v0','zMXVB3i','cGOQqwX0zxjUyxrPDMfZoIOkysKG','C2vUze1LC3nHz2u','AgfZ','mtGXodK1wxDWvNHK','yw1QC3O','CMvZCg9ZDge','y2HHCMfKys1Yyw5R','q2fSBweSicO','y2HHCMfKyxmUANnVBG','zgvSzxrL','Dg9mB3DLCKnHC2u','kIeGsSoHigv4Axn0zsb1BsbKzxnHzMLVigrHievZzMLUz2uGzw0Gyw5Kyw1LBNrVig5LC3rLigDYDxbVlIbbz3vHCMrLig8GzgvZzMvJAg8U','ndiZotmYquTOse1f','yxbVC3rHlxjHBMS','AM9PBG'];a0_0x7e2a=function(){return _0x5352b7;};return a0_0x7e2a();}module['exports']={'name':'cassino-rank','aliases':[a0_0x140e17(0x10e),a0_0x140e17(0x107)],'execute':async({lux:_0x5a3903,from:_0x4b51f1,msg:_0x7dd1d2,sender:_0x352fb6,pushName:_0x52c49d,cassinoState:_0x1e4ab2})=>{const _0x26fa51=a0_0x140e17,_0x6540cd={'RvcMh':_0x26fa51(0x11c),'Lydgn':_0x26fa51(0x11d),'amjsz':function(_0x33c4a3,_0x87a7d,_0x296b42){return _0x33c4a3(_0x87a7d,_0x296b42);}};if(!isRankingAtivo(_0x4b51f1))return await _0x5a3903[_0x26fa51(0x102)](_0x4b51f1,{'text':_0x6540cd[_0x26fa51(0x11e)]},{'quoted':_0x7dd1d2});if(_0x1e4ab2[_0x26fa51(0x103)](_0x4b51f1))return await _0x5a3903[_0x26fa51(0x102)](_0x4b51f1,{'text':_0x26fa51(0x108)+_0x52c49d+_0x26fa51(0x10c)},{'quoted':_0x7dd1d2});const _0x807309=charadas[Math[_0x26fa51(0x100)](Math['random']()*charadas[_0x26fa51(0x116)])];let _0x5e1d18=_0x26fa51(0x121)+_0x52c49d+'*,\x20sua\x20astúcia\x20será\x20testada!\x20Decifre\x20o\x20enigma\x20ou\x20pague\x20o\x20preço.\x0a\x0a*Charada:*\x20'+_0x807309[_0x26fa51(0x114)]+_0x26fa51(0x101)+_0x807309['opcoes']['a']+'\x0ab)\x20'+_0x807309[_0x26fa51(0x117)]['b']+_0x26fa51(0x113)+_0x807309[_0x26fa51(0x117)]['c']+_0x26fa51(0x11a);_0x1e4ab2[_0x26fa51(0xff)](_0x4b51f1,{'tipo':_0x6540cd[_0x26fa51(0x124)],'jogador':_0x352fb6,'respostaCorreta':_0x807309[_0x26fa51(0x106)][_0x26fa51(0x10b)](),'timeout':_0x6540cd[_0x26fa51(0x105)](setTimeout,()=>{const _0x31310f=_0x26fa51;_0x1e4ab2[_0x31310f(0x103)](_0x4b51f1)&&(_0x5a3903[_0x31310f(0x102)](_0x4b51f1,{'text':_0x31310f(0x126)+_0x52c49d+_0x31310f(0x120)}),_0x1e4ab2[_0x31310f(0x10a)](_0x4b51f1));},0x7530)}),await _0x5a3903[_0x26fa51(0x102)](_0x4b51f1,{'text':_0x5e1d18},{'quoted':_0x7dd1d2});}};
+// commands/cassino-rank.js
+const fs = require('fs');
+const path = require('path');
+const { isRankingAtivo } = require('../settings/lib/ranking-logic.js'); // Importa a função de verificação
+
+// Carrega as charadas do banco de dados
+const charadasPath = path.join(__dirname, '..', 'banco de dados', 'charadas.json');
+const charadas = JSON.parse(fs.readFileSync(charadasPath, 'utf-8'));
+
+module.exports = {
+    name: 'cassino-rank',
+    aliases: ['aposta-rank', 'charada-rank'],
+    execute: async ({ lux, from, msg, sender, pushName, cassinoState }) => {
+        // =================================================================
+        // == NOVA VERIFICAÇÃO DE RANKING ATIVO
+        // =================================================================
+        if (!isRankingAtivo(from)) {
+            return await lux.sendMessage(from, { text: '📜 O sistema de ranking está desativado neste grupo. Use `!toggle-rank` para ativá-lo.' }, { quoted: msg });
+        }
+        // =================================================================
+
+        // Verifica se já existe um jogo ativo neste grupo
+        if (cassinoState.has(from)) {
+            return await lux.sendMessage(from, { text: `Calma, *${pushName}*! Já existe um desafio da Esfinge em andamento neste grupo. Aguarde o desfecho.` }, { quoted: msg });
+        }
+
+        // Seleciona uma charada aleatória
+        const charada = charadas[Math.floor(Math.random() * charadas.length)];
+
+        // Monta o texto da pergunta com as opções
+        let textoCharada = `🎲 *CASSINO DA ESFINGE* 🎲\n\n*${pushName}*, sua astúcia será testada! Decifre o enigma ou pague o preço.\n\n*Charada:* ${charada.pergunta}\n\n*Alternativas:*\na) ${charada.opcoes.a}\nb) ${charada.opcoes.b}\nc) ${charada.opcoes.c}\n\nResponda com a letra da alternativa correta (ex: "a"). Você tem 30 segundos!`;
+
+        // Armazena o estado do jogo atual
+        cassinoState.set(from, {
+            tipo: 'charada', // <-- CORREÇÃO: Adiciona o tipo de jogo
+            jogador: sender,
+            respostaCorreta: charada.resposta.toLowerCase(),
+            timeout: setTimeout(() => {
+                if (cassinoState.has(from)) {
+                    lux.sendMessage(from, { text: `⏳ O tempo se esgotou, *${pushName}*! A Esfinge não espera por ninguém. O desafio foi cancelado.` });
+                    cassinoState.delete(from);
+                }
+            }, 30000) // 30 segundos para responder
+        });
+
+        await lux.sendMessage(from, { text: textoCharada }, { quoted: msg });
+    }
+};

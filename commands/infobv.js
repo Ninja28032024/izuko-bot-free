@@ -1,1 +1,38 @@
-const a0_0x3bc793=a0_0x1607;(function(_0xfb66c8,_0x2b6939){const _0x5d88f2=a0_0x1607,_0x532799=_0xfb66c8();while(!![]){try{const _0x49295e=parseInt(_0x5d88f2(0x114))/0x1+-parseInt(_0x5d88f2(0x11d))/0x2*(parseInt(_0x5d88f2(0x11b))/0x3)+parseInt(_0x5d88f2(0x118))/0x4*(parseInt(_0x5d88f2(0x110))/0x5)+-parseInt(_0x5d88f2(0x11e))/0x6*(-parseInt(_0x5d88f2(0x11f))/0x7)+-parseInt(_0x5d88f2(0x115))/0x8+-parseInt(_0x5d88f2(0x10b))/0x9+-parseInt(_0x5d88f2(0x10c))/0xa*(parseInt(_0x5d88f2(0x120))/0xb);if(_0x49295e===_0x2b6939)break;else _0x532799['push'](_0x532799['shift']());}catch(_0x450d68){_0x532799['push'](_0x532799['shift']());}}}(a0_0x45c0,0x66f48));const a0_0x355a10=(function(){let _0x274366=!![];return function(_0x5f0830,_0x38a14b){const _0x48652c=_0x274366?function(){const _0x503c38=a0_0x1607;if(_0x38a14b){const _0x53ba86=_0x38a14b[_0x503c38(0x119)](_0x5f0830,arguments);return _0x38a14b=null,_0x53ba86;}}:function(){};return _0x274366=![],_0x48652c;};}()),a0_0x4fc674=a0_0x355a10(this,function(){const _0x284e0c=a0_0x1607;return a0_0x4fc674[_0x284e0c(0x11c)]()['search'](_0x284e0c(0x10f))['toString']()[_0x284e0c(0x10e)](a0_0x4fc674)[_0x284e0c(0x121)](_0x284e0c(0x10f));});function a0_0x1607(_0x2d799a,_0x399813){const _0x512416=a0_0x45c0();return a0_0x1607=function(_0x4fc674,_0x355a10){_0x4fc674=_0x4fc674-0x10b;let _0x45c027=_0x512416[_0x4fc674];if(a0_0x1607['vhRGIu']===undefined){var _0x160766=function(_0x1594d6){const _0x45d75a='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x1d73d7='',_0x308e2a='',_0x35e417=_0x1d73d7+_0x160766;for(let _0x3c5d17=0x0,_0x5cb42a,_0x2c4b36,_0x3cd832=0x0;_0x2c4b36=_0x1594d6['charAt'](_0x3cd832++);~_0x2c4b36&&(_0x5cb42a=_0x3c5d17%0x4?_0x5cb42a*0x40+_0x2c4b36:_0x2c4b36,_0x3c5d17++%0x4)?_0x1d73d7+=_0x35e417['charCodeAt'](_0x3cd832+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x5cb42a>>(-0x2*_0x3c5d17&0x6)):_0x3c5d17:0x0){_0x2c4b36=_0x45d75a['indexOf'](_0x2c4b36);}for(let _0x23015a=0x0,_0x4efe0d=_0x1d73d7['length'];_0x23015a<_0x4efe0d;_0x23015a++){_0x308e2a+='%'+('00'+_0x1d73d7['charCodeAt'](_0x23015a)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x308e2a);};a0_0x1607['gALLSf']=_0x160766,_0x2d799a=arguments,a0_0x1607['vhRGIu']=!![];}const _0x20b267=_0x512416[0x0],_0x41c034=_0x4fc674+_0x20b267,_0x29672c=_0x2d799a[_0x41c034];if(!_0x29672c){const _0x26e15e=function(_0x5a3941){this['wOqapS']=_0x5a3941,this['KkBKZk']=[0x1,0x0,0x0],this['xxZezz']=function(){return'newState';},this['EazUVA']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['dOYnTY']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x26e15e['prototype']['hFDNqd']=function(){const _0x338318=new RegExp(this['EazUVA']+this['dOYnTY']),_0x21d905=_0x338318['test'](this['xxZezz']['toString']())?--this['KkBKZk'][0x1]:--this['KkBKZk'][0x0];return this['OLoUwa'](_0x21d905);},_0x26e15e['prototype']['OLoUwa']=function(_0x2767cc){if(!Boolean(~_0x2767cc))return _0x2767cc;return this['mpzKxq'](this['wOqapS']);},_0x26e15e['prototype']['mpzKxq']=function(_0x3000b8){for(let _0x28ba2d=0x0,_0x2d0c7d=this['KkBKZk']['length'];_0x28ba2d<_0x2d0c7d;_0x28ba2d++){this['KkBKZk']['push'](Math['round'](Math['random']())),_0x2d0c7d=this['KkBKZk']['length'];}return _0x3000b8(this['KkBKZk'][0x0]);},new _0x26e15e(a0_0x1607)['hFDNqd'](),_0x45c027=a0_0x1607['gALLSf'](_0x45c027),_0x2d799a[_0x41c034]=_0x45c027;}else _0x45c027=_0x29672c;return _0x45c027;},a0_0x1607(_0x2d799a,_0x399813);}function a0_0x45c0(){const _0xd7198e=['mKzgD2HWtW','mZyWnMTABxLUqq','ntK3mxnPDeX6BW','mZyXnZi0mhPqv3P0sG','C2vHCMnO','Aw5MB2j2','mtG4nJeXmKHMBfvPvG','mtbOALf4sKy','cVcFK5WGkK1btLvbtcbetYbssvrvquWGreuGqK9buY1wsu5eqvmQipcFK5WkcLnHDwrHW6FdTwvZlcbhzw5LCMfSlIbfC3rLihbLCMDHBwLUAg8Gzgv0ywXOysbJB21VifzVC3nHifnLBMHVCMLHihbVzguGzgvJCMv0yxiGzsbWzxjZB25HBgL6yxiGysbZyxvKyCoNW6nVigfVCYbUB3zVCYbNDwvYCMvPCM9ZlGOklI4UicH0zxH0BYbPBMLJAwfSihbLCM1HBMvJzsbVig1LC21VksaUlI4kcIPfEgvTCgXVigrLierLy3jLDg86kGPGyga','y29UC3rYDwn0B3i','kcGOlISPkYKRksSK','mteXme1tvvLKwG','zxHWB3j0CW','Aw5MB2jLBxzPBMrV','BgvNzw5Kywj2ieHVBNjHiguGz2ZdS3jPysWGqhvZzxiHifn1ysbQB3jUywrHig5VignSW6mGqgDYDxbVignVBwxdP2eGW6bZiebOB3jHigrLihvTysbazgLHlMbGyaOkkLzHCMNdOxzLAxmGzguGug9KzxiGkfbSywnLAg9SzgvYCYK6kGPqyxjHihrVCM5HCIbHihnHDwrHW6FdO28GCgvZC29HBcbLihbVzgvYB3nHlcb1C2uGyxmGC2vNDwLUDgvZihzHCMNdOxzLAxmGzw0GC3vHig1LBNnHz2vToGOklsbGqhvZzxjGoIbnyxjJysbVig5VDM8Gz3vLCNjLAxjVlGOTigbaz3j1Cg9GoIbpig5VBwuGzgvZDguGy2ZdOY4klsbGqgHVCMfGoIbbigHVCMeGzgeGzw50CMfKysaOrxG6ide0oJmYks4klsbGqgrHDgfGoIbbigrHDgeGzgeGzw50CMfKysaOrxG6ide1lZeWlZiWmJuPlGOTigbazgLHydOGtYbKAweGzgeGC2vTyw5HicHfEdOGuxvHCNrHlwzLAxjHks4klsbGqg51BwvYB3vZzxjGoIbpig7dUM1LCM8GzguGDgvSzwzVBMuGzg8GBwvTyNjVlGOTigbaBgLKydOGqsbjrcbJB21WBgv0ysbKBYbTzw1ICM8GBM8Gv2HHDhnbChaUcI0GyebKzxnJydOGqsbKzxnJCMNdP8oJBYaOCMvJywrVksbKzxn0zsbJBmoJlGOTigbaBwvTyNjVC2a6ieeGy29UDgfNzw0GDg90ywWGzguGBwvTyNjVCYbUBYbJBmoJlGOkls0Tls0Tls0Tls0Tls0Tls0Tls0Tls0Tls0Tls0Tls0Tls0Tls0Tls0TlqOkvxnLigvZDguGCg9KzxiGCgfYysbMB3j0ywXLy2vYigeGAwrLBNrPzgfKzsbLigeGzgLZy2LWBgLUysbKBYbJBmoJlIbbihbYAw1LAxjHigLTChjLC3pdO28GW6KGDw1HigfYBweSiguGywDVCMeGzwXHigvZDmoHigvTihnLDsbHCNnLBMfSlGOGicaGicaGia','odi2odffwNb5AuO','mJmZota4ogHpshbXuW','C2vUze1LC3nHz2u','AgvSCgj2','mtmYntzOCLLMseK','yxbWBhK','ChjLzML4','mJm1nJmYtw9tAuPX','Dg9tDhjPBMC'];a0_0x45c0=function(){return _0xd7198e;};return a0_0x45c0();}a0_0x4fc674(),module[a0_0x3bc793(0x111)]={'name':a0_0x3bc793(0x122),'aliases':[a0_0x3bc793(0x112),a0_0x3bc793(0x117)],'execute':async({lux:_0x37a454,from:_0x56ff62,msg:_0x498ef9,isGroup:_0x19dfa9,sender:_0x2ce7b,areJidsSameUser:_0x33e680,settings:_0x268e89})=>{const _0x441758=a0_0x3bc793,_0x15551c=_0x441758(0x10d)+_0x268e89[_0x441758(0x11a)]+_0x441758(0x113);await _0x37a454[_0x441758(0x116)](_0x56ff62,{'text':_0x15551c['trim']()},{'quoted':_0x498ef9});}};
+// commands/infobv.js (versão atualizada)
+module.exports = {
+    name: 'infobv',
+    aliases: ['infobemvindo', 'helpbv'],
+    execute: async ({ lux, from, msg, isGroup, sender, areJidsSameUser, settings }) => {
+        // ... (verificações de admin permanecem as mesmas)
+
+        const manualText = `
+📜 *MANUAL DO RITUAL DE BOAS-VINDAS* 📜
+
+Saudações, General. Este pergaminho detalha como Vossa Senhoria pode decretar e personalizar a saudação aos novos guerreiros.
+
+... (texto inicial permanece o mesmo) ...
+
+*Exemplo de Decreto:*
+\`\`\`${settings.prefix}legendabv Honra e glória, @user! Sua jornada no clã @grupo começa às @hora de uma @dia.\`\`\`
+
+*Variáveis de Poder (Placeholders):*
+Para tornar a saudação pessoal e poderosa, use as seguintes variáveis em sua mensagem:
+
+- \`@user\`: Marca o novo guerreiro.
+- \`@grupo\`: O nome deste clã.
+- \`@hora\`: A hora da entrada (Ex: 14:32).
+- \`@data\`: A data da entrada (Ex: 15/10/2025).
+- \`@dia\`: O dia da semana (Ex: Quarta-feira).
+- \`@numerouser\`: O número de telefone do membro.
+- \`@lid\`: A ID completa do membro no WhatsApp.
+- \`@desc\`: A descrição (recado) deste clã.
+- \`@membros\`: A contagem total de membros no clã.
+
+-------------------------------------------
+
+Use este poder para fortalecer a identidade e a disciplina do clã. A primeira impressão é uma arma, e agora ela está em seu arsenal.
+        `;
+
+        await lux.sendMessage(from, { text: manualText.trim() }, { quoted: msg });
+    }
+};

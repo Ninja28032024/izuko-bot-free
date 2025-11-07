@@ -1,1 +1,68 @@
-const a0_0x3a8a17=a0_0x3b78;(function(_0x5b4964,_0x2f45f8){const _0x3468c0=a0_0x3b78,_0x19706c=_0x5b4964();while(!![]){try{const _0x102627=parseInt(_0x3468c0(0x15f))/0x1*(parseInt(_0x3468c0(0x14f))/0x2)+-parseInt(_0x3468c0(0x172))/0x3*(-parseInt(_0x3468c0(0x16b))/0x4)+-parseInt(_0x3468c0(0x15c))/0x5*(parseInt(_0x3468c0(0x14c))/0x6)+-parseInt(_0x3468c0(0x16f))/0x7+-parseInt(_0x3468c0(0x167))/0x8+parseInt(_0x3468c0(0x156))/0x9+parseInt(_0x3468c0(0x178))/0xa*(-parseInt(_0x3468c0(0x177))/0xb);if(_0x102627===_0x2f45f8)break;else _0x19706c['push'](_0x19706c['shift']());}catch(_0x2ba276){_0x19706c['push'](_0x19706c['shift']());}}}(a0_0x2f2b,0x72b13));const a0_0x273b84=(function(){let _0x3be35c=!![];return function(_0x29aed7,_0x34677e){const _0x614a68=_0x3be35c?function(){const _0x169192=a0_0x3b78;if(_0x34677e){const _0x245378=_0x34677e[_0x169192(0x14b)](_0x29aed7,arguments);return _0x34677e=null,_0x245378;}}:function(){};return _0x3be35c=![],_0x614a68;};}()),a0_0x1727f9=a0_0x273b84(this,function(){const _0x236283=a0_0x3b78,_0x52e7c8={'JLgxK':_0x236283(0x14e)};return a0_0x1727f9[_0x236283(0x159)]()[_0x236283(0x16c)]('(((.+)+)+)+$')[_0x236283(0x159)]()['constructor'](a0_0x1727f9)[_0x236283(0x16c)](_0x52e7c8[_0x236283(0x16e)]);});a0_0x1727f9();const fs=require('fs'),path=require('path'),rankingDbPath=path[a0_0x3a8a17(0x152)](__dirname,'..',a0_0x3a8a17(0x171),a0_0x3a8a17(0x149)),backupDbPath=path['join'](__dirname,'..',a0_0x3a8a17(0x171),a0_0x3a8a17(0x175)),lerDB=_0xb1bf6a=>{const _0x4d2685=a0_0x3a8a17,_0x575db8={'UViqo':function(_0x5dc3fe,_0x146eb5){return _0x5dc3fe!==_0x146eb5;},'IWiyV':_0x4d2685(0x164),'ccnaj':_0x4d2685(0x163)};if(!fs[_0x4d2685(0x15b)](_0xb1bf6a))return{};try{if(_0x575db8[_0x4d2685(0x14d)](_0x575db8[_0x4d2685(0x155)],_0x4d2685(0x14a)))return JSON['parse'](fs[_0x4d2685(0x151)](_0xb1bf6a,_0x575db8[_0x4d2685(0x169)]));else{const _0x1f5a9b=_0x651043[_0x4d2685(0x14b)](_0x314d33,arguments);return _0x5a9f40=null,_0x1f5a9b;}}catch(_0x4425a0){return console['error']('Erro\x20ao\x20ler\x20o\x20arquivo\x20'+_0xb1bf6a+':',_0x4425a0),{};}},salvarRankingDB=_0x5b42f6=>{fs['writeFileSync'](rankingDbPath,JSON['stringify'](_0x5b42f6,null,0x2));};function a0_0x3b78(_0x545914,_0x1443e5){const _0x2466e7=a0_0x2f2b();return a0_0x3b78=function(_0x1727f9,_0x273b84){_0x1727f9=_0x1727f9-0x149;let _0x2f2baa=_0x2466e7[_0x1727f9];if(a0_0x3b78['RNhEuy']===undefined){var _0x3b78b9=function(_0x9e8827){const _0x51e017='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2a0cab='',_0x27ac66='',_0x35eced=_0x2a0cab+_0x3b78b9;for(let _0x4d8125=0x0,_0x45b669,_0x28c903,_0x42d566=0x0;_0x28c903=_0x9e8827['charAt'](_0x42d566++);~_0x28c903&&(_0x45b669=_0x4d8125%0x4?_0x45b669*0x40+_0x28c903:_0x28c903,_0x4d8125++%0x4)?_0x2a0cab+=_0x35eced['charCodeAt'](_0x42d566+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x45b669>>(-0x2*_0x4d8125&0x6)):_0x4d8125:0x0){_0x28c903=_0x51e017['indexOf'](_0x28c903);}for(let _0x2e7114=0x0,_0x5d2db1=_0x2a0cab['length'];_0x2e7114<_0x5d2db1;_0x2e7114++){_0x27ac66+='%'+('00'+_0x2a0cab['charCodeAt'](_0x2e7114)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x27ac66);};a0_0x3b78['ifyCBQ']=_0x3b78b9,_0x545914=arguments,a0_0x3b78['RNhEuy']=!![];}const _0x1ac063=_0x2466e7[0x0],_0x4844df=_0x1727f9+_0x1ac063,_0x25fd55=_0x545914[_0x4844df];if(!_0x25fd55){const _0x2fe67e=function(_0x33de4f){this['VXVwrN']=_0x33de4f,this['IfbgFJ']=[0x1,0x0,0x0],this['dhqtCH']=function(){return'newState';},this['YyRALR']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['iNihMV']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x2fe67e['prototype']['vgKtnu']=function(){const _0x456215=new RegExp(this['YyRALR']+this['iNihMV']),_0x3ba5a3=_0x456215['test'](this['dhqtCH']['toString']())?--this['IfbgFJ'][0x1]:--this['IfbgFJ'][0x0];return this['FPqjLm'](_0x3ba5a3);},_0x2fe67e['prototype']['FPqjLm']=function(_0x1884fa){if(!Boolean(~_0x1884fa))return _0x1884fa;return this['EWaEJA'](this['VXVwrN']);},_0x2fe67e['prototype']['EWaEJA']=function(_0x1c3e25){for(let _0x446e06=0x0,_0x58f769=this['IfbgFJ']['length'];_0x446e06<_0x58f769;_0x446e06++){this['IfbgFJ']['push'](Math['round'](Math['random']())),_0x58f769=this['IfbgFJ']['length'];}return _0x1c3e25(this['IfbgFJ'][0x0]);},new _0x2fe67e(a0_0x3b78)['vgKtnu'](),_0x2f2baa=a0_0x3b78['ifyCBQ'](_0x2f2baa),_0x545914[_0x4844df]=_0x2f2baa;}else _0x2f2baa=_0x25fd55;return _0x2f2baa;},a0_0x3b78(_0x545914,_0x1443e5);}module['exports']={'name':a0_0x3a8a17(0x170),'execute':async({lux:_0x572b04,msg:_0x549764,from:_0x12e9c8,isGroup:_0x467e5d,isOwner:_0x43d916})=>{const _0x384158=a0_0x3a8a17,_0x9c5d1f={'wkkoE':function(_0x4e84fe,_0xf76e19){return _0x4e84fe===_0xf76e19;},'TyZdZ':_0x384158(0x166),'BDGbw':_0x384158(0x174),'SrVMW':function(_0x2d790d,_0xe0a2d4){return _0x2d790d===_0xe0a2d4;},'PNetf':_0x384158(0x179),'oTbbW':_0x384158(0x16d),'GPdYY':function(_0x4171a9,_0x3d18a6){return _0x4171a9(_0x3d18a6);},'cBsoV':function(_0x2ef837,_0x4eb85c){return _0x2ef837(_0x4eb85c);}};if(!_0x43d916){if(_0x9c5d1f[_0x384158(0x15e)](_0x9c5d1f[_0x384158(0x150)],_0x9c5d1f[_0x384158(0x150)]))return await _0x572b04[_0x384158(0x173)](_0x12e9c8,{'text':_0x9c5d1f[_0x384158(0x15a)]},{'quoted':_0x549764});else{const _0x42ca29=_0x2e7114?function(){if(_0x1884fa){const _0xfdbf5a=_0x565708['apply'](_0x199416,arguments);return _0x31f546=null,_0xfdbf5a;}}:function(){};return _0x3ba5a3=![],_0x42ca29;}}if(!_0x467e5d){if(_0x9c5d1f[_0x384158(0x161)]('aWfpG',_0x9c5d1f[_0x384158(0x158)]))return await _0x572b04[_0x384158(0x173)](_0x12e9c8,{'text':_0x9c5d1f[_0x384158(0x165)]},{'quoted':_0x549764});else _0x4dfe98[_0x325467]={'membros':{}};}const _0xfe6bac=_0x549764['message']?.['extendedTextMessage']?.['contextInfo']?.[_0x384158(0x162)]?.[0x0];if(!_0xfe6bac)return await _0x572b04[_0x384158(0x173)](_0x12e9c8,{'text':_0x384158(0x15d)},{'quoted':_0x549764});const _0x4a02bc=_0x9c5d1f[_0x384158(0x154)](lerDB,backupDbPath),_0x3e235d=_0x4a02bc[_0x12e9c8]?.[_0xfe6bac];if(!_0x3e235d)return await _0x572b04['sendMessage'](_0x12e9c8,{'text':_0x384158(0x16a)+_0xfe6bac[_0x384158(0x168)]('@')[0x0]+_0x384158(0x160),'mentions':[_0xfe6bac]});const _0x538bd6=lerDB(rankingDbPath);!_0x538bd6[_0x12e9c8]&&(_0x538bd6[_0x12e9c8]={'membros':{}});const {timestamp:_0x419021,..._0x2e8096}=_0x3e235d;_0x538bd6[_0x12e9c8][_0x384158(0x176)][_0xfe6bac]=_0x2e8096,_0x9c5d1f['cBsoV'](salvarRankingDB,_0x538bd6),await _0x572b04['sendMessage'](_0x12e9c8,{'text':_0x384158(0x157)+_0xfe6bac['split']('@')[0x0]+_0x384158(0x153),'mentions':[_0xfe6bac]});}};function a0_0x2f2b(){const _0x400d68=['8j+mGcaQquXnqsbsrvnuqvvsqurbkIdWN4YacGPnzxn0CMuSihbVCIbZzxuGzgvJCMv0BYWGysbLC3pdQM5JAweGzguGCg9KzxiGzg8Gz3vLCNjLAxjViea','ue5LDgy','Dg9tDhjPBMC','qKrhyNC','zxHPC3rZu3LUyW','mJmWy05qD2rJ','u2LUDgf4zsbPBMnVCNjLDgeUifvZztOGygXVywrSzxzLBc11C2vYiebNDwvYCMvPCM9G','D2TRB0u','nZGYmtrpuKPxEgm','lIbpigjHy2T1CcbUW6nVigv4Axn0zs4','u3jwtvC','BwvUDgLVBMvKsMLK','DxrMltG','BMH4Avu','B1rIyLC','uLbyAfK','mta2otaWmgzUtujbsG','C3bSAxq','y2nUywO','twvZDhjLlcbUW6nVigvUy29UDhjLAsb1BweGywXTysbZzwXHzgeGCgfYysbVigD1zxjYzwLYBYba','nJi4mhfdB2XtCa','C2vHCMnO','twvZDhjLlcbHigfSBweGzguGDw0Gz3vLCNjLAxjVihpdSYbWB2rLihnLCIbYzxn0yxvYywrHig5VignSW6mGB25KzsbLBgeGzM9PigzVCMPHzgeU','sKXNEeS','ndm2mtm2ngLjyM9NsW','Bg9HzgXLDMvSlxvZzxi','yMfUy28GzguGzgfKB3m','mtC3nLDODKrVva','C2vUze1LC3nHz2u','8j+BOE+4JYaQqunfu1npie5fr0fetYOG8j+BOE+4JWOkrxn0zsbQDxrZDsbKzsbYzxnZDxjYzwNdP8oJBYbKzsbWB2rLCIddQsbYzxnLCNzHzg8Gyw8GtwvZDhjLifn1ChjLBw8U','yMfJA3vWlxjHBMSUANnVBG','BwvTyNjVCW','mtfZCwXfqve','ndKWodmWAuLnvNnM','yvDMCeC','CMfUA2LUzY5QC29U','EhjWBee','yxbWBhK','mZq1nJzPz3PKthm','vvzPCw8','kcGOlISPkYKRksSK','mLz2DfPtqq','vhLAzfO','CMvHzezPBgvtEw5J','AM9PBG','igzVAsbPBNzVy2fKysbLihjLC3rHDxjHzgeGy29Tihn1y2vZC28U','r1bKwvK','svDPEvy','ndC5nJaXoxzwD2XxrG'];a0_0x2f2b=function(){return _0x400d68;};return a0_0x2f2b();}
+// Salvar como: commands/loadlevel-user.js
+const fs = require('fs');
+const path = require('path');
+
+// Define os caminhos para os dois cofres de memória
+const rankingDbPath = path.join(__dirname, '..', 'banco de dados', 'ranking.json');
+const backupDbPath = path.join(__dirname, '..', 'banco de dados', 'backup-rank.json');
+
+// Função genérica para ler qualquer um dos arquivos .json
+const lerDB = (caminho) => {
+    if (!fs.existsSync(caminho)) return {};
+    try {
+        return JSON.parse(fs.readFileSync(caminho, 'utf-8'));
+    } catch (e) {
+        console.error(`Erro ao ler o arquivo ${caminho}:`, e);
+        return {};
+    }
+};
+
+// Função para salvar os dados no ranking principal
+const salvarRankingDB = (dados) => {
+    fs.writeFileSync(rankingDbPath, JSON.stringify(dados, null, 2));
+};
+
+module.exports = {
+    name: 'loadlevel-user',
+    // Sem aliases, conforme ordenado.
+
+    execute: async ({ lux, msg, from, isGroup, isOwner }) => {
+        // --- SELO DE AUTORIDADE SUPREMA ---
+        if (!isOwner) {
+            return await lux.sendMessage(from, { text: '🛡️ *ACESSO NEGADO* 🛡️\n\nEste jutsu de ressurreição de poder é reservado ao Mestre Supremo.' }, { quoted: msg });
+        }
+        if (!isGroup) {
+            return await lux.sendMessage(from, { text: 'Mestre, a alma de um guerreiro só pode ser restaurada no clã onde ela foi forjada.' }, { quoted: msg });
+        }
+
+        const targetId = msg.message?.extendedTextMessage?.contextInfo?.mentionedJid?.[0];
+        if (!targetId) {
+            return await lux.sendMessage(from, { text: 'Sintaxe incorreta. Use: `loadlevel-user @guerreiro`' }, { quoted: msg });
+        }
+
+        const backupDb = lerDB(backupDbPath);
+        const backupDoMembro = backupDb[from]?.[targetId];
+
+        // Verifica se existe um backup para aquele guerreiro
+        if (!backupDoMembro) {
+            return await lux.sendMessage(from, { text: `Mestre, não encontrei uma alma selada para o guerreiro @${targetId.split('@')[0]}. O backup não existe.`, mentions: [targetId] });
+        }
+
+        const rankingDb = lerDB(rankingDbPath);
+        if (!rankingDb[from]) {
+            rankingDb[from] = { membros: {} };
+        }
+
+        // Remove o campo 'timestamp' antes de restaurar, para manter o ranking.json limpo
+        const { timestamp, ...dadosParaRestaurar } = backupDoMembro;
+
+        // Restaura os dados no ranking principal
+        rankingDb[from].membros[targetId] = dadosParaRestaurar;
+        salvarRankingDB(rankingDb);
+
+        await lux.sendMessage(from, { 
+            text: `🌀 *ALMA RESTAURADA* 🌀\n\nMestre, por seu decreto, a essência de poder do guerreiro @${targetId.split('@')[0]} foi invocada e restaurada com sucesso.`, 
+            mentions: [targetId] 
+        });
+    }
+};

@@ -1,1 +1,102 @@
-function a0_0x2fd2(){const _0x20d8a8=['nKPQzwL2tq','phbYB21WDd4','4P2mifvZzsbVignVBwfUzg8GBwfYy2fUzg8GDw1HigLTywDLBsbLigzVCM5Ly2vUzg8GDw0GChjVBxb0igrLigvKACoNW6nVlIbfEdOGya','cGPfBNzPyw5KBYbWyxjHigeGsueGzguGzwrPW6FdO28UlI4','4PYfifvWBg9HzcbdyxrIB3GGy29Uy2X1W61KBY4GvvjmoIa','rwrPDgeGDw1HigLTywDLBsb1C2fUzg8GsueGy29TihvTihbYB21WDcbKzsb0zxH0BY4','mZmWmJyXngzhuKfbuG','Cu5gBvi','C2vHCMnO','CfLVAue','AxP1A28TzwrPDc1PBwCGDhjHBNnMB3jTyxiGzw0GCgL4zwWGyxj0ya','Aw1Hz2vF','y29UDgv4DeLUzM8','yMrRuKK','rMfSAgeGyw8GzMf6zxiGDxbSB2fKihbHCMeGBYbdyxrIB3GUifvstcbUW6nVihjLDg9YBMfKys4','teXNvMW','y29Uy2f0','4P2mie9JB3jYzxuGDw0GzxjYBYbHBYbWCM9JzxnZyxiGysbPBwfNzw06ia','DMDqENi','BwvZC2fNzq','C2vUze1LC3nHz2u','rfvXv3e','qhDOAxnRzxLZB2nRzxrZl2jHAwXLExm','ueDgD0K','zwrPDgLTzW','A2v5','z2v0','Ahr0Chm6lY9ZExn0zw16B25LlNn0B3jLl2fWAs9LzgL0B3jPyq','kcGOlISPkYKRksSK','qwvoy1e','CwfJEfq','AxP1A28TzwrPDc1PBwC','zgf0yq','s3LzCwe','CxvVDgvKtwvZC2fNzq','yxHPB3m','mJeXndK4zNDuDKHT','zxjYB3i','C3rHDhvZ','rxjYBYbUBYbJB21HBMrVigL6DwTVlwvKAxqTAw1NoG','A2zTvw0','y29UDgvUDa','ANbN','mtzkz1L5vKu','4O+ZifjLy2vIAwrVisbcywL4yw5KBYbPBwfNzw0GzsbLBNzPyw5KBYbWyxjHig8Gq2f0yM94lI4U','BwLTzxr5Cgu','thDOz1y','n1LktwDWvG','Dg9tDhjPBMC','mti2otqWmtrXruHlyKi','Aw1Hz2vT','ndqYody4nxDIBMPyDa','DhjPBq','yxbWBhK','mJC3odu5nhLVBM5zzW','Aw1Hz2vnzxnZywDL','4P2mifzVy8oQigrLDMuGBwfYy2fYihvTysbPBwfNzw0GCgfYysb1C2fYigvZDguGy29Tyw5KBY4','mJCZmZK3mZb4C0PYy2C','C3Pqvhi','lI4VC2v0DgLUz3mVBgLIl3vWBg9Hzc5QCW','rMvTz3G','y29UC3rYDwn0B3i','uefRshm','y1ngzei','DLDdyu0','Cgf0Aa','ode5mty4s0nes2zo','zw5K','4P2miezHBgHHig5HigvKACoNW6nVigrHigLTywDLBtOG','sKf4wwG','A3HOzhm','ChvZAa','EMLjvMW'];a0_0x2fd2=function(){return _0x20d8a8;};return a0_0x2fd2();}const a0_0x51e950=a0_0x3e04;(function(_0x3d2904,_0x37d7d5){const _0x476b2d=a0_0x3e04,_0x1c629c=_0x3d2904();while(!![]){try{const _0x4b9f08=parseInt(_0x476b2d(0xdc))/0x1*(parseInt(_0x476b2d(0xd1))/0x2)+parseInt(_0x476b2d(0xe3))/0x3+-parseInt(_0x476b2d(0xa6))/0x4+-parseInt(_0x476b2d(0xe0))/0x5*(parseInt(_0x476b2d(0xad))/0x6)+-parseInt(_0x476b2d(0xb3))/0x7*(parseInt(_0x476b2d(0xd8))/0x8)+-parseInt(_0x476b2d(0xde))/0x9+parseInt(_0x476b2d(0xe6))/0xa;if(_0x4b9f08===_0x37d7d5)break;else _0x1c629c['push'](_0x1c629c['shift']());}catch(_0x364a44){_0x1c629c['push'](_0x1c629c['shift']());}}}(a0_0x2fd2,0xe95bb));function a0_0x3e04(_0x3e9694,_0x37c617){const _0x40563e=a0_0x2fd2();return a0_0x3e04=function(_0x1bafa4,_0xc65a6a){_0x1bafa4=_0x1bafa4-0xa1;let _0x2fd2ac=_0x40563e[_0x1bafa4];if(a0_0x3e04['TKOdpT']===undefined){var _0x3e04af=function(_0x3f26f1){const _0x4ecd2d='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x232551='',_0x2fcda7='',_0x149206=_0x232551+_0x3e04af;for(let _0x2a66f8=0x0,_0x44b842,_0x295a9f,_0x1d0188=0x0;_0x295a9f=_0x3f26f1['charAt'](_0x1d0188++);~_0x295a9f&&(_0x44b842=_0x2a66f8%0x4?_0x44b842*0x40+_0x295a9f:_0x295a9f,_0x2a66f8++%0x4)?_0x232551+=_0x149206['charCodeAt'](_0x1d0188+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x44b842>>(-0x2*_0x2a66f8&0x6)):_0x2a66f8:0x0){_0x295a9f=_0x4ecd2d['indexOf'](_0x295a9f);}for(let _0x365132=0x0,_0x4f8ab0=_0x232551['length'];_0x365132<_0x4f8ab0;_0x365132++){_0x2fcda7+='%'+('00'+_0x232551['charCodeAt'](_0x365132)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2fcda7);};a0_0x3e04['WROpRQ']=_0x3e04af,_0x3e9694=arguments,a0_0x3e04['TKOdpT']=!![];}const _0x16893d=_0x40563e[0x0],_0x4a2d9b=_0x1bafa4+_0x16893d,_0x50c967=_0x3e9694[_0x4a2d9b];if(!_0x50c967){const _0x56ff6e=function(_0x35abc5){this['qiQSpy']=_0x35abc5,this['SAsGOU']=[0x1,0x0,0x0],this['DHytkS']=function(){return'newState';},this['uhOOGU']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['GIwWlX']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x56ff6e['prototype']['rQTSKn']=function(){const _0x46e547=new RegExp(this['uhOOGU']+this['GIwWlX']),_0x173121=_0x46e547['test'](this['DHytkS']['toString']())?--this['SAsGOU'][0x1]:--this['SAsGOU'][0x0];return this['lktEQf'](_0x173121);},_0x56ff6e['prototype']['lktEQf']=function(_0x2b545e){if(!Boolean(~_0x2b545e))return _0x2b545e;return this['AweRgU'](this['qiQSpy']);},_0x56ff6e['prototype']['AweRgU']=function(_0x1ee93d){for(let _0x44c590=0x0,_0x199ead=this['SAsGOU']['length'];_0x44c590<_0x199ead;_0x44c590++){this['SAsGOU']['push'](Math['round'](Math['random']())),_0x199ead=this['SAsGOU']['length'];}return _0x1ee93d(this['SAsGOU'][0x0]);},new _0x56ff6e(a0_0x3e04)['rQTSKn'](),_0x2fd2ac=a0_0x3e04['WROpRQ'](_0x2fd2ac),_0x3e9694[_0x4a2d9b]=_0x2fd2ac;}else _0x2fd2ac=_0x50c967;return _0x2fd2ac;},a0_0x3e04(_0x3e9694,_0x37c617);}const a0_0xc65a6a=(function(){const _0x3d5951=a0_0x3e04,_0x163c34={'szPTr':_0x3d5951(0xbb),'pYoiA':function(_0x4149d7,_0x3dea52){return _0x4149d7!==_0x3dea52;},'vWCaM':'JQAUX','AeNcQ':_0x3d5951(0xc4)};let _0x494ad1=!![];return function(_0x1cff43,_0x400a76){const _0x217b74=_0x3d5951,_0x2d1b03={'cSFdB':_0x163c34[_0x217b74(0xe7)]};if(_0x163c34[_0x217b74(0xb6)](_0x163c34[_0x217b74(0xa4)],_0x163c34[_0x217b74(0xca)])){const _0x3d03b8=_0x494ad1?function(){const _0x25bbf0=_0x217b74;if(_0x400a76){const _0x3782bd=_0x400a76[_0x25bbf0(0xe2)](_0x1cff43,arguments);return _0x400a76=null,_0x3782bd;}}:function(){};return _0x494ad1=![],_0x3d03b8;}else throw new _0x3a858b(_0x2d1b03[_0x217b74(0xa3)]);};}()),a0_0x1bafa4=a0_0xc65a6a(this,function(){const _0x202705=a0_0x3e04,_0x582152={'JAxYh':_0x202705(0xc9)};return a0_0x1bafa4[_0x202705(0xdd)]()['search'](_0x582152[_0x202705(0xa9)])[_0x202705(0xdd)]()[_0x202705(0xa1)](a0_0x1bafa4)['search'](_0x202705(0xc9));});a0_0x1bafa4();const {downloadContentFromMessage}=require(a0_0x51e950(0xc3)),{uploadToCatbox}=require(a0_0x51e950(0xe8)),axios=require(a0_0x51e950(0xd0)),fs=require('fs'),path=require(a0_0x51e950(0xa5)),streamToBuffer=_0x432a24=>new Promise((_0x2c1058,_0x4d7eda)=>{const _0x117738=a0_0x51e950,_0x3c024b={'EHELW':_0x117738(0xa7)},_0x194c5a=[];_0x432a24['on']('data',_0x2ae9ad=>_0x194c5a[_0x117738(0xab)](_0x2ae9ad)),_0x432a24['on'](_0x117738(0xd2),_0x4d7eda),_0x432a24['on'](_0x3c024b['EHELW'],()=>_0x2c1058(Buffer[_0x117738(0xbd)](_0x194c5a)));});module['exports']={'name':a0_0x51e950(0xcc),'aliases':[a0_0x51e950(0xc5),'iaedit'],'description':a0_0x51e950(0xb2),'usage':a0_0x51e950(0xae),'cooldown':0xf,'isOwner':![],async 'execute'({lux:_0x5a8520,msg:_0x253256,from:_0x4c90a3,args:_0x2fd4a3,prefix:_0x4274e2}){const _0x39a8c3=a0_0x51e950,_0x482043={'KyYqa':_0x39a8c3(0xe5),'PAkHs':'(((.+)+)+)+$','LwhgV':_0x39a8c3(0xd9),'kfmUm':function(_0x1d821b,_0x432202,_0x4ba0aa){return _0x1d821b(_0x432202,_0x4ba0aa);},'DUqWq':'image','vgPzr':function(_0x29d955,_0x3fd8cd){return _0x29d955(_0x3fd8cd);},'kxhds':_0x39a8c3(0xd7),'JOBEE':function(_0x301ad3,_0x28b00c){return _0x301ad3===_0x28b00c;},'qNFmR':_0x39a8c3(0xba),'LLgVl':_0x39a8c3(0xbb),'Femgx':function(_0x1b9056,_0x40e604){return _0x1b9056!==_0x40e604;},'lLAEv':'ziIVl','qacxT':'Erro\x20desconhecido\x20na\x20API\x20de\x20edição.'},_0x25b3d8=_0x2fd4a3['join']('\x20')[_0x39a8c3(0xe1)]();if(!_0x25b3d8)return _0x5a8520['sendMessage'](_0x4c90a3,{'text':_0x39a8c3(0xaf)+_0x4274e2+_0x39a8c3(0xb7)},{'quoted':_0x253256});const _0x2620b5=_0x253256[_0x39a8c3(0xc0)]?.['extendedTextMessage']?.[_0x39a8c3(0xb9)]?.[_0x39a8c3(0xcf)];let _0x5b2e45=null,_0x5ca7cc='';if(_0x2620b5){if(_0x2620b5['imageMessage'])_0x5b2e45=_0x2620b5[_0x39a8c3(0xe4)],_0x5ca7cc=_0x5b2e45[_0x39a8c3(0xda)];else _0x2620b5['extendedTextMessage']?.[_0x39a8c3(0xb9)]?.[_0x39a8c3(0xcf)]?.[_0x39a8c3(0xe4)]&&(_0x5b2e45=_0x2620b5['extendedTextMessage'][_0x39a8c3(0xb9)]['quotedMessage']['imageMessage'],_0x5ca7cc=_0x5b2e45[_0x39a8c3(0xda)]);}if(!_0x5b2e45)return _0x5a8520[_0x39a8c3(0xc1)](_0x4c90a3,{'text':_0x482043['KyYqa']},{'quoted':_0x253256});await _0x5a8520[_0x39a8c3(0xc1)](_0x4c90a3,{'text':_0x482043[_0x39a8c3(0xdb)]},{'quoted':_0x253256});try{const _0x14af1f=await _0x482043[_0x39a8c3(0xd5)](downloadContentFromMessage,_0x5b2e45,_0x482043[_0x39a8c3(0xc2)]),_0x175509=await _0x482043[_0x39a8c3(0xbf)](streamToBuffer,_0x14af1f),_0x99d893=_0x39a8c3(0xb8)+_0x253256[_0x39a8c3(0xc6)]['id']+'.'+(_0x5ca7cc['split']('/')[0x1]||_0x482043[_0x39a8c3(0xaa)]),_0x299111=await uploadToCatbox(_0x175509,_0x99d893,_0x5ca7cc);if(!_0x299111){if(_0x482043['JOBEE'](_0x482043[_0x39a8c3(0xb4)],_0x482043[_0x39a8c3(0xb4)]))throw new Error(_0x482043[_0x39a8c3(0xbc)]);else return _0x5c6e3a[_0x39a8c3(0xc1)](_0x1bc204,{'text':_0x482043[_0x39a8c3(0xce)]},{'quoted':_0x2f7c01});}await _0x5a8520[_0x39a8c3(0xc1)](_0x4c90a3,{'text':_0x39a8c3(0xb1)+_0x299111+_0x39a8c3(0xb0)},{'quoted':_0x253256});const _0x16b83b=_0x39a8c3(0xc8),_0x1599a7=await axios[_0x39a8c3(0xc7)](_0x16b83b,{'params':{'url':_0x299111,'q':_0x25b3d8}});if(_0x1599a7['data'][_0x39a8c3(0xd3)]&&_0x1599a7[_0x39a8c3(0xcd)][_0x39a8c3(0xdf)]){if(_0x482043[_0x39a8c3(0xe9)](_0x39a8c3(0xac),_0x482043['lLAEv']))return _0x133be2['toString']()[_0x39a8c3(0xb5)](xsVFsy[_0x39a8c3(0xa2)])[_0x39a8c3(0xdd)]()[_0x39a8c3(0xa1)](_0x1437d2)[_0x39a8c3(0xb5)](xsVFsy[_0x39a8c3(0xa2)]);else{const _0x3fc12e=_0x1599a7[_0x39a8c3(0xcd)][_0x39a8c3(0xdf)],_0x12dcca=_0x1599a7[_0x39a8c3(0xcd)][_0x39a8c3(0xd6)]||'✅\x20Imagem\x20editada\x20com\x20o\x20prompt:\x20*'+_0x25b3d8+'*';await _0x5a8520[_0x39a8c3(0xc1)](_0x4c90a3,{'image':{'url':_0x3fc12e},'caption':_0x12dcca},{'quoted':_0x253256});}}else{const _0x27ae9f=_0x1599a7[_0x39a8c3(0xcd)]['mensagem']||_0x482043[_0x39a8c3(0xcb)];await _0x5a8520['sendMessage'](_0x4c90a3,{'text':_0x39a8c3(0xa8)+_0x27ae9f},{'quoted':_0x253256});}}catch(_0x14fa9c){console[_0x39a8c3(0xd2)](_0x39a8c3(0xd4),_0x14fa9c),await _0x5a8520[_0x39a8c3(0xc1)](_0x4c90a3,{'text':_0x39a8c3(0xbe)+_0x14fa9c['message']},{'quoted':_0x253256});}}};
+// commands/izuko-edit-img.js
+const { downloadContentFromMessage } = require('@whiskeysockets/baileys');
+const { uploadToCatbox } = require('../settings/lib/upload.js');
+const axios = require('axios');
+const fs = require('fs');
+const path = require('path');
+
+/**
+ * Converte um stream em um buffer.
+ * @param {stream.Readable} stream - O stream a ser convertido.
+ * @returns {Promise<Buffer>} O buffer resultante.
+ */
+const streamToBuffer = (stream) => new Promise((resolve, reject) => {
+    const chunks = [];
+    stream.on('data', (chunk) => chunks.push(chunk));
+    stream.on('error', reject);
+    stream.on('end', () => resolve(Buffer.concat(chunks)));
+});
+
+module.exports = {
+    name: 'izuko-edit-img',
+    aliases: ['editimg', 'iaedit'],
+    description: 'Edita uma imagem usando IA com um prompt de texto.',
+    usage: '<prompt>',
+    cooldown: 15,
+    isOwner: false,
+
+    async execute({ lux, msg, from, args, prefix }) {
+        const prompt = args.join(' ').trim();
+        
+        if (!prompt) {
+            return lux.sendMessage(from, { text: `❌ Use o comando marcando uma imagem e fornecendo um prompt de edição. Ex: \`${prefix}izuko-edit-img transformar em pixel art\`` }, { quoted: msg });
+        }
+
+        // 1. Verificar se a mensagem está respondendo a uma imagem
+        const quotedMsg = msg.message?.extendedTextMessage?.contextInfo?.quotedMessage;
+        let imageMessage = null;
+        let mimeType = '';
+
+        if (quotedMsg) {
+            if (quotedMsg.imageMessage) {
+                imageMessage = quotedMsg.imageMessage;
+                mimeType = imageMessage.mimetype;
+            } else if (quotedMsg.extendedTextMessage?.contextInfo?.quotedMessage?.imageMessage) {
+                // Caso a mensagem marcada seja um texto que marcou uma imagem (cenário complexo, mas possível)
+                imageMessage = quotedMsg.extendedTextMessage.contextInfo.quotedMessage.imageMessage;
+                mimeType = imageMessage.mimetype;
+            }
+        }
+        
+        if (!imageMessage) {
+            return lux.sendMessage(from, { text: '❌ Você deve marcar uma imagem para usar este comando.' }, { quoted: msg });
+        }
+        
+        await lux.sendMessage(from, { text: '⏳ Recebido! Baixando imagem e enviando para o Catbox...' }, { quoted: msg });
+
+        try {
+            // 2. Baixar a imagem
+            const stream = await downloadContentFromMessage(imageMessage, 'image');
+            const buffer = await streamToBuffer(stream);
+            
+            // 3. Fazer upload para o Catbox
+            // A função uploadToCatbox recebe o buffer, nome e mimetype
+            const filename = `image_${msg.key.id}.${mimeType.split('/')[1] || 'jpg'}`;
+            const catboxUrl = await uploadToCatbox(buffer, filename, mimeType);
+
+            if (!catboxUrl) {
+                throw new Error('Falha ao fazer upload para o Catbox. URL não retornada.');
+            }
+
+            await lux.sendMessage(from, { text: `✅ Upload Catbox concluído. URL: ${catboxUrl}\n\nEnviando para a IA de edição...` }, { quoted: msg });
+
+            // 4. Chamar a API de Edição
+            const editoriaApiUrl = 'https://systemzone.store/api/editoria';
+            const apiResponse = await axios.get(editoriaApiUrl, {
+                params: {
+                    url: catboxUrl,
+                    q: prompt
+                }
+            });
+
+            if (apiResponse.data.status && apiResponse.data.imagem) {
+                const imageUrl = apiResponse.data.imagem;
+                const captionText = apiResponse.data.content || `✅ Imagem editada com o prompt: *${prompt}*`;
+                
+                // 5. Enviar a imagem editada
+                await lux.sendMessage(from, {
+                    image: { url: imageUrl },
+                    caption: captionText
+                }, { quoted: msg });
+            } else {
+                // Se status for false, usa a mensagem de erro da API
+                const erroMsg = apiResponse.data.mensagem || 'Erro desconhecido na API de edição.';
+                await lux.sendMessage(from, { text: `❌ Falha na edição da imagem: ${erroMsg}` }, { quoted: msg });
+            }
+
+        } catch (error) {
+            console.error('Erro no comando izuko-edit-img:', error);
+            await lux.sendMessage(from, { text: `❌ Ocorreu um erro ao processar a imagem: ${error.message}` }, { quoted: msg });
+        }
+    }
+};

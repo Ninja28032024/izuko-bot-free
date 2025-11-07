@@ -1,1 +1,100 @@
-function a0_0x56d6(){const _0x5025de=['uvLsweq','Cevwt3y','yxHPB3m','mZK4mta4EKHvBw90','s3PnDfe','C2vHCMnO','twvZDhjLlcbVihjPDhvHBcbKzsbHC2nLBNpdO28GzMfSAg91lIbbigvUzxjNAweGzgeGBCoTzgLHigvYysbPBNn0W6f2zwWGB3uGB3mGCMvPBM9Zigv0W6LYzw9ZigvZDmoJBYbZzwXHzg9ZlIbuzw50zsbUB3zHBwvUDguUcGOQtw90AxzVoIOG','yLDvBNC','C1LyzgK','ogrhAxzOrq','BwvZC2fNzq','BvLPzwO','Cg9ZDa','otm1y1bszwfh','s2rnzue','mZG2otuWBvfSBLzY','uwDctuy','Dg9tDhjPBMC','re9Asw0','D3zotey','zxH0zw5KzwruzxH0twvZC2fNzq','Ahr0Chm6lY9JyxrIB3GUBw9Ll3vZzxiVyxbPlNbOCa','DxnLCMHHC2G','w+kwOokwOokwOokwOokwOf0GmtaWjq','mZi0nZG4n3n6D2zfCq','twvZDhjLlcbWyxjHihf1zsbLDsbWB3nZysbPBw9YDgfSAxPHCIb1BweGBCoTzgLHig5Hig51DMvTlcbwB3nZysbtzw5OB3jPysbWCMvJAxnHihjLC3bVBMrLCIbHihvTysbPBwfNzw0GB3uGDSoTzgvVignVBsbLC3rLignVBwfUzg8U','mZi5nZCYu0nABePA','twvZC2fNzq','AKvRq1K','w+kwOokwOokwOokwOEkwOv0GnJaL','mtG5ALnRB1Pe','mtbNCeLABu0','zxHWB3j0CW','w+kwOokwOEkwOEkwOEkwOv0GmJaL','qsbJB211BMLJyCoNW6nVignVBsbVCYbZzxj2AwrVCMvZigrVienHDgjVEcbMywXOB3u6ia','wKnJBey','vNrvExm','CMvWBgfJzq','z2v0sgvHzgvYCW','w+kwOokwOokwOokwOokwOv0GodaL','zM9YBs1KyxrH','BwzSyLG','wfnbA2K','rw52AwfUzg8GCgfYysbHig51DMvTigv0W6LYzweUlI4k','r2jNDvG','yxDLv1y','EeP3sLi','B3DevhG','Cef0wNC','y29Uy2f0','vgjHDvO','uLfJEvK','y29UDgv4DeLUzM8','A2v5','yxbWBhK','ntq0ndy5mNzJzhLhqW','vwfvvhe','CxvVDgvKtwvZC2fNzq','DMLKzw9nzxnZywDL','ug9YDgfSigvZDgfIAwXPEMfKBY4GuMvJzwjLBMrVig8GC2vSBY4UlGO','nJeXmJq4neTUDKnira','BvjrEK0','tCoTzgLHihjLy2vIAwrHlIbgB3jQyw5KBYbVihbVCNrHBc4UlGO','tMvrDKy','vMjlrgy','C2vUze1LC3nHz2u','lMPWzW','Dg91CMW','zMLSzxvWBg9Hza','zgf0yq','uNvprxe','nMrStgrZsq','CMvXDhLWzq','y29UC3rYDwn0B3i','Aw1Hz2vnzxnZywDL','qhDOAxnRzxLZB2nRzxrZl2jHAwXLExm','qNPPAvm','yxbWzw5K','wKntuNi','rxjYBYbUBYbJB21HBMrVicf1CgXVywqTy2f0yM94oG','ndyXntq0BKLLwez2','zxjYB3i','zNvWtuS'];a0_0x56d6=function(){return _0x5025de;};return a0_0x56d6();}function a0_0x5ac8(_0x521822,_0x25c653){const _0x4d1812=a0_0x56d6();return a0_0x5ac8=function(_0x65710b,_0x16a81d){_0x65710b=_0x65710b-0xc9;let _0x56d60b=_0x4d1812[_0x65710b];if(a0_0x5ac8['xiBVkJ']===undefined){var _0x5ac871=function(_0x155c47){const _0x307737='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x20e3ed='',_0x2cb4a7='',_0x26173c=_0x20e3ed+_0x5ac871;for(let _0x24bd0b=0x0,_0x4a321e,_0x5cadb0,_0x3042c0=0x0;_0x5cadb0=_0x155c47['charAt'](_0x3042c0++);~_0x5cadb0&&(_0x4a321e=_0x24bd0b%0x4?_0x4a321e*0x40+_0x5cadb0:_0x5cadb0,_0x24bd0b++%0x4)?_0x20e3ed+=_0x26173c['charCodeAt'](_0x3042c0+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x4a321e>>(-0x2*_0x24bd0b&0x6)):_0x24bd0b:0x0){_0x5cadb0=_0x307737['indexOf'](_0x5cadb0);}for(let _0x5d0b83=0x0,_0x43c5eb=_0x20e3ed['length'];_0x5d0b83<_0x43c5eb;_0x5d0b83++){_0x2cb4a7+='%'+('00'+_0x20e3ed['charCodeAt'](_0x5d0b83)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2cb4a7);};a0_0x5ac8['UTzZVG']=_0x5ac871,_0x521822=arguments,a0_0x5ac8['xiBVkJ']=!![];}const _0x3e7d6f=_0x4d1812[0x0],_0x160681=_0x65710b+_0x3e7d6f,_0x43f0dd=_0x521822[_0x160681];if(!_0x43f0dd){const _0x178b31=function(_0x55b73c){this['bvrlMr']=_0x55b73c,this['ggnLts']=[0x1,0x0,0x0],this['MbOfpr']=function(){return'newState';},this['ScHixy']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['ghWttg']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x178b31['prototype']['qdyilE']=function(){const _0x4b0b78=new RegExp(this['ScHixy']+this['ghWttg']),_0xd43971=_0x4b0b78['test'](this['MbOfpr']['toString']())?--this['ggnLts'][0x1]:--this['ggnLts'][0x0];return this['mIMXpw'](_0xd43971);},_0x178b31['prototype']['mIMXpw']=function(_0x9a0b13){if(!Boolean(~_0x9a0b13))return _0x9a0b13;return this['IVcsGB'](this['bvrlMr']);},_0x178b31['prototype']['IVcsGB']=function(_0x5a0490){for(let _0x541ae0=0x0,_0x19a5b5=this['ggnLts']['length'];_0x541ae0<_0x19a5b5;_0x541ae0++){this['ggnLts']['push'](Math['round'](Math['random']())),_0x19a5b5=this['ggnLts']['length'];}return _0x5a0490(this['ggnLts'][0x0]);},new _0x178b31(a0_0x5ac8)['qdyilE'](),_0x56d60b=a0_0x5ac8['UTzZVG'](_0x56d60b),_0x521822[_0x160681]=_0x56d60b;}else _0x56d60b=_0x43f0dd;return _0x56d60b;},a0_0x5ac8(_0x521822,_0x25c653);}const a0_0x22a8d3=a0_0x5ac8;(function(_0x4566b2,_0x134595){const _0xfcac7f=a0_0x5ac8,_0x534a2a=_0x4566b2();while(!![]){try{const _0x5191a2=-parseInt(_0xfcac7f(0xd1))/0x1*(-parseInt(_0xfcac7f(0x115))/0x2)+-parseInt(_0xfcac7f(0xe6))/0x3+parseInt(_0xfcac7f(0x105))/0x4+-parseInt(_0xfcac7f(0xed))/0x5*(-parseInt(_0xfcac7f(0xcb))/0x6)+parseInt(_0xfcac7f(0x10a))/0x7*(parseInt(_0xfcac7f(0xd7))/0x8)+parseInt(_0xfcac7f(0xec))/0x9*(parseInt(_0xfcac7f(0xdd))/0xa)+-parseInt(_0xfcac7f(0xdb))/0xb*(parseInt(_0xfcac7f(0xe8))/0xc);if(_0x5191a2===_0x134595)break;else _0x534a2a['push'](_0x534a2a['shift']());}catch(_0x566fce){_0x534a2a['push'](_0x534a2a['shift']());}}}(a0_0x56d6,0xee6fe));const a0_0x16a81d=(function(){let _0xbfeba7=!![];return function(_0x152d75,_0x2a00af){const _0x46b9f2=_0xbfeba7?function(){const _0x53e282=a0_0x5ac8;if(_0x2a00af){const _0x2f11c4=_0x2a00af[_0x53e282(0x104)](_0x152d75,arguments);return _0x2a00af=null,_0x2f11c4;}}:function(){};return _0xbfeba7=![],_0x46b9f2;};}()),a0_0x65710b=a0_0x16a81d(this,function(){const _0x1e74cf=a0_0x5ac8,_0x147014={'KzMtQ':'(((.+)+)+)+$'};return a0_0x65710b[_0x1e74cf(0xdf)]()[_0x1e74cf(0xd3)](_0x147014[_0x1e74cf(0xd2)])[_0x1e74cf(0xdf)]()[_0x1e74cf(0x117)](a0_0x65710b)[_0x1e74cf(0xd3)](_0x147014[_0x1e74cf(0xd2)]);});a0_0x65710b();const {downloadContentFromMessage,getContentType,delay}=require(a0_0x22a8d3(0x119)),axios=require(a0_0x22a8d3(0xd0)),FormData=require(a0_0x22a8d3(0xf6)),fs=require('fs'),path=require('path');async function uploadToCatbox(_0x58637e){const _0xfc136e=a0_0x22a8d3,_0x1a4b4e={'jEkCY':'(((.+)+)+)+$','xJwJR':_0xfc136e(0x116),'pAtZw':_0xfc136e(0x112),'wvNLF':_0xfc136e(0xe4),'QgBMF':'fileToUpload','UaUTq':function(_0x13a100,_0x34f64d){return _0x13a100!==_0x34f64d;},'BpsMO':_0xfc136e(0xe0),'yDtac':_0xfc136e(0xcd),'KdMeA':_0xfc136e(0xe3),'mflbX':'pEVOv'},_0xf5590d=new FormData();_0xf5590d[_0xfc136e(0x11b)](_0x1a4b4e[_0xfc136e(0xfc)],_0x1a4b4e[_0xfc136e(0xfe)]),_0xf5590d[_0xfc136e(0x11b)](_0x1a4b4e[_0xfc136e(0xe1)],''),_0xf5590d[_0xfc136e(0x11b)](_0x1a4b4e[_0xfc136e(0xde)],_0x58637e,{'filename':'izuko-upload-'+Date['now']()+_0xfc136e(0x110)});try{if(_0x1a4b4e[_0xfc136e(0x106)](_0x1a4b4e['BpsMO'],_0x1a4b4e['yDtac'])){const _0xf67342=await axios[_0xfc136e(0xda)](_0x1a4b4e[_0xfc136e(0xdc)],_0xf5590d,{'headers':{..._0xf5590d[_0xfc136e(0xf4)]()}});return _0xf67342[_0xfc136e(0x113)];}else{if(_0x56b6b9){const _0x5e6962=_0x348038[_0xfc136e(0x104)](_0x4014cf,arguments);return _0x534ba8=null,_0x5e6962;}}}catch(_0xe58d65){if(_0xfc136e(0xcf)!==_0x1a4b4e[_0xfc136e(0xf7)])return _0x296b3['toString']()[_0xfc136e(0xd3)](EBXIWg[_0xfc136e(0xea)])['toString']()['constructor'](_0x55cc2a)[_0xfc136e(0xd3)](EBXIWg[_0xfc136e(0xea)]);else throw new Error(_0xfc136e(0xf0)+_0xe58d65[_0xfc136e(0xd8)]);}}module[a0_0x22a8d3(0xee)]={'name':'upload-catbox','aliases':['upload',a0_0x22a8d3(0x111)],'execute':async({lux:_0x305dcd,from:_0x405787,msg:_0x29ca5a})=>{const _0x283d09=a0_0x22a8d3,_0x412a32={'mRQzM':function(_0x5b0e8f,_0x17817f){return _0x5b0e8f(_0x17817f);},'ZCclF':function(_0x185306,_0x12ee7f){return _0x185306===_0x12ee7f;},'RQcyY':_0x283d09(0x118),'owDTx':_0x283d09(0x108),'VbKDf':_0x283d09(0xe9),'NeQvF':function(_0x598ca5,_0x7577ca){return _0x598ca5!==_0x7577ca;},'sYXdi':'ILkUt','TbauZ':function(_0x3dfa70,_0x3bbc2e){return _0x3dfa70===_0x3bbc2e;},'VtUys':_0x283d09(0xe7),'GbguX':'[■■□□□]\x2040%','kiLuX':_0x283d09(0xeb),'ZCSRr':_0x283d09(0xf5),'KzLMX':_0x283d09(0xe5),'mqlGc':function(_0x22c31d,_0x2f6949){return _0x22c31d!==_0x2f6949;},'RuOEq':'XSAki','bWUnw':function(_0x3a4f1a,_0x3b3272){return _0x3a4f1a(_0x3b3272);},'BziiS':function(_0x18b76a,_0x3d3147){return _0x18b76a===_0x3d3147;},'iMqDO':_0x283d09(0xce),'mmelp':_0x283d09(0xca),'mYiej':'aMTUk'};let _0x154318,_0x88eccb;const _0xe288d1=_0x29ca5a[_0x283d09(0xd8)][_0x283d09(0xe2)]?.[_0x283d09(0x102)]?.[_0x283d09(0x107)];if(_0xe288d1){if(_0x412a32[_0x283d09(0x10d)](_0x283d09(0xfb),_0x412a32[_0x283d09(0xd6)])){const _0xd6bed=getContentType(_0xe288d1);(_0x412a32['ZCclF'](_0xd6bed,_0x412a32[_0x283d09(0x101)])||_0x412a32[_0x283d09(0x100)](_0xd6bed,_0x412a32[_0x283d09(0xfd)]))&&(_0x154318=_0xe288d1[_0xd6bed],_0x88eccb=_0xd6bed[_0x283d09(0xf3)](_0x412a32[_0x283d09(0x10e)],''));}else{const _0x2c6a28=_0x412a32[_0x283d09(0x10b)](_0x1d5df8,_0x34ced8);(_0x412a32[_0x283d09(0xf1)](_0x2c6a28,_0x412a32['RQcyY'])||_0x2c6a28===_0x412a32[_0x283d09(0xfd)])&&(_0x1cfed3=_0xbc6b47[_0x2c6a28],_0x26b181=_0x2c6a28[_0x283d09(0xf3)](_0x412a32['VbKDf'],''));}}if(!_0x154318)return await _0x305dcd[_0x283d09(0x10f)](_0x405787,{'text':_0x412a32[_0x283d09(0xf2)]},{'quoted':_0x29ca5a});let _0x306b82;try{const _0x1ffc6e=[_0x283d09(0xef),_0x412a32[_0x283d09(0xfa)],_0x412a32['kiLuX'],_0x412a32[_0x283d09(0xc9)],_0x412a32['KzLMX']],_0x5d10ea=await _0x305dcd[_0x283d09(0x10f)](_0x405787,{'text':'Iniciando\x20ritual\x20de\x20ascensão...\x0a'+_0x1ffc6e[0x0]},{'quoted':_0x29ca5a});_0x306b82=_0x5d10ea[_0x283d09(0x103)];const _0x513bd5=await downloadContentFromMessage(_0x154318,_0x88eccb);let _0x27d1e6=Buffer['from']([]);for await(const _0x53bbac of _0x513bd5){if(_0x412a32['mqlGc'](_0x283d09(0xf8),_0x412a32[_0x283d09(0x114)])){const _0x2d3e6e=_0x5d0b83?function(){if(_0x9a0b13){const _0x1f2ec1=_0x5174d8['apply'](_0x495d4b,arguments);return _0x1a2f72=null,_0x1f2ec1;}}:function(){};return _0xd43971=![],_0x2d3e6e;}else _0x27d1e6=Buffer[_0x283d09(0xff)]([_0x27d1e6,_0x53bbac]);}await _0x305dcd[_0x283d09(0x10f)](_0x405787,{'text':_0x283d09(0x10c)+_0x1ffc6e[0x1],'edit':_0x306b82}),await delay(0x1f4),await _0x305dcd['sendMessage'](_0x405787,{'text':_0x283d09(0xf9)+_0x1ffc6e[0x2],'edit':_0x306b82});const _0xfb555e=await _0x412a32[_0x283d09(0x10b)](uploadToCatbox,_0x27d1e6);await _0x305dcd[_0x283d09(0x10f)](_0x405787,{'text':_0x283d09(0x109)+_0x1ffc6e[0x3],'edit':_0x306b82}),await _0x412a32[_0x283d09(0xd5)](delay,0x1f4);const _0x4b9a4a='*IMAGEM\x20IMORTALIZADA*\x20📜\x0a\x0aMestre,\x20a\x20mídia\x20foi\x20elevada\x20aos\x20reinos\x20etéreos.\x20Sua\x20essência\x20agora\x20está\x20selada\x20neste\x20pergaminho\x20digital,\x20acessível\x20a\x20todos\x20que\x20o\x20portarem.\x0a\x0a*Link\x20Direto:*\x20'+_0xfb555e;await _0x305dcd['sendMessage'](_0x405787,{'text':_0x4b9a4a,'edit':_0x306b82});}catch(_0x23d8c9){if(_0x412a32[_0x283d09(0x11a)](_0x412a32['iMqDO'],_0x412a32['iMqDO'])){console[_0x283d09(0xcc)](_0x412a32['mmelp'],_0x23d8c9);const _0x300d51=_0x283d09(0xd4)+_0x23d8c9[_0x283d09(0xd8)];_0x306b82?_0x412a32[_0x283d09(0x11a)](_0x412a32[_0x283d09(0xd9)],_0x412a32['mYiej'])?await _0x305dcd[_0x283d09(0x10f)](_0x405787,{'text':_0x300d51,'edit':_0x306b82}):(_0x3bc936=_0x3e4239[_0x29ebc2],_0x1a91d3=_0x2da6eb['replace'](_0x412a32['VbKDf'],'')):await _0x305dcd[_0x283d09(0x10f)](_0x405787,{'text':_0x300d51},{'quoted':_0x29ca5a});}else throw new _0x4bc7bf(_0x283d09(0xf0)+_0x127c3c[_0x283d09(0xd8)]);}}};
+// commands/upload-catbox.js
+const { downloadContentFromMessage, getContentType, delay } = require('@whiskeysockets/baileys');
+const axios = require('axios');
+const FormData = require('form-data');
+const fs = require('fs');
+const path = require('path');
+
+// Função para fazer o upload para o Catbox.moe
+async function uploadToCatbox(buffer) {
+    const form = new FormData();
+    form.append('reqtype', 'fileupload');
+    form.append('userhash', ''); // O userhash é opcional
+    form.append('fileToUpload', buffer, {
+        filename: `izuko-upload-${Date.now()}.jpg`, // Nome de arquivo genérico
+    });
+
+    try {
+        const response = await axios.post('https://catbox.moe/user/api.php', form, {
+            headers: {
+                ...form.getHeaders( )
+            }
+        });
+        return response.data; // Retorna a URL direta
+    } catch (error) {
+        // Se a API do Catbox falhar, lança um erro para ser pego pelo comando
+        throw new Error(`A comunicação com os servidores do Catbox falhou: ${error.message}`);
+    }
+}
+
+module.exports = {
+    name: 'upload-catbox',
+    aliases: ['upload', 'tourl'],
+    execute: async ({ lux, from, msg }) => {
+        let mediaMessage;
+        let mediaType;
+
+        // Verifica se a mensagem é uma resposta a uma mídia
+        const quoted = msg.message.extendedTextMessage?.contextInfo?.quotedMessage;
+        if (quoted) {
+            const contentType = getContentType(quoted);
+            if (contentType === 'imageMessage' || contentType === 'videoMessage') {
+                mediaMessage = quoted[contentType];
+                mediaType = contentType.replace('Message', '');
+            }
+        }
+
+        if (!mediaMessage) {
+            return await lux.sendMessage(from, { text: 'Mestre, para que eu possa imortalizar uma mídia na nuvem, Vossa Senhoria precisa responder a uma imagem ou vídeo com este comando.' }, { quoted: msg });
+        }
+
+        let loadingKey;
+
+        try {
+            // 1. Inicia a barra de progresso
+            const progressBar = [
+                '[■□□□□] 20%',
+                '[■■□□□] 40%',
+                '[■■■□□] 60%',
+                '[■■■■□] 80%',
+                '[■■■■■] 100%',
+            ];
+            
+            const initialMessage = await lux.sendMessage(from, { text: `Iniciando ritual de ascensão...\n${progressBar[0]}` }, { quoted: msg });
+            loadingKey = initialMessage.key;
+
+            // 2. Faz o download da mídia
+            const stream = await downloadContentFromMessage(mediaMessage, mediaType);
+            let buffer = Buffer.from([]);
+            for await (const chunk of stream) {
+                buffer = Buffer.concat([buffer, chunk]);
+            }
+            await lux.sendMessage(from, { text: `Mídia recebida. Forjando o portal...\n${progressBar[1]}`, edit: loadingKey });
+
+            // 3. Faz o upload para o Catbox.moe
+            await delay(500); // Pequeno delay para efeito dramático
+            await lux.sendMessage(from, { text: `Enviando para a nuvem etérea...\n${progressBar[2]}`, edit: loadingKey });
+            
+            const link = await uploadToCatbox(buffer);
+            
+            await lux.sendMessage(from, { text: `Portal estabilizado. Recebendo o selo...\n${progressBar[3]}`, edit: loadingKey });
+            await delay(500);
+
+            // 4. Envia a mensagem final de sucesso
+            const finalMessage = `*IMAGEM IMORTALIZADA* 📜\n\nMestre, a mídia foi elevada aos reinos etéreos. Sua essência agora está selada neste pergaminho digital, acessível a todos que o portarem.\n\n*Link Direto:* ${link}`;
+            await lux.sendMessage(from, { text: finalMessage, edit: loadingKey });
+
+        } catch (error) {
+            console.error("Erro no comando !upload-catbox:", error);
+            const errorMessage = `Mestre, o ritual de ascensão falhou. A energia da mídia era instável ou os reinos etéreos estão selados. Tente novamente.\n\n*Motivo:* ${error.message}`;
+            
+            // Se a barra de progresso foi iniciada, edita a mensagem com o erro.
+            // Caso contrário, envia uma nova mensagem de erro.
+            if (loadingKey) {
+                await lux.sendMessage(from, { text: errorMessage, edit: loadingKey });
+            } else {
+                await lux.sendMessage(from, { text: errorMessage }, { quoted: msg });
+            }
+        }
+    }
+};

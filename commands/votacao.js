@@ -1,1 +1,90 @@
-const a0_0x2f3e6c=a0_0x5ea7;(function(_0x1d9d1a,_0x2d4e00){const _0x96397f=a0_0x5ea7,_0x452c03=_0x1d9d1a();while(!![]){try{const _0xcad0f7=-parseInt(_0x96397f(0x1f1))/0x1*(-parseInt(_0x96397f(0x206))/0x2)+-parseInt(_0x96397f(0x1f2))/0x3*(-parseInt(_0x96397f(0x1db))/0x4)+parseInt(_0x96397f(0x203))/0x5+-parseInt(_0x96397f(0x1f9))/0x6+parseInt(_0x96397f(0x200))/0x7+parseInt(_0x96397f(0x1d1))/0x8+-parseInt(_0x96397f(0x1de))/0x9*(parseInt(_0x96397f(0x1e9))/0xa);if(_0xcad0f7===_0x2d4e00)break;else _0x452c03['push'](_0x452c03['shift']());}catch(_0x3f9f45){_0x452c03['push'](_0x452c03['shift']());}}}(a0_0x4bd8,0x53606));const a0_0x2b179d=(function(){let _0x100d48=!![];return function(_0x555b06,_0x1a0259){const _0x46c6aa=_0x100d48?function(){const _0x209d5d=a0_0x5ea7;if(_0x1a0259){const _0x514759=_0x1a0259[_0x209d5d(0x1ed)](_0x555b06,arguments);return _0x1a0259=null,_0x514759;}}:function(){};return _0x100d48=![],_0x46c6aa;};}()),a0_0x391d91=a0_0x2b179d(this,function(){const _0x3cdab1=a0_0x5ea7,_0x3e84f4={'wofJi':_0x3cdab1(0x1d6)};return a0_0x391d91[_0x3cdab1(0x1e5)]()[_0x3cdab1(0x1df)](_0x3e84f4['wofJi'])[_0x3cdab1(0x1e5)]()[_0x3cdab1(0x1f6)](a0_0x391d91)[_0x3cdab1(0x1df)]('(((.+)+)+)+$');});function a0_0x4bd8(){const _0x377913=['lIbfEhbPCMeGzw0G','C2v0','vgfyuK0','zxHWB3j0CW','twvZDhjLlcbLC3rLignVBwfUzg8GC8oZihbVzguGC2vYihvZywrVigvTigDYDxbVCY4','BwXereW','ze5kAeu','DhjPBq','BwfW','DerczwW','nde0otG2neTWwfDWCG','cVcFK4OGkLzpvehdH8odtYbftKnfuLjbreeHkIdWN5okcGOQugvYz3vUDge6kIa','DM90ywnHBW','C2vUze1LC3nHz2u','uwTjvg0','kcGOlISPkYKRksSK','zgvSzxrL','ChjLzML4','r2rHuKe','tuDQr0q','mtmZnNLrs3jXsW','y2HHBgS','cGOQsg91DMuGDw0Gzw1WyxrLigvUDhjLoIOG','owjgr25wsq','C2vHCMnO','DM90B3m','z3jLzw4','C3bSAxq','DM90ywnHBYbqzxjNDw50ysb8ie9WW6FdO28Gmsb8ie9WW6FdO28GmIb8ic4UlIb8ifrLBxbVicHLEdOGnw0Pya','we96r0u','Dg9tDhjPBMC','CMvK','zM9YrwfJAa','q3LVz3i','mtq5ndu5mZbRDLLrAfK','ywPgreG','AM9PBG','Bwf0y2G','yxbWBhK','ru9dsuO','zMLSDgvY','zxjYB3i','nta4otH3A0Lpyuu','nte3nw53wMPUtW','kKzVCM1HDg8Gsw5JB3jYzxrVlcbnzxn0CMuUkGOkvxnLoIbG','4P2miefWzw5HCYbNDwfYzgNdTwvZicHHzg1PBNmPihbVzgvTigLUAwnPyxiGDw1HihzVDghdP8oJBY4','4P2micPgB3jTyxrVigrLihrLBxbVigLUDSoHBgLKBYeQifvZzsaICYiGCgfYysbZzwD1BMrVCYWGiM0IihbHCMeGBwLUDxrVCYbVDsaIAciGCgfYysbOB3jHCY4GrxG6iga1BwaU','y29UC3rYDwn0B3i','oIaQ','ywrTAw4','mZy3odeZmLrRtvrzva','Bwf4','CgfYDgLJAxbHBNrZ','Cg9W','BgvUz3rO','ALvrChe','ihzVDg8OCYKQ','ndi3ndi3mhz5ANjdwG','z2v0','rLzhyLq','mJe5mtiYmePfCefntW','z3jVDxbnzxrHzgf0yq','w1zVDghdP8oJB10GtM92ysbLBNf1zxrLignYAwfKytOG','mtjhDejJD0i','BM93','AwXewgO'];a0_0x4bd8=function(){return _0x377913;};return a0_0x4bd8();}a0_0x391d91();const chalk=require(a0_0x2f3e6c(0x1dc));function a0_0x5ea7(_0x3839d3,_0x299f61){const _0x3253b2=a0_0x4bd8();return a0_0x5ea7=function(_0x391d91,_0x2b179d){_0x391d91=_0x391d91-0x1cf;let _0x4bd8d7=_0x3253b2[_0x391d91];if(a0_0x5ea7['yuHoRA']===undefined){var _0x5ea73d=function(_0x56ea8c){const _0x558d0e='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2b7122='',_0x1b1570='',_0x1f74d9=_0x2b7122+_0x5ea73d;for(let _0x5bc3b7=0x0,_0x57b634,_0x60efd3,_0xc928c2=0x0;_0x60efd3=_0x56ea8c['charAt'](_0xc928c2++);~_0x60efd3&&(_0x57b634=_0x5bc3b7%0x4?_0x57b634*0x40+_0x60efd3:_0x60efd3,_0x5bc3b7++%0x4)?_0x2b7122+=_0x1f74d9['charCodeAt'](_0xc928c2+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x57b634>>(-0x2*_0x5bc3b7&0x6)):_0x5bc3b7:0x0){_0x60efd3=_0x558d0e['indexOf'](_0x60efd3);}for(let _0x190653=0x0,_0x3f5013=_0x2b7122['length'];_0x190653<_0x3f5013;_0x190653++){_0x1b1570+='%'+('00'+_0x2b7122['charCodeAt'](_0x190653)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1b1570);};a0_0x5ea7['DmJwxF']=_0x5ea73d,_0x3839d3=arguments,a0_0x5ea7['yuHoRA']=!![];}const _0x365984=_0x3253b2[0x0],_0x4d7202=_0x391d91+_0x365984,_0x1510b8=_0x3839d3[_0x4d7202];if(!_0x1510b8){const _0x1a262c=function(_0xbabdc3){this['gFMmzX']=_0xbabdc3,this['oVmEuQ']=[0x1,0x0,0x0],this['YLTKue']=function(){return'newState';},this['IwBsNl']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['SARzmf']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x1a262c['prototype']['bfrKeN']=function(){const _0x173900=new RegExp(this['IwBsNl']+this['SARzmf']),_0x15cda5=_0x173900['test'](this['YLTKue']['toString']())?--this['oVmEuQ'][0x1]:--this['oVmEuQ'][0x0];return this['iEaJla'](_0x15cda5);},_0x1a262c['prototype']['iEaJla']=function(_0x9b7cba){if(!Boolean(~_0x9b7cba))return _0x9b7cba;return this['tiVvHI'](this['gFMmzX']);},_0x1a262c['prototype']['tiVvHI']=function(_0x1d2217){for(let _0x296a3c=0x0,_0x8c7831=this['oVmEuQ']['length'];_0x296a3c<_0x8c7831;_0x296a3c++){this['oVmEuQ']['push'](Math['round'](Math['random']())),_0x8c7831=this['oVmEuQ']['length'];}return _0x1d2217(this['oVmEuQ'][0x0]);},new _0x1a262c(a0_0x5ea7)['bfrKeN'](),_0x4bd8d7=a0_0x5ea7['DmJwxF'](_0x4bd8d7),_0x3839d3[_0x4d7202]=_0x4bd8d7;}else _0x4bd8d7=_0x1510b8;return _0x4bd8d7;},a0_0x5ea7(_0x3839d3,_0x299f61);}module[a0_0x2f3e6c(0x20c)]={'name':a0_0x2f3e6c(0x1d3),'aliases':[],'execute':async({lux:_0x5e6c1d,from:_0x370d5e,msg:_0x9ebb77,isGroup:_0x19f739,sender:_0x1653a6,args:_0x23576d,areJidsSameUser:_0x3f74e0,settings:_0x578c83,votacoesAtivas:_0x1f3cc6})=>{const _0x3af09d=a0_0x2f3e6c,_0x5d3497={'dNJhE':_0x3af09d(0x1d6),'ilDXj':function(_0x3f660c,_0xba5e54){return _0x3f660c===_0xba5e54;},'jUQpq':_0x3af09d(0x1d0),'Aeyvm':_0x3af09d(0x1d9),'lJWLP':_0x3af09d(0x20d),'FVGbT':function(_0x2f3723,_0x10035d){return _0x2f3723!==_0x10035d;},'DBaFA':_0x3af09d(0x1d5),'EOCIJ':function(_0x3a6276,_0x20f529){return _0x3a6276<_0x20f529;},'Cyogr':_0x3af09d(0x1f5),'TaXRM':function(_0x94f6d1,_0x4746af){return _0x94f6d1(_0x4746af);},'XOzGE':function(_0x3ff561,_0x380c35){return _0x3ff561*_0x380c35;},'mlDDL':_0x3af09d(0x1da),'ajFDH':'Mestre,\x20houve\x20uma\x20falha\x20ao\x20tentar\x20criar\x20a\x20votação.'};if(!_0x19f739)return await _0x5e6c1d[_0x3af09d(0x1d4)](_0x370d5e,{'text':_0x5d3497['lJWLP']},{'quoted':_0x9ebb77});const _0x5a14b2=await _0x5e6c1d[_0x3af09d(0x204)](_0x370d5e),_0x2a9b3f=_0x5a14b2[_0x3af09d(0x1fb)]['find'](_0x22d540=>_0x3f74e0(_0x22d540['id'],_0x1653a6))?.[_0x3af09d(0x1f8)];if(!_0x2a9b3f)return _0x5d3497[_0x3af09d(0x202)](_0x5d3497['DBaFA'],_0x3af09d(0x1d5))?_0x4e6a0b[_0x3af09d(0x1e5)]()[_0x3af09d(0x1df)](CXYZoE[_0x3af09d(0x20f)])[_0x3af09d(0x1e5)]()[_0x3af09d(0x1f6)](_0x4c3232)[_0x3af09d(0x1df)](CXYZoE[_0x3af09d(0x20f)]):await _0x5e6c1d[_0x3af09d(0x1d4)](_0x370d5e,{'text':_0x3af09d(0x1f4)},{'quoted':_0x9ebb77});const _0x10d24c=_0x23576d[_0x3af09d(0x1eb)]('\x20'),_0x563d8d=_0x10d24c[_0x3af09d(0x1e2)]('|')[_0x3af09d(0x1cf)](_0x2f9d76=>_0x2f9d76[_0x3af09d(0x210)]());if(_0x5d3497[_0x3af09d(0x1ee)](_0x563d8d[_0x3af09d(0x1fd)],0x4))return await _0x5e6c1d[_0x3af09d(0x1d4)](_0x370d5e,{'text':_0x3af09d(0x1f3)+_0x578c83[_0x3af09d(0x1d8)]+_0x3af09d(0x1e3)},{'quoted':_0x9ebb77});const _0x1d2c94=_0x563d8d[_0x3af09d(0x1fc)](),_0x2c28fd=_0x563d8d['shift'](),_0x5ce900=_0x563d8d,_0xc4f5b1=_0x1d2c94[_0x3af09d(0x1ec)](/^(\d+)([smh])$/);if(!_0xc4f5b1)return await _0x5e6c1d[_0x3af09d(0x1d4)](_0x370d5e,{'text':_0x5d3497[_0x3af09d(0x1e8)]},{'quoted':_0x9ebb77});let _0x301c6a=_0x5d3497[_0x3af09d(0x20b)](parseInt,_0xc4f5b1[0x1]);if(_0x5d3497['ilDXj'](_0xc4f5b1[0x2],'s'))_0x301c6a*=0x3e8;if(_0x5d3497[_0x3af09d(0x208)](_0xc4f5b1[0x2],'m'))_0x301c6a*=_0x5d3497[_0x3af09d(0x1e4)](0x3c,0x3e8);if(_0x5d3497['ilDXj'](_0xc4f5b1[0x2],'h'))_0x301c6a*=_0x5d3497['XOzGE'](_0x5d3497[_0x3af09d(0x1e4)](0x3c,0x3c),0x3e8);try{if(_0x5d3497[_0x3af09d(0x202)](_0x3af09d(0x1da),_0x5d3497[_0x3af09d(0x20e)]))_0x56104a+=_0x3af09d(0x1dd)+_0x1d94c1[_0x3af09d(0x1eb)](',\x20');else{const {key:_0x43cf59}=await _0x5e6c1d[_0x3af09d(0x1d4)](_0x370d5e,{'poll':{'name':_0x2c28fd,'values':_0x5ce900,'selectableCount':0x1}});_0x1f3cc6[_0x3af09d(0x20a)](_0x43cf59['id'],{'id':_0x43cf59['id'],'opcoes':_0x5ce900,'votos':new Array(_0x5ce900[_0x3af09d(0x1fd)])['fill'](0x0),'chatId':_0x370d5e,'expiraEm':Date[_0x3af09d(0x207)]()+_0x301c6a}),console['log'](chalk[_0x3af09d(0x1e1)](_0x3af09d(0x205)+_0x43cf59['id']+_0x3af09d(0x209)+_0x1d2c94+'.')),setTimeout(async()=>{const _0x90b466=_0x3af09d,_0x4a826c=_0x1f3cc6[_0x90b466(0x201)](_0x43cf59['id']);if(!_0x4a826c)return;const _0x5e64f1=Math[_0x90b466(0x1fa)](..._0x4a826c[_0x90b466(0x1e0)]),_0x165d87=_0x4a826c['opcoes'][_0x90b466(0x1ef)]((_0x106df8,_0x510f8c)=>_0x4a826c[_0x90b466(0x1e0)][_0x510f8c]===_0x5e64f1);let _0x468e16=_0x90b466(0x1d2)+_0x2c28fd+'\x0a\x0a*Resultado:*\x0a';_0x4a826c['opcoes'][_0x90b466(0x1e7)]((_0x26a33c,_0x302aa7)=>{const _0x48ca58=_0x90b466;_0x468e16+='\x0a-\x20'+_0x26a33c+_0x48ca58(0x1f7)+_0x4a826c[_0x48ca58(0x1e0)][_0x302aa7]+_0x48ca58(0x1ff);});if(_0x5d3497[_0x90b466(0x208)](_0x165d87[_0x90b466(0x1fd)],0x1)){if(_0x5d3497[_0x90b466(0x1fe)]===_0x5d3497['Aeyvm']){const _0x34a954=_0x3a2839[_0x90b466(0x1ed)](_0xc67ca,arguments);return _0xe6ffe8=null,_0x34a954;}else _0x468e16+='\x0a\x0a*Opção\x20Vencedora:*\x20'+_0x165d87[0x0];}else _0x468e16+=_0x90b466(0x1dd)+_0x165d87[_0x90b466(0x1eb)](',\x20');await _0x5e6c1d[_0x90b466(0x1d4)](_0x370d5e,{'text':_0x468e16}),_0x1f3cc6[_0x90b466(0x1d7)](_0x43cf59['id']);},_0x301c6a);}}catch(_0x511e31){console[_0x3af09d(0x1f0)](chalk[_0x3af09d(0x1e6)]('[Votação]\x20Erro\x20ao\x20criar\x20enquete:'),_0x511e31),await _0x5e6c1d[_0x3af09d(0x1d4)](_0x370d5e,{'text':_0x5d3497[_0x3af09d(0x1ea)]},{'quoted':_0x9ebb77});}}};
+// commands/votacao.js
+const chalk = require('chalk');
+
+module.exports = {
+    name: 'votacao',
+    aliases: [], // Sem aliases, conforme ordenado
+    execute: async ({ lux, from, msg, isGroup, sender, args, areJidsSameUser, settings, votacoesAtivas }) => {
+        // 1. VERIFICAÇÕES
+        if (!isGroup) {
+            return await lux.sendMessage(from, { text: 'Mestre, este comando só pode ser usado em grupos.' }, { quoted: msg });
+        }
+        const groupMeta = await lux.groupMetadata(from);
+        const senderIsAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, sender))?.admin;
+        if (!senderIsAdmin) {
+            return await lux.sendMessage(from, { text: '❌ Apenas guardiões (admins) podem iniciar uma votação.' }, { quoted: msg });
+        }
+
+        const q = args.join(' ');
+        const partes = q.split('|').map(p => p.trim());
+
+        if (partes.length < 4) { // Pergunta, 2 opções, tempo
+            return await lux.sendMessage(from, { text: `*Formato Incorreto, Mestre.*\n\nUse: \`${settings.prefix}votacao Pergunta | Opção 1 | Opção 2 | ... | Tempo (ex: 5m)\`` }, { quoted: msg });
+        }
+
+        // 2. EXTRAÇÃO DOS DADOS
+        const tempoStr = partes.pop();
+        const pergunta = partes.shift();
+        const opcoes = partes;
+
+        const tempoMatch = tempoStr.match(/^(\d+)([smh])$/); // s para segundos, m para minutos, h para horas
+        if (!tempoMatch) {
+            return await lux.sendMessage(from, { text: '❌ *Formato de tempo inválido!* Use "s" para segundos, "m" para minutos ou "h" para horas. Ex: `5m`.' }, { quoted: msg });
+        }
+
+        let tempoMs = parseInt(tempoMatch[1]);
+        if (tempoMatch[2] === 's') tempoMs *= 1000;
+        if (tempoMatch[2] === 'm') tempoMs *= 60 * 1000;
+        if (tempoMatch[2] === 'h') tempoMs *= 60 * 60 * 1000;
+
+        // 3. CRIAÇÃO DA ENQUETE
+        try {
+            const { key } = await lux.sendMessage(from, { poll: { name: pergunta, values: opcoes, selectableCount: 1 } });
+            
+            // Armazena a votação no Map global
+            votacoesAtivas.set(key.id, {
+                id: key.id,
+                opcoes: opcoes,
+                votos: new Array(opcoes.length).fill(0), // Inicia com 0 votos
+                chatId: from,
+                expiraEm: Date.now() + tempoMs
+            });
+
+            console.log(chalk.green(`[Votação] Nova enquete criada: ${key.id}. Expira em ${tempoStr}.`));
+
+            // 4. AGENDAMENTO DO RESULTADO
+            setTimeout(async () => {
+                const votacaoFinal = votacoesAtivas.get(key.id);
+                if (!votacaoFinal) return; // Votação já pode ter sido encerrada
+
+                const maxVotos = Math.max(...votacaoFinal.votos);
+                const vencedores = votacaoFinal.opcoes.filter((_, index) => votacaoFinal.votos[index] === maxVotos);
+
+                let resultado = `
+📊 *VOTAÇÃO ENCERRADA!* 📊
+
+*Pergunta:* ${pergunta}
+
+*Resultado:*
+`;
+                votacaoFinal.opcoes.forEach((opt, index) => {
+                    resultado += `\n- ${opt}: *${votacaoFinal.votos[index]} voto(s)*`;
+                });
+
+                if (vencedores.length === 1) {
+                    resultado += `\n\n*Opção Vencedora:* ${vencedores[0]}`;
+                } else {
+                    resultado += `\n\n*Houve um empate entre:* ${vencedores.join(', ')}`;
+                }
+
+                await lux.sendMessage(from, { text: resultado });
+                votacoesAtivas.delete(key.id); // Limpa a votação da memória
+
+            }, tempoMs);
+
+        } catch (error) {
+            console.error(chalk.red('[Votação] Erro ao criar enquete:'), error);
+            await lux.sendMessage(from, { text: 'Mestre, houve uma falha ao tentar criar a votação.' }, { quoted: msg });
+        }
+    }
+};

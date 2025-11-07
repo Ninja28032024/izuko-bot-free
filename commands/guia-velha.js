@@ -1,1 +1,278 @@
-const a0_0x58b9eb=a0_0x1158;function a0_0x1158(_0x414036,_0x482153){const _0x4d3087=a0_0x59cd();return a0_0x1158=function(_0x42c52e,_0xf80668){_0x42c52e=_0x42c52e-0x79;let _0x59cd4d=_0x4d3087[_0x42c52e];if(a0_0x1158['rhSoBp']===undefined){var _0x11581e=function(_0xd0dbbb){const _0x100029='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xbea159='',_0xd7219f='',_0x3c1b5f=_0xbea159+_0x11581e;for(let _0x63b533=0x0,_0x3b4939,_0x1d4156,_0x5bf63c=0x0;_0x1d4156=_0xd0dbbb['charAt'](_0x5bf63c++);~_0x1d4156&&(_0x3b4939=_0x63b533%0x4?_0x3b4939*0x40+_0x1d4156:_0x1d4156,_0x63b533++%0x4)?_0xbea159+=_0x3c1b5f['charCodeAt'](_0x5bf63c+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x3b4939>>(-0x2*_0x63b533&0x6)):_0x63b533:0x0){_0x1d4156=_0x100029['indexOf'](_0x1d4156);}for(let _0x47d3d2=0x0,_0x3223ec=_0xbea159['length'];_0x47d3d2<_0x3223ec;_0x47d3d2++){_0xd7219f+='%'+('00'+_0xbea159['charCodeAt'](_0x47d3d2)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0xd7219f);};a0_0x1158['sGCHqZ']=_0x11581e,_0x414036=arguments,a0_0x1158['rhSoBp']=!![];}const _0x548cb4=_0x4d3087[0x0],_0x537fc8=_0x42c52e+_0x548cb4,_0x27ec99=_0x414036[_0x537fc8];if(!_0x27ec99){const _0x5d275a=function(_0x1f56bf){this['MiDULZ']=_0x1f56bf,this['ellaUt']=[0x1,0x0,0x0],this['oKGcwv']=function(){return'newState';},this['wlwQmy']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['LrRrqj']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x5d275a['prototype']['NRyrzM']=function(){const _0x382be2=new RegExp(this['wlwQmy']+this['LrRrqj']),_0x569aee=_0x382be2['test'](this['oKGcwv']['toString']())?--this['ellaUt'][0x1]:--this['ellaUt'][0x0];return this['mBseJv'](_0x569aee);},_0x5d275a['prototype']['mBseJv']=function(_0x223174){if(!Boolean(~_0x223174))return _0x223174;return this['AbrJzu'](this['MiDULZ']);},_0x5d275a['prototype']['AbrJzu']=function(_0x251e03){for(let _0x4e9cef=0x0,_0x1b8dcd=this['ellaUt']['length'];_0x4e9cef<_0x1b8dcd;_0x4e9cef++){this['ellaUt']['push'](Math['round'](Math['random']())),_0x1b8dcd=this['ellaUt']['length'];}return _0x251e03(this['ellaUt'][0x0]);},new _0x5d275a(a0_0x1158)['NRyrzM'](),_0x59cd4d=a0_0x1158['sGCHqZ'](_0x59cd4d),_0x414036[_0x537fc8]=_0x59cd4d;}else _0x59cd4d=_0x27ec99;return _0x59cd4d;},a0_0x1158(_0x414036,_0x482153);}(function(_0x144955,_0x539506){const _0x502db9=a0_0x1158,_0x44e1e8=_0x144955();while(!![]){try{const _0x343ea3=-parseInt(_0x502db9(0x84))/0x1*(parseInt(_0x502db9(0xa4))/0x2)+parseInt(_0x502db9(0xab))/0x3+parseInt(_0x502db9(0x90))/0x4*(-parseInt(_0x502db9(0x80))/0x5)+-parseInt(_0x502db9(0xa8))/0x6+-parseInt(_0x502db9(0xb4))/0x7+-parseInt(_0x502db9(0xad))/0x8+-parseInt(_0x502db9(0x92))/0x9*(-parseInt(_0x502db9(0xa2))/0xa);if(_0x343ea3===_0x539506)break;else _0x44e1e8['push'](_0x44e1e8['shift']());}catch(_0x4a40a1){_0x44e1e8['push'](_0x44e1e8['shift']());}}}(a0_0x59cd,0x787af));const a0_0xf80668=(function(){const _0x394971=a0_0x1158,_0x54d99a={'OGdJF':_0x394971(0x9a)};let _0x4c92b6=!![];return function(_0xec6a98,_0xc46d8c){const _0x42b0cd=_0x394971,_0x4b1e52={'EMIWA':function(_0xa3b8f8,_0x21d060){return _0xa3b8f8!==_0x21d060;},'iUKBx':_0x42b0cd(0x8b),'tEnPY':_0x54d99a[_0x42b0cd(0x8a)]},_0x5f1c3a=_0x4c92b6?function(){const _0x15c15e=_0x42b0cd,_0x180521={'VDfEX':_0x15c15e(0x9f)};if(_0x4b1e52[_0x15c15e(0xa7)](_0x4b1e52[_0x15c15e(0x86)],_0x4b1e52['iUKBx'])){const _0x78c584=_0x47d3d2?function(){const _0x2105f2=_0x15c15e;if(_0x223174){const _0x25a7bf=_0x59d723[_0x2105f2(0x9b)](_0x43e18c,arguments);return _0x4380b0=null,_0x25a7bf;}}:function(){};return _0x569aee=![],_0x78c584;}else{if(_0xc46d8c){if(_0x15c15e(0x7f)===_0x4b1e52[_0x15c15e(0x94)])return _0x85205b['toString']()[_0x15c15e(0x7b)](_0x180521[_0x15c15e(0xaa)])[_0x15c15e(0x7d)]()[_0x15c15e(0x83)](_0x55b054)[_0x15c15e(0x7b)](_0x180521['VDfEX']);else{const _0x5dd1bc=_0xc46d8c['apply'](_0xec6a98,arguments);return _0xc46d8c=null,_0x5dd1bc;}}}}:function(){};return _0x4c92b6=![],_0x5f1c3a;};}()),a0_0x42c52e=a0_0xf80668(this,function(){const _0x142a03=a0_0x1158,_0x300aa8={'qvisD':'(((.+)+)+)+$'};return a0_0x42c52e[_0x142a03(0x7d)]()[_0x142a03(0x7b)](_0x300aa8['qvisD'])['toString']()['constructor'](a0_0x42c52e)[_0x142a03(0x7b)](_0x300aa8['qvisD']);});a0_0x42c52e();const chalk=require(a0_0x58b9eb(0x7a));module[a0_0x58b9eb(0xa5)]={'name':'guia-velha','aliases':[a0_0x58b9eb(0xaf),'como-jogar-velha',a0_0x58b9eb(0x98),a0_0x58b9eb(0x85)],'description':'Tutorial\x20completo\x20sobre\x20como\x20jogar\x20Jogo\x20da\x20Velha','usage':a0_0x58b9eb(0x8e),async 'execute'({lux:_0x462a38,from:_0x3d94ac,msg:_0x5ddee1,args:_0x138968,sender:_0x27ff42,pushName:_0x1936f2,isGroup:_0x26a52e,settings:_0x361fcc}){const _0x2741f4=a0_0x58b9eb,_0x32bf78={'XnIcK':function(_0x436d35,_0x2a9836){return _0x436d35!==_0x2a9836;},'KcSWC':_0x2741f4(0x79),'FJBov':function(_0x2f8d6c,_0x497065){return _0x2f8d6c(_0x497065);},'UlfLG':function(_0xc99b63,_0x49a1f5){return _0xc99b63<_0x49a1f5;},'eKzGd':function(_0x430eb9,_0x5c5063){return _0x430eb9>_0x5c5063;},'rkLBE':function(_0x453dc7,_0x1565c8,_0x318c88){return _0x453dc7(_0x1565c8,_0x318c88);},'UzziE':_0x2741f4(0x9d),'Boywz':'❌\x20Erro\x20ao\x20exibir\x20o\x20guia.\x20Tente\x20novamente.'};try{if(_0x32bf78[_0x2741f4(0xb9)](_0x32bf78[_0x2741f4(0xb7)],_0x2741f4(0xb6))){const _0xf5f184=_0x32bf78[_0x2741f4(0xbb)](parseInt,_0x138968[0x0])||0x1;if(_0x32bf78[_0x2741f4(0xb3)](_0xf5f184,0x1)||_0x32bf78[_0x2741f4(0x7e)](_0xf5f184,0x4))return await _0x462a38[_0x2741f4(0x93)](_0x3d94ac,{'text':_0x2741f4(0x88)+_0x361fcc[_0x2741f4(0xb0)]+_0x2741f4(0xba)},{'quoted':_0x5ddee1});const _0xead05b=_0x32bf78[_0x2741f4(0x96)](gerarPagina,_0xf5f184,_0x361fcc[_0x2741f4(0xb0)]);await _0x462a38[_0x2741f4(0x93)](_0x3d94ac,{'text':_0xead05b},{'quoted':_0x5ddee1}),console[_0x2741f4(0xae)](chalk['blue'](_0x2741f4(0xa3)+_0x1936f2+_0x2741f4(0xa6)+_0xf5f184));}else{if(_0x5bd294){const _0x70b8c4=_0x382d0e[_0x2741f4(0x9b)](_0x186c26,arguments);return _0x29d67c=null,_0x70b8c4;}}}catch(_0x507666){console[_0x2741f4(0xb5)](chalk[_0x2741f4(0xb1)](_0x32bf78[_0x2741f4(0x8c)]),_0x507666),await _0x462a38['sendMessage'](_0x3d94ac,{'text':_0x32bf78['Boywz']},{'quoted':_0x5ddee1});}}};function a0_0x59cd(){const _0x562f69=['nZq2odKWsxLbr09h','zxHWB3j0CW','ihzPC3vHBgL6B3uGCmoHz2LUysa','ru1jv0e','ntm1nJG2nKnutgnLyG','CMvQzwL0yxiGlsbszwPLAxrHCIbKzxnHzMLVcG','vKrMrvG','mJaWmZG1meXlwNbTqq','CMvQzwL0yxiku2uGBSoJBYbXDwLZzxiGAM9NyxiSihjLAMvPDguGBYbKzxnHzMLViqOk4PUuicPdyw5JzwXHCIbkB2DVkGO','ndG0mZu4ngj3BgvMDq','Bg9N','Dhv0B3jPywWTDMvSAge','ChjLzML4','CMvK','ywnLAxrHCGPrDwfUzg8GywXNDCoPBsb0zsbKzxnHzMLHCIWGDxnLigvZDguGy29Tyw5KBYekcUkDJcaQuMvQzwL0yxiGrgvZywzPBYOk','vwXMteC','mZK2ntC2nK1gvgfkrG','zxjYB3i','sNvxwMO','s2ntv0m','y2fUy2vSyxj2zwXOyqPdyw5JzwXHig8GAM9NBYbLBsbHBMrHBwvUDg8UcGRWN5okicPwzxiGrxn0yxtdRxn0AwnHCYOk','wg5jy0S','z3vPys12zwXOysaX','rKPcB3y','zu1SEM4','y2HHBgS','C2vHCMnO','z3vPys12zwXOysaZihbHCMeGDMvYig9ZihjLC3vSDgfKB3mGCg9ZC8oTDMvPCYe','Dg9tDhjPBMC','zuT6r2q','DeP2uLi','nZvYC1Hwv1y','DMvSAgeTCMfUAYaTifzLCIbYyw5RAw5NcG','DMvSAgeGqePVW6nVcGPpigjVDcbLBNzPysb1BsbKzxnHzMLVihbHCMeGsM/dO286cMbGyaOX77Ip4OoJidlVUi/IG6mGm++4J+kdOYakno+4J+kdOYa177Ip4OoJidBVUi/IG6mGcJFVUi/IG6mGoo+4J+kdOYa577Ip4OoJiaPGygakcVcFKAqGkLzVy8oQkIbKzxnHzMLVDsbasM/dO28GCgfYysbQB2DHCIekcUkTLsbasM/dO28SihjLC3bVBMrHignVBtOk4PYfia','y29UC3rYDwn0B3i','mNL0t1HIva','AgvSCc12zwXOyq','AvvlqNG','CMvQzwL0yxik4OAsie8GzgvZywzPBYddQsbJyw5JzwXHzg8UcGPtzsbUAw5NDCoPBsbYzxnWB25KzxiGzw0GnsbTAw51Dg9ZoGRIHPiGtYbKzxnHzMLVimoPignHBMnLBgfKBYbHDxrVBwf0AwnHBwvUDguUcGOTls0kcIPqqvnttYaZoIbgyxPLCIbkB2DHzgfZkGOkuxvHBMrVigzVCIbZDweGDMv6lcbKAwDPDguGyxbLBMfZig8GBSo6BwvYBYaOms05ktOkrxHLBxbSBZOGnqOku2v1ihpdRw1IB2XVicJINyWGB3uG4Q2vksb2ywKGCgfYysbHihbVC2NdP8oJBYbLC2nVBgHPzgeHcGOTls0kcIPqqvnttYa0oIbbBhrLCM5HBMrVifr1CM5VCYOkcLzVy8oQigrPz2L0ysb1BsbUW7PTzxjVicGXltKPcKPVW6nVigrPz2L0ysb1BsbUW7PTzxjVicGXltKPcLjLCgv0zsbHDmoPigfSz3xdQw0GDMvUy2vYig91igvTCgf0yxiHcGPeAwDPDguG','4P2mifddOwDPBMeGAw52W6fSAwrHisbvC2uGBSo6BwvYB3mGzguGmsbHidqUcGPfEgvTCgXVoIa','y2fUy2vSyxj2zwXOysaTienHBMnLBgfYigPVz28k','t0DKsKy','vwXWExa','vxP6Auu','8j+tLIaQr1vjqsbdt01qtevutYaTiePpr08GreeGvKvmseeQipcFK5ykcIPqW6fNAw5HidmVncaTifjfu1vmvefet1mGue9tu8onvKvjuYOkcIPdru7dGvjjtYaXoIbwt0pdIIbwru5drsOG4PYfcGPwB2pdQIbJB25ZzwD1zsbMyxPLCIaZihpdRw1IB2XVCYbLBsbSAw5OytOkygbGcUkDJcdINyWG4P2miaRIRzuG4Q2vidBVUi/IG6mGcJFVUi/IG6mGoo+4J+kdOYa577Ip4OoJiaPGygakcKjVDcbYzxnWB25KztOk8j+oIsaQvK9dW4OGvKvoq0vvisOG8j+oIqRIMPtVUi8GugfYywldQw5ZisbwB2pdQIbJB25XDwLZDg91igeGDML0W7nYAweHcGPtDwfZigvZDgf0W61ZDgLJyxmGC8oJBYbHDhvHBgL6ywrHCZOk4OcIicSXifzPDmoZCMLHcUkaOIaRmsbqyxj0AwrHigPVz2fKyqOkls0TcGOQq0voW4fssu8GmJOGt1bptKvoveuGvKvoq0uQiokDJaOktYbVCg9Uzw50zsbJB25ZzwD1zsbMyxPLCIaZihpdRw1IB2XVCYbLBsbSAw5OytOkygbGcUkTLsdIRzuG4Q2viaRINyWG4P2midBVUi/IG6mGcJFVUi/IG6mGoo+4J+kdOYa577Ip4OoJiaPGygakcKjVDcbYzxnWB25KztOk8j+oIsaQsK/dG08GvKvoq0vvisOG8j+oIqRIMPtVUi8GugfYywldQw5ZisbwB2pdQIbJB25XDwLZDg91igeGDML0W7nYAweHcGPtDwfZigvZDgf0W61ZDgLJyxmGC8oJBYbHDhvHBgL6ywrHCZOk4OcIicSXierLCNjVDgek4OcIicSXifbHCNrPzgeGAM9NywrHcGOTls0kcIPdru7dGvjjtYaZoIbftvbbveuQipcFPj0kcLrVzgfZigfZihbVC2NdP8o1zxmGChjLzw5JAgLKyxmSig5PBMD1W6LTihzLBMnLDtOkygbGcUkDJcdIRzuG4P2miaRIRzuG4P2miokTLsak4Q2viokDJcdINyWGcMbGyaOkqM90ihjLC3bVBMrLoGRWN6sDicPftvbbveuHkIdWN6sDcKfTyM9ZigPVz2fYyw0GBxvPDg8GyMvTisboAw5NDCoPBsbJB25ZzwD1AxuGDMvUy2vYlGOkrxn0yxtdRxn0AwnHCYbKzsbHBwjVCYbZW6nVigf0DwfSAxPHzgfZoGRIGkiGkZeGrw1WyxrLcUkaOIaRmsbqyxj0AwrHigPVz2fKyqOkls0TcGOQq0voW4fssu8GndOGveLnru9vvcOG4O+WcGPtzsbWyxnZyxiGnsbTAw51Dg9ZihnLBsbQB2DHzgfZoGOkqM90ihjLC3bVBMrLoGRIJ7aGkLrftvbpievtr09uqurpisOktYbQB2DVigzVAsbJyw5JzwXHzg8GCg9YigLUyxrPDMLKywrLlGOktMvUAhvTysbLC3rHDmoTC3rPy2eGW6KGyxr1ywXPEMfKys4kcKrPz2L0zsa','iwD1AweTDMvSAgeGw3ddOwDPBMfD','8j+tLIaQr1vjqsbdt01qtevutYaTiePpr08GreeGvKvmseeQipcFK5ykcIPqW6fNAw5HidqVncaTienptufore9tieuGreLdqvmQcGOQq09nqu5et1mGreLtue9oW41wruLtoIOkcVcFJQ4GkKLUAwnPyxiGsM9NBYOk','mtqXmJq0sNrJwLz4','DMvSAgeTCMfUAWPwzwPHig8GCMfUA2LUzYbKBYbNCNvWBYbJB20GB3mGvg9WideWigPVz2fKB3jLCY4kcVcFK5yGkLzLCIbhDwLHkGO','nJyZm1HmvND0zq','C2vUze1LC3nHz2u','DevUufK','DMvSAgeTC3rHDhmGlsbwzxiGzxn0yxtdRxn0AwnHCWO','CMTmqKu','8j+tLIaQr1vjqsbdt01qtevutYaTiePpr08GreeGvKvmseeQipcFK5ykcIPqW6fNAw5HideVncaTieLovfjprfxdH8odtYOkcKjLBs12Aw5KBYbHBYbkB2DVigrHifzLBgHHigrVieL6DwTViejVDceG8j+oRGOkrxn0zsddQsb1BsbQB2DVignSW6fZC2LJBYbVBMrLihzVy8oQihbVzgu6cUkCHsbezxnHzMLHCIbVDxrYB3mGvvnvW4fssu9tigrVigDYDxbVcUkCHsbby29TCgfUAgfYihn1yxmGrvnuqvtdJvnusunbuWRINiuGvMvYig8GuKfos0LorYbKBYbNCNvWBWOkkKnVBw8GzNvUy2LVBMe6kGRIGkiGvM9JW6OGBwfYy2eGDw0GBSo6BwvYBYaOms05ksbUBYb0ywj1BgvPCM8k4OcIie8GB2jQzxrPDM8GW6KGzMf6zxiGmYbZW61TyM9SB3mGAwD1ywLZigvTigXPBMHHcUkaOIbqB2rLihnLCIbUysbOB3jPEM9UDgfSlcb2zxj0AwnHBcbVDsbKAwfNB25HBaRIGkiGrg9PCYbQB2DHzg9YzxmGC2uGzw5MCMvUDgfToIbyihzZie8kcIPqCSoZEgLTB3mGCgfZC29ZoIOkrgLNAxrLia','ywP1zgeTDMvSAge','ywnLAxrHCGRIHPiGtYbQB2DVignVBwxdP2eHifzVy8oQimoPiokDJcaOwcKGzsbQB2DHihbYAw1LAxjVlGOku2uGsM/dO28GzgLNAxrHCJOG','EgfkDg8','yxbWBhK','CMvQzwL0yxikcUkpSYbuzw1WBYbSAw1PDgu6iduGBwLUDxrVCWOkls0TcGOQueftu08GmJOGqwD1yxjKyxiGuMvZCg9ZDgeQcGPtzsbkB8oJBYbKAwDPDgfYoIa','w0DvsueTvKvmsefDievYCM8Gyw8GzxHLy3v0yxiGy29Tyw5KBZO','z3vPys12zwXOysbBms00xsaTifzLCIbNDwLHcGPeAxzPCNrHlxnLiguGyM9HihnVCNrLisdWN46U8j+nGa','kcGOlISPkYKRksSK','ywnLAxrHCGRINyWG','z3vPys12zwXOysaYihbHCMeGyxbYzw5KzxiGysbQB2DHCIe','ndi5nZbKCKrJuwC','w0DvsueTvKvmsefDia'];a0_0x59cd=function(){return _0x562f69;};return a0_0x59cd();}function gerarPagina(_0x52de20,_0x326b61){const _0x3fc0f4=a0_0x58b9eb,_0x411ea8={0x1:_0x3fc0f4(0x97)+_0x326b61+_0x3fc0f4(0xa1),0x2:'📖\x20*GUIA\x20COMPLETO\x20-\x20JOGO\x20DA\x20VELHA*\x20📖\x0a\x0a*Página\x202/4\x20-\x20COMO\x20JOGAR*\x0a\x0a*PASSO\x201:\x20Desafiar\x20Outro\x20Usuário*\x0aDigite:\x20'+_0x326b61+_0x3fc0f4(0x82)+_0x326b61+_0x3fc0f4(0xa0)+_0x326b61+_0x3fc0f4(0x9c)+_0x326b61+_0x3fc0f4(0x99)+_0x326b61+_0x3fc0f4(0x87)+_0x326b61+_0x3fc0f4(0x7c),0x3:_0x3fc0f4(0x8d)+_0x326b61+'guia-velha\x204\x20para\x20ver\x20os\x20comandos\x20auxiliares!',0x4:_0x3fc0f4(0x8f)+_0x326b61+'velha\x20@usuário\x0aDesafia\x20outro\x20jogador\x20do\x20grupo.\x0a\x0a✅\x20*Aceitar\x20Desafio*\x0a'+_0x326b61+_0x3fc0f4(0xb2)+_0x326b61+_0x3fc0f4(0xac)+_0x326b61+_0x3fc0f4(0xb8)+_0x326b61+'velha-stats\x0aVeja\x20suas\x20estatísticas\x20pessoais:\x0a•\x20Total\x20de\x20partidas\x0a•\x20Vitórias,\x20derrotas\x20e\x20empates\x0a•\x20Taxa\x20de\x20vitória\x0a\x0a🏆\x20*Ver\x20Ranking*\x0a'+_0x326b61+_0x3fc0f4(0x91)+_0x326b61+'guia-velha\x20[página]\x0aExibe\x20este\x20guia\x20(páginas\x201-4).\x0a\x0a---\x0a\x0a*DICAS\x20ESTRATÉGICAS:*\x0a\x0a✅\x20*Centro\x20é\x20Chave*\x0aA\x20posição\x205\x20(centro)\x20é\x20estratégica!\x0aQuem\x20controla\x20o\x20centro\x20tem\x20vantagem.\x0a\x0a✅\x20*Cantos\x20são\x20Fortes*\x0aPosições\x201,\x203,\x207\x20e\x209\x20(cantos)\x20são\x20poderosas.\x0aCrie\x20ameaças\x20a\x20partir\x20dos\x20cantos!\x0a\x0a✅\x20*Crie\x20Ameaças\x20Duplas*\x0aTente\x20criar\x20duas\x20formas\x20de\x20vencer\x20ao\x20mesmo\x20tempo.\x0aSeu\x20oponente\x20só\x20pode\x20bloquear\x20uma!\x0a\x0a✅\x20*Bloqueie\x20o\x20Oponente*\x0aSempre\x20fique\x20atento\x20às\x20jogadas\x20do\x20adversário.\x0aSe\x20ele\x20tem\x202\x20símbolos\x20em\x20linha,\x20bloqueie!\x0a\x0a✅\x20*Pratique\x20Bastante*\x0aQuanto\x20mais\x20jogar,\x20melhor\x20ficará!\x0aDesafie\x20diferentes\x20pessoas\x20para\x20aprender.\x0a\x0a---\x0a\x0a*REGRAS\x20IMPORTANTES:*\x0a\x0a⚠️\x20Apenas\x20um\x20jogo\x20por\x20grupo\x20de\x20cada\x20vez\x0a⚠️\x20Não\x20pode\x20desafiar\x20a\x20si\x20mesmo\x0a⚠️\x20Tempo\x20limite\x20de\x205\x20minutos\x20por\x20jogo\x0a⚠️\x20Apenas\x20números\x20de\x201-9\x20são\x20aceitos\x0a⚠️\x20Não\x20pode\x20jogar\x20em\x20posição\x20ocupada\x0a\x0a---\x0a\x0a*RESUMO\x20DOS\x20COMANDOS:*\x0a'+_0x326b61+'velha\x20@usuário\x20-\x20Desafiar\x20jogador\x0a'+_0x326b61+'aceitar\x20-\x20Aceitar\x20desafio\x0a'+_0x326b61+_0x3fc0f4(0xa9)+_0x326b61+_0x3fc0f4(0x89)+_0x326b61+_0x3fc0f4(0x95)+_0x326b61+_0x3fc0f4(0x81)+_0x326b61+_0x3fc0f4(0x9e)};return _0x411ea8[_0x52de20]||_0x411ea8[0x1];}
+// commands/guia-velha.js
+// Comando tutorial para ensinar como usar o Jogo da Velha
+// VERSÃO ATUALIZADA - APENAS MULTIPLAYER
+
+const chalk = require('chalk');
+
+module.exports = {
+    name: 'guia-velha',
+    aliases: ['tutorial-velha', 'como-jogar-velha', 'ajuda-velha', 'help-velha'],
+    description: 'Tutorial completo sobre como jogar Jogo da Velha',
+    usage: '!guia-velha [página]',
+    
+    async execute({ lux, from, msg, args, sender, pushName, isGroup, settings }) {
+        try {
+            // Obter número da página (padrão: 1)
+            const pagina = parseInt(args[0]) || 1;
+
+            // Validar página (agora são 4 páginas)
+            if (pagina < 1 || pagina > 4) {
+                return await lux.sendMessage(from, { 
+                    text: `❌ Página inválida! Use números de 1 a 4.\n\nExemplo: ${settings.prefix}guia-velha 1` 
+                }, { quoted: msg });
+            }
+
+            // Gerar conteúdo da página
+            const conteudo = gerarPagina(pagina, settings.prefix);
+
+            await lux.sendMessage(from, { text: conteudo }, { quoted: msg });
+
+            console.log(chalk.blue(`[GUIA-VELHA] ${pushName} visualizou página ${pagina}`));
+
+        } catch (error) {
+            console.error(chalk.red('[GUIA-VELHA] Erro ao executar comando:'), error);
+            await lux.sendMessage(from, { 
+                text: '❌ Erro ao exibir o guia. Tente novamente.' 
+            }, { quoted: msg });
+        }
+    }
+};
+
+// ===== FUNÇÕES AUXILIARES =====
+
+function gerarPagina(pagina, prefix) {
+    const paginas = {
+        1: `📖 *GUIA COMPLETO - JOGO DA VELHA* 📖
+
+*Página 1/4 - INTRODUÇÃO*
+
+Bem-vindo ao Jogo da Velha do Izuko Bot! 🎮
+
+Este é um jogo clássico onde você pode:
+✅ Desafiar outros USUÁRIOS do grupo
+✅ Acompanhar suas ESTATÍSTICAS
+✅ Ver o RANKING do grupo
+
+*Como funciona:*
+• Você marca um número (1-9) no tabuleiro
+• O objetivo é fazer 3 símbolos iguais em linha
+• Pode ser na horizontal, vertical ou diagonal
+• Dois jogadores se enfrentam: X vs O
+
+*Próximos passos:*
+Digite ${prefix}guia-velha 2 para aprender a jogar!`,
+
+        2: `📖 *GUIA COMPLETO - JOGO DA VELHA* 📖
+
+*Página 2/4 - COMO JOGAR*
+
+*PASSO 1: Desafiar Outro Usuário*
+Digite: ${prefix}velha @João
+
+O bot envia um desafio para João:
+\`\`\`
+1️⃣ 2️⃣ 3️⃣ 
+4️⃣ 5️⃣ 6️⃣ 
+7️⃣ 8️⃣ 9️⃣ 
+\`\`\`
+
+👤 *Você* desafiou @João para jogar!
+
+⭕ @João, responda com:
+✅ ${prefix}aceitar
+❌ ${prefix}rejeitar
+
+⏳ Tempo limite: 5 minutos
+
+---
+
+*PASSO 2: Aguardar Resposta*
+
+Se João digitar: ${prefix}aceitar
+→ O jogo começa! Você é ❌ (X) e joga primeiro.
+
+Se João digitar: ${prefix}rejeitar
+→ O desafio é cancelado.
+
+Se ninguém responder em 5 minutos:
+→ O desafio é cancelado automaticamente.
+
+---
+
+*PASSO 3: Fazer Jogadas*
+
+Quando for sua vez, digite apenas o número (1-9):
+Exemplo: 5
+
+Seu símbolo (❌ ou ⭕) vai para a posição escolhida!
+
+---
+
+*PASSO 4: Alternando Turnos*
+
+Você digita um número (1-9)
+João digita um número (1-9)
+Repete até alguém vencer ou empatar!
+
+Digite ${prefix}guia-velha 3 para ver os resultados possíveis!`,
+
+        3: `📖 *GUIA COMPLETO - JOGO DA VELHA* 📖
+
+*Página 3/4 - RESULTADOS POSSÍVEIS*
+
+*CENÁRIO 1: VOCÊ VENCE* ✅
+
+Você consegue fazer 3 símbolos em linha:
+\`\`\`
+❌ ❌ ❌ 
+⭕ ⭕ 6️⃣ 
+7️⃣ 8️⃣ 9️⃣ 
+\`\`\`
+
+Bot responde:
+🎉 *VOCÊ VENCEU!* 🎉
+⚔️ Parabéns! Você conquistou a vitória!
+
+Suas estatísticas são atualizadas:
+• +1 Vitória
+• +1 Partida jogada
+
+---
+
+*CENÁRIO 2: OPONENTE VENCE* ❌
+
+O oponente consegue fazer 3 símbolos em linha:
+\`\`\`
+⭕ ⭕ ⭕ 
+❌ ❌ 6️⃣ 
+7️⃣ 8️⃣ 9️⃣ 
+\`\`\`
+
+Bot responde:
+🎉 *JOÃO VENCEU!* 🎉
+⚔️ Parabéns! Você conquistou a vitória!
+
+Suas estatísticas são atualizadas:
+• +1 Derrota
+• +1 Partida jogada
+
+---
+
+*CENÁRIO 3: EMPATE* 🤝
+
+Todas as posições preenchidas, ninguém venceu:
+\`\`\`
+❌ ⭕ ❌ 
+⭕ ❌ ⭕ 
+⭕ ❌ ❌ 
+\`\`\`
+
+Bot responde:
+🤝 *EMPATE!* 🤝
+Ambos jogaram muito bem! Ninguém conseguiu vencer.
+
+Estatísticas de ambos são atualizadas:
+• +1 Empate
+• +1 Partida jogada
+
+---
+
+*CENÁRIO 4: TIMEOUT* ⏰
+
+Se passar 5 minutos sem jogadas:
+
+Bot responde:
+⏰ *TEMPO ESGOTADO!*
+O jogo foi cancelado por inatividade.
+
+Nenhuma estatística é atualizada.
+
+Digite ${prefix}guia-velha 4 para ver os comandos auxiliares!`,
+
+        4: `📖 *GUIA COMPLETO - JOGO DA VELHA* 📖
+
+*Página 4/4 - COMANDOS E DICAS*
+
+*COMANDOS DISPONÍVEIS:*
+
+🎮 *Iniciar Jogo*
+${prefix}velha @usuário
+Desafia outro jogador do grupo.
+
+✅ *Aceitar Desafio*
+${prefix}aceitar
+Quando alguém te desafiar, use este comando!
+
+❌ *Rejeitar Desafio*
+${prefix}rejeitar
+Se não quiser jogar, rejeite o desafio!
+
+⛔ *Cancelar Jogo*
+${prefix}cancelarvelha
+Cancela o jogo em andamento.
+
+📊 *Ver Estatísticas*
+${prefix}velha-stats
+Veja suas estatísticas pessoais:
+• Total de partidas
+• Vitórias, derrotas e empates
+• Taxa de vitória
+
+🏆 *Ver Ranking*
+${prefix}velha-rank
+Veja o ranking do grupo com os Top 10 jogadores.
+
+📖 *Ver Guia*
+${prefix}guia-velha [página]
+Exibe este guia (páginas 1-4).
+
+---
+
+*DICAS ESTRATÉGICAS:*
+
+✅ *Centro é Chave*
+A posição 5 (centro) é estratégica!
+Quem controla o centro tem vantagem.
+
+✅ *Cantos são Fortes*
+Posições 1, 3, 7 e 9 (cantos) são poderosas.
+Crie ameaças a partir dos cantos!
+
+✅ *Crie Ameaças Duplas*
+Tente criar duas formas de vencer ao mesmo tempo.
+Seu oponente só pode bloquear uma!
+
+✅ *Bloqueie o Oponente*
+Sempre fique atento às jogadas do adversário.
+Se ele tem 2 símbolos em linha, bloqueie!
+
+✅ *Pratique Bastante*
+Quanto mais jogar, melhor ficará!
+Desafie diferentes pessoas para aprender.
+
+---
+
+*REGRAS IMPORTANTES:*
+
+⚠️ Apenas um jogo por grupo de cada vez
+⚠️ Não pode desafiar a si mesmo
+⚠️ Tempo limite de 5 minutos por jogo
+⚠️ Apenas números de 1-9 são aceitos
+⚠️ Não pode jogar em posição ocupada
+
+---
+
+*RESUMO DOS COMANDOS:*
+${prefix}velha @usuário - Desafiar jogador
+${prefix}aceitar - Aceitar desafio
+${prefix}rejeitar - Rejeitar desafio
+${prefix}cancelarvelha - Cancelar jogo
+${prefix}velha-stats - Ver estatísticas
+${prefix}velha-rank - Ver ranking
+${prefix}guia-velha [1-4] - Ver guia
+
+Divirta-se e boa sorte! 🎮🍀`
+    };
+
+    return paginas[pagina] || paginas[1];
+}

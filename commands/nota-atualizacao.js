@@ -1,1 +1,49 @@
-const a0_0x32140a=a0_0x170e;function a0_0x170e(_0x4f04c3,_0x2d3491){const _0x1a613e=a0_0x1b3b();return a0_0x170e=function(_0x4ed2f2,_0x2800b8){_0x4ed2f2=_0x4ed2f2-0x162;let _0x1b3be3=_0x1a613e[_0x4ed2f2];if(a0_0x170e['DexDSS']===undefined){var _0x170e8a=function(_0x2143a8){const _0x2bdf06='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x13fa43='',_0x2f191d='',_0x1e9f13=_0x13fa43+_0x170e8a;for(let _0x5e3d5e=0x0,_0x547fce,_0x7c3d12,_0x378175=0x0;_0x7c3d12=_0x2143a8['charAt'](_0x378175++);~_0x7c3d12&&(_0x547fce=_0x5e3d5e%0x4?_0x547fce*0x40+_0x7c3d12:_0x7c3d12,_0x5e3d5e++%0x4)?_0x13fa43+=_0x1e9f13['charCodeAt'](_0x378175+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x547fce>>(-0x2*_0x5e3d5e&0x6)):_0x5e3d5e:0x0){_0x7c3d12=_0x2bdf06['indexOf'](_0x7c3d12);}for(let _0x450612=0x0,_0xcd83a5=_0x13fa43['length'];_0x450612<_0xcd83a5;_0x450612++){_0x2f191d+='%'+('00'+_0x13fa43['charCodeAt'](_0x450612)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2f191d);};a0_0x170e['ipZqQw']=_0x170e8a,_0x4f04c3=arguments,a0_0x170e['DexDSS']=!![];}const _0x4fc5d=_0x1a613e[0x0],_0x4cbd15=_0x4ed2f2+_0x4fc5d,_0x23d47a=_0x4f04c3[_0x4cbd15];if(!_0x23d47a){const _0x2f3db4=function(_0xd664cb){this['APELQZ']=_0xd664cb,this['HWrqBU']=[0x1,0x0,0x0],this['qfbemy']=function(){return'newState';},this['HpLUKJ']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['Sfcfth']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x2f3db4['prototype']['AjGLrH']=function(){const _0x30dbf6=new RegExp(this['HpLUKJ']+this['Sfcfth']),_0x832c2c=_0x30dbf6['test'](this['qfbemy']['toString']())?--this['HWrqBU'][0x1]:--this['HWrqBU'][0x0];return this['DLLvHC'](_0x832c2c);},_0x2f3db4['prototype']['DLLvHC']=function(_0x59e240){if(!Boolean(~_0x59e240))return _0x59e240;return this['GwlhTw'](this['APELQZ']);},_0x2f3db4['prototype']['GwlhTw']=function(_0x510308){for(let _0x237eea=0x0,_0x2c1236=this['HWrqBU']['length'];_0x237eea<_0x2c1236;_0x237eea++){this['HWrqBU']['push'](Math['round'](Math['random']())),_0x2c1236=this['HWrqBU']['length'];}return _0x510308(this['HWrqBU'][0x0]);},new _0x2f3db4(a0_0x170e)['AjGLrH'](),_0x1b3be3=a0_0x170e['ipZqQw'](_0x1b3be3),_0x4f04c3[_0x4cbd15]=_0x1b3be3;}else _0x1b3be3=_0x23d47a;return _0x1b3be3;},a0_0x170e(_0x4f04c3,_0x2d3491);}(function(_0x41fe7e,_0x3df637){const _0x2168a1=a0_0x170e,_0x44f64f=_0x41fe7e();while(!![]){try{const _0x4cae8a=parseInt(_0x2168a1(0x170))/0x1+-parseInt(_0x2168a1(0x163))/0x2+parseInt(_0x2168a1(0x166))/0x3*(parseInt(_0x2168a1(0x164))/0x4)+parseInt(_0x2168a1(0x16e))/0x5+parseInt(_0x2168a1(0x165))/0x6+parseInt(_0x2168a1(0x16b))/0x7+-parseInt(_0x2168a1(0x171))/0x8;if(_0x4cae8a===_0x3df637)break;else _0x44f64f['push'](_0x44f64f['shift']());}catch(_0x2128e7){_0x44f64f['push'](_0x44f64f['shift']());}}}(a0_0x1b3b,0xdd04d));const a0_0x2800b8=(function(){let _0x331e4=!![];return function(_0x56b3af,_0x349010){const _0x56bc3d=_0x331e4?function(){if(_0x349010){const _0x2912e6=_0x349010['apply'](_0x56b3af,arguments);return _0x349010=null,_0x2912e6;}}:function(){};return _0x331e4=![],_0x56bc3d;};}()),a0_0x4ed2f2=a0_0x2800b8(this,function(){const _0x1cf95f=a0_0x170e,_0x124d66={'eZjRp':_0x1cf95f(0x167)};return a0_0x4ed2f2['toString']()[_0x1cf95f(0x162)](_0x124d66[_0x1cf95f(0x16c)])['toString']()[_0x1cf95f(0x169)](a0_0x4ed2f2)[_0x1cf95f(0x162)](_0x124d66[_0x1cf95f(0x16c)]);});function a0_0x1b3b(){const _0x126789=['kcGOlISPkYKRksSK','zxHWB3j0CW','y29UC3rYDwn0B3i','DhjPBq','ota0nJyXmvroBNfJqG','zvPQuNa','C2vUze1LC3nHz2u','nZi1otG4nwTYqvvYwG','BM90ys1HDhvHBgL6ywnHBW','mti1ndC1mfrSv3LhqG','ndm0nZu4ntzIu2P4yLq','C2vHCMnO','nZK1otCYvMTPEMnI','mte4ntqWD25Tqwny','ntK0mte3nM1xrNDzqq','mtC3C0jXCgTL'];a0_0x1b3b=function(){return _0x126789;};return a0_0x1b3b();}a0_0x4ed2f2(),module[a0_0x32140a(0x168)]={'name':a0_0x32140a(0x16f),'aliases':[],'execute':async({lux:_0x44982c,from:_0x57a8a1,msg:_0x48e078})=>{const _0x1bf653=a0_0x32140a,_0x582c4c='\x0a*Nota\x20de\x20atualização\x20📍*\x0a\x0aSaudações,\x20guerreiros\x20e\x20administradores.\x0a\x0aSob\x20a\x20liderança\x20visionária\x20do\x20Mestre,\x20o\x20Izuko\x20BOT\x20transcendeu,\x20passando\x20por\x20uma\x20série\x20de\x20aprimoramentos\x20profundos\x20que\x20solidificam\x20seu\x20poder\x20e\x20expandem\x20seu\x20domínio.\x20Decretamos\x20hoje\x20as\x20novas\x20leis\x20e\x20ferramentas\x20que\x20regerão\x20os\x20clãs.\x0a\x0a*O\x20que\x20mudou?*\x0a\x0a*1.\x20Aprimoramento\x20da\x20Interface\x20de\x20Inicialização:*\x0aO\x20ritual\x20de\x20invocação\x20do\x20bot\x20foi\x20completamente\x20redesenhado.\x20A\x20interface\x20no\x20console\x20agora\x20é\x20mais\x20clara,\x20intuitiva\x20e\x20robusta,\x20garantindo\x20uma\x20conexão\x20estável\x20e\x20um\x20diagnóstico\x20preciso\x20desde\x20o\x20primeiro\x20momento.\x0a\x0a*2.\x20Novo\x20Arsenal\x20de\x20Comandos:*\x0aO\x20poder\x20do\x20Izuko\x20BOT\x20foi\x20expandido\x20com\x20a\x20adição\x20de\x20um\x20arsenal\x20de\x20novos\x20comandos\x20forjados\x20para\x20a\x20administração\x20e\x20diagnóstico:\x0a\x20\x20\x20-\x20`!votacao`:\x20Crie\x20enquetes\x20complexas\x20com\x20múltiplas\x20opções.\x0a\x20\x20\x20-\x20`!midia`:\x20Faça\x20o\x20download\x20de\x20vídeos\x20do\x20Instagram\x20e\x20TikTok\x20diretamente\x20pelo\x20bot.\x0a\x20\x20\x20-\x20`!auto-sair`:\x20Um\x20comando\x20de\x20Dono\x20para\x20programar\x20a\x20retirada\x20honrosa\x20do\x20bot\x20de\x20um\x20grupo.\x0a\x20\x20\x20-\x20`!totalcomandos`:\x20Exibe\x20a\x20contagem\x20total\x20de\x20comandos\x20no\x20arsenal\x20do\x20bot.\x0a\x0a*3.\x20O\x20Arsenal\x20Anti-Link\x20Definitivo:*\x0aPara\x20manter\x20a\x20ordem\x20e\x20a\x20disciplina,\x20um\x20sistema\x20de\x20defesa\x20de\x205\x20níveis\x20foi\x20implementado.\x20Os\x20administradores\x20agora\x20têm\x20controle\x20total\x20sobre\x20a\x20política\x20de\x20links:\x0a\x20\x20\x20-\x20`!anti-link`:\x20Nível\x201\x20(Apagar\x20e\x20Advertir).\x0a\x20\x20\x20-\x20`!anti-link2`:\x20Nível\x202\x20(Banir\x20sem\x20Apagar).\x0a\x20\x20\x20-\x20`!anti-link3`:\x20Nível\x203\x20(Apagar\x20e\x20Banir).\x0a\x20\x20\x20-\x20`!anti-link4`:\x20Nível\x204\x20(O\x20Ritual\x20de\x20Exílio).\x0a\x20\x20\x20-\x20`!anti-link5`:\x20Nível\x205\x20(Advertência\x20Progressiva).\x0a\x20\x20\x20-\x20`!manual-antilinks`:\x20Um\x20guia\x20completo\x20para\x20os\x20administradores\x20sobre\x20como\x20usar\x20este\x20poderoso\x20arsenal.\x0a\x0a*4.\x20Reparo\x20e\x20Otimização\x20do\x20Comando\x20de\x20Figurinhas:*\x0aO\x20comando\x20`!sticker`\x20(`!figurinhas`)\x20foi\x20completamente\x20reescrito.\x20A\x20nova\x20lógica\x20é\x20mais\x20robusta,\x20garantindo\x20a\x20criação\x20de\x20figurinhas\x20a\x20partir\x20de\x20imagens\x20e\x20GIFs\x20com\x20maior\x20confiabilidade\x20e\x20adicionando\x20os\x20nomes\x20corretos\x20do\x20pacote\x20e\x20do\x20autor\x20em\x20cada\x20criação.\x0a\x0aAgradecemos\x20a\x20todos\x20pelo\x20apoio\x20contínuo.\x20Cada\x20atualização\x20é\x20um\x20passo\x20em\x20direção\x20à\x20ferramenta\x20definitiva,\x20forjada\x20para\x20servir\x20e\x20proteger\x20os\x20clãs\x20com\x20a\x20máxima\x20eficiência\x20e\x20poder.\x0a\x0aAtenciosamente,\x0a*Ninja\x20Dev\x27s\x20Of\x20Bots.*\x0a\x20\x20\x20\x20\x20\x20\x20\x20';await _0x44982c[_0x1bf653(0x16d)](_0x57a8a1,{'text':_0x582c4c[_0x1bf653(0x16a)]()},{'quoted':_0x48e078});}};
+// commands/nota-atualizacao.js
+
+module.exports = {
+    name: 'nota-atualizacao',
+    aliases: [], // Sem aliases, conforme ordenado pelo Mestre.
+    
+    execute: async ({ lux, from, msg }) => {
+        
+        const notaDeAtualizacao = `
+*Nota de atualização 📍*
+
+Saudações, guerreiros e administradores.
+
+Sob a liderança visionária do Mestre, o Izuko BOT transcendeu, passando por uma série de aprimoramentos profundos que solidificam seu poder e expandem seu domínio. Decretamos hoje as novas leis e ferramentas que regerão os clãs.
+
+*O que mudou?*
+
+*1. Aprimoramento da Interface de Inicialização:*
+O ritual de invocação do bot foi completamente redesenhado. A interface no console agora é mais clara, intuitiva e robusta, garantindo uma conexão estável e um diagnóstico preciso desde o primeiro momento.
+
+*2. Novo Arsenal de Comandos:*
+O poder do Izuko BOT foi expandido com a adição de um arsenal de novos comandos forjados para a administração e diagnóstico:
+   - \`!votacao\`: Crie enquetes complexas com múltiplas opções.
+   - \`!midia\`: Faça o download de vídeos do Instagram e TikTok diretamente pelo bot.
+   - \`!auto-sair\`: Um comando de Dono para programar a retirada honrosa do bot de um grupo.
+   - \`!totalcomandos\`: Exibe a contagem total de comandos no arsenal do bot.
+
+*3. O Arsenal Anti-Link Definitivo:*
+Para manter a ordem e a disciplina, um sistema de defesa de 5 níveis foi implementado. Os administradores agora têm controle total sobre a política de links:
+   - \`!anti-link\`: Nível 1 (Apagar e Advertir).
+   - \`!anti-link2\`: Nível 2 (Banir sem Apagar).
+   - \`!anti-link3\`: Nível 3 (Apagar e Banir).
+   - \`!anti-link4\`: Nível 4 (O Ritual de Exílio).
+   - \`!anti-link5\`: Nível 5 (Advertência Progressiva).
+   - \`!manual-antilinks\`: Um guia completo para os administradores sobre como usar este poderoso arsenal.
+
+*4. Reparo e Otimização do Comando de Figurinhas:*
+O comando \`!sticker\` (\`!figurinhas\`) foi completamente reescrito. A nova lógica é mais robusta, garantindo a criação de figurinhas a partir de imagens e GIFs com maior confiabilidade e adicionando os nomes corretos do pacote e do autor em cada criação.
+
+Agradecemos a todos pelo apoio contínuo. Cada atualização é um passo em direção à ferramenta definitiva, forjada para servir e proteger os clãs com a máxima eficiência e poder.
+
+Atenciosamente,
+*Ninja Dev's Of Bots.*
+        `;
+
+        // Envia a mensagem formatada para o grupo ou usuário
+        await lux.sendMessage(from, { text: notaDeAtualizacao.trim() }, { quoted: msg });
+    }
+};

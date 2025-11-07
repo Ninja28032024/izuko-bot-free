@@ -1,1 +1,107 @@
-const a0_0x8d549c=a0_0x8f59;function a0_0x5d3e(){const _0x112d3b=['BwTKAxjtEw5J','y3PIBNC','qwXTysbZB25VCMeGAxnVBgfKys4Gtwf0zxjPywXPEMfUzg8Gzw0GzM9YBweGzguGW6f1zgLVlI4UcG','AwfSA3e','odiZovjIrwDisq','mJC3ndC1vw1OvLDq','y3bYCgi','odeWnta1CLjKB0Dm','DMLKzw8','Dg9tDhjPBMC','uhjcAu8','Dhnbu20','twDbyMO','z1nYq2y','zMLUAxnO','zxjYB3i','zvLYELG','DgvTCa','vhrotgC','yxbWBhK','rMD3BwC','rerpDvi','rNPPtwi','rxjYBYbUBYbgrM1WzwC6','rKz2Axu','C2vUze1LC3nHz2u','mta4mdLuu0Htr28','Ee90A2y','tvznzgW','y3bozhG','mtj3ANHRtNG','DMLKzw9nzxnZywDL','qsbLEhrYyCoNW6nVigzHBgHVDs4GtYbLC3ddRxjPDg8Gzg8GDSoTzgvVimoPigLUC3tdOxzLBc4','CeTXv3m','AM9PBG','sKzbrKu','D2nuvuC','twHwshO','A2v5','Dw5SAw5Ru3LUyW','qhDOAxnRzxLZB2nRzxrZl2jHAwXLExm','x2LUChv0lM1Wna','zMzTCgvNic1Pia','zxHPC3rZu3LUyW','C2vHCMnO','teTKzKG','yKDfqxC','DLz6yuG','q3vOyuq','BM93','s3LStgC','wxvwAha','q29YCg8GBwf0zxjPywWGCMvJzwjPzg8UieLZB2XHBMrVigeGywXTysbZB25VCMeUlI4k','y2HPBgrFChjVy2vZCW','q2nVvvG','y3jLyxrLv3jPDgvtDhjLyw0','wKHyEuq','kcGOlISPkYKRksSK','w+kwOokwOokwOokwOEkwOv0GnJaL','y29UDgv4DeLUzM8','Cgf0Aa','sw5Py2LHBMrVig8GCML0DwfSigrLigv4DhjHW6FdO28GC29UB3jHlI4UcG','mtyWmJy5m21qwwT3Aq','mte3nJi2neT6vKXNva','mJaWogjjz2DTEq','ndu2mdG2mhHvq2XOtq','ywz0AfG','BwvZC2fNzq','rK9ZEwu','uM1lEMe','z2niDg8','rxjYBYbUBYbJB21HBMrVicf0B21WmZO','x291Dhb1Dc5TCdm','EvrkCfO','w+kwOokwOokwOEkwOEkwOv0GndaL','rxfZr0W','CxvVDgvKtwvZC2fNzq','qNrhze4','yw5iBM8','yxvKAw8VBxbLzW','t3f2wKK','q2LIuNy','w+kwOokwOokwOokwOokwOv0GodaL','DKPdt2K','thrcDLi','nJa4Ae93sKfc','zw5K'];a0_0x5d3e=function(){return _0x112d3b;};return a0_0x5d3e();}(function(_0x560d7e,_0x98c95f){const _0x5d5449=a0_0x8f59,_0x21ebc6=_0x560d7e();while(!![]){try{const _0x3346e7=parseInt(_0x5d5449(0x1bd))/0x1+parseInt(_0x5d5449(0x1f7))/0x2+-parseInt(_0x5d5449(0x1d2))/0x3*(parseInt(_0x5d5449(0x1b6))/0x4)+parseInt(_0x5d5449(0x1bf))/0x5*(-parseInt(_0x5d5449(0x1d6))/0x6)+parseInt(_0x5d5449(0x1bc))/0x7*(-parseInt(_0x5d5449(0x1f8))/0x8)+parseInt(_0x5d5449(0x1f6))/0x9+parseInt(_0x5d5449(0x1f9))/0xa;if(_0x3346e7===_0x98c95f)break;else _0x21ebc6['push'](_0x21ebc6['shift']());}catch(_0x3c260f){_0x21ebc6['push'](_0x21ebc6['shift']());}}}(a0_0x5d3e,0x512c5));const a0_0x120382=(function(){let _0x2f59c9=!![];return function(_0xb7aa48,_0x4f1ffd){const _0x145da9=_0x2f59c9?function(){const _0x48e561=a0_0x8f59;if(_0x4f1ffd){const _0x5b503e=_0x4f1ffd[_0x48e561(0x1cb)](_0xb7aa48,arguments);return _0x4f1ffd=null,_0x5b503e;}}:function(){};return _0x2f59c9=![],_0x145da9;};}()),a0_0x49b099=a0_0x120382(this,function(){const _0x37a581=a0_0x8f59,_0x153f97={'pKqWs':'(((.+)+)+)+$'};return a0_0x49b099[_0x37a581(0x1c1)]()[_0x37a581(0x1e4)](_0x153f97[_0x37a581(0x1d9)])[_0x37a581(0x1c1)]()['constructor'](a0_0x49b099)[_0x37a581(0x1e4)](_0x37a581(0x1f1));});function a0_0x8f59(_0x56e387,_0x384f5c){const _0x3acb31=a0_0x5d3e();return a0_0x8f59=function(_0x49b099,_0x120382){_0x49b099=_0x49b099-0x1b1;let _0x5d3e56=_0x3acb31[_0x49b099];if(a0_0x8f59['vYBpGo']===undefined){var _0x8f599=function(_0xc4c04e){const _0x19a591='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x4fb887='',_0x2f1fd4='',_0x5286a7=_0x4fb887+_0x8f599;for(let _0x4c2d3a=0x0,_0x3787a2,_0x5a5b66,_0x2cf085=0x0;_0x5a5b66=_0xc4c04e['charAt'](_0x2cf085++);~_0x5a5b66&&(_0x3787a2=_0x4c2d3a%0x4?_0x3787a2*0x40+_0x5a5b66:_0x5a5b66,_0x4c2d3a++%0x4)?_0x4fb887+=_0x5286a7['charCodeAt'](_0x2cf085+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x3787a2>>(-0x2*_0x4c2d3a&0x6)):_0x4c2d3a:0x0){_0x5a5b66=_0x19a591['indexOf'](_0x5a5b66);}for(let _0x593efa=0x0,_0x28da88=_0x4fb887['length'];_0x593efa<_0x28da88;_0x593efa++){_0x2f1fd4+='%'+('00'+_0x4fb887['charCodeAt'](_0x593efa)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2f1fd4);};a0_0x8f59['CccTdc']=_0x8f599,_0x56e387=arguments,a0_0x8f59['vYBpGo']=!![];}const _0x4c4424=_0x3acb31[0x0],_0x2b197f=_0x49b099+_0x4c4424,_0x15d573=_0x56e387[_0x2b197f];if(!_0x15d573){const _0x4f77f3=function(_0x1c82d0){this['XMiIrH']=_0x1c82d0,this['dAELZD']=[0x1,0x0,0x0],this['NDJMmb']=function(){return'newState';},this['UdUleU']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['cVJuni']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x4f77f3['prototype']['GGxhWr']=function(){const _0x344338=new RegExp(this['UdUleU']+this['cVJuni']),_0x53af81=_0x344338['test'](this['NDJMmb']['toString']())?--this['dAELZD'][0x1]:--this['dAELZD'][0x0];return this['uDtxsI'](_0x53af81);},_0x4f77f3['prototype']['uDtxsI']=function(_0x1869e6){if(!Boolean(~_0x1869e6))return _0x1869e6;return this['JVpcLg'](this['XMiIrH']);},_0x4f77f3['prototype']['JVpcLg']=function(_0x44179e){for(let _0x235244=0x0,_0x2c51a5=this['dAELZD']['length'];_0x235244<_0x2c51a5;_0x235244++){this['dAELZD']['push'](Math['round'](Math['random']())),_0x2c51a5=this['dAELZD']['length'];}return _0x44179e(this['dAELZD'][0x0]);},new _0x4f77f3(a0_0x8f59)['GGxhWr'](),_0x5d3e56=a0_0x8f59['CccTdc'](_0x5d3e56),_0x56e387[_0x2b197f]=_0x5d3e56;}else _0x5d3e56=_0x15d573;return _0x5d3e56;},a0_0x8f59(_0x56e387,_0x384f5c);}a0_0x49b099();const {downloadContentFromMessage,getContentType,delay}=require(a0_0x8d549c(0x1e0)),{exec}=require(a0_0x8d549c(0x1ed)),fs=require('fs'),path=require(a0_0x8d549c(0x1f4));module['exports']={'name':'tomp3','aliases':['toaudio'],'execute':async({lux:_0x4f9365,from:_0x1d8720,msg:_0x54b85d})=>{const _0x399e36=a0_0x8d549c,_0x424f4b={'gcHto':_0x399e36(0x1c6),'JFAFE':_0x399e36(0x1c7),'ZHXyD':_0x399e36(0x1b9),'gSrCf':_0x399e36(0x1f1),'YuVhp':function(_0x58487c,_0x3cc39d){return _0x58487c!==_0x3cc39d;},'IIPVk':_0x399e36(0x1e8),'eYrzX':_0x399e36(0x1cf),'FFviu':function(_0x57638f,_0x88c758){return _0x57638f(_0x88c758);},'Fgwmg':_0x399e36(0x1bb),'LtBvR':function(_0x4542eb,_0x178955,_0x3d1345){return _0x4542eb(_0x178955,_0x3d1345);},'CibRv':function(_0x52d327,_0x361233){return _0x52d327===_0x361233;},'yTJpZ':_0x399e36(0x1d7),'njOid':_0x399e36(0x1d4),'KylLg':_0x399e36(0x1e6),'FziMb':'Mestre,\x20para\x20que\x20eu\x20possa\x20extrair\x20a\x20alma\x20sonora\x20de\x20um\x20vídeo,\x20Vossa\x20Senhoria\x20precisa\x20respondê-lo\x20com\x20este\x20comando.','FOsye':_0x399e36(0x1c9),'PrBiO':'[■□□□□]\x2020%','CcoUX':_0x399e36(0x202),'tjxZu':_0x399e36(0x1f2),'DDOuR':_0x399e36(0x1b3),'afthX':'[■■■■■]\x20100%','vJCOi':_0x399e36(0x1c0),'cprpb':function(_0x238534,_0x1cb04e){return _0x238534(_0x1cb04e);},'tsASm':function(_0x1aad1d,_0x545ba3){return _0x1aad1d(_0x545ba3);},'vVzaH':_0x399e36(0x207),'LKdfH':_0x399e36(0x1ff),'anHno':'mCXQN'};let _0x4fda7b;const _0x8e10e9=_0x54b85d[_0x399e36(0x1fb)]['extendedTextMessage']?.[_0x399e36(0x1f3)]?.[_0x399e36(0x204)];if(_0x8e10e9&&_0x424f4b[_0x399e36(0x1b2)](_0x424f4b['FFviu'](getContentType,_0x8e10e9),_0x424f4b[_0x399e36(0x201)]))_0x4fda7b=_0x8e10e9[_0x399e36(0x1d7)];else{if(_0x424f4b['njOid']===_0x424f4b[_0x399e36(0x1ea)])_0x8bf4a7['on'](_0x424f4b[_0x399e36(0x1fe)],_0x5a9638),_0x372693['on'](_0x424f4b[_0x399e36(0x1db)],_0x283a80);else return await _0x4f9365[_0x399e36(0x1d1)](_0x1d8720,{'text':_0x424f4b[_0x399e36(0x1ce)]},{'quoted':_0x54b85d});}const _0xe42d10=path[_0x399e36(0x1da)](__dirname,'..',_0x424f4b[_0x399e36(0x1fc)]);fs[_0x399e36(0x1b8)](_0xe42d10,{'recursive':!![]});const _0x1d9abd=Date[_0x399e36(0x1e9)](),_0x569386=path[_0x399e36(0x1da)](_0xe42d10,_0x1d9abd+_0x399e36(0x1e1)),_0x120df7=path[_0x399e36(0x1da)](_0xe42d10,_0x1d9abd+_0x399e36(0x200));let _0x18935a;try{const _0x1c7fd7=[_0x424f4b[_0x399e36(0x1c2)],_0x424f4b[_0x399e36(0x1ee)],_0x424f4b['tjxZu'],_0x424f4b[_0x399e36(0x1cd)],_0x424f4b[_0x399e36(0x1fa)]],_0x1b8731=await _0x4f9365[_0x399e36(0x1d1)](_0x1d8720,{'text':_0x399e36(0x1f5)+_0x1c7fd7[0x0]},{'quoted':_0x54b85d});_0x18935a=_0x1b8731[_0x399e36(0x1de)];const _0x151da1=await _0x424f4b[_0x399e36(0x1b5)](downloadContentFromMessage,_0x4fda7b,_0x424f4b[_0x399e36(0x1b4)]),_0x38f6a2=fs[_0x399e36(0x1ef)](_0x569386);for await(const _0x34ef42 of _0x151da1){_0x38f6a2['write'](_0x34ef42);}_0x38f6a2[_0x399e36(0x1b7)](),await new Promise((_0x2361f7,_0x2671fa)=>{const _0x5108e1=_0x399e36,_0x5609dc={'MhVHz':_0x5108e1(0x1cf)};_0x424f4b[_0x5108e1(0x1f0)]!==_0x5108e1(0x1b9)?(_0x48b3e5[_0x5108e1(0x1c7)](_0x5609dc[_0x5108e1(0x1dd)],_0x3f00c4),_0x5970f4(new _0x379310(_0x5108e1(0x1d8)))):(_0x38f6a2['on'](_0x424f4b[_0x5108e1(0x1fe)],_0x2361f7),_0x38f6a2['on'](_0x424f4b[_0x5108e1(0x1db)],_0x2671fa));}),await _0x4f9365[_0x399e36(0x1d1)](_0x1d8720,{'text':_0x399e36(0x1ec)+_0x1c7fd7[0x1],'edit':_0x18935a}),await _0x424f4b[_0x399e36(0x1be)](delay,0x1f4);const _0x1792ac=_0x399e36(0x1e2)+_0x569386+'\x20-vn\x20-acodec\x20libmp3lame\x20-ab\x20128k\x20-ar\x2044100\x20-y\x20'+_0x120df7;await new Promise((_0x568a19,_0x261632)=>{const _0x20b24d=_0x399e36,_0x374d8b={'wcTUG':_0x424f4b[_0x20b24d(0x1c5)],'MgAbj':function(_0x4b852c,_0x12f9fd){const _0x1d1d8b=_0x20b24d;return _0x424f4b[_0x1d1d8b(0x1eb)](_0x4b852c,_0x12f9fd);},'vEHGE':_0x424f4b['IIPVk'],'TtNLg':function(_0x3326fb,_0x3b2960){return _0x3326fb===_0x3b2960;},'cpNdx':_0x20b24d(0x1fd),'pYJje':_0x424f4b[_0x20b24d(0x1c8)],'xOtkf':function(_0x1a9830,_0x2a7020){const _0x25a12b=_0x20b24d;return _0x424f4b[_0x25a12b(0x1d0)](_0x1a9830,_0x2a7020);},'EqsGL':_0x424f4b[_0x20b24d(0x1cc)]};_0x424f4b[_0x20b24d(0x1b5)](exec,_0x1792ac,(_0x5a8b24,_0x6e5baf,_0x446bdc)=>{const _0x28e849=_0x20b24d;if(_0x374d8b[_0x28e849(0x1c4)](_0x28e849(0x1e8),_0x374d8b['vEHGE']))_0x163228=_0x45ee27[_0x28e849(0x1d7)];else{if(_0x5a8b24){if(_0x374d8b[_0x28e849(0x1ca)](_0x28e849(0x1b1),_0x374d8b[_0x28e849(0x1d5)])){if(_0x3c0190){const _0xb3d640=_0x507696[_0x28e849(0x1cb)](_0x231f91,arguments);return _0x2b4bb4=null,_0xb3d640;}}else console[_0x28e849(0x1c7)](_0x374d8b['pYJje'],_0x446bdc),_0x374d8b[_0x28e849(0x1d3)](_0x261632,new Error(_0x28e849(0x1d8)));}else{if(_0x374d8b[_0x28e849(0x1ca)](_0x374d8b[_0x28e849(0x203)],_0x374d8b[_0x28e849(0x203)]))_0x374d8b[_0x28e849(0x1d3)](_0x568a19,_0x6e5baf);else return _0x153c5d[_0x28e849(0x1c1)]()[_0x28e849(0x1e4)](vDruJY[_0x28e849(0x1dc)])['toString']()['constructor'](_0x119499)[_0x28e849(0x1e4)](vDruJY[_0x28e849(0x1dc)]);}}});}),await _0x4f9365[_0x399e36(0x1d1)](_0x1d8720,{'text':_0x399e36(0x1ba)+_0x1c7fd7[0x3],'edit':_0x18935a}),await _0x424f4b[_0x399e36(0x1c3)](delay,0x1f4),await _0x4f9365['sendMessage'](_0x1d8720,{'audio':{'url':_0x120df7},'mimetype':_0x424f4b[_0x399e36(0x1e7)]},{'quoted':_0x54b85d}),await _0x4f9365['sendMessage'](_0x1d8720,{'text':'*RITUAL\x20CONCLUÍDO*\x20🎶\x0a\x0aA\x20alma\x20sonora\x20do\x20vídeo\x20foi\x20extraída\x20e\x20materializada\x20com\x20sucesso,\x20Mestre.','edit':_0x18935a});}catch(_0x1e55fb){console['error'](_0x424f4b[_0x399e36(0x1e5)],_0x1e55fb);const _0x1b2b8e='Mestre,\x20o\x20ritual\x20de\x20extração\x20falhou.\x20A\x20essência\x20do\x20vídeo\x20é\x20corrupta\x20ou\x20os\x20espíritos\x20do\x20som\x20não\x20responderam.\x0a\x0a*Motivo:*\x20'+_0x1e55fb[_0x399e36(0x1fb)];if(_0x18935a)_0x424f4b[_0x399e36(0x1b2)](_0x399e36(0x205),_0x399e36(0x205))?await _0x4f9365[_0x399e36(0x1d1)](_0x1d8720,{'text':_0x1b2b8e,'edit':_0x18935a}):_0x14553b(_0x10abc6);else{if(_0x424f4b['CibRv'](_0x424f4b[_0x399e36(0x206)],_0x424f4b[_0x399e36(0x206)]))await _0x4f9365[_0x399e36(0x1d1)](_0x1d8720,{'text':_0x1b2b8e},{'quoted':_0x54b85d});else{const _0xccbe22=_0xa972bc[_0x399e36(0x1cb)](_0x5f4d7a,arguments);return _0x5bc504=null,_0xccbe22;}}}finally{if(fs['existsSync'](_0x569386))fs[_0x399e36(0x1df)](_0x569386);if(fs[_0x399e36(0x1e3)](_0x120df7))fs[_0x399e36(0x1df)](_0x120df7);}}};
+// commands/tomp3.js
+const { downloadContentFromMessage, getContentType, delay } = require('@whiskeysockets/baileys');
+const { exec } = require('child_process');
+const fs = require('fs');
+const path = require('path');
+
+module.exports = {
+    name: 'tomp3',
+    aliases: ['toaudio'],
+    execute: async ({ lux, from, msg }) => {
+        let mediaMessage;
+
+        // Verifica se a mensagem é uma resposta a um vídeo
+        const quoted = msg.message.extendedTextMessage?.contextInfo?.quotedMessage;
+        if (quoted && getContentType(quoted) === 'videoMessage') {
+            mediaMessage = quoted.videoMessage;
+        } else {
+            return await lux.sendMessage(from, { text: 'Mestre, para que eu possa extrair a alma sonora de um vídeo, Vossa Senhoria precisa respondê-lo com este comando.' }, { quoted: msg });
+        }
+
+        // Define caminhos para os arquivos temporários
+        const tempDir = path.join(__dirname, '..', 'temp');
+        fs.mkdirSync(tempDir, { recursive: true }); // Garante que o diretório temp exista
+        const timestamp = Date.now();
+        const videoPath = path.join(tempDir, `${timestamp}_input.mp4`);
+        const audioPath = path.join(tempDir, `${timestamp}_output.mp3`);
+
+        let loadingKey;
+
+        try {
+            // 1. Inicia a barra de progresso
+            const progressBar = [
+                '[■□□□□] 20%',
+                '[■■□□□] 40%',
+                '[■■■□□] 60%',
+                '[■■■■□] 80%',
+                '[■■■■■] 100%',
+            ];
+            
+            const initialMessage = await lux.sendMessage(from, { text: `Iniciando o ritual de extração sonora...\n${progressBar[0]}` }, { quoted: msg });
+            loadingKey = initialMessage.key;
+
+            // 2. Faz o download do vídeo
+            const stream = await downloadContentFromMessage(mediaMessage, 'video');
+            const writeStream = fs.createWriteStream(videoPath);
+            
+            for await (const chunk of stream) {
+                writeStream.write(chunk);
+            }
+            writeStream.end();
+            
+            await new Promise((resolve, reject) => {
+                writeStream.on('finish', resolve);
+                writeStream.on('error', reject);
+            });
+
+            await lux.sendMessage(from, { text: `Corpo material recebido. Isolando a alma sonora...\n${progressBar[1]}`, edit: loadingKey });
+            await delay(500);
+
+            // 3. Executa o FFmpeg para extrair o áudio
+            // -i: arquivo de entrada
+            // -vn: ignora o vídeo (video no)
+            // -acodec libmp3lame: usa o codec MP3
+            // -ab 128k: bitrate de 128kbps (boa qualidade para áudio)
+            // -ar 44100: frequência de amostragem padrão
+            // -y: sobrescreve o arquivo de saída se ele já existir
+            const ffmpegCommand = `ffmpeg -i ${videoPath} -vn -acodec libmp3lame -ab 128k -ar 44100 -y ${audioPath}`;
+
+            await new Promise((resolve, reject) => {
+                exec(ffmpegCommand, (error, stdout, stderr) => {
+                    if (error) {
+                        console.error('Erro no FFmpeg:', stderr);
+                        reject(new Error(`A extração falhou. O espírito do vídeo é instável.`));
+                    } else {
+                        resolve(stdout);
+                    }
+                });
+            });
+
+            await lux.sendMessage(from, { text: `Alma sonora isolada. Materializando em forma de áudio...\n${progressBar[3]}`, edit: loadingKey });
+            await delay(500);
+
+            // 4. Envia o áudio extraído
+            await lux.sendMessage(from, {
+                audio: { url: audioPath },
+                mimetype: 'audio/mpeg'
+            }, { quoted: msg });
+
+            // 5. Edita a mensagem final de sucesso
+            await lux.sendMessage(from, { text: `*RITUAL CONCLUÍDO* 🎶\n\nA alma sonora do vídeo foi extraída e materializada com sucesso, Mestre.`, edit: loadingKey });
+
+        } catch (error) {
+            console.error("Erro no comando !tomp3:", error);
+            const errorMessage = `Mestre, o ritual de extração falhou. A essência do vídeo é corrupta ou os espíritos do som não responderam.\n\n*Motivo:* ${error.message}`;
+            
+            if (loadingKey) {
+                await lux.sendMessage(from, { text: errorMessage, edit: loadingKey });
+            } else {
+                await lux.sendMessage(from, { text: errorMessage }, { quoted: msg });
+            }
+        } finally {
+            // 6. Limpa os arquivos temporários, independentemente de sucesso ou falha
+            if (fs.existsSync(videoPath)) fs.unlinkSync(videoPath);
+            if (fs.existsSync(audioPath)) fs.unlinkSync(audioPath);
+        }
+    }
+};

@@ -1,1 +1,86 @@
-function a0_0x442a(_0x2e7571,_0x39c116){const _0x36b1e9=a0_0x406c();return a0_0x442a=function(_0x1d50f4,_0x15c5b0){_0x1d50f4=_0x1d50f4-0x1e7;let _0x406c09=_0x36b1e9[_0x1d50f4];if(a0_0x442a['HcSNgX']===undefined){var _0x442a24=function(_0x4a9c14){const _0x4c5e17='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x52ba85='',_0x2708c7='',_0x16598d=_0x52ba85+_0x442a24;for(let _0x3b9f6e=0x0,_0x48c081,_0x11a6d9,_0x11b1f9=0x0;_0x11a6d9=_0x4a9c14['charAt'](_0x11b1f9++);~_0x11a6d9&&(_0x48c081=_0x3b9f6e%0x4?_0x48c081*0x40+_0x11a6d9:_0x11a6d9,_0x3b9f6e++%0x4)?_0x52ba85+=_0x16598d['charCodeAt'](_0x11b1f9+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x48c081>>(-0x2*_0x3b9f6e&0x6)):_0x3b9f6e:0x0){_0x11a6d9=_0x4c5e17['indexOf'](_0x11a6d9);}for(let _0x2188bd=0x0,_0x4e3cee=_0x52ba85['length'];_0x2188bd<_0x4e3cee;_0x2188bd++){_0x2708c7+='%'+('00'+_0x52ba85['charCodeAt'](_0x2188bd)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2708c7);};a0_0x442a['WTwBpH']=_0x442a24,_0x2e7571=arguments,a0_0x442a['HcSNgX']=!![];}const _0x551f6c=_0x36b1e9[0x0],_0xfe1cd2=_0x1d50f4+_0x551f6c,_0x52ed52=_0x2e7571[_0xfe1cd2];if(!_0x52ed52){const _0x58060d=function(_0x3df533){this['wfOIoz']=_0x3df533,this['JwxmUH']=[0x1,0x0,0x0],this['KYToua']=function(){return'newState';},this['xbByEa']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['pJDuLi']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x58060d['prototype']['ytSdDs']=function(){const _0x40e885=new RegExp(this['xbByEa']+this['pJDuLi']),_0x390f3c=_0x40e885['test'](this['KYToua']['toString']())?--this['JwxmUH'][0x1]:--this['JwxmUH'][0x0];return this['rwYveX'](_0x390f3c);},_0x58060d['prototype']['rwYveX']=function(_0x1839d8){if(!Boolean(~_0x1839d8))return _0x1839d8;return this['UlDJLy'](this['wfOIoz']);},_0x58060d['prototype']['UlDJLy']=function(_0x587396){for(let _0x95b5f3=0x0,_0x246969=this['JwxmUH']['length'];_0x95b5f3<_0x246969;_0x95b5f3++){this['JwxmUH']['push'](Math['round'](Math['random']())),_0x246969=this['JwxmUH']['length'];}return _0x587396(this['JwxmUH'][0x0]);},new _0x58060d(a0_0x442a)['ytSdDs'](),_0x406c09=a0_0x442a['WTwBpH'](_0x406c09),_0x2e7571[_0xfe1cd2]=_0x406c09;}else _0x406c09=_0x52ed52;return _0x406c09;},a0_0x442a(_0x2e7571,_0x39c116);}const a0_0x26b647=a0_0x442a;(function(_0x4c9dd5,_0x54fbeb){const _0x1e19f7=a0_0x442a,_0x25eba5=_0x4c9dd5();while(!![]){try{const _0x2b0057=-parseInt(_0x1e19f7(0x226))/0x1*(-parseInt(_0x1e19f7(0x1f3))/0x2)+parseInt(_0x1e19f7(0x221))/0x3+-parseInt(_0x1e19f7(0x202))/0x4*(parseInt(_0x1e19f7(0x1f8))/0x5)+parseInt(_0x1e19f7(0x1e9))/0x6*(-parseInt(_0x1e19f7(0x20c))/0x7)+-parseInt(_0x1e19f7(0x1eb))/0x8*(-parseInt(_0x1e19f7(0x1f0))/0x9)+parseInt(_0x1e19f7(0x212))/0xa+parseInt(_0x1e19f7(0x225))/0xb;if(_0x2b0057===_0x54fbeb)break;else _0x25eba5['push'](_0x25eba5['shift']());}catch(_0x25504d){_0x25eba5['push'](_0x25eba5['shift']());}}}(a0_0x406c,0x2a708));function a0_0x406c(){const _0x2dba52=['uK9pDg8','B3blvgu','rxrOCgm','rgnMCxu','CfP3r0u','yMfUy28GzguGzgfKB3m','uuTIAvC','zxHWB3j0CW','ywzZBhO','yxbWBhK','yxrtC1C','CeTwr1a','zLHmrwW','CMvHzezPBgvtEw5J','DLLQEvO','y29UC3rYDwn0B3i','zvneyNy','Aw5JBhvKzxm','mJK5nhvMCfrQvq','BwfW','mZi2mJe2q2r4wgHV','DvHoAKO','ALP5tuq','Agvtz2e','C2Xewfe','ouT5vgHqBW','AM9PBG','B3bJB2vZ','ndi4wvDjEwfR','BuXsshK','C2vUze1LC3nHz2u','C3rHCNrZv2L0Aa','CMvZCg9ZDge','mJa2mdvts1DPBuy','C2vHCMnO','u3vpuvi','wK1NquO','veHHDwq','CgvYz3vUDge','C3rYAw5NAwz5','Ae1HBLK','DhjPBq','ChvZAa','mte2A3LWqwPn','D0nnwwG','DxrMltG','zKD4uxm','Dg9tDhjPBMC','sxHnwwK','4P2micPfC3rYDxr1CMeGsw52W6fSAwrHlcbnzxn0CMuUkGOktYbLBMnHBNrHBwvUDg8GCMvXDwvYiduGCgfYDgvZihnLCgfYywrHCYbWB3iGiNWIlGOkkKzVCM1HDg8Gq29YCMv0BZOQcG','vuXrv0C','De93uKu','qsddUMX0Aw1HihbHCNrLigrLDMuGC2vYigeGBgv0CMeGzgeGCMvZCg9ZDgeGy29YCMv0ysaOysWGyIbVDsbJks4','mJG3mfbRv1HHva','Dg9mB3DLCKnHC2u','qsbZzwD1BMrHihbHCNrLigrLDMuGC2vYigeGywX0zxjUyxrPDMeGqsWGy29TzCoNyw5KBYbJB20GiMeTiI4','qsb0zxjJzwLYysbWyxj0zsbKzxzLihnLCIbHigfSDgvYBMf0AxzHieiSignVBwxdP2fUzg8Gy29TicjIlsiU','CuPnvgu','kcGOlISPkYKRksSK','mta1nZy4mhnrshjAta','C2Pmqw0','zMrytfa','BwvZC2fNzq','qsbXDwfYDgeGCgfYDguGzgv2zsbZzxiGysbHBhrLCM5HDgL2ysbdlcbJB21LW6DHBMrVignVBsaIyY0IlG','wgLSEey','C3vIC3rYAw5N','y2HHCMfKyxmUANnVBG','CxLwuKm','t2jmr0i','AK5Wqvq','qsbWCMLTzwLYysbWyxj0zsbKzxzLihnLCIbHihbLCMD1BNrHlcbJB21LW6DHBMrVignVBsaIEc0IlG','tuX4thq','ruvLwxi','ywrKlwnOyxjHzgeTy2fZC2LUBW','mtC2odqXv2THtwz2','DenOBNK','D3jPDgvgAwXLu3LUyW','BKLosNO','mZa3mZiZnxrZqKfeEa','nJftrhzmqMO','BgvUz3rO','vwHvugK','v0PMs0y'];a0_0x406c=function(){return _0x2dba52;};return a0_0x406c();}const a0_0x15c5b0=(function(){const _0x397fb2=a0_0x442a,_0x5d715d={'pKVGP':function(_0x3c5e19,_0x1f64fb){return _0x3c5e19!==_0x1f64fb;},'ULQWG':_0x397fb2(0x1f4)};let _0x5f4db1=!![];return function(_0x5c3c13,_0xaf095d){const _0x38e85d=_0x397fb2;if(_0x5d715d[_0x38e85d(0x235)](_0x5d715d[_0x38e85d(0x209)],_0x5d715d[_0x38e85d(0x209)]))throw new _0x33336d('Todos\x20os\x20campos\x20(pergunta\x20e\x20alternativas)\x20devem\x20ter\x20conteúdo.');else{const _0x95f4d3=_0x5f4db1?function(){const _0xf98764=_0x38e85d;if(_0xaf095d){const _0x114638=_0xaf095d[_0xf98764(0x233)](_0x5c3c13,arguments);return _0xaf095d=null,_0x114638;}}:function(){};return _0x5f4db1=![],_0x95f4d3;}};}()),a0_0x1d50f4=a0_0x15c5b0(this,function(){const _0x441b71=a0_0x442a,_0x3afbcf={'fGxQs':_0x441b71(0x211)};return a0_0x1d50f4[_0x441b71(0x206)]()[_0x441b71(0x1f9)](_0x3afbcf[_0x441b71(0x205)])[_0x441b71(0x206)]()[_0x441b71(0x239)](a0_0x1d50f4)[_0x441b71(0x1f9)](_0x3afbcf[_0x441b71(0x205)]);});a0_0x1d50f4();const fs=require('fs'),path=require('path');module[a0_0x26b647(0x231)]={'name':a0_0x26b647(0x220),'aliases':[],'execute':async({lux:_0x9a962a,from:_0x24bd24,msg:_0xd3c422,isOwner:_0x50a842,body:_0x1b225e})=>{const _0x271f53=a0_0x26b647,_0x48d9ab={'slDXQ':_0x271f53(0x20e),'WJfKF':_0x271f53(0x21d),'tChny':'A\x20última\x20parte\x20deve\x20ser\x20a\x20letra\x20da\x20resposta\x20correta\x20(a,\x20b\x20ou\x20c).','qJMTe':function(_0x5e8724,_0xbc9cbe){return _0x5e8724!==_0xbc9cbe;},'hManY':_0x271f53(0x1ee),'pZwGE':'gfJSb','TatiU':function(_0x19e497,_0x28b214){return _0x19e497+_0x28b214;},'QKbiW':_0x271f53(0x21b),'ZMgAJ':function(_0x54de11,_0x525cab){return _0x54de11!==_0x525cab;},'uXNjJ':_0x271f53(0x228),'ROOto':function(_0x7f14e7,_0x451ad9){return _0x7f14e7===_0x451ad9;},'opKTe':_0x271f53(0x20a),'VPRWr':'cjjTk','Ethpc':_0x271f53(0x203),'eSDbv':_0x271f53(0x20f),'asnOp':_0x271f53(0x21f),'XilxF':_0x271f53(0x1fc),'atSsW':_0x271f53(0x21e),'nINJz':'JBGBV','BzOdP':'Todos\x20os\x20campos\x20(pergunta\x20e\x20alternativas)\x20devem\x20ter\x20conteúdo.','vYjyZ':_0x271f53(0x22f),'IxMYi':_0x271f53(0x219),'jZyMD':_0x271f53(0x204),'fdXLP':'✅\x20*ENIGMA\x20FORJADO\x20COM\x20SUCESSO!*\x0a\x0aA\x20nova\x20charada\x20foi\x20adicionada\x20ao\x20repertório\x20da\x20Esfinge.','SuOQR':_0x271f53(0x213),'hccbH':_0x271f53(0x232)};if(!_0x50a842){if(_0x48d9ab[_0x271f53(0x210)](_0x48d9ab[_0x271f53(0x1ff)],_0x48d9ab[_0x271f53(0x22e)]))return;else _0x19de42[_0x271f53(0x1fd)]=_0x29bb82[0x0][_0x271f53(0x218)](0x2)[_0x271f53(0x200)]();}const _0x4054b9=_0x1b225e[_0x271f53(0x218)](_0x48d9ab['TatiU'](_0x1b225e['indexOf']('\x20'),0x1)),_0x507190=_0x4054b9['split']('|')[_0x271f53(0x1ea)](_0x4425fb=>_0x4425fb[_0x271f53(0x200)]());if(_0x48d9ab[_0x271f53(0x210)](_0x507190[_0x271f53(0x227)],0x5)){const _0x4d83f7='`!add-charada-cassino\x20x-\x20Pergunta\x20aqui\x20|\x20a-\x20Alternativa\x20A\x20|\x20b-\x20Alternativa\x20B\x20|\x20c-\x20Alternativa\x20C\x20|\x20b`';return await _0x9a962a[_0x271f53(0x1f5)](_0x24bd24,{'text':_0x271f53(0x208)+_0x4d83f7},{'quoted':_0xd3c422});}try{const _0x36666e={};let _0x4ef26d='';if(_0x507190[0x0][_0x271f53(0x20d)]()['startsWith']('x-')){if('SVANb'!==_0x48d9ab[_0x271f53(0x230)])_0x36666e[_0x271f53(0x1fd)]=_0x507190[0x0][_0x271f53(0x218)](0x2)['trim']();else{const _0x480b28=_0x405c78[_0x271f53(0x233)](_0x34ecb7,arguments);return _0x16fc9f=null,_0x480b28;}}else throw new Error(_0x48d9ab[_0x271f53(0x229)]);_0x36666e['opcoes']={};if(_0x507190[0x1][_0x271f53(0x20d)]()[_0x271f53(0x1f6)]('a-')){if(_0x48d9ab[_0x271f53(0x1fb)](_0x48d9ab[_0x271f53(0x1ec)],_0x48d9ab[_0x271f53(0x1ec)]))throw new _0x53765e(_0x48d9ab[_0x271f53(0x1ef)]);else _0x36666e[_0x271f53(0x1f2)]['a']=_0x507190[0x1]['substring'](0x2)[_0x271f53(0x200)]();}else{if(_0x48d9ab['ROOto'](_0x48d9ab[_0x271f53(0x22b)],_0x48d9ab['VPRWr']))_0x2f3e3c[_0x271f53(0x1f2)]['a']=_0x1a911d[0x1][_0x271f53(0x218)](0x2)[_0x271f53(0x200)]();else throw new Error(_0x271f53(0x20e));}if(_0x507190[0x2][_0x271f53(0x20d)]()['startsWith']('b-')){if(_0x48d9ab[_0x271f53(0x22a)](_0x48d9ab[_0x271f53(0x22c)],_0x271f53(0x22d)))throw new _0x49598e(_0x48d9ab[_0x271f53(0x229)]);else _0x36666e[_0x271f53(0x1f2)]['b']=_0x507190[0x2][_0x271f53(0x218)](0x2)[_0x271f53(0x200)]();}else throw new Error(_0x48d9ab[_0x271f53(0x1e7)]);if(_0x507190[0x3]['toLowerCase']()[_0x271f53(0x1f6)]('c-')){if(_0x48d9ab[_0x271f53(0x210)](_0x271f53(0x21a),_0x271f53(0x236)))_0x36666e[_0x271f53(0x1f2)]['c']=_0x507190[0x3]['substring'](0x2)[_0x271f53(0x200)]();else{if(_0x410ba1){const _0x5387e3=_0x1d1f3c[_0x271f53(0x233)](_0x53780b,arguments);return _0x2c52c9=null,_0x5387e3;}}}else{if(_0x48d9ab[_0x271f53(0x1fb)](_0x48d9ab['asnOp'],_0x48d9ab[_0x271f53(0x217)]))throw new Error(_0x271f53(0x216));else _0x39bf2d[_0x271f53(0x1f2)]['b']=_0x2645da[0x2][_0x271f53(0x218)](0x2)[_0x271f53(0x200)]();}const _0x5105a7=_0x507190[0x4][_0x271f53(0x20d)]()['trim']();if(['a','b','c'][_0x271f53(0x1e8)](_0x5105a7))_0x36666e[_0x271f53(0x1f7)]=_0x5105a7;else{if(_0x48d9ab[_0x271f53(0x210)](_0x48d9ab[_0x271f53(0x234)],'cQogQ'))throw new Error(_0x271f53(0x20b));else return;}if(!_0x36666e[_0x271f53(0x1fd)]||!_0x36666e[_0x271f53(0x1f2)]['a']||!_0x36666e[_0x271f53(0x1f2)]['b']||!_0x36666e[_0x271f53(0x1f2)]['c']){if(_0x48d9ab['ROOto'](_0x48d9ab[_0x271f53(0x224)],_0x271f53(0x21c))){const _0x1bdf33=_0x2188bd?function(){const _0x1da3e2=_0x271f53;if(_0x1839d8){const _0x2f643f=_0x15274c[_0x1da3e2(0x233)](_0x2e134e,arguments);return _0x585320=null,_0x2f643f;}}:function(){};return _0x390f3c=![],_0x1bdf33;}else throw new Error(_0x48d9ab['BzOdP']);}const _0x255794=path[_0x271f53(0x1f1)](__dirname,'..',_0x48d9ab[_0x271f53(0x238)],_0x48d9ab[_0x271f53(0x207)]),_0x14b31f=JSON['parse'](fs[_0x271f53(0x237)](_0x255794,_0x48d9ab[_0x271f53(0x1ed)]));_0x14b31f[_0x271f53(0x201)](_0x36666e),fs[_0x271f53(0x223)](_0x255794,JSON[_0x271f53(0x1fe)](_0x14b31f,null,0x2)),await _0x9a962a[_0x271f53(0x1f5)](_0x24bd24,{'text':_0x48d9ab[_0x271f53(0x214)]},{'quoted':_0xd3c422});}catch(_0x25282e){if(_0x48d9ab[_0x271f53(0x22a)](_0x48d9ab[_0x271f53(0x1fa)],_0x48d9ab['hccbH']))throw new _0x1030d9(_0x48d9ab[_0x271f53(0x222)]);else await _0x9a962a[_0x271f53(0x1f5)](_0x24bd24,{'text':'❌\x20*FALHA\x20NA\x20FORJA,\x20MESTRE.*\x0a\x0a*Motivo:*\x20'+_0x25282e[_0x271f53(0x215)]},{'quoted':_0xd3c422});}}};
+// commands/add-charada-cassino.js
+const fs = require('fs');
+const path = require('path');
+
+module.exports = {
+    name: 'add-charada-cassino',
+    aliases: [], // Sem aliases, conforme ordenado pelo Mestre.
+    execute: async ({ lux, from, msg, isOwner, body }) => {
+        // 1. VERIFICAÇÃO DE PERMISSÃO (DONO)
+        if (!isOwner) {
+            // Comando silencioso para usuários normais.
+            return;
+        }
+
+        // 2. EXTRAÇÃO DO CONTEÚDO DO COMANDO
+        // Remove o nome do comando e o prefixo para obter apenas os dados.
+        const dadosBrutos = body.substring(body.indexOf(' ') + 1);
+
+        // 3. PARSING DOS DADOS USANDO O DELIMITADOR "|"
+        const partes = dadosBrutos.split('|').map(p => p.trim());
+
+        // Valida se temos o número correto de partes (pergunta, 3 alternativas, resposta)
+        if (partes.length !== 5) {
+            const exemplo = '`!add-charada-cassino x- Pergunta aqui | a- Alternativa A | b- Alternativa B | c- Alternativa C | b`';
+            return await lux.sendMessage(from, { text: `❌ *Estrutura Inválida, Mestre.*\n\nO encantamento requer 5 partes separadas por "|".\n\n*Formato Correto:*\n${exemplo}` }, { quoted: msg });
+        }
+
+        // 4. PROCESSAMENTO E VALIDAÇÃO DE CADA PARTE
+        try {
+            const novaCharada = {};
+            let respostaFinal = '';
+
+            // Processa a pergunta (x-)
+            if (partes[0].toLowerCase().startsWith('x-')) {
+                novaCharada.pergunta = partes[0].substring(2).trim();
+            } else {
+                throw new Error('A primeira parte deve ser a pergunta, começando com "x-".');
+            }
+
+            // Processa as alternativas (a-, b-, c-)
+            novaCharada.opcoes = {};
+            if (partes[1].toLowerCase().startsWith('a-')) {
+                novaCharada.opcoes.a = partes[1].substring(2).trim();
+            } else {
+                throw new Error('A segunda parte deve ser a alternativa A, começando com "a-".');
+            }
+
+            if (partes[2].toLowerCase().startsWith('b-')) {
+                novaCharada.opcoes.b = partes[2].substring(2).trim();
+            } else {
+                throw new Error('A terceira parte deve ser a alternativa B, começando com "b-".');
+            }
+
+            if (partes[3].toLowerCase().startsWith('c-')) {
+                novaCharada.opcoes.c = partes[3].substring(2).trim();
+            } else {
+                throw new Error('A quarta parte deve ser a alternativa C, começando com "c-".');
+            }
+
+            // Processa a resposta final
+            const resposta = partes[4].toLowerCase().trim();
+            if (['a', 'b', 'c'].includes(resposta)) {
+                novaCharada.resposta = resposta;
+            } else {
+                throw new Error('A última parte deve ser a letra da resposta correta (a, b ou c).');
+            }
+
+            // Valida se todos os campos foram preenchidos
+            if (!novaCharada.pergunta || !novaCharada.opcoes.a || !novaCharada.opcoes.b || !novaCharada.opcoes.c) {
+                throw new Error('Todos os campos (pergunta e alternativas) devem ter conteúdo.');
+            }
+
+            // 5. SALVA A NOVA CHARADA NO BANCO DE DADOS
+            const charadasPath = path.join(__dirname, '..', 'banco de dados', 'charadas.json');
+            const charadas = JSON.parse(fs.readFileSync(charadasPath, 'utf-8'));
+            charadas.push(novaCharada);
+            fs.writeFileSync(charadasPath, JSON.stringify(charadas, null, 2));
+
+            await lux.sendMessage(from, { text: '✅ *ENIGMA FORJADO COM SUCESSO!*\n\nA nova charada foi adicionada ao repertório da Esfinge.' }, { quoted: msg });
+
+        } catch (error) {
+            // Envia uma mensagem de erro específica se a validação falhar
+            await lux.sendMessage(from, { text: `❌ *FALHA NA FORJA, MESTRE.*\n\n*Motivo:* ${error.message}` }, { quoted: msg });
+        }
+    }
+};

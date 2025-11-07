@@ -1,1 +1,46 @@
-function a0_0x5cb3(_0x16b4e7,_0xb431ef){const _0x105466=a0_0x1f0e();return a0_0x5cb3=function(_0x530dd2,_0x3c89a3){_0x530dd2=_0x530dd2-0x140;let _0x1f0ef9=_0x105466[_0x530dd2];if(a0_0x5cb3['TUElGM']===undefined){var _0x5cb320=function(_0x103626){const _0x371df5='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x4ee023='',_0xa2af0e='',_0x81e3f0=_0x4ee023+_0x5cb320;for(let _0x4315f8=0x0,_0x4d68c3,_0x2aa814,_0x31337a=0x0;_0x2aa814=_0x103626['charAt'](_0x31337a++);~_0x2aa814&&(_0x4d68c3=_0x4315f8%0x4?_0x4d68c3*0x40+_0x2aa814:_0x2aa814,_0x4315f8++%0x4)?_0x4ee023+=_0x81e3f0['charCodeAt'](_0x31337a+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x4d68c3>>(-0x2*_0x4315f8&0x6)):_0x4315f8:0x0){_0x2aa814=_0x371df5['indexOf'](_0x2aa814);}for(let _0x2b8f28=0x0,_0x4e6301=_0x4ee023['length'];_0x2b8f28<_0x4e6301;_0x2b8f28++){_0xa2af0e+='%'+('00'+_0x4ee023['charCodeAt'](_0x2b8f28)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0xa2af0e);};a0_0x5cb3['APzHuI']=_0x5cb320,_0x16b4e7=arguments,a0_0x5cb3['TUElGM']=!![];}const _0x547ced=_0x105466[0x0],_0x549cc7=_0x530dd2+_0x547ced,_0x592305=_0x16b4e7[_0x549cc7];if(!_0x592305){const _0x3605b9=function(_0x9792ad){this['iXjvKJ']=_0x9792ad,this['EKSxgB']=[0x1,0x0,0x0],this['MjicKE']=function(){return'newState';},this['RsiaKH']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['hPGVbG']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x3605b9['prototype']['IoGnig']=function(){const _0x4af04a=new RegExp(this['RsiaKH']+this['hPGVbG']),_0x3b5995=_0x4af04a['test'](this['MjicKE']['toString']())?--this['EKSxgB'][0x1]:--this['EKSxgB'][0x0];return this['ruLFVn'](_0x3b5995);},_0x3605b9['prototype']['ruLFVn']=function(_0x459d67){if(!Boolean(~_0x459d67))return _0x459d67;return this['RZnfTW'](this['iXjvKJ']);},_0x3605b9['prototype']['RZnfTW']=function(_0x2feb75){for(let _0x5922aa=0x0,_0x1697f9=this['EKSxgB']['length'];_0x5922aa<_0x1697f9;_0x5922aa++){this['EKSxgB']['push'](Math['round'](Math['random']())),_0x1697f9=this['EKSxgB']['length'];}return _0x2feb75(this['EKSxgB'][0x0]);},new _0x3605b9(a0_0x5cb3)['IoGnig'](),_0x1f0ef9=a0_0x5cb3['APzHuI'](_0x1f0ef9),_0x16b4e7[_0x549cc7]=_0x1f0ef9;}else _0x1f0ef9=_0x592305;return _0x1f0ef9;},a0_0x5cb3(_0x16b4e7,_0xb431ef);}const a0_0x26a996=a0_0x5cb3;(function(_0x2dae58,_0x5d98cd){const _0x136832=a0_0x5cb3,_0x13f5d3=_0x2dae58();while(!![]){try{const _0x3591ff=parseInt(_0x136832(0x150))/0x1*(-parseInt(_0x136832(0x147))/0x2)+parseInt(_0x136832(0x14c))/0x3*(-parseInt(_0x136832(0x16b))/0x4)+-parseInt(_0x136832(0x142))/0x5+-parseInt(_0x136832(0x145))/0x6*(parseInt(_0x136832(0x163))/0x7)+-parseInt(_0x136832(0x15f))/0x8*(-parseInt(_0x136832(0x164))/0x9)+parseInt(_0x136832(0x15e))/0xa*(-parseInt(_0x136832(0x16e))/0xb)+parseInt(_0x136832(0x14b))/0xc;if(_0x3591ff===_0x5d98cd)break;else _0x13f5d3['push'](_0x13f5d3['shift']());}catch(_0x5c17d6){_0x13f5d3['push'](_0x13f5d3['shift']());}}}(a0_0x1f0e,0x256ee));const a0_0x3c89a3=(function(){const _0x75620d=a0_0x5cb3,_0x3063e1={'UZiju':function(_0x2dd59c,_0x986694){return _0x2dd59c===_0x986694;},'NCNzF':_0x75620d(0x141)};let _0x27f836=!![];return function(_0x366b45,_0x13ea91){const _0x179ab7=_0x27f836?function(){const _0x2ebe94=a0_0x5cb3;if(_0x3063e1['UZiju'](_0x3063e1[_0x2ebe94(0x160)],_0x3063e1[_0x2ebe94(0x160)])){if(_0x13ea91){const _0x225a3=_0x13ea91[_0x2ebe94(0x14f)](_0x366b45,arguments);return _0x13ea91=null,_0x225a3;}}else{const _0x49b22e=_0x31cd0e[_0x2ebe94(0x14f)](_0x27d2c0,arguments);return _0xb9255f=null,_0x49b22e;}}:function(){};return _0x27f836=![],_0x179ab7;};}()),a0_0x530dd2=a0_0x3c89a3(this,function(){const _0x1e4686=a0_0x5cb3,_0x3b2b9d={'cDPcS':'(((.+)+)+)+$'};return a0_0x530dd2[_0x1e4686(0x144)]()[_0x1e4686(0x154)](_0x3b2b9d[_0x1e4686(0x162)])[_0x1e4686(0x144)]()['constructor'](a0_0x530dd2)[_0x1e4686(0x154)](_0x3b2b9d[_0x1e4686(0x162)]);});a0_0x530dd2();function a0_0x1f0e(){const _0x418bfb=['m2z6CgrSta','D2PzDfa','t3jVALu','y2HHBgS','C2vHCMnO','Bg9N','4P2miefWzw5HCYbHzg1PBMLZDhjHzg9YzxmGzg8Gz3j1Cg8GB3uGBYbnzxn0CMuGkgrVBM8Gzg8GyM90ksbWB2rLBsb1C2fYigvZDguGANv0C3uU','u3HrBuG','y29UC3rYDwn0B3i','w1DftKrftc1qvL0Gu2LZDgvTysa','kcGOlISPkYKRksSK','zMLUza','lI4VC2v0DgLUz3mVBgLIl2nVBMzPzY1NBg9IywWUANm','kIbJB20GC3vJzxnZBY4k','mZG2nJbsq095wKq','mte4otu5mKvbA3zRAG','tKnoEKy','C3vIAMvJDa','y0rqy1m','mtm1odu2mfLMwgvMAq','mtHwCwDYzLe','vvDbveK','D2vUzgvSlxb2','qvrjvKfetW','BvjZvwK','revtqvrjvKfetW','C2vUze1LC3nHz2u','nJrxwejdENK','ywrTAw4','z3jVDxbnzxrHzgf0yq','ndK1z0DfB0Du','icPtsvnuru1bifDftKrftcbqvIa','rerAvw0','ntm5nJyWA25UsKnR','AxngqwG','Dg9tDhjPBMC','nMH2Ae5iwG','igvTia','mtyZmJC0wNfPz3nJ','BLHeyMW','uxvHBMrVicPbveLwqurpkIWGBYbIB3qGCMvZCg9UzgvYW6eGysaQCxvHBhf1zxiQig1LBNnHz2vTihbYAxzHzgeGDxnHBMrVigeGCgvYC29UysbKBYbxzw5KzwWU','D2vUzgvSuhzbDgL2BW','mtaWmdqYmJboqM9utw0','ndGXnJj2vfvbufa','v0fcvNC','rxn0zsbJB21HBMrVihpdSYbWB2rLihnLCIb1C2fKBYbLBsbNCNvWB3mU','yxbWBhK'];a0_0x1f0e=function(){return _0x418bfb;};return a0_0x1f0e();}const {salvarConfigGlobal,lerConfigGlobal}=require(a0_0x26a996(0x15c)),chalk=require(a0_0x26a996(0x153));module['exports']={'name':a0_0x26a996(0x166),'aliases':['wendelpv','ativarwendel'],'description':'Ativa\x20ou\x20desativa\x20o\x20chat\x20privado\x20com\x20a\x20IA\x20Wendel.','usage':'','cooldown':0x5,'isAdmin':!![],'isOwner':![],async 'execute'({lux:_0x2850b5,msg:_0x1d6593,from:_0x168934,isGroup:_0x1da648,sender:_0x1dca41,pushName:_0x20d47e,args:_0x598b18,isOwner:_0x158b4b,settings:_0xdbe6d4}){const _0x4d5d49=a0_0x26a996,_0x1075ef={'mRsUi':_0x4d5d49(0x15a),'isFAh':_0x4d5d49(0x14e),'OrojU':function(_0x275c66,_0x376658){return _0x275c66&&_0x376658;},'SxQmH':'JkzVA','UWATI':_0x4d5d49(0x148),'wjYtP':_0x4d5d49(0x156),'JPbqQ':function(_0x50c377){return _0x50c377();},'PiTWe':function(_0x282efc,_0x566519){return _0x282efc(_0x566519);},'qqIOe':_0x4d5d49(0x169),'WABVw':function(_0x4246fe,_0x1b63c0){return _0x4246fe+_0x1b63c0;}};if(!_0x1da648)return _0x2850b5[_0x4d5d49(0x16a)](_0x168934,{'text':_0x1075ef[_0x4d5d49(0x143)]});const _0x415b31=await _0x2850b5[_0x4d5d49(0x16d)](_0x168934),_0x2c6f24=_0x415b31['participants'][_0x4d5d49(0x15b)](_0x353627=>_0x353627['id']===_0x1dca41)?.[_0x4d5d49(0x16c)];if(_0x1075ef[_0x4d5d49(0x152)](!_0x2c6f24,!_0x158b4b))return _0x1075ef[_0x4d5d49(0x157)]!==_0x1075ef[_0x4d5d49(0x165)]?_0x2850b5[_0x4d5d49(0x16a)](_0x168934,{'text':_0x1075ef[_0x4d5d49(0x151)]},{'quoted':_0x1d6593}):_0x3eff97[_0x4d5d49(0x144)]()[_0x4d5d49(0x154)](xIVTvx[_0x4d5d49(0x168)])[_0x4d5d49(0x144)]()[_0x4d5d49(0x158)](_0x711af)[_0x4d5d49(0x154)](xIVTvx[_0x4d5d49(0x168)]);const _0x5b4e0b=_0x1075ef['JPbqQ'](lerConfigGlobal),_0x2e8cf1=!_0x5b4e0b['wendelPvAtivo'];_0x5b4e0b[_0x4d5d49(0x14a)]=_0x2e8cf1,_0x1075ef['PiTWe'](salvarConfigGlobal,_0x5b4e0b);const _0x2a21e6=_0x2e8cf1?_0x4d5d49(0x167):_0x1075ef['qqIOe'],_0x464176=_0x2e8cf1?'✅':'❌',_0x35f1eb=_0x1075ef[_0x4d5d49(0x14d)](_0x1075ef['WABVw'](_0x464176+_0x4d5d49(0x140)+_0x2a21e6+'*\x20'+_0x464176+'\x0a\x0a','O\x20chat\x20privado\x20com\x20o\x20Wendel\x20foi\x20*'+_0x2a21e6+_0x4d5d49(0x15d)),_0x4d5d49(0x149));await _0x2850b5[_0x4d5d49(0x16a)](_0x168934,{'text':_0x35f1eb},{'quoted':_0x1d6593}),console[_0x4d5d49(0x155)](chalk['green'](_0x4d5d49(0x159)+_0x2a21e6+'\x20por\x20'+_0x20d47e+_0x4d5d49(0x146)+_0x415b31[_0x4d5d49(0x161)]+'.'));}};
+// commands/wendel-pv.js
+const { salvarConfigGlobal, lerConfigGlobal } = require('../settings/lib/config-global.js');
+const chalk = require('chalk');
+
+module.exports = {
+    name: 'wendel-pv',
+    aliases: ['wendelpv', 'ativarwendel'],
+    description: 'Ativa ou desativa o chat privado com a IA Wendel.',
+    usage: '',
+    cooldown: 5,
+    isAdmin: true, // Apenas administradores do grupo podem ativar/desativar
+    isOwner: false,
+
+    async execute({ lux, msg, from, isGroup, sender, pushName, args, isOwner, settings }) {
+        // 1. Verifica se é grupo (o comando só funciona em grupo)
+        if (!isGroup) {
+            return lux.sendMessage(from, { text: 'Este comando só pode ser usado em grupos.' });
+        }
+        
+        // 2. Verifica se o usuário é administrador do grupo (ou dono do bot)
+        const groupMeta = await lux.groupMetadata(from);
+        // Verifica se o remetente é admin ou dono
+        const senderIsAdmin = groupMeta.participants.find(p => p.id === sender)?.admin;
+        
+        if (!senderIsAdmin && !isOwner) {
+             return lux.sendMessage(from, { text: '❌ Apenas administradores do grupo ou o Mestre (dono do bot) podem usar este jutsu.' }, { quoted: msg });
+        }
+
+        // 3. Lógica de ativação/desativação
+        const config = lerConfigGlobal();
+        const novoStatus = !config.wendelPvAtivo;
+        config.wendelPvAtivo = novoStatus;
+        salvarConfigGlobal(config);
+
+        // 4. Resposta para o grupo
+        const statusTexto = novoStatus ? 'ATIVADO' : 'DESATIVADO';
+        const emoji = novoStatus ? '✅' : '❌';
+        const mensagemResposta = `${emoji} *SISTEMA WENDEL PV ${statusTexto}* ${emoji}\n\n` +
+                                 `O chat privado com o Wendel foi *${statusTexto}* com sucesso.\n` +
+                                 `Quando *ATIVADO*, o bot responderá a *qualquer* mensagem privada usando a persona do Wendel.`;
+
+        await lux.sendMessage(from, { text: mensagemResposta }, { quoted: msg });
+        
+        console.log(chalk.green(`[WENDEL-PV] Sistema ${statusTexto} por ${pushName} em ${groupMeta.subject}.`));
+    }
+};

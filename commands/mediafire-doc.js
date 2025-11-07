@@ -1,1 +1,66 @@
-const a0_0x3e53a6=a0_0x4a91;function a0_0x4a91(_0x59a80b,_0x2cc523){const _0x7e9514=a0_0x3034();return a0_0x4a91=function(_0x4d02d1,_0x133898){_0x4d02d1=_0x4d02d1-0xa1;let _0x303433=_0x7e9514[_0x4d02d1];if(a0_0x4a91['kpbJsr']===undefined){var _0x4a91bf=function(_0x5e4dac){const _0x5f5c31='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2917fd='',_0x1c679a='',_0x3dc643=_0x2917fd+_0x4a91bf;for(let _0x5e94be=0x0,_0x31e90b,_0x5d229b,_0x58ae95=0x0;_0x5d229b=_0x5e4dac['charAt'](_0x58ae95++);~_0x5d229b&&(_0x31e90b=_0x5e94be%0x4?_0x31e90b*0x40+_0x5d229b:_0x5d229b,_0x5e94be++%0x4)?_0x2917fd+=_0x3dc643['charCodeAt'](_0x58ae95+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x31e90b>>(-0x2*_0x5e94be&0x6)):_0x5e94be:0x0){_0x5d229b=_0x5f5c31['indexOf'](_0x5d229b);}for(let _0x481b68=0x0,_0x109fac=_0x2917fd['length'];_0x481b68<_0x109fac;_0x481b68++){_0x1c679a+='%'+('00'+_0x2917fd['charCodeAt'](_0x481b68)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1c679a);};a0_0x4a91['mrfjjK']=_0x4a91bf,_0x59a80b=arguments,a0_0x4a91['kpbJsr']=!![];}const _0x5aa770=_0x7e9514[0x0],_0x126b1f=_0x4d02d1+_0x5aa770,_0xebaa0a=_0x59a80b[_0x126b1f];if(!_0xebaa0a){const _0x33d61b=function(_0xc5b811){this['miyfAq']=_0xc5b811,this['YOpfOy']=[0x1,0x0,0x0],this['qvXkdz']=function(){return'newState';},this['ZiRTnq']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['lOCACu']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x33d61b['prototype']['ZreqFF']=function(){const _0x4170a6=new RegExp(this['ZiRTnq']+this['lOCACu']),_0x3d04a5=_0x4170a6['test'](this['qvXkdz']['toString']())?--this['YOpfOy'][0x1]:--this['YOpfOy'][0x0];return this['yKcJCK'](_0x3d04a5);},_0x33d61b['prototype']['yKcJCK']=function(_0x35d575){if(!Boolean(~_0x35d575))return _0x35d575;return this['pxwNVu'](this['miyfAq']);},_0x33d61b['prototype']['pxwNVu']=function(_0x14053e){for(let _0x3b6b71=0x0,_0x418047=this['YOpfOy']['length'];_0x3b6b71<_0x418047;_0x3b6b71++){this['YOpfOy']['push'](Math['round'](Math['random']())),_0x418047=this['YOpfOy']['length'];}return _0x14053e(this['YOpfOy'][0x0]);},new _0x33d61b(a0_0x4a91)['ZreqFF'](),_0x303433=a0_0x4a91['mrfjjK'](_0x303433),_0x59a80b[_0x126b1f]=_0x303433;}else _0x303433=_0xebaa0a;return _0x303433;},a0_0x4a91(_0x59a80b,_0x2cc523);}(function(_0xc93f98,_0x21c49b){const _0x3284d3=a0_0x4a91,_0x1138a3=_0xc93f98();while(!![]){try{const _0x5d4195=-parseInt(_0x3284d3(0xab))/0x1*(parseInt(_0x3284d3(0xac))/0x2)+parseInt(_0x3284d3(0xb6))/0x3+-parseInt(_0x3284d3(0xc7))/0x4*(parseInt(_0x3284d3(0xc5))/0x5)+-parseInt(_0x3284d3(0xdc))/0x6*(-parseInt(_0x3284d3(0xcf))/0x7)+parseInt(_0x3284d3(0xa3))/0x8*(parseInt(_0x3284d3(0xaa))/0x9)+parseInt(_0x3284d3(0xdd))/0xa+-parseInt(_0x3284d3(0xad))/0xb;if(_0x5d4195===_0x21c49b)break;else _0x1138a3['push'](_0x1138a3['shift']());}catch(_0x37e2f4){_0x1138a3['push'](_0x1138a3['shift']());}}}(a0_0x3034,0xbf728));const a0_0x133898=(function(){const _0xdd6c2e=a0_0x4a91,_0x9e346b={'DwrhI':_0xdd6c2e(0xbe)};let _0x4e1fab=!![];return function(_0x525182,_0x22b967){const _0x34f85c=_0xdd6c2e,_0x57eac8={'bJsyu':_0x34f85c(0xce),'jTsCz':function(_0x1771fe,_0x494591){return _0x1771fe===_0x494591;},'kFfeH':_0x9e346b[_0x34f85c(0xaf)]},_0x4b2779=_0x4e1fab?function(){const _0x17b509=_0x34f85c,_0x480791={'yFoIo':_0x57eac8['bJsyu']};if(_0x22b967){if(_0x57eac8[_0x17b509(0xd1)](_0x57eac8[_0x17b509(0xe7)],_0x57eac8[_0x17b509(0xe7)])){const _0x19df7d=_0x22b967['apply'](_0x525182,arguments);return _0x22b967=null,_0x19df7d;}else return _0x1ae4f2[_0x17b509(0xc8)](_0x480791[_0x17b509(0xe4)],_0x5e5394),_0x25221b['sendMessage'](_0x4706a6,{'text':_0x17b509(0xe1)+_0x278ee4+',\x20um\x20erro\x20inesperado\x20ocorreu\x20ao\x20tentar\x20baixar\x20o\x20arquivo\x20do\x20MediaFire:\x20'+_0x2206d3[_0x17b509(0xe2)]},{'quoted':_0x59d4c7});}}:function(){};return _0x4e1fab=![],_0x4b2779;};}()),a0_0x4d02d1=a0_0x133898(this,function(){const _0x3e435a=a0_0x4a91,_0x22863f={'oYXmR':_0x3e435a(0xe3)};return a0_0x4d02d1[_0x3e435a(0xde)]()['search'](_0x22863f[_0x3e435a(0xb5)])[_0x3e435a(0xde)]()[_0x3e435a(0xd7)](a0_0x4d02d1)[_0x3e435a(0xbc)](_0x22863f[_0x3e435a(0xb5)]);});a0_0x4d02d1();const axios=require(a0_0x3e53a6(0xd2)),cheerio=require('cheerio'),fs=require('fs'),path=require('path');function a0_0x3034(){const _0xcbaf1=['BhzHyum','y29UC3rYDwn0B3i','y29UDgvUDc10ExbL','z0Pey3q','lcbVigXPBMSGzM9YBMvJAwrVig7dO28GCgfYzwnLihnLCIbKBYbnzwrPyuzPCMuUifbVCIbMyxzVCIWGDMvYAwzPCxvLlG','C2vUze1LC3nHz2u','mte0mgHftLvvuW','mti3mtu3mfLxzunmDG','Dg9tDhjPBMC','BLb3wMi','BeHLtLi','4P2mie1LC3rYzsa','BwvZC2fNzq','kcGOlISPkYKRksSK','EuzVsw8','i2rVD25SB2fKqNv0Dg9U','uNPsrg0','A0zMzuG','qxD6yui','l3rTCa','CKfIuwO','q21TugK','lMrSlwj0BI1SywjLBa','mtK1mJu5mKfMt2TnrW','BwvKAwfMAxjLlwrVyW','BwvKAwfMAxjLlMnVBq','lcbLC3rVDsbJB25Jzw50CMfUzg8GBwv1ignOywTYysbWyxjHigj1C2nHCIbVigfYCxvPDM8Gzg8GtwvKAwfgAxjLlIbqB3iGzMf2B3iSigfNDwfYzguUlI4','CwPTsKy','zg93BMXVywrZ','C3bSAxq','ouXXrez0zW','mu9ev1flCq','mtm4mdu4EgnZrfzw','mtq2nJmXotHxBgHPs2y','yxbWBgLJyxrPB24VB2n0zxqTC3rYzwfT','rhDYAeK','EKfTz0y','r2n0A0W','sxH3zuy','zgf0yq','A2HNq3e','B1LyBvi','mZi0nJu0mhD6BuT2vq','zxHWB3j0CW','yxr0CG','lcbWB3iGzMf2B3iSigzVCM5LW6DHihvTigXPBMSGzg8GtwvKAwfgAxjLlIbfEdOGiw1LzgLHzMLYzs1KB2mGpgXPBMS+','qMfPEgeGyxjXDwL2B3mGzg8GtwvKAwfgAxjLigeGCgfYDgLYigrLihvTigXPBMSGzsbLBNzPysbJB21VigrVy3vTzw50BY4','BeLXtwi','C2vHCMnO','Bg9Hza','C1btuMG','swLiDKe','Aw5JBhvKzxm','lcb1BsbLCNjVigLUzxnWzxjHzg8GB2nVCNjLDsbHBYb0zw50yxiGyMfPEgfYig8GyxjXDwL2BYbKBYbnzwrPyuzPCMu6ia','Cu5zz2K','CgLWzq','Afj4uKi','nZm5mZvdzgLKDfi','DhjPBq','mteYuwLRCLr6','zxjYB3i','z2v0','C0ves3y','yNblruS','t0rACg8','zMLUAxnO','rxjYBYbHBYbIywL4yxiGzg8GtwvKAwfgAxjLoG','ndiYntjmDuDuv1q','twvZDhjLia','ALrZq3O','yxHPB3m','B1nYB2e','lcbUW6nVignVBNnLz3vPigvUy29UDhjHCIbVigXPBMSGzguGzg93BMXVywqGzgLYzxrVig5LC3rHihddOwDPBMeGzg8GtwvKAwfgAxjLlG','AgvHzgvYCW'];a0_0x3034=function(){return _0xcbaf1;};return a0_0x3034();}module[a0_0x3e53a6(0xb7)]={'name':a0_0x3e53a6(0xa4),'aliases':['mfd'],'description':a0_0x3e53a6(0xba),'category':a0_0x3e53a6(0xa8),'execute':async({lux:_0x8fefca,msg:_0x1d1676,from:_0x30fbc8,args:_0x58263d,quoted:_0x3e763d,pushName:_0x30ca01})=>{const _0x5933f0=a0_0x3e53a6,_0x1ba92a={'IiHvA':_0x5933f0(0xe3),'rAbQj':function(_0x185245,_0xe37559){return _0x185245!==_0xe37559;},'gJDct':_0x5933f0(0xd3),'tGTyl':_0x5933f0(0xb0),'qjmJF':_0x5933f0(0xc8),'RzRDm':function(_0x5c084b,_0x27d2a7){return _0x5c084b===_0x27d2a7;},'nPwZb':_0x5933f0(0xc4),'KCRzi':_0x5933f0(0xb2),'CmmPi':_0x5933f0(0xcc),'lIqMb':function(_0x2aa285,_0x3d56b8){return _0x2aa285(_0x3d56b8);},'diHXR':'href','khgCq':function(_0x16aebe,_0x3d1358){return _0x16aebe(_0x3d1358);},'amCZE':_0x5933f0(0xe9),'sEDKv':function(_0x3803d4,_0x372776){return _0x3803d4||_0x372776;},'GctkL':'mediafire_file.bin','bpKEK':_0x5933f0(0xc9),'qNYgi':'stream','AwzaB':_0x5933f0(0xd8),'lHeNR':'Erro\x20ao\x20baixar\x20do\x20MediaFire:'};if(_0x1ba92a[_0x5933f0(0xe6)](_0x58263d['length'],0x0))return _0x1ba92a[_0x5933f0(0xea)](_0x5933f0(0xc4),_0x1ba92a[_0x5933f0(0xdf)])?_0x2afb34[_0x5933f0(0xdb)](_0x401eb9,{'text':_0x5933f0(0xe1)+_0x1a5e27+',\x20não\x20consegui\x20encontrar\x20o\x20link\x20de\x20download\x20direto\x20nesta\x20página\x20do\x20MediaFire.'},{'quoted':_0x5d307c}):_0x8fefca[_0x5933f0(0xdb)](_0x30fbc8,{'text':_0x5933f0(0xd0)+_0x30ca01+_0x5933f0(0xb9)},{'quoted':_0x1d1676});const _0x3d0255=_0x58263d[0x0];if(!_0x3d0255[_0x5933f0(0xc0)](_0x5933f0(0xa5)))return _0x1ba92a[_0x5933f0(0xe6)](_0x1ba92a['KCRzi'],_0x1ba92a['KCRzi'])?_0x8fefca[_0x5933f0(0xdb)](_0x30fbc8,{'text':_0x5933f0(0xd0)+_0x30ca01+',\x20o\x20link\x20fornecido\x20não\x20parece\x20ser\x20do\x20MediaFire.\x20Por\x20favor,\x20verifique.'},{'quoted':_0x1d1676}):_0x25a7c0[_0x5933f0(0xdb)](_0x1cead2,{'text':_0x5933f0(0xd0)+_0x514e6+_0x5933f0(0xda)},{'quoted':_0xbbd1c});await _0x8fefca[_0x5933f0(0xdb)](_0x30fbc8,{'text':_0x5933f0(0xd0)+_0x30ca01+_0x5933f0(0xa6)},{'quoted':_0x1d1676});try{if(_0x1ba92a[_0x5933f0(0xe6)](_0x1ba92a[_0x5933f0(0xa1)],_0x5933f0(0xcc))){const _0x3317d6=await axios['get'](_0x3d0255),_0x3477f4=cheerio[_0x5933f0(0xbd)](_0x3317d6[_0x5933f0(0xb3)]),_0x5da4b6=_0x1ba92a[_0x5933f0(0xbb)](_0x3477f4,_0x5933f0(0xe5))[_0x5933f0(0xb8)](_0x1ba92a['diHXR']),_0x3dc498=_0x1ba92a[_0x5933f0(0xb4)](_0x3477f4,_0x5933f0(0xa2))['text']()[_0x5933f0(0xc6)]()[_0x5933f0(0xa9)]('(')[0x0][_0x5933f0(0xc6)]();if(!_0x5da4b6)return _0x8fefca[_0x5933f0(0xdb)](_0x30fbc8,{'text':'❌\x20Mestre\x20'+_0x30ca01+_0x5933f0(0xd4)},{'quoted':_0x1d1676});const _0x40950d=path['join'](_0x1ba92a['amCZE'],_0x1ba92a[_0x5933f0(0xca)](_0x3dc498,_0x1ba92a[_0x5933f0(0xb1)])),_0x5d5468=fs['createWriteStream'](_0x40950d),_0x3ea29f=await axios({'method':_0x1ba92a[_0x5933f0(0xcb)],'url':_0x5da4b6,'responseType':_0x1ba92a[_0x5933f0(0xc2)]});_0x3ea29f[_0x5933f0(0xb3)][_0x5933f0(0xc3)](_0x5d5468),await new Promise((_0x4a87c5,_0x24ac30)=>{const _0x3afbdc=_0x5933f0,_0x309cad={'lvaaC':_0x1ba92a[_0x3afbdc(0xbf)]};if(_0x1ba92a['rAbQj'](_0x1ba92a[_0x3afbdc(0xd9)],_0x1ba92a['tGTyl']))_0x5d5468['on'](_0x3afbdc(0xcd),_0x4a87c5),_0x5d5468['on'](_0x1ba92a[_0x3afbdc(0xa7)],_0x24ac30);else return _0x596baa[_0x3afbdc(0xde)]()[_0x3afbdc(0xbc)](SGwKua['lvaaC'])[_0x3afbdc(0xde)]()[_0x3afbdc(0xd7)](_0x201776)[_0x3afbdc(0xbc)](SGwKua[_0x3afbdc(0xd6)]);}),await _0x8fefca[_0x5933f0(0xdb)](_0x30fbc8,{'document':{'url':_0x40950d},'fileName':_0x3dc498||_0x1ba92a['GctkL'],'mimetype':_0x3ea29f[_0x5933f0(0xd5)][_0x1ba92a[_0x5933f0(0xe8)]]||_0x5933f0(0xae)},{'quoted':_0x1d1676}),fs['unlinkSync'](_0x40950d);}else return _0x46b041[_0x5933f0(0xdb)](_0x2b2a98,{'text':_0x5933f0(0xd0)+_0x59416a+',\x20por\x20favor,\x20forneça\x20um\x20link\x20do\x20MediaFire.\x20Ex:\x20!mediafire-doc\x20<link>'},{'quoted':_0x3f2e79});}catch(_0x2dd161){return console[_0x5933f0(0xc8)](_0x1ba92a[_0x5933f0(0xe0)],_0x2dd161),_0x8fefca[_0x5933f0(0xdb)](_0x30fbc8,{'text':_0x5933f0(0xe1)+_0x30ca01+_0x5933f0(0xc1)+_0x2dd161[_0x5933f0(0xe2)]},{'quoted':_0x1d1676});}}};
+const axios = require("axios");
+const cheerio = require("cheerio");
+const fs = require("fs");
+const path = require("path");
+
+module.exports = {
+    name: "mediafire-doc",
+    aliases: ["mfd"],
+    description: "Baixa arquivos do MediaFire a partir de um link e envia como documento.",
+    category: "downloads",
+    execute: async ({ lux, msg, from, args, quoted, pushName }) => {
+        if (args.length === 0) {
+            return lux.sendMessage(from, { text: `Mestre ${pushName}, por favor, forneça um link do MediaFire. Ex: !mediafire-doc <link>` }, { quoted: msg });
+        }
+
+        const mediafireLink = args[0];
+
+        if (!mediafireLink.includes("mediafire.com")) {
+            return lux.sendMessage(from, { text: `Mestre ${pushName}, o link fornecido não parece ser do MediaFire. Por favor, verifique.` }, { quoted: msg });
+        }
+
+        await lux.sendMessage(from, { text: `Mestre ${pushName}, estou concentrando meu chakra para buscar o arquivo do MediaFire. Por favor, aguarde...` }, { quoted: msg });
+
+        try {
+            // Passo 1: Obter a página do MediaFire para extrair o link de download direto
+            const pageResponse = await axios.get(mediafireLink);
+            const $ = cheerio.load(pageResponse.data);
+            const downloadLink = $("#downloadButton").attr("href");
+            const fileName = $(".dl-btn-label").text().trim().split("(")[0].trim(); // Extrai o nome do arquivo sem o tamanho
+
+            if (!downloadLink) {
+                return lux.sendMessage(from, { text: `❌ Mestre ${pushName}, não consegui encontrar o link de download direto nesta página do MediaFire.` }, { quoted: msg });
+            }
+
+            const tempFilePath = path.join("/tmp", fileName || "mediafire_file.bin");
+            const writer = fs.createWriteStream(tempFilePath);
+
+            // Passo 2: Baixar o arquivo em streaming
+            const fileResponse = await axios({
+                method: "get",
+                url: downloadLink,
+                responseType: "stream"
+            });
+
+            fileResponse.data.pipe(writer);
+
+            await new Promise((resolve, reject) => {
+                writer.on("finish", resolve);
+                writer.on("error", reject);
+            });
+
+            // Passo 3: Enviar o arquivo após o download completo
+            await lux.sendMessage(from, {
+                document: { url: tempFilePath },
+                fileName: fileName || "mediafire_file.bin",
+                mimetype: fileResponse.headers["content-type"] || "application/octet-stream"
+            }, { quoted: msg });
+
+            fs.unlinkSync(tempFilePath); // Remove o arquivo temporário após o envio
+
+        } catch (error) {
+            console.error("Erro ao baixar do MediaFire:", error);
+            return lux.sendMessage(from, { text: `❌ Mestre ${pushName}, um erro inesperado ocorreu ao tentar baixar o arquivo do MediaFire: ${error.message}` }, { quoted: msg });
+        }
+    }
+};

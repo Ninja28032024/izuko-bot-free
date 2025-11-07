@@ -1,1 +1,94 @@
-const a0_0x33a0b3=a0_0x4b36;(function(_0x520d42,_0x2f23e1){const _0x2bb60b=a0_0x4b36,_0x482a7c=_0x520d42();while(!![]){try{const _0x594e1e=-parseInt(_0x2bb60b(0x1ea))/0x1*(parseInt(_0x2bb60b(0x1e4))/0x2)+-parseInt(_0x2bb60b(0x1d8))/0x3*(-parseInt(_0x2bb60b(0x1a7))/0x4)+-parseInt(_0x2bb60b(0x1af))/0x5+parseInt(_0x2bb60b(0x1ad))/0x6*(parseInt(_0x2bb60b(0x1f1))/0x7)+parseInt(_0x2bb60b(0x1cb))/0x8+-parseInt(_0x2bb60b(0x1c4))/0x9+-parseInt(_0x2bb60b(0x1c8))/0xa*(-parseInt(_0x2bb60b(0x1a5))/0xb);if(_0x594e1e===_0x2f23e1)break;else _0x482a7c['push'](_0x482a7c['shift']());}catch(_0x4195ae){_0x482a7c['push'](_0x482a7c['shift']());}}}(a0_0x151e,0x73f59));const a0_0x37f48f=(function(){const _0xf17afc={'lFTip':function(_0x580fc5,_0x14c953){return _0x580fc5!==_0x14c953;}};let _0x22d78c=!![];return function(_0x2a942d,_0x57e93f){const _0xccc8b3=a0_0x4b36;if(_0xf17afc[_0xccc8b3(0x1c5)](_0xccc8b3(0x1aa),_0xccc8b3(0x1a0))){const _0x11dc45=_0x22d78c?function(){const _0x7a2063=_0xccc8b3;if(_0x57e93f){const _0x1b46e5=_0x57e93f[_0x7a2063(0x1ac)](_0x2a942d,arguments);return _0x57e93f=null,_0x1b46e5;}}:function(){};return _0x22d78c=![],_0x11dc45;}else{const _0x173b04=_0x1fbb50['response']?_0x1e7086['stringify'](_0x2a8ef0['response'][_0xccc8b3(0x1b0)]):_0x4d9ad5[_0xccc8b3(0x1db)];throw new _0x32ab6e(_0xccc8b3(0x1f2)+_0x173b04);}};}()),a0_0x2d4be4=a0_0x37f48f(this,function(){const _0x267d52=a0_0x4b36,_0x444d49={'RtGFD':_0x267d52(0x1bb)};return a0_0x2d4be4[_0x267d52(0x1c7)]()[_0x267d52(0x1a1)](_0x444d49[_0x267d52(0x1a6)])['toString']()[_0x267d52(0x1b7)](a0_0x2d4be4)[_0x267d52(0x1a1)](_0x444d49[_0x267d52(0x1a6)]);});function a0_0x4b36(_0x3516fc,_0x495250){const _0x28fd68=a0_0x151e();return a0_0x4b36=function(_0x2d4be4,_0x37f48f){_0x2d4be4=_0x2d4be4-0x19f;let _0x151ec4=_0x28fd68[_0x2d4be4];if(a0_0x4b36['UMwuOM']===undefined){var _0x4b3624=function(_0x50fc67){const _0x1e76d0='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x120ee9='',_0x487519='',_0x53d7fa=_0x120ee9+_0x4b3624;for(let _0x4935b0=0x0,_0x24548f,_0x3e80e5,_0x18903c=0x0;_0x3e80e5=_0x50fc67['charAt'](_0x18903c++);~_0x3e80e5&&(_0x24548f=_0x4935b0%0x4?_0x24548f*0x40+_0x3e80e5:_0x3e80e5,_0x4935b0++%0x4)?_0x120ee9+=_0x53d7fa['charCodeAt'](_0x18903c+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x24548f>>(-0x2*_0x4935b0&0x6)):_0x4935b0:0x0){_0x3e80e5=_0x1e76d0['indexOf'](_0x3e80e5);}for(let _0x3b4ebb=0x0,_0x4e2516=_0x120ee9['length'];_0x3b4ebb<_0x4e2516;_0x3b4ebb++){_0x487519+='%'+('00'+_0x120ee9['charCodeAt'](_0x3b4ebb)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x487519);};a0_0x4b36['ATJQcn']=_0x4b3624,_0x3516fc=arguments,a0_0x4b36['UMwuOM']=!![];}const _0x5e9fc5=_0x28fd68[0x0],_0x3ded14=_0x2d4be4+_0x5e9fc5,_0x1db881=_0x3516fc[_0x3ded14];if(!_0x1db881){const _0x5f37a6=function(_0xd2c6b1){this['QmCMMA']=_0xd2c6b1,this['KEBGwA']=[0x1,0x0,0x0],this['keXEZH']=function(){return'newState';},this['aHuFex']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['xHClra']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x5f37a6['prototype']['OUbzGZ']=function(){const _0x37c423=new RegExp(this['aHuFex']+this['xHClra']),_0x53316a=_0x37c423['test'](this['keXEZH']['toString']())?--this['KEBGwA'][0x1]:--this['KEBGwA'][0x0];return this['YHEztl'](_0x53316a);},_0x5f37a6['prototype']['YHEztl']=function(_0x53a70a){if(!Boolean(~_0x53a70a))return _0x53a70a;return this['qpMbyh'](this['QmCMMA']);},_0x5f37a6['prototype']['qpMbyh']=function(_0x236a64){for(let _0x4eed0e=0x0,_0x4128a5=this['KEBGwA']['length'];_0x4eed0e<_0x4128a5;_0x4eed0e++){this['KEBGwA']['push'](Math['round'](Math['random']())),_0x4128a5=this['KEBGwA']['length'];}return _0x236a64(this['KEBGwA'][0x0]);},new _0x5f37a6(a0_0x4b36)['OUbzGZ'](),_0x151ec4=a0_0x4b36['ATJQcn'](_0x151ec4),_0x3516fc[_0x3ded14]=_0x151ec4;}else _0x151ec4=_0x1db881;return _0x151ec4;},a0_0x4b36(_0x3516fc,_0x495250);}a0_0x2d4be4();const {downloadContentFromMessage,getContentType,delay}=require(a0_0x33a0b3(0x1ef)),axios=require(a0_0x33a0b3(0x1e5)),FormData=require(a0_0x33a0b3(0x1e7)),fs=require('fs'),path=require(a0_0x33a0b3(0x1a8));function a0_0x151e(){const _0x534dcc=['y29UDgv4DeLUzM8','DMLKzw9nzxnZywDL','y29UC3rYDwn0B3i','r3jKsgi','ugDirMS','tCoTzgLHihjLy2vIAwrHlIbdB25Ly3rHBMrVigfVifrLBgvNCMfWAc4UlGO','kcGOlISPkYKRksSK','DxbSB2fKmW','uMPYywi','DfDyz00','v3ztAfe','veLzqvK','w+kwOokwOEkwOEkwOEkwOv0GmJaL','zNjVBq','CMvWBgfJzq','mte0odC5nLH1EgPuEa','BezuAxa','AxnbCNjHEq','Dg9tDhjPBMC','ndy5otbcrfHwug4','Ahr0Chm6lY90zwXLz3jHlNbOl3vWBg9Hza','tenOuum','mZq0mdq3mLzsDhrNva','BLDYzK8','w+kwOokwOokwOokwOEkwOv0GnJaL','w+kwOokwOokwOokwOokwOf0GmtaWjq','rxjYBYbUBYbJB21HBMrVicf1CgXVywqZoG','wMDLDNq','C2vUze1LC3nHz2u','EK5Trfe','CvfWCvO','kK3dJurjqsbjtu9svefmsvPbreeGkfrftevhuKfqscKQipcFK5WkcK1LC3rYzsWGysbTW61KAweGzM9PigvSzxzHzgeGy29Tihn1y2vZC28GyxrYyxBdQxmGzg8GCg9YDgfSifrLBgvNCMfWAc4kcIPmAw5RierPCMv0BZOQia','CMvZCg9UC2u','Ahr0Chm6lY90zwXLz3jHlNbO','Aw1Hz2vnzxnZywDL','ndH4B0DVBem','qsbbueKGzg8GvgvSzwDYyxbOig7dO28GCMv0B3jUB3uGDw0Gy2fTAw5OBYbKzsbHCNf1AxzVihBdOwXPzg8U','rM9py2q','BwvZC2fNzq','ug9YDgfSigvZDgfIAwXPEMfKBY4GuMvJzwjLBMrVig8GC2vSBYbKAwDPDgfSlI4UcG','ufLlC0y','Awzvvhy','vNHLv0m','q1P4zwG','EKr0vwG','w+kwOokwOokwOokwOokwOv0GodaL','twvZDhjLlcbVihjPDhvHBcbKzsbHC2nLBNpdO28GzMfSAg91lIbbigvUzxjNAweGzgeGBCoTzgLHigvYysbPBNn0W6f2zwWGB3uGBYbWB3j0ywWGvgvSzwDYyxbOigvZDmoHihnLBgfKBY4kcIPnB3rPDM86kIa','mJm3ota2qLjlqMfR','yxHPB3m','zMLSzq','zM9YBs1KyxrH','twvZDhjLlcbWyxjHihf1zsbLDsbWB3nZysb1C2fYig8GCg9YDgfSifrLBgvNCMfWAcWGvM9ZC2eGu2vUAg9YAweGChjLy2LZysbYzxnWB25KzxiGysb1BweGAw1Hz2vTig91ihBdRwrLBYbJB20Gzxn0zsbJB21HBMrVlG','DvbgrLy','n1PoB2LKDq','A2XjBuu','s3zwC3K','twvZC2fNzq','C3rYAw5NAwz5','qhDOAxnRzxLZB2nRzxrZl2jHAwXLExm','EKfguMy','n29Sv3fRBq','qsbJB211BMLJyCoNW6nVignVBsbVCYbZzxj2AwrVCMvZigrVifrLBgvNCMfWAcbMywXOB3u6ia','z2v0sgvHzgvYCW','BxbtC3C','AMrUA2K','C2vHCMnO','C3jJ','sMrxwNm','CxvVDgvKtwvZC2fNzq','odq3yxzesgPn','uNrhrKq','nZy1mMnfEffxCq','Cgf0Aa','y29Uy2f0','zgTbBK4','Afjly1a','yxbWBhK','ndmYmJi2mK12rvPJtW','Aw1Hz2uVANbLzW','ntm3ote1yu9uvhjc','zgf0yq','AxP1A28TDxbSB2fKlq','quDXqvm','rw52AwfUzg8GCgfYysbVigrVBCoTBMLVifrLBgvNCMfWAc4UlGO','A2v5'];a0_0x151e=function(){return _0x534dcc;};return a0_0x151e();}async function uploadToTelegraph(_0x26bbde){const _0x53bf49=a0_0x33a0b3,_0x3d3134={'Grxxr':_0x53bf49(0x1e6),'Rjrab':function(_0x27d6b5,_0x3dd6d6){return _0x27d6b5===_0x3dd6d6;},'AGqAS':_0x53bf49(0x1a3),'bHrtj':_0x53bf49(0x1c9),'KvVsy':_0x53bf49(0x1d9)},_0x2e8614=new FormData();_0x2e8614['append'](_0x3d3134['Grxxr'],_0x26bbde,{'filename':_0x53bf49(0x1b1)+Date['now']()+'.jpg','contentType':_0x53bf49(0x1ae)});try{if(_0x3d3134[_0x53bf49(0x1bd)](_0x3d3134[_0x53bf49(0x1b2)],_0x3d3134['AGqAS'])){const _0x26e24d=_0x3d3134['bHrtj'],_0x284fac=await axios['post'](_0x26e24d,_0x2e8614,{'headers':{..._0x2e8614[_0x53bf49(0x1f3)]()}});if(Array[_0x53bf49(0x1c6)](_0x284fac[_0x53bf49(0x1b0)])&&_0x284fac[_0x53bf49(0x1b0)][0x0]&&_0x284fac[_0x53bf49(0x1b0)][0x0][_0x53bf49(0x1a2)])return _0x53bf49(0x1d6)+_0x284fac[_0x53bf49(0x1b0)][0x0][_0x53bf49(0x1a2)];else throw new Error(_0x3d3134[_0x53bf49(0x1ec)]);}else{if(_0x48d3e7){const _0x5c69a9=_0x34e99c['apply'](_0x3a387a,arguments);return _0x43688f=null,_0x5c69a9;}}}catch(_0x158140){const _0x163093=_0x158140[_0x53bf49(0x1d5)]?JSON[_0x53bf49(0x1ee)](_0x158140[_0x53bf49(0x1d5)][_0x53bf49(0x1b0)]):_0x158140[_0x53bf49(0x1db)];throw new Error(_0x53bf49(0x1f2)+_0x163093);}}module['exports']={'name':a0_0x33a0b3(0x1bc),'aliases':['telegraph'],'execute':async({lux:_0x3d0043,from:_0x34531b,msg:_0x3f99c9})=>{const _0x288bea=a0_0x33a0b3,_0x485785={'CDrfK':_0x288bea(0x1ed),'mpSsw':function(_0x9e4a4,_0x3d2e69){return _0x9e4a4===_0x3d2e69;},'zAFRf':_0x288bea(0x1bf),'LChQC':_0x288bea(0x1e9),'FfJjf':function(_0x48ec76,_0x4ab762){return _0x48ec76(_0x4ab762);},'pixGg':_0x288bea(0x1b6),'zNmDQ':'jUKzY','PYKsF':_0x288bea(0x1be),'CZxeh':_0x288bea(0x1e8),'TIYAY':_0x288bea(0x1c1),'zDtUh':'[■■□□□]\x2040%','hRKcP':_0x288bea(0x1e2),'FoOcd':_0x288bea(0x1ce),'ifUTv':function(_0x70e83f,_0x5aee7d,_0xab44ec){return _0x70e83f(_0x5aee7d,_0xab44ec);},'VxeWC':'UvOzr','klImE':function(_0x1480e0,_0x5a8f41){return _0x1480e0(_0x5a8f41);},'nWrfO':function(_0x28e159,_0x57a1ee){return _0x28e159(_0x57a1ee);},'qQpqZ':_0x288bea(0x1cf),'Zgevt':function(_0x2aafa6,_0x5669cb){return _0x2aafa6!==_0x5669cb;},'PgHFk':_0x288bea(0x1b8)};let _0x4aa675,_0x2aafcc;const _0x1d1632=_0x3f99c9[_0x288bea(0x1db)]['extendedTextMessage']?.[_0x288bea(0x1b5)]?.[_0x288bea(0x1a4)];if(_0x1d1632){if(_0x485785[_0x288bea(0x19f)](_0x485785[_0x288bea(0x1f0)],_0x485785[_0x288bea(0x1ca)]))throw new _0x7823b3(_0x288bea(0x1d9));else{const _0x5c17d5=_0x485785['FfJjf'](getContentType,_0x1d1632);(_0x485785['mpSsw'](_0x5c17d5,_0x288bea(0x1d7))||_0x5c17d5===_0x485785['pixGg'])&&(_0x4aa675=_0x1d1632[_0x5c17d5],_0x2aafcc=_0x5c17d5[_0x288bea(0x1c3)](_0x485785['CDrfK'],''));}}if(!_0x4aa675)return _0x485785['mpSsw'](_0x485785[_0x288bea(0x1d2)],_0x485785[_0x288bea(0x1dd)])?'https://telegra.ph'+_0x482658[_0x288bea(0x1b0)][0x0][_0x288bea(0x1a2)]:await _0x3d0043[_0x288bea(0x1d1)](_0x34531b,{'text':_0x485785[_0x288bea(0x1e0)]},{'quoted':_0x3f99c9});let _0x47ab0d;try{const _0x58a703=[_0x485785[_0x288bea(0x1c0)],_0x485785[_0x288bea(0x1e1)],_0x288bea(0x1cd),_0x485785[_0x288bea(0x1ab)],_0x485785[_0x288bea(0x1da)]],_0x1e64c5=await _0x3d0043[_0x288bea(0x1d1)](_0x34531b,{'text':'Iniciando\x20ritual\x20de\x20ascensão\x20para\x20o\x20portal\x20Telegraph...\x0a'+_0x58a703[0x0]},{'quoted':_0x3f99c9});_0x47ab0d=_0x1e64c5[_0x288bea(0x1b4)];const _0x250d26=await _0x485785[_0x288bea(0x1de)](downloadContentFromMessage,_0x4aa675,_0x2aafcc);let _0x219217=Buffer[_0x288bea(0x1c2)]([]);for await(const _0x5205c8 of _0x250d26){_0x485785[_0x288bea(0x1df)]!==_0x485785[_0x288bea(0x1df)]?_0x4164ba=_0x56f8db[_0x288bea(0x1a9)]([_0x4bf691,_0x3169d3]):_0x219217=Buffer[_0x288bea(0x1a9)]([_0x219217,_0x5205c8]);}await _0x3d0043[_0x288bea(0x1d1)](_0x34531b,{'text':_0x288bea(0x1ba)+_0x58a703[0x1],'edit':_0x47ab0d}),await _0x485785[_0x288bea(0x1eb)](delay,0x1f4),await _0x3d0043[_0x288bea(0x1d1)](_0x34531b,{'text':_0x288bea(0x1b3)+_0x58a703[0x2],'edit':_0x47ab0d});const _0x17cfd4=await _0x485785[_0x288bea(0x1eb)](uploadToTelegraph,_0x219217);await _0x3d0043[_0x288bea(0x1d1)](_0x34531b,{'text':_0x288bea(0x1dc)+_0x58a703[0x3],'edit':_0x47ab0d}),await _0x485785[_0x288bea(0x1cc)](delay,0x1f4);const _0x183e14=_0x288bea(0x1d4)+_0x17cfd4;await _0x3d0043[_0x288bea(0x1d1)](_0x34531b,{'text':_0x183e14,'edit':_0x47ab0d});}catch(_0x4f9f92){console['error'](_0x485785[_0x288bea(0x1d3)],_0x4f9f92);const _0x468cd0=_0x288bea(0x1e3)+_0x4f9f92[_0x288bea(0x1db)];_0x47ab0d?await _0x3d0043[_0x288bea(0x1d1)](_0x34531b,{'text':_0x468cd0,'edit':_0x47ab0d}):_0x485785[_0x288bea(0x1d0)](_0x485785[_0x288bea(0x1b9)],_0x485785[_0x288bea(0x1b9)])?(_0x32ac53=_0x508051[_0x18a8e8],_0x8a95db=_0x2c84ac['replace'](_0x485785['CDrfK'],'')):await _0x3d0043['sendMessage'](_0x34531b,{'text':_0x468cd0},{'quoted':_0x3f99c9});}}};
+// commands/upload3.js
+const { downloadContentFromMessage, getContentType, delay } = require('@whiskeysockets/baileys');
+const axios = require('axios');
+const FormData = require('form-data');
+const fs = require('fs');
+const path = require('path');
+
+// Função para fazer o upload para o telegra.ph
+async function uploadToTelegraph(buffer) {
+    const form = new FormData();
+    // O telegra.ph espera o arquivo em um campo com nome arbitrário, mas 'file' é um bom padrão.
+    form.append('file', buffer, {
+        filename: `izuko-upload-${Date.now()}.jpg`, // O nome do arquivo é importante aqui
+        contentType: 'image/jpeg', // O tipo de conteúdo também pode ajudar
+    });
+
+    try {
+        // A URL de upload do Telegraph
+        const apiUrl = 'https://telegra.ph/upload';
+        
+        const response = await axios.post(apiUrl, form, {
+            headers: {
+                ...form.getHeaders( ),
+            },
+        });
+
+        // A resposta é um array com um objeto contendo o caminho do arquivo
+        if (Array.isArray(response.data) && response.data[0] && response.data[0].src) {
+            // Montamos a URL completa
+            return `https://telegra.ph${response.data[0].src}`;
+        } else {
+            throw new Error('A API do Telegraph não retornou um caminho de arquivo válido.' );
+        }
+    } catch (error) {
+        const errorMessage = error.response ? JSON.stringify(error.response.data) : error.message;
+        throw new Error(`A comunicação com os servidores do Telegraph falhou: ${errorMessage}`);
+    }
+}
+
+module.exports = {
+    name: 'upload3',
+    aliases: ['telegraph'], // Adicionei um alias útil
+    execute: async ({ lux, from, msg }) => {
+        let mediaMessage;
+        let mediaType;
+
+        const quoted = msg.message.extendedTextMessage?.contextInfo?.quotedMessage;
+        if (quoted) {
+            const contentType = getContentType(quoted);
+            if (contentType === 'imageMessage' || contentType === 'videoMessage') {
+                mediaMessage = quoted[contentType];
+                mediaType = contentType.replace('Message', '');
+            }
+        }
+
+        if (!mediaMessage) {
+            return await lux.sendMessage(from, { text: 'Mestre, para que eu possa usar o portal Telegraph, Vossa Senhoria precisa responder a uma imagem ou vídeo com este comando.' }, { quoted: msg });
+        }
+
+        let loadingKey;
+
+        try {
+            const progressBar = ['[■□□□□] 20%', '[■■□□□] 40%', '[■■■□□] 60%', '[■■■■□] 80%', '[■■■■■] 100%'];
+            const initialMessage = await lux.sendMessage(from, { text: `Iniciando ritual de ascensão para o portal Telegraph...\n${progressBar[0]}` }, { quoted: msg });
+            loadingKey = initialMessage.key;
+
+            const stream = await downloadContentFromMessage(mediaMessage, mediaType);
+            let buffer = Buffer.from([]);
+            for await (const chunk of stream) { buffer = Buffer.concat([buffer, chunk]); }
+            await lux.sendMessage(from, { text: `Mídia recebida. Conectando ao Telegraph...\n${progressBar[1]}`, edit: loadingKey });
+
+            await delay(500);
+            await lux.sendMessage(from, { text: `Enviando para o domínio Telegraph...\n${progressBar[2]}`, edit: loadingKey });
+            
+            const link = await uploadToTelegraph(buffer);
+            
+            await lux.sendMessage(from, { text: `Portal estabilizado. Recebendo o selo digital...\n${progressBar[3]}`, edit: loadingKey });
+            await delay(500);
+
+            const finalMessage = `*MÍDIA IMORTALIZADA (TELEGRAPH)* 📜\n\nMestre, a mídia foi elevada com sucesso através do portal Telegraph.\n\n*Link Direto:* ${link}`;
+            await lux.sendMessage(from, { text: finalMessage, edit: loadingKey });
+
+        } catch (error) {
+            console.error("Erro no comando !upload3:", error);
+            const errorMessage = `Mestre, o ritual de ascensão falhou. A energia da mídia era instável ou o portal Telegraph está selado.\n\n*Motivo:* ${error.message}`;
+            
+            if (loadingKey) {
+                await lux.sendMessage(from, { text: errorMessage, edit: loadingKey });
+            } else {
+                await lux.sendMessage(from, { text: errorMessage }, { quoted: msg });
+            }
+        }
+    }
+};

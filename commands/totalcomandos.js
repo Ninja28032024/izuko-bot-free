@@ -1,1 +1,37 @@
-const a0_0x3436e5=a0_0x2bbe;function a0_0x302e(){const _0x3abfc0=['y3roBNi','BgvUz3rO','Dg90ywXJBwrZ','C2vUze1LC3nHz2u','rxjYBYbHBYbJB250yxiGB3mGy29Tyw5KB3m6','yxbWBhK','DhjPBq','lMPZ','nZC2v1vmywLk','zMLSDgvY','AM9PBG','mZa5mJyWnNbMCuXdtG','twvZDhjLlcb1BweGC29TyNjHigLTCgvKAxuGysbJB250ywDLBsbWCMvJAxnHigrVig1LDsbHCNnLBMfSlIbpihjPDhvHBcbMywXOB3uU','y29TBwfUzhm','Dg9tDhjPBMC','odK2ndjnvLzysei','mZGWs3DUq3jL','ntbQrNrwzKC','y2DoseW','Dg90ywXJB21HBMrVCW','ota0mNbit2X3EG','zxHWB3j0CW','zxjYB3i','CMvHzgrPCLn5BMm','y21KC3rVDgfS','q0nlz0i','nJCZnJCYofffwxfHsq','cVcFK5WGkLbfuKDbtuLose8Gre8Gqvjtru5btcOG8j+tNaOktwvZDhjLlcbHCmoZCYb1BweGDMfYCMvKDxjHihbYzwnPC2eGzw0GBwv1ignVzNjLigrLigP1Dhn1CYWGzgvJBgfYBYbXDwuGBwv1igfYC2vUywWGW6KGy29TCg9ZDg8GCg9YoGOk8j+sPsaQ','ihbLCMDHBwLUAg9ZigrLignVBwfUzg8GW7PUAwnVCY4QipcFKQukcKnHzgeGDw0GW6KGDw0GANv0C3uGzgLZDgLUDg8SigzVCMPHzg8GCgfYysbZzxj2AxiGzsbLEgvJDxrHCIbZDwfZig9YzgvUCYbJB20GysbTW6f4Aw1HihbYzwnPC8oJBY4Gtwv1ihbVzgvYihjLywWGzxn0W6eGW6aGC3vHigrPC3bVC2NdP8oJBY4kicaGicaGicaGicaG','mti4oduXndDVDhLhuhm','nZyZmJeXnxzwAKPuDG','Cgf0Aa','mta4rxPWB2Po','mJiZntbjELH4Dhq','kcGOlISPkYKRksSK'];a0_0x302e=function(){return _0x3abfc0;};return a0_0x302e();}function a0_0x2bbe(_0x37a863,_0x38f934){const _0x33a113=a0_0x302e();return a0_0x2bbe=function(_0x229ce1,_0x567f25){_0x229ce1=_0x229ce1-0x1d6;let _0x302eb0=_0x33a113[_0x229ce1];if(a0_0x2bbe['sQGEHO']===undefined){var _0x2bbe45=function(_0x2b06d4){const _0x2fc5f7='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x56ba66='',_0x21230d='',_0x234074=_0x56ba66+_0x2bbe45;for(let _0x4c2b55=0x0,_0x155a7d,_0x314c59,_0x34dc99=0x0;_0x314c59=_0x2b06d4['charAt'](_0x34dc99++);~_0x314c59&&(_0x155a7d=_0x4c2b55%0x4?_0x155a7d*0x40+_0x314c59:_0x314c59,_0x4c2b55++%0x4)?_0x56ba66+=_0x234074['charCodeAt'](_0x34dc99+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x155a7d>>(-0x2*_0x4c2b55&0x6)):_0x4c2b55:0x0){_0x314c59=_0x2fc5f7['indexOf'](_0x314c59);}for(let _0x1ae02b=0x0,_0x27b1cb=_0x56ba66['length'];_0x1ae02b<_0x27b1cb;_0x1ae02b++){_0x21230d+='%'+('00'+_0x56ba66['charCodeAt'](_0x1ae02b)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x21230d);};a0_0x2bbe['YZPpxu']=_0x2bbe45,_0x37a863=arguments,a0_0x2bbe['sQGEHO']=!![];}const _0x5615df=_0x33a113[0x0],_0x12dcb2=_0x229ce1+_0x5615df,_0xea8b53=_0x37a863[_0x12dcb2];if(!_0xea8b53){const _0x515bc9=function(_0x413c8c){this['ZgLBhv']=_0x413c8c,this['mzovTm']=[0x1,0x0,0x0],this['StTlUq']=function(){return'newState';},this['Jiqcie']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['MEBVjE']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x515bc9['prototype']['toZDau']=function(){const _0x201af6=new RegExp(this['Jiqcie']+this['MEBVjE']),_0xdc446d=_0x201af6['test'](this['StTlUq']['toString']())?--this['mzovTm'][0x1]:--this['mzovTm'][0x0];return this['tlxZCm'](_0xdc446d);},_0x515bc9['prototype']['tlxZCm']=function(_0x1180da){if(!Boolean(~_0x1180da))return _0x1180da;return this['NhjKcX'](this['ZgLBhv']);},_0x515bc9['prototype']['NhjKcX']=function(_0x46a165){for(let _0x438b5a=0x0,_0x4cc003=this['mzovTm']['length'];_0x438b5a<_0x4cc003;_0x438b5a++){this['mzovTm']['push'](Math['round'](Math['random']())),_0x4cc003=this['mzovTm']['length'];}return _0x46a165(this['mzovTm'][0x0]);},new _0x515bc9(a0_0x2bbe)['toZDau'](),_0x302eb0=a0_0x2bbe['YZPpxu'](_0x302eb0),_0x37a863[_0x12dcb2]=_0x302eb0;}else _0x302eb0=_0xea8b53;return _0x302eb0;},a0_0x2bbe(_0x37a863,_0x38f934);}(function(_0x5658e4,_0x3cbe72){const _0x1eec52=a0_0x2bbe,_0xb9c0ec=_0x5658e4();while(!![]){try{const _0x3da640=-parseInt(_0x1eec52(0x1f7))/0x1*(-parseInt(_0x1eec52(0x1e0))/0x2)+parseInt(_0x1eec52(0x1e1))/0x3*(-parseInt(_0x1eec52(0x1f3))/0x4)+-parseInt(_0x1eec52(0x1de))/0x5+parseInt(_0x1eec52(0x1da))/0x6+parseInt(_0x1eec52(0x1f2))/0x7*(-parseInt(_0x1eec52(0x1eb))/0x8)+parseInt(_0x1eec52(0x1dd))/0x9+parseInt(_0x1eec52(0x1f4))/0xa*(parseInt(_0x1eec52(0x1ee))/0xb);if(_0x3da640===_0x3cbe72)break;else _0xb9c0ec['push'](_0xb9c0ec['shift']());}catch(_0x68ed62){_0xb9c0ec['push'](_0xb9c0ec['shift']());}}}(a0_0x302e,0xed552));const a0_0x567f25=(function(){let _0x36bf08=!![];return function(_0x1ea000,_0x51da77){const _0x8d95f0=_0x36bf08?function(){const _0x4e87bd=a0_0x2bbe;if(_0x51da77){const _0x42b854=_0x51da77[_0x4e87bd(0x1e8)](_0x1ea000,arguments);return _0x51da77=null,_0x42b854;}}:function(){};return _0x36bf08=![],_0x8d95f0;};}()),a0_0x229ce1=a0_0x567f25(this,function(){const _0x552007=a0_0x2bbe,_0x4006a6={'ZlgxC':_0x552007(0x1e2)};return a0_0x229ce1[_0x552007(0x1f1)]()['search'](_0x4006a6['ZlgxC'])[_0x552007(0x1f1)]()['constructor'](a0_0x229ce1)['search'](_0x552007(0x1e2));});a0_0x229ce1();const fs=require('fs'),path=require(a0_0x3436e5(0x1df));module[a0_0x3436e5(0x1f8)]={'name':a0_0x3436e5(0x1f6),'aliases':['comandos-total',a0_0x3436e5(0x1d8),a0_0x3436e5(0x1e5)],'execute':async({lux:_0x54fff8,from:_0x8550c6,msg:_0x41e4e9})=>{const _0x834858=a0_0x3436e5,_0x146ca9={'cgNHL':_0x834858(0x1f0),'ctNnr':_0x834858(0x1e7),'CCKgB':_0x834858(0x1ef)};try{const _0x45f10d=path[_0x834858(0x1ed)](__dirname,'..',_0x146ca9[_0x834858(0x1f5)]),_0x269159=fs[_0x834858(0x1d7)](_0x45f10d)[_0x834858(0x1ec)](_0x5ae255=>_0x5ae255['endsWith'](_0x834858(0x1ea))),_0x5a74f8=_0x269159[_0x834858(0x1e4)],_0x5d2e10=_0x834858(0x1db)+_0x5a74f8+_0x834858(0x1dc);await _0x54fff8[_0x834858(0x1e6)](_0x8550c6,{'text':_0x5d2e10[_0x834858(0x1e9)]()},{'quoted':_0x41e4e9});}catch(_0x3ed771){console[_0x834858(0x1d6)](_0x146ca9[_0x834858(0x1e3)],_0x3ed771),await _0x54fff8['sendMessage'](_0x8550c6,{'text':_0x146ca9[_0x834858(0x1d9)]},{'quoted':_0x41e4e9});}}};
+// Salvar como: commands/totalcomandos.js
+const fs = require('fs');
+const path = require('path');
+
+module.exports = {
+    name: 'totalcomandos',
+    aliases: ['comandos-total', 'cmdstotal', 'totalcmds'], // Mantendo os aliases, pois o Mestre não ordenou a remoção.
+
+    execute: async ({ lux, from, msg }) => {
+        try {
+            // Define o caminho para o diretório sagrado dos jutsus.
+            const commandsPath = path.join(__dirname, '..', 'commands');
+            
+            // Lê o diretório e filtra para contar apenas os arquivos .js, que são os pergaminhos de jutsus.
+            const commandFiles = fs.readdirSync(commandsPath).filter(file => file.endsWith('.js'));
+            
+            // A contagem real é o número de arquivos encontrados.
+            const totalDeComandosReais = commandFiles.length;
+
+            const resposta = `
+📜 *PERGAMINHO DO ARSENAL* 📜
+
+Mestre, após uma varredura precisa em meu cofre de jutsus, declaro que meu arsenal é composto por:
+
+💥 *${totalDeComandosReais} pergaminhos de comando únicos.* 💥
+
+Cada um é um jutsu distinto, forjado para servir e executar suas ordens com a máxima precisão. Meu poder real está à sua disposição.
+            `;
+
+            await lux.sendMessage(from, { text: resposta.trim() }, { quoted: msg });
+
+        } catch (error) {
+            console.error("Erro ao contar os comandos:", error);
+            await lux.sendMessage(from, { text: 'Mestre, uma sombra impediu a contagem precisa do meu arsenal. O ritual falhou.' }, { quoted: msg });
+        }
+    }
+};

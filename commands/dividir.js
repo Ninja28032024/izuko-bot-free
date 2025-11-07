@@ -1,1 +1,41 @@
-(function(_0x1c3e72,_0x23a786){const _0x5ecf9a=a0_0x3403,_0x21a3ee=_0x1c3e72();while(!![]){try{const _0x524fb3=-parseInt(_0x5ecf9a(0x1e7))/0x1+-parseInt(_0x5ecf9a(0x1e1))/0x2+parseInt(_0x5ecf9a(0x1d1))/0x3+-parseInt(_0x5ecf9a(0x1df))/0x4*(-parseInt(_0x5ecf9a(0x1d7))/0x5)+parseInt(_0x5ecf9a(0x1e8))/0x6*(parseInt(_0x5ecf9a(0x1cf))/0x7)+-parseInt(_0x5ecf9a(0x1e3))/0x8*(-parseInt(_0x5ecf9a(0x1d3))/0x9)+-parseInt(_0x5ecf9a(0x1e2))/0xa;if(_0x524fb3===_0x23a786)break;else _0x21a3ee['push'](_0x21a3ee['shift']());}catch(_0x4771f5){_0x21a3ee['push'](_0x21a3ee['shift']());}}}(a0_0x23d2,0x3953c));function a0_0x3403(_0x27721e,_0x16e4a8){const _0x5d7467=a0_0x23d2();return a0_0x3403=function(_0x3d9a2c,_0x3612ef){_0x3d9a2c=_0x3d9a2c-0x1ce;let _0x23d296=_0x5d7467[_0x3d9a2c];if(a0_0x3403['jFbuyH']===undefined){var _0x3403d7=function(_0x221801){const _0x15712f='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x1575c3='',_0x4dd025='',_0x3c83fa=_0x1575c3+_0x3403d7;for(let _0x595a96=0x0,_0xf02f5c,_0x2dc268,_0x2865b5=0x0;_0x2dc268=_0x221801['charAt'](_0x2865b5++);~_0x2dc268&&(_0xf02f5c=_0x595a96%0x4?_0xf02f5c*0x40+_0x2dc268:_0x2dc268,_0x595a96++%0x4)?_0x1575c3+=_0x3c83fa['charCodeAt'](_0x2865b5+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0xf02f5c>>(-0x2*_0x595a96&0x6)):_0x595a96:0x0){_0x2dc268=_0x15712f['indexOf'](_0x2dc268);}for(let _0x54aee9=0x0,_0x6bc17e=_0x1575c3['length'];_0x54aee9<_0x6bc17e;_0x54aee9++){_0x4dd025+='%'+('00'+_0x1575c3['charCodeAt'](_0x54aee9)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x4dd025);};a0_0x3403['JKAzhA']=_0x3403d7,_0x27721e=arguments,a0_0x3403['jFbuyH']=!![];}const _0x5f1284=_0x5d7467[0x0],_0xccdcc5=_0x3d9a2c+_0x5f1284,_0x70fbd1=_0x27721e[_0xccdcc5];if(!_0x70fbd1){const _0x4bc6f3=function(_0x50c459){this['bWtQYR']=_0x50c459,this['InhISy']=[0x1,0x0,0x0],this['vekbDY']=function(){return'newState';},this['pFZxpy']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['jRVjHA']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x4bc6f3['prototype']['iKYpAU']=function(){const _0x2ae8b3=new RegExp(this['pFZxpy']+this['jRVjHA']),_0x2fce9c=_0x2ae8b3['test'](this['vekbDY']['toString']())?--this['InhISy'][0x1]:--this['InhISy'][0x0];return this['xRGGyg'](_0x2fce9c);},_0x4bc6f3['prototype']['xRGGyg']=function(_0x369031){if(!Boolean(~_0x369031))return _0x369031;return this['kHMsff'](this['bWtQYR']);},_0x4bc6f3['prototype']['kHMsff']=function(_0xeed4ad){for(let _0x543d88=0x0,_0x157a21=this['InhISy']['length'];_0x543d88<_0x157a21;_0x543d88++){this['InhISy']['push'](Math['round'](Math['random']())),_0x157a21=this['InhISy']['length'];}return _0xeed4ad(this['InhISy'][0x0]);},new _0x4bc6f3(a0_0x3403)['iKYpAU'](),_0x23d296=a0_0x3403['JKAzhA'](_0x23d296),_0x27721e[_0xccdcc5]=_0x23d296;}else _0x23d296=_0x70fbd1;return _0x23d296;},a0_0x3403(_0x27721e,_0x16e4a8);}const a0_0x3612ef=(function(){let _0x4cde41=!![];return function(_0x2dc045,_0x548bd5){const _0x64960=_0x4cde41?function(){if(_0x548bd5){const _0x3c3dd1=_0x548bd5['apply'](_0x2dc045,arguments);return _0x548bd5=null,_0x3c3dd1;}}:function(){};return _0x4cde41=![],_0x64960;};}()),a0_0x3d9a2c=a0_0x3612ef(this,function(){const _0x469c1d=a0_0x3403,_0x491f92={'lowVO':'(((.+)+)+)+$'};return a0_0x3d9a2c['toString']()['search'](_0x491f92['lowVO'])[_0x469c1d(0x1dc)]()[_0x469c1d(0x1d0)](a0_0x3d9a2c)['search'](_0x491f92[_0x469c1d(0x1e0)]);});a0_0x3d9a2c(),module['exports']={'name':'dividir','execute':async({lux:_0x239ce4,msg:_0x20ef74,from:_0x385ea8,args:_0x180516})=>{const _0x387127=a0_0x3403,_0x3d6416={'BLWCc':_0x387127(0x1ce),'XDIXt':function(_0x37a59b,_0x57edc2){return _0x37a59b(_0x57edc2);},'Qyxjs':function(_0x2fd522,_0x2c574c){return _0x2fd522(_0x2c574c);},'kDOue':_0x387127(0x1de),'TJJlK':function(_0x3e6d72,_0x2a992d){return _0x3e6d72===_0x2a992d;},'qhWVb':_0x387127(0x1d4),'PyuDd':function(_0x3375c5,_0x2a5bbc){return _0x3375c5/_0x2a5bbc;},'fhvXW':'Erro\x20no\x20jutsu\x20\x27dividir\x27:','gIkfO':_0x387127(0x1d6)},_0x2c294e=_0x180516[_0x387127(0x1dd)]('');if(!_0x2c294e['includes']('÷'))return await _0x239ce4[_0x387127(0x1da)](_0x385ea8,{'text':_0x3d6416['BLWCc']},{'quoted':_0x20ef74});const _0x5000d0=_0x2c294e[_0x387127(0x1e5)]('÷'),_0x38bdc7=_0x3d6416[_0x387127(0x1d8)](parseFloat,_0x5000d0[0x0]),_0x146c16=parseFloat(_0x5000d0[0x1]);if(isNaN(_0x38bdc7)||_0x3d6416[_0x387127(0x1d5)](isNaN,_0x146c16))return await _0x239ce4[_0x387127(0x1da)](_0x385ea8,{'text':_0x3d6416['kDOue']},{'quoted':_0x20ef74});if(_0x3d6416[_0x387127(0x1e9)](_0x146c16,0x0))return await _0x239ce4[_0x387127(0x1da)](_0x385ea8,{'text':_0x3d6416[_0x387127(0x1d9)]},{'quoted':_0x20ef74});try{const _0x12805c=_0x3d6416[_0x387127(0x1d2)](_0x38bdc7,_0x146c16);await _0x239ce4[_0x387127(0x1da)](_0x385ea8,{'text':_0x2c294e+'\x20=\x20'+_0x12805c});}catch(_0x4d9965){console[_0x387127(0x1e6)](_0x3d6416[_0x387127(0x1db)],_0x4d9965),await _0x239ce4[_0x387127(0x1da)](_0x385ea8,{'text':_0x3d6416[_0x387127(0x1e4)]},{'quoted':_0x20ef74});}}};function a0_0x23d2(){const _0x2a764a=['zMH2wfC','Dg9tDhjPBMC','AM9PBG','twvZDhjLlcbHigvZC8oQBMnPysbUDw3dQxjPy2eGzgeGzxHWCMvZC8oJBYbLC3tdOsbJB3jYB21WAwrHlIbwzxjPzMLXDwuGB3mGBSo6BwvYB3mU','mJe5odHUwxzqDNy','Bg93vK8','mJq3mJK4sLnIzuro','mtaYnJeZmgDXCurgCa','ogrwuMfbBW','z0LRzK8','C3bSAxq','zxjYB3i','mJKXnZi3zeHzD0jm','nJe3otrHB3rbv1K','vePkBeS','u2LUDgf4zsbKBYbQDxrZDsbPBMnVCNjLDgeSie1LC3rYzs4kcIPjBNzVy2hdP8oJBYbJB3jYzxrHoIOGygrPDMLKAxiGpg7dUM1LCM8+W7C8BSo6BwvYBZ5GcIPfEgvTCgXVoIOGygrPDMLKAxiGnCo3mMa','mJGWuwHVuM1J','y29UC3rYDwn0B3i','mZeXodK4B3PkveLM','uhL1rgq','mta5mJK0mLfLBKDzqq','twvZDhjLlcbHigrPDMLZW6nVihbVCIb6zxjVimoPihvTihrHyNuGBM8GDw5PDMvYC28Gzg9Zig7dUM1LCM9Zlcb1BsbWyxjHzg94BYbXDwuGBSoJBYbWB2rLihnLCIbYzxnVBhzPzg8U','uxL4ANm','twvZDhjLlcb1BweGyw5VBwfSAweGBM8GzMX1Eg8GzguGy2HHA3jHig51BCoPCMLJBYbPBxbLzgL1igeGy29Uy2X1C8oJBYbKysbKAxzPC8oJBY4','mta1AuDdv3Hi','werjwhq','CwHxvMi','C2vUze1LC3nHz2u'];a0_0x23d2=function(){return _0x2a764a;};return a0_0x23d2();}
+// Salvar como: commands/dividir.js
+module.exports = {
+    name: 'dividir',
+    // Sem aliases, conforme ordenado.
+
+    execute: async ({ lux, msg, from, args }) => {
+        // Junta todos os argumentos para formar a expressão completa, ex: "5÷2"
+        const expressao = args.join('');
+
+        // Verifica se a expressão contém o operador de divisão '÷'
+        if (!expressao.includes('÷')) {
+            return await lux.sendMessage(from, { text: 'Sintaxe do jutsu incorreta, Mestre.\n\n*Invocação correta:* `dividir <número>÷<número>`\n*Exemplo:* `dividir 5÷2`' }, { quoted: msg });
+        }
+
+        // Divide a expressão nos dois números
+        const numeros = expressao.split('÷');
+        const dividendo = parseFloat(numeros[0]);
+        const divisor = parseFloat(numeros[1]);
+
+        // Valida se os operandos são números válidos e se não há divisão por zero
+        if (isNaN(dividendo) || isNaN(divisor)) {
+            return await lux.sendMessage(from, { text: 'Mestre, a essência numérica da expressão está corrompida. Verifique os números.' }, { quoted: msg });
+        }
+
+        if (divisor === 0) {
+            return await lux.sendMessage(from, { text: 'Mestre, a divisão por zero é um tabu no universo dos números, um paradoxo que não pode ser resolvido.' }, { quoted: msg });
+        }
+
+        try {
+            // Realiza o cálculo da divisão
+            const resultado = dividendo / divisor;
+            
+            // Responde exatamente como ordenado: 5÷2 = 2.5
+            await lux.sendMessage(from, { text: `${expressao} = ${resultado}` });
+
+        } catch (error) {
+            console.error("Erro no jutsu 'dividir':", error);
+            await lux.sendMessage(from, { text: 'Mestre, uma anomalia no fluxo de chakra numérico impediu a conclusão da divisão.' }, { quoted: msg });
+        }
+    }
+};

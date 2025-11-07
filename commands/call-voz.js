@@ -1,1 +1,44 @@
-const a0_0x440b65=a0_0x8626;(function(_0x15ef62,_0x6313b3){const _0x1be052=a0_0x8626,_0x3b2058=_0x15ef62();while(!![]){try{const _0x1376f1=-parseInt(_0x1be052(0x111))/0x1*(-parseInt(_0x1be052(0x110))/0x2)+parseInt(_0x1be052(0x115))/0x3*(parseInt(_0x1be052(0x12a))/0x4)+-parseInt(_0x1be052(0x126))/0x5*(parseInt(_0x1be052(0x118))/0x6)+-parseInt(_0x1be052(0x11d))/0x7*(-parseInt(_0x1be052(0x119))/0x8)+parseInt(_0x1be052(0x127))/0x9+parseInt(_0x1be052(0x117))/0xa*(-parseInt(_0x1be052(0x11a))/0xb)+-parseInt(_0x1be052(0x113))/0xc;if(_0x1376f1===_0x6313b3)break;else _0x3b2058['push'](_0x3b2058['shift']());}catch(_0x25e8fd){_0x3b2058['push'](_0x3b2058['shift']());}}}(a0_0x5ec7,0x27bad));const a0_0x348f56=(function(){let _0x4e96d6=!![];return function(_0x401147,_0x1ebd71){const _0x38cdef=_0x4e96d6?function(){const _0x5cd289=a0_0x8626;if(_0x1ebd71){const _0x5248e2=_0x1ebd71[_0x5cd289(0x12b)](_0x401147,arguments);return _0x1ebd71=null,_0x5248e2;}}:function(){};return _0x4e96d6=![],_0x38cdef;};}()),a0_0x4646b1=a0_0x348f56(this,function(){const _0x33a391=a0_0x8626,_0x39486a={'vfIwL':_0x33a391(0x131)};return a0_0x4646b1[_0x33a391(0x11f)]()[_0x33a391(0x112)](_0x39486a[_0x33a391(0x12f)])[_0x33a391(0x11f)]()[_0x33a391(0x132)](a0_0x4646b1)[_0x33a391(0x112)](_0x39486a[_0x33a391(0x12f)]);});function a0_0x8626(_0x25f118,_0x1c7304){const _0x5c4393=a0_0x5ec7();return a0_0x8626=function(_0x4646b1,_0x348f56){_0x4646b1=_0x4646b1-0x10f;let _0x5ec780=_0x5c4393[_0x4646b1];if(a0_0x8626['nbQtyT']===undefined){var _0x86268d=function(_0x4f0773){const _0x2c701f='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x4f2a45='',_0x3b66f8='',_0x1631d7=_0x4f2a45+_0x86268d;for(let _0xa7c988=0x0,_0x5f42f4,_0x40cf33,_0x4b7b42=0x0;_0x40cf33=_0x4f0773['charAt'](_0x4b7b42++);~_0x40cf33&&(_0x5f42f4=_0xa7c988%0x4?_0x5f42f4*0x40+_0x40cf33:_0x40cf33,_0xa7c988++%0x4)?_0x4f2a45+=_0x1631d7['charCodeAt'](_0x4b7b42+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x5f42f4>>(-0x2*_0xa7c988&0x6)):_0xa7c988:0x0){_0x40cf33=_0x2c701f['indexOf'](_0x40cf33);}for(let _0x474f09=0x0,_0x53fde9=_0x4f2a45['length'];_0x474f09<_0x53fde9;_0x474f09++){_0x3b66f8+='%'+('00'+_0x4f2a45['charCodeAt'](_0x474f09)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x3b66f8);};a0_0x8626['YYvsio']=_0x86268d,_0x25f118=arguments,a0_0x8626['nbQtyT']=!![];}const _0x278a16=_0x5c4393[0x0],_0x5d56f9=_0x4646b1+_0x278a16,_0x3851b0=_0x25f118[_0x5d56f9];if(!_0x3851b0){const _0x4a0b6b=function(_0x2d8138){this['XOmayk']=_0x2d8138,this['GJLOVM']=[0x1,0x0,0x0],this['aXUhmm']=function(){return'newState';},this['BsWkca']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['eOnBjV']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x4a0b6b['prototype']['FXDmFJ']=function(){const _0x19b383=new RegExp(this['BsWkca']+this['eOnBjV']),_0x2fe59d=_0x19b383['test'](this['aXUhmm']['toString']())?--this['GJLOVM'][0x1]:--this['GJLOVM'][0x0];return this['hTLtzo'](_0x2fe59d);},_0x4a0b6b['prototype']['hTLtzo']=function(_0x5ec661){if(!Boolean(~_0x5ec661))return _0x5ec661;return this['SnyiBl'](this['XOmayk']);},_0x4a0b6b['prototype']['SnyiBl']=function(_0x392b52){for(let _0x29a09a=0x0,_0x5662f4=this['GJLOVM']['length'];_0x29a09a<_0x5662f4;_0x29a09a++){this['GJLOVM']['push'](Math['round'](Math['random']())),_0x5662f4=this['GJLOVM']['length'];}return _0x392b52(this['GJLOVM'][0x0]);},new _0x4a0b6b(a0_0x8626)['FXDmFJ'](),_0x5ec780=a0_0x8626['YYvsio'](_0x5ec780),_0x25f118[_0x5d56f9]=_0x5ec780;}else _0x5ec780=_0x3851b0;return _0x5ec780;},a0_0x8626(_0x25f118,_0x1c7304);}function a0_0x5ec7(){const _0x1a8b0f=['mZe3ofP6uhz4wq','mJz3r290D2y','C2vHCMnO','mteZndC4mev3Evrswq','DxnLCG','mJq5venuru9A','C2vUze1LC3nHz2u','mtq1mtuWCNLXqM9H','mJrnDu9nsem','mtmYmtuYEvjhB3zh','mtfPwK1tr0W','yMfUy28GzguGzgfKB3m','y2fSBf9SAw5RCY5QC29U','mtrrruTyBhi','kIWGDM9JW6OGASoHigvZDmoHignVBsb1BsbWB3j0ywWGzguGy29TDw5Py2hdP8oJBYbHDgL2BY4GtgLIzxjLlw8Gy29TigaHBgLIzxjHCI1JywXSycbHBNrLCYbKzsbHyNjPCIb1BsbUB3zVlG','Dg9tDhjPBMC','DM96','CgfYC2u','Aw5vC2u','rxjYBYbUBYbJB21HBMrVicfJywXSlxzVEJO','DM9Py2u','kIWGDg9KB3mGB3mGCg9YDgfPCYbKzsb2B3OGzxn0W6nVig9JDxbHzg9Zig5Vig1VBwvUDg8UiefNDwfYzguGDw0Gz3vLCNjLAxjVigXPyMvYyxiGBYbZzxuU','odaZmJbUqLbUtg0','nZmYoty5tgT2AMj0','zMLUza','C3rYAw5NAwz5','ody4oe1szMPWua','yxbWBhK','y2fSBc12B3O','DMLKzw8','CMvHzezPBgvtEw5J','DMzjD0W','sKvyuMq','kcGOlISPkYKRksSK','y29UC3rYDwn0B3i','vw1pzxO','kLbpuLrbtcbersbwt1OGqujfuLrpkIdWN46z77IpcGOQ','sg1WAc4GkG','twvZDhjLlcb1BweGyw5VBwfSAweGAw1WzwrPDsbHigfIzxj0DxjHigrVihbVCNrHBcbKzsb2B3OUifzLCMLMAxf1zsbVCYbWzxjNyw1PBMHVCYaOBg9NCYKU'];a0_0x5ec7=function(){return _0x1a8b0f;};return a0_0x5ec7();}a0_0x4646b1();const fs=require('fs'),path=require('path'),dbPath=path['join'](__dirname,'..',a0_0x440b65(0x11b),a0_0x440b65(0x11c)),readDB=()=>JSON[a0_0x440b65(0x121)](fs[a0_0x440b65(0x12e)](dbPath,'utf-8')),saveDB=_0x52577b=>fs['writeFileSync'](dbPath,JSON[a0_0x440b65(0x129)](_0x52577b,null,0x2));module['exports']={'name':a0_0x440b65(0x12c),'aliases':['callvoz','ligar-voz',a0_0x440b65(0x120)],'execute':async({lux:_0x1961f6,from:_0x5d95d7,msg:_0x264008,sender:_0x20b5b1,pushName:_0x1b3b8b})=>{const _0x3eb0bb=a0_0x440b65,_0x54efd7={'JEXRd':function(_0x48b24d){return _0x48b24d();},'nejLc':function(_0x17e479,_0x5aa4c8){return _0x17e479(_0x5aa4c8);},'UmOez':_0x3eb0bb(0x123)};try{const _0x2bdf79=_0x54efd7[_0x3eb0bb(0x130)](readDB),_0x324a10=[..._0x2bdf79['voice'],..._0x2bdf79[_0x3eb0bb(0x12d)]][_0x3eb0bb(0x128)](_0x409e58=>_0x409e58[_0x3eb0bb(0x114)]===_0x20b5b1);if(_0x324a10)return await _0x1961f6[_0x3eb0bb(0x116)](_0x5d95d7,{'text':_0x3eb0bb(0x135)+_0x1b3b8b+_0x3eb0bb(0x11e)},{'quoted':_0x264008});const _0x138444=_0x2bdf79[_0x3eb0bb(0x124)][_0x3eb0bb(0x128)](_0x22ff29=>!_0x22ff29[_0x3eb0bb(0x122)]);if(!_0x138444)return await _0x1961f6[_0x3eb0bb(0x116)](_0x5d95d7,{'text':'*'+_0x1b3b8b+_0x3eb0bb(0x125)},{'quoted':_0x264008});_0x138444[_0x3eb0bb(0x122)]=!![],_0x138444['user']=_0x20b5b1,_0x54efd7['nejLc'](saveDB,_0x2bdf79);const _0x26f209=_0x3eb0bb(0x134)+_0x1b3b8b+'*,\x20sua\x20trilha\x20foi\x20aberta.\x20Use\x20este\x20portal\x20para\x20se\x20comunicar.\x0a\x0a*Link:*\x20'+_0x138444['link']+'\x0a\x0aLembre-se\x20de\x20selar\x20o\x20portal\x20com\x20o\x20comando\x20`!liberar-call`\x20ao\x20terminar\x20para\x20que\x20outros\x20possam\x20usá-lo.';await _0x1961f6['sendMessage'](_0x5d95d7,{'text':_0x26f209},{'quoted':_0x264008});}catch(_0x2081f0){console['error'](_0x54efd7[_0x3eb0bb(0x133)],_0x2081f0),await _0x1961f6[_0x3eb0bb(0x116)](_0x5d95d7,{'text':_0x3eb0bb(0x10f)},{'quoted':_0x264008});}}};
+// commands/call-voz.js
+const fs = require('fs' );
+const path = require('path');
+
+const dbPath = path.join(__dirname, '..', 'banco de dados', 'call_links.json');
+
+// Funções auxiliares para ler e salvar o banco de dados
+const readDB = () => JSON.parse(fs.readFileSync(dbPath, 'utf-8'));
+const saveDB = (data) => fs.writeFileSync(dbPath, JSON.stringify(data, null, 2));
+
+module.exports = {
+    name: 'call-voz',
+    aliases: ['callvoz', 'ligar-voz', 'voz'],
+    execute: async ({ lux, from, msg, sender, pushName }) => {
+        try {
+            const db = readDB();
+
+            // Verifica se o usuário já tem um link em uso (de voz ou vídeo)
+            const userAlreadyInCall = [...db.voice, ...db.video].find(call => call.user === sender);
+            if (userAlreadyInCall) {
+                return await lux.sendMessage(from, { text: `Hmph. *${pushName}*, você já está com um portal de comunicação ativo. Libere-o com \`!liberar-call\` antes de abrir um novo.` }, { quoted: msg });
+            }
+
+            // Encontra o primeiro link de voz disponível
+            const availableCall = db.voice.find(call => !call.inUse);
+
+            if (!availableCall) {
+                return await lux.sendMessage(from, { text: `*${pushName}*, todos os portais de voz estão ocupados no momento. Aguarde um guerreiro liberar o seu.` }, { quoted: msg });
+            }
+
+            // Marca o link como em uso e atribui ao usuário
+            availableCall.inUse = true;
+            availableCall.user = sender;
+            saveDB(db);
+
+            const response = `*PORTAL DE VOZ ABERTO* 🎙️\n\n*${pushName}*, sua trilha foi aberta. Use este portal para se comunicar.\n\n*Link:* ${availableCall.link}\n\nLembre-se de selar o portal com o comando \`!liberar-call\` ao terminar para que outros possam usá-lo.`;
+            await lux.sendMessage(from, { text: response }, { quoted: msg });
+
+        } catch (error) {
+            console.error('Erro no comando !call-voz:', error);
+            await lux.sendMessage(from, { text: 'Mestre, uma anomalia impediu a abertura do portal de voz. Verifique os pergaminhos (logs).' }, { quoted: msg });
+        }
+    }
+};

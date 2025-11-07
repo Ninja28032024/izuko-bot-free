@@ -1,1 +1,152 @@
-const a0_0x1da439=a0_0x359e;(function(_0x21d6ab,_0x32382f){const _0x489d76=a0_0x359e,_0x2fb5b8=_0x21d6ab();while(!![]){try{const _0x285fff=-parseInt(_0x489d76(0x13a))/0x1*(-parseInt(_0x489d76(0x153))/0x2)+-parseInt(_0x489d76(0x136))/0x3+-parseInt(_0x489d76(0x167))/0x4+parseInt(_0x489d76(0x176))/0x5*(parseInt(_0x489d76(0x191))/0x6)+parseInt(_0x489d76(0x15c))/0x7+parseInt(_0x489d76(0x19b))/0x8*(parseInt(_0x489d76(0x19a))/0x9)+-parseInt(_0x489d76(0x180))/0xa*(parseInt(_0x489d76(0x13f))/0xb);if(_0x285fff===_0x32382f)break;else _0x2fb5b8['push'](_0x2fb5b8['shift']());}catch(_0x234202){_0x2fb5b8['push'](_0x2fb5b8['shift']());}}}(a0_0x4e93,0x7f3f6));function a0_0x4e93(){const _0x7acce5=['yLb1uKy','u1PpD0G','4P2mievZDguGy29Tyw5KBYbZW7mGzNvUy2LVBMeGzw0Gz3j1Cg9Ziq','wwTTt00','mtHAy1DAB2W','B0Dnr0y','v3n2yKC','ALbjseK','BKjyweG','DKz5zfu','z3jVDxbjza','zxjYB3i','jqOk','mJq0ofrdBxPtAW','mtC2ntzeAM5OzgO','C3bSAxq','C2DIEhe','CeL6C1K','yLDdD1i','r09QBgC','w1zfteHblvjbtKTDievYCM8Gyw8GyNvZy2fYihjHBMTPBMC6','DuHYwei','yxbWBhK','tNH2s1e','mtKWodKXogvrCer6AG','DMfSDwvZ','CNbyy1e','BgvUz3rO','mtbVtvjkyNe','CeXKqLO','tfj1tw0','tLLvCLK','CMvHzezPBgvtEw5J','odKZnZi2ouvuBeTJua','DMvSAgeTCMfUAW','uxDPDeG','y29TCgXLDgvKx2DHBwvZ','C29YDa','Cgf0Aa','Ae1QDMC','C3rHDhvZ','DNjHBMS','zhjHDW','DxrMltG','BwvZC2fNzq','icaG8j+tIcbuyxHHoIa','icaG8j+oRIbqyxj0AwrHCZOG','sKPpA1i','Dg9tDhjPBMC','q3bZEKK','t2PhBwK','t3HHtuK','y2HHBgS','mZaYmJrNrhjgAxy','D2LUCW','zM9YrwfJAa','B2v4we0','CgXHEwvYmG','CgfYC2u','AM9PBG','ChvZAa','kcGOlISPkYKRksSK','ntq3ndiWm1LMs2Heva','vu9Puxi','zxHPC3rZu3LUyW','B1fZyLC','DMvSAgfYyw5R','B2LTueG','4P2mievYCM8Gyw8GyNvZy2fYihjHBMTPBMCHcGPezxrHBgHLCZOG','D0vmBgq','DMvSAgeTCMfUA2LUzW','y29UC3rYDwn0B3i','zMLSDgvY','mJa1ndGZnNzfz1bQsq','igPVz2fKB3iOzxmPxW','rhvLy1G','uMfpCe8','xY4UlIbLig1HAxmG','icaG4P2mierLCNjVDgfZoIa','CgXHEwvYmq','kGOk','zuPvuey','tKHSsue','zeHhyvO','Dg90ywXFz2fTzxm','B2PMD2e','ihWG8j+KNsbfBxbHDgvZoIa','Eg1rwLq','mtu4mZC0nufcy2LRCG','Bg9ZC2vZ','swP6Eum','Aw5PAKC','8j+pHIbozw5ODw1HihbHCNrPzgeGzM9PigPVz2fKysbHAw5KysbUzxn0zsbNCNvWBYe','ihWG4PYfifzPDmoZCMLHCZOG','CMvK','C2XPy2u','C2vUze1LC3nHz2u','t0XsD0C','mtbqCwzlDxC','sgLgq0e','Bu5lyKW','BMfTzq','sNPkwNa','AfHZuwq','EezTEfm','D2LUBMvY','C2vHCMnO','zhjHD3m','zxHWB3j0CW','Dg9gAxHLza','DMvSAgfFz2fTzxmUANnVBG'];a0_0x4e93=function(){return _0x7acce5;};return a0_0x4e93();}const a0_0x427cd6=(function(){const _0x4540cf=a0_0x359e,_0x538956={'NYUrY':_0x4540cf(0x196)};let _0x538885=!![];return function(_0x2189b7,_0x8f716e){const _0x17af40=_0x4540cf,_0x4f72e6={'UOiQr':function(_0x5c0e2e,_0x4c8c64){return _0x5c0e2e===_0x4c8c64;},'nBXXH':_0x538956[_0x17af40(0x13d)]},_0x283f1e=_0x538885?function(){const _0x1c6bbe=_0x17af40;if(_0x4f72e6[_0x1c6bbe(0x15d)](_0x4f72e6[_0x1c6bbe(0x195)],_0x4f72e6[_0x1c6bbe(0x195)])){if(_0x8f716e){const _0x4237eb=_0x8f716e[_0x1c6bbe(0x134)](_0x2189b7,arguments);return _0x8f716e=null,_0x4237eb;}}else _0x5ad3cd[_0x4a93e1['player2']['id']][_0x1c6bbe(0x189)]++;}:function(){};return _0x538885=![],_0x283f1e;};}()),a0_0x32e1ac=a0_0x427cd6(this,function(){const _0x18ccb4=a0_0x359e,_0x581068={'SZOwH':_0x18ccb4(0x15b)};return a0_0x32e1ac['toString']()[_0x18ccb4(0x188)](_0x581068['SZOwH'])['toString']()['constructor'](a0_0x32e1ac)[_0x18ccb4(0x188)](_0x581068[_0x18ccb4(0x18e)]);});a0_0x32e1ac();function a0_0x359e(_0x56958b,_0x587083){const _0x3f0af5=a0_0x4e93();return a0_0x359e=function(_0x32e1ac,_0x427cd6){_0x32e1ac=_0x32e1ac-0x12f;let _0x4e93e8=_0x3f0af5[_0x32e1ac];if(a0_0x359e['ZWxHjg']===undefined){var _0x359eb0=function(_0x3378b0){const _0x69af8c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x51a969='',_0x1450ea='',_0x1c0f4b=_0x51a969+_0x359eb0;for(let _0x1c73c7=0x0,_0x1a9077,_0x2dc015,_0x5a3c8c=0x0;_0x2dc015=_0x3378b0['charAt'](_0x5a3c8c++);~_0x2dc015&&(_0x1a9077=_0x1c73c7%0x4?_0x1a9077*0x40+_0x2dc015:_0x2dc015,_0x1c73c7++%0x4)?_0x51a969+=_0x1c0f4b['charCodeAt'](_0x5a3c8c+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x1a9077>>(-0x2*_0x1c73c7&0x6)):_0x1c73c7:0x0){_0x2dc015=_0x69af8c['indexOf'](_0x2dc015);}for(let _0x5f5c2d=0x0,_0x5686de=_0x51a969['length'];_0x5f5c2d<_0x5686de;_0x5f5c2d++){_0x1450ea+='%'+('00'+_0x51a969['charCodeAt'](_0x5f5c2d)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1450ea);};a0_0x359e['DlECpM']=_0x359eb0,_0x56958b=arguments,a0_0x359e['ZWxHjg']=!![];}const _0x32e193=_0x3f0af5[0x0],_0x309022=_0x32e1ac+_0x32e193,_0x37d1d9=_0x56958b[_0x309022];if(!_0x37d1d9){const _0x1d3558=function(_0x1bf2d9){this['hwvbrJ']=_0x1bf2d9,this['RVsJsJ']=[0x1,0x0,0x0],this['ddYzLR']=function(){return'newState';},this['wMOaxx']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['EPCgvi']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x1d3558['prototype']['DevXbq']=function(){const _0x5e1f9d=new RegExp(this['wMOaxx']+this['EPCgvi']),_0x2f1283=_0x5e1f9d['test'](this['ddYzLR']['toString']())?--this['RVsJsJ'][0x1]:--this['RVsJsJ'][0x0];return this['HZVwbO'](_0x2f1283);},_0x1d3558['prototype']['HZVwbO']=function(_0x44b89e){if(!Boolean(~_0x44b89e))return _0x44b89e;return this['pjivSI'](this['hwvbrJ']);},_0x1d3558['prototype']['pjivSI']=function(_0x23ae1f){for(let _0x38b481=0x0,_0x19bb8e=this['RVsJsJ']['length'];_0x38b481<_0x19bb8e;_0x38b481++){this['RVsJsJ']['push'](Math['round'](Math['random']())),_0x19bb8e=this['RVsJsJ']['length'];}return _0x23ae1f(this['RVsJsJ'][0x0]);},new _0x1d3558(a0_0x359e)['DevXbq'](),_0x4e93e8=a0_0x359e['DlECpM'](_0x4e93e8),_0x56958b[_0x309022]=_0x4e93e8;}else _0x4e93e8=_0x37d1d9;return _0x4e93e8;},a0_0x359e(_0x56958b,_0x587083);}const fs=require('fs'),path=require(a0_0x1da439(0x144)),chalk=require(a0_0x1da439(0x152));module[a0_0x1da439(0x18a)]={'name':a0_0x1da439(0x140),'aliases':[a0_0x1da439(0x164),a0_0x1da439(0x160),a0_0x1da439(0x147)],'description':'Mostra\x20o\x20ranking\x20do\x20Jogo\x20da\x20Velha\x20no\x20grupo',async 'execute'({lux:_0x2eb28c,from:_0x258028,msg:_0x3f928a,isGroup:_0x808f41}){const _0xc293d9=a0_0x1da439,_0x2209c5={'oGMGF':_0xc293d9(0x15b),'JJOkR':function(_0x1c31d6,_0x27b77c){return _0x1c31d6-_0x27b77c;},'OjGmi':function(_0x39ad63,_0x21219d){return _0x39ad63!==_0x21219d;},'oimPH':_0xc293d9(0x13c),'eJUPF':_0xc293d9(0x13b),'xFmxS':function(_0x13fb57,_0x39c799){return _0x13fb57===_0x39c799;},'dHGaZ':'player1','JzJZp':_0xc293d9(0x148),'ojfwa':function(_0x36d47c,_0x36a72c){return _0x36d47c!==_0x36a72c;},'pIzsY':_0xc293d9(0x19d),'xmQZT':'CXoip','mNKbL':function(_0x1eb4fe,_0x2cc0c5){return _0x1eb4fe===_0x2cc0c5;},'GOjlg':_0xc293d9(0x157),'DuecX':function(_0x30499f,_0x55ba1c){return _0x30499f!==_0x55ba1c;},'uHrXB':_0xc293d9(0x135),'wELld':_0xc293d9(0x130),'jPIHI':_0xc293d9(0x179),'hXsQd':'YHDBz','bPuRF':function(_0x359705,_0x2b0c40){return _0x359705!==_0x2b0c40;},'WsvbG':function(_0x115586,_0x472706){return _0x115586-_0x472706;},'QwitH':function(_0x30543a,_0x4d9920){return _0x30543a>_0x4d9920;},'bUuIL':function(_0xf6b713,_0x4d9275){return _0xf6b713/_0x4d9275;},'GIqnm':function(_0x5ccf75,_0x1e0f3a){return _0x5ccf75+_0x1e0f3a;},'ulCyt':function(_0x2c7d1c,_0x202ef5){return _0x2c7d1c!==_0x202ef5;},'oexXM':_0xc293d9(0x145),'sWgex':_0xc293d9(0x18f),'oQsbW':'banco\x20de\x20dados','IjzyC':_0xc293d9(0x18c),'OxaMI':'🏆\x20Nenhuma\x20partida\x20foi\x20jogada\x20ainda!','RaOpO':_0xc293d9(0x149),'OwdPc':_0xc293d9(0x14f),'rpXcQ':'🏆\x20*RANKING\x20-\x20JOGO\x20DA\x20VELHA*\x20🏆\x0a\x0a','NHlIA':'AjDNL','gYcTl':_0xc293d9(0x190),'OLRwG':_0xc293d9(0x132)};try{if(!_0x808f41)return _0x2209c5['ulCyt'](_0x2209c5[_0xc293d9(0x156)],_0xc293d9(0x145))?_0x56e510[_0xc293d9(0x14e)]()[_0xc293d9(0x188)](_0xc293d9(0x15b))[_0xc293d9(0x14e)]()[_0xc293d9(0x165)](_0x425971)[_0xc293d9(0x188)](VcMIAx[_0xc293d9(0x192)]):await _0x2eb28c['sendMessage'](_0x258028,{'text':_0x2209c5['sWgex']});const _0x1872d2=path[_0xc293d9(0x159)](__dirname,'..',_0x2209c5[_0xc293d9(0x15f)],_0x2209c5[_0xc293d9(0x178)]);if(!fs[_0xc293d9(0x15e)](_0x1872d2))return await _0x2eb28c[_0xc293d9(0x17e)](_0x258028,{'text':_0x2209c5[_0xc293d9(0x151)]},{'quoted':_0x3f928a});const _0x327341=JSON[_0xc293d9(0x158)](fs[_0xc293d9(0x13e)](_0x1872d2,_0x2209c5[_0xc293d9(0x16a)]));if(!_0x327341[_0xc293d9(0x142)]||_0x2209c5[_0xc293d9(0x182)](_0x327341[_0xc293d9(0x142)][_0xc293d9(0x139)],0x0))return await _0x2eb28c[_0xc293d9(0x17e)](_0x258028,{'text':_0x2209c5['OxaMI']},{'quoted':_0x3f928a});const _0x20e8f7=_0x327341[_0xc293d9(0x142)][_0xc293d9(0x166)](_0x4c38c5=>_0x4c38c5[_0xc293d9(0x197)]===_0x258028);if(_0x2209c5['xFmxS'](_0x20e8f7[_0xc293d9(0x139)],0x0)){if(_0x2209c5[_0xc293d9(0x169)](_0xc293d9(0x14f),_0x2209c5['OwdPc'])){const _0x4d30a1=_0xe28a83[_0xc293d9(0x134)](_0x1ba471,arguments);return _0x5c4bd2=null,_0x4d30a1;}else return await _0x2eb28c[_0xc293d9(0x17e)](_0x258028,{'text':_0xc293d9(0x17a)},{'quoted':_0x3f928a});}const _0x2af3b6={};_0x20e8f7[_0xc293d9(0x155)](_0x4b1b7b=>{const _0x37f247=_0xc293d9,_0x4abf32={'HiFCA':function(_0x3f44b6,_0x206ad7){return _0x2209c5['JJOkR'](_0x3f44b6,_0x206ad7);}};if(_0x2209c5[_0x37f247(0x150)](_0x2209c5[_0x37f247(0x161)],_0x2209c5[_0x37f247(0x16f)])){!_0x2af3b6[_0x4b1b7b[_0x37f247(0x16d)]['id']]&&(_0x2af3b6[_0x4b1b7b[_0x37f247(0x16d)]['id']]={'id':_0x4b1b7b['player1']['id'],'nome':_0x4b1b7b[_0x37f247(0x16d)]['name'],'wins':0x0,'losses':0x0,'draws':0x0,'total_games':0x0});_0x2af3b6[_0x4b1b7b[_0x37f247(0x16d)]['id']][_0x37f247(0x172)]++;if(_0x2209c5['xFmxS'](_0x4b1b7b['winner'],_0x2209c5[_0x37f247(0x171)]))_0x2af3b6[_0x4b1b7b[_0x37f247(0x16d)]['id']][_0x37f247(0x154)]++;else{if(_0x4b1b7b[_0x37f247(0x187)]==='player2')_0x2af3b6[_0x4b1b7b[_0x37f247(0x16d)]['id']][_0x37f247(0x177)]++;else _0x2209c5[_0x37f247(0x186)](_0x4b1b7b[_0x37f247(0x146)],_0x2209c5[_0x37f247(0x184)])&&(_0x2209c5[_0x37f247(0x173)](_0x2209c5[_0x37f247(0x12f)],_0x2209c5[_0x37f247(0x12f)])?_0x4de5fe[_0x5be8c3[_0x37f247(0x157)]['id']]['losses']++:_0x2af3b6[_0x4b1b7b[_0x37f247(0x16d)]['id']][_0x37f247(0x189)]++);}if(!_0x2af3b6[_0x4b1b7b[_0x37f247(0x157)]['id']]){if(_0x2209c5['xFmxS'](_0x2209c5[_0x37f247(0x175)],_0x2209c5[_0x37f247(0x175)]))_0x2af3b6[_0x4b1b7b[_0x37f247(0x157)]['id']]={'id':_0x4b1b7b[_0x37f247(0x157)]['id'],'nome':_0x4b1b7b[_0x37f247(0x157)][_0x37f247(0x183)],'wins':0x0,'losses':0x0,'draws':0x0,'total_games':0x0};else{const _0x410679=_0x5f5c2d?function(){const _0x2a0822=_0x37f247;if(_0x44b89e){const _0x4e72d3=_0x1b1202[_0x2a0822(0x134)](_0x3f81c9,arguments);return _0x537209=null,_0x4e72d3;}}:function(){};return _0x2f1283=![],_0x410679;}}_0x2af3b6[_0x4b1b7b[_0x37f247(0x157)]['id']][_0x37f247(0x172)]++;if(_0x2209c5[_0x37f247(0x182)](_0x4b1b7b[_0x37f247(0x187)],_0x2209c5[_0x37f247(0x131)])){if(_0x2209c5[_0x37f247(0x169)](_0x2209c5[_0x37f247(0x133)],_0x2209c5[_0x37f247(0x163)]))_0x2af3b6[_0x4b1b7b[_0x37f247(0x157)]['id']][_0x37f247(0x154)]++;else{if(_0x16968d){const _0x1a2950=_0x4731c7[_0x37f247(0x134)](_0x3e0a8a,arguments);return _0x4bb42a=null,_0x1a2950;}}}else{if(_0x2209c5[_0x37f247(0x182)](_0x4b1b7b[_0x37f247(0x187)],_0x2209c5['dHGaZ']))_0x2af3b6[_0x4b1b7b[_0x37f247(0x157)]['id']][_0x37f247(0x177)]++;else _0x2209c5[_0x37f247(0x182)](_0x4b1b7b[_0x37f247(0x146)],_0x2209c5[_0x37f247(0x184)])&&(_0x2209c5['OjGmi'](_0x2209c5[_0x37f247(0x194)],_0x2209c5[_0x37f247(0x185)])?_0x2af3b6[_0x4b1b7b['player2']['id']][_0x37f247(0x189)]++:_0x2b9670[_0x430f46[_0x37f247(0x157)]['id']][_0x37f247(0x154)]++);}}else _0x2a29fb+=_0x37f247(0x16b)+_0x4abf32[_0x37f247(0x181)](_0x41ce85[_0x37f247(0x139)],0xa)+_0x37f247(0x168);});const _0x4693c6=Object[_0xc293d9(0x137)](_0x2af3b6)[_0xc293d9(0x143)]((_0x1651cd,_0x1fab40)=>{const _0x292c69=_0xc293d9;if(_0x2209c5[_0x292c69(0x18d)](_0x1fab40[_0x292c69(0x154)],_0x1651cd[_0x292c69(0x154)]))return _0x2209c5[_0x292c69(0x193)](_0x1fab40[_0x292c69(0x154)],_0x1651cd[_0x292c69(0x154)]);const _0x2323d4=_0x2209c5[_0x292c69(0x141)](_0x1651cd['total_games'],0x0)?_0x1651cd[_0x292c69(0x154)]/_0x1651cd[_0x292c69(0x172)]:0x0,_0xa6b669=_0x2209c5[_0x292c69(0x141)](_0x1fab40['total_games'],0x0)?_0x2209c5['bUuIL'](_0x1fab40[_0x292c69(0x154)],_0x1fab40[_0x292c69(0x172)]):0x0;return _0x2209c5[_0x292c69(0x14d)](_0xa6b669,_0x2323d4);});let _0x5018c2=_0x2209c5[_0xc293d9(0x138)];_0x5018c2+='📊\x20Total\x20de\x20partidas\x20no\x20grupo:\x20*'+_0x20e8f7[_0xc293d9(0x139)]+'*\x0a',_0x5018c2+='👥\x20Total\x20de\x20jogadores:\x20*'+_0x4693c6[_0xc293d9(0x139)]+_0xc293d9(0x16e);const _0x2a8b82=[];_0x4693c6[_0xc293d9(0x17d)](0x0,0xa)[_0xc293d9(0x155)]((_0x55f5c4,_0x3ced69)=>{const _0x52d079=_0xc293d9,_0x40665e=_0x2209c5['GIqnm'](_0x3ced69,0x1),_0x55f016=_0x40665e===0x1?'🥇':_0x40665e===0x2?'🥈':_0x40665e===0x3?'🥉':_0x40665e+'º',_0x29ac9d=_0x55f5c4['total_games']>0x0?(_0x2209c5['bUuIL'](_0x55f5c4[_0x52d079(0x154)],_0x55f5c4['total_games'])*0x64)[_0x52d079(0x18b)](0x1):0x0,_0x385bf9=_0x55f5c4['id'][_0x52d079(0x19c)]('@')[0x0];_0x2a8b82[_0x52d079(0x15a)](_0x55f5c4['id']),_0x5018c2+=_0x55f016+'\x20@'+_0x385bf9+'\x0a',_0x5018c2+=_0x52d079(0x14c)+_0x55f5c4[_0x52d079(0x172)]+_0x52d079(0x17b)+_0x55f5c4[_0x52d079(0x154)]+'\x0a',_0x5018c2+=_0x52d079(0x16c)+_0x55f5c4[_0x52d079(0x177)]+_0x52d079(0x174)+_0x55f5c4[_0x52d079(0x189)]+'\x0a',_0x5018c2+=_0x52d079(0x14b)+_0x29ac9d+_0x52d079(0x199);}),_0x2209c5[_0xc293d9(0x141)](_0x4693c6[_0xc293d9(0x139)],0xa)&&(_0x5018c2+='_...\x20e\x20mais\x20'+_0x2209c5['JJOkR'](_0x4693c6['length'],0xa)+_0xc293d9(0x168)),await _0x2eb28c['sendMessage'](_0x258028,{'text':_0x5018c2,'mentions':_0x2a8b82},{'quoted':_0x3f928a}),console['log'](chalk['green']('[VELHA-RANK]\x20Ranking\x20exibido\x20para\x20o\x20grupo\x20'+_0x258028));}catch(_0x522b75){_0x2209c5[_0xc293d9(0x173)](_0x2209c5[_0xc293d9(0x170)],_0x2209c5['gYcTl'])?(console[_0xc293d9(0x198)](chalk[_0xc293d9(0x17c)](_0x2209c5[_0xc293d9(0x17f)]),_0x522b75),await _0x2eb28c['sendMessage'](_0x258028,{'text':_0xc293d9(0x162)+_0x522b75[_0xc293d9(0x14a)]},{'quoted':_0x3f928a})):_0x2c49f3[_0xd1a2c1[_0xc293d9(0x16d)]['id']][_0xc293d9(0x189)]++;}}};
+// commands/velha-rank.js
+// Comando para ver o ranking do Jogo da Velha
+// VERSÃO CORRIGIDA - Filtra por grupo e mostra nomes corretos
+
+const fs = require('fs');
+const path = require('path');
+const chalk = require('chalk');
+
+module.exports = {
+    name: 'velha-rank',
+    aliases: ['velha-ranking', 'velharank', 'vrank'],
+    description: 'Mostra o ranking do Jogo da Velha no grupo',
+    
+    async execute({ lux, from, msg, isGroup }) {
+        try {
+            if (!isGroup) {
+                return await lux.sendMessage(from, { 
+                    text: '❌ Este comando só funciona em grupos!' 
+                });
+            }
+
+            const dbPath = path.join(__dirname, '..', 'banco de dados', 'velha_games.json');
+
+            if (!fs.existsSync(dbPath)) {
+                return await lux.sendMessage(from, { 
+                    text: '🏆 Nenhuma partida foi jogada ainda!' 
+                }, { quoted: msg });
+            }
+
+            const db = JSON.parse(fs.readFileSync(dbPath, 'utf-8'));
+            
+            // Verificar se há jogos completados
+            if (!db.completed_games || db.completed_games.length === 0) {
+                return await lux.sendMessage(from, { 
+                    text: '🏆 Nenhuma partida foi jogada ainda!' 
+                }, { quoted: msg });
+            }
+
+            // Filtrar jogos deste grupo
+            const jogosDoGrupo = db.completed_games.filter(jogo => jogo.groupId === from);
+
+            if (jogosDoGrupo.length === 0) {
+                return await lux.sendMessage(from, { 
+                    text: '🏆 Nenhuma partida foi jogada ainda neste grupo!' 
+                }, { quoted: msg });
+            }
+
+            // Criar mapa de estatísticas dos jogadores deste grupo
+            const statsDoGrupo = {};
+
+            jogosDoGrupo.forEach(jogo => {
+                // Processar player1
+                if (!statsDoGrupo[jogo.player1.id]) {
+                    statsDoGrupo[jogo.player1.id] = {
+                        id: jogo.player1.id,
+                        nome: jogo.player1.name,
+                        wins: 0,
+                        losses: 0,
+                        draws: 0,
+                        total_games: 0
+                    };
+                }
+
+                statsDoGrupo[jogo.player1.id].total_games++;
+
+                if (jogo.winner === 'player1') {
+                    statsDoGrupo[jogo.player1.id].wins++;
+                } else if (jogo.winner === 'player2') {
+                    statsDoGrupo[jogo.player1.id].losses++;
+                } else if (jogo.status === 'draw') {
+                    statsDoGrupo[jogo.player1.id].draws++;
+                }
+
+                // Processar player2
+                if (!statsDoGrupo[jogo.player2.id]) {
+                    statsDoGrupo[jogo.player2.id] = {
+                        id: jogo.player2.id,
+                        nome: jogo.player2.name,
+                        wins: 0,
+                        losses: 0,
+                        draws: 0,
+                        total_games: 0
+                    };
+                }
+
+                statsDoGrupo[jogo.player2.id].total_games++;
+
+                if (jogo.winner === 'player2') {
+                    statsDoGrupo[jogo.player2.id].wins++;
+                } else if (jogo.winner === 'player1') {
+                    statsDoGrupo[jogo.player2.id].losses++;
+                } else if (jogo.status === 'draw') {
+                    statsDoGrupo[jogo.player2.id].draws++;
+                }
+            });
+
+            // Converter para array e ordenar por vitórias
+            const ranking = Object.values(statsDoGrupo).sort((a, b) => {
+                // Primeiro por vitórias
+                if (b.wins !== a.wins) return b.wins - a.wins;
+                // Se empate, por taxa de vitória
+                const taxaA = a.total_games > 0 ? a.wins / a.total_games : 0;
+                const taxaB = b.total_games > 0 ? b.wins / b.total_games : 0;
+                return taxaB - taxaA;
+            });
+
+            // Montar mensagem e coletar JIDs para menções
+            let mensagem = '🏆 *RANKING - JOGO DA VELHA* 🏆\n\n';
+            mensagem += `📊 Total de partidas no grupo: *${jogosDoGrupo.length}*\n`;
+            mensagem += `👥 Total de jogadores: *${ranking.length}*\n\n`;
+
+            const mencoes = [];
+
+            // Mostrar top 10
+            ranking.slice(0, 10).forEach((stat, index) => {
+                const posicao = index + 1;
+                const emoji = posicao === 1 ? '🥇' : posicao === 2 ? '🥈' : posicao === 3 ? '🥉' : `${posicao}º`;
+                const winRate = stat.total_games > 0 
+                    ? ((stat.wins / stat.total_games) * 100).toFixed(1) 
+                    : 0;
+
+                // Extrair número do JID para menção
+                const playerNumber = stat.id.split('@')[0];
+                
+                // Adicionar JID à lista de menções
+                mencoes.push(stat.id);
+
+                mensagem += `${emoji} @${playerNumber}\n`;
+                mensagem += `   🎮 Partidas: ${stat.total_games} | ✅ Vitórias: ${stat.wins}\n`;
+                mensagem += `   ❌ Derrotas: ${stat.losses} | 🤝 Empates: ${stat.draws}\n`;
+                mensagem += `   📈 Taxa: ${winRate}%\n\n`;
+            });
+
+            if (ranking.length > 10) {
+                mensagem += `_... e mais ${ranking.length - 10} jogador(es)_`;
+            }
+
+            await lux.sendMessage(from, { 
+                text: mensagem,
+                mentions: mencoes
+            }, { quoted: msg });
+
+            console.log(chalk.green(`[VELHA-RANK] Ranking exibido para o grupo ${from}`));
+
+        } catch (error) {
+            console.error(chalk.red('[VELHA-RANK] Erro ao buscar ranking:'), error);
+            await lux.sendMessage(from, { 
+                text: `❌ Erro ao buscar ranking!\n\nDetalhes: ${error.message}` 
+            }, { quoted: msg });
+        }
+    }
+};

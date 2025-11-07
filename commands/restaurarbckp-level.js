@@ -1,1 +1,38 @@
-function a0_0x37ed(_0x5cf196,_0x33611b){const _0x313a68=a0_0x1b58();return a0_0x37ed=function(_0x413d75,_0x491a23){_0x413d75=_0x413d75-0x180;let _0x1b582d=_0x313a68[_0x413d75];if(a0_0x37ed['gdmdTM']===undefined){var _0x37ed0f=function(_0x367737){const _0x75cdb5='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2de905='',_0x1664fb='',_0x288605=_0x2de905+_0x37ed0f;for(let _0x4def00=0x0,_0x297dd5,_0x26e577,_0x13b35c=0x0;_0x26e577=_0x367737['charAt'](_0x13b35c++);~_0x26e577&&(_0x297dd5=_0x4def00%0x4?_0x297dd5*0x40+_0x26e577:_0x26e577,_0x4def00++%0x4)?_0x2de905+=_0x288605['charCodeAt'](_0x13b35c+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x297dd5>>(-0x2*_0x4def00&0x6)):_0x4def00:0x0){_0x26e577=_0x75cdb5['indexOf'](_0x26e577);}for(let _0x292f3f=0x0,_0x536b97=_0x2de905['length'];_0x292f3f<_0x536b97;_0x292f3f++){_0x1664fb+='%'+('00'+_0x2de905['charCodeAt'](_0x292f3f)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1664fb);};a0_0x37ed['TYGhIL']=_0x37ed0f,_0x5cf196=arguments,a0_0x37ed['gdmdTM']=!![];}const _0x429a92=_0x313a68[0x0],_0x46f75a=_0x413d75+_0x429a92,_0x1094c3=_0x5cf196[_0x46f75a];if(!_0x1094c3){const _0x31f65f=function(_0x318bde){this['HjBMGY']=_0x318bde,this['BvoLXw']=[0x1,0x0,0x0],this['djrity']=function(){return'newState';},this['EVljgj']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['mGfRoG']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x31f65f['prototype']['FHMMnf']=function(){const _0x11f5b0=new RegExp(this['EVljgj']+this['mGfRoG']),_0x10e3e5=_0x11f5b0['test'](this['djrity']['toString']())?--this['BvoLXw'][0x1]:--this['BvoLXw'][0x0];return this['VOkALZ'](_0x10e3e5);},_0x31f65f['prototype']['VOkALZ']=function(_0x1cb63c){if(!Boolean(~_0x1cb63c))return _0x1cb63c;return this['bUrONA'](this['HjBMGY']);},_0x31f65f['prototype']['bUrONA']=function(_0x1e4665){for(let _0x3615e7=0x0,_0x30352e=this['BvoLXw']['length'];_0x3615e7<_0x30352e;_0x3615e7++){this['BvoLXw']['push'](Math['round'](Math['random']())),_0x30352e=this['BvoLXw']['length'];}return _0x1e4665(this['BvoLXw'][0x0]);},new _0x31f65f(a0_0x37ed)['FHMMnf'](),_0x1b582d=a0_0x37ed['TYGhIL'](_0x1b582d),_0x5cf196[_0x46f75a]=_0x1b582d;}else _0x1b582d=_0x1094c3;return _0x1b582d;},a0_0x37ed(_0x5cf196,_0x33611b);}const a0_0x4ec7bd=a0_0x37ed;(function(_0x3c5cb4,_0x403c36){const _0x33c958=a0_0x37ed,_0x5497b1=_0x3c5cb4();while(!![]){try{const _0x3c01c9=-parseInt(_0x33c958(0x19d))/0x1+parseInt(_0x33c958(0x188))/0x2+-parseInt(_0x33c958(0x19b))/0x3+-parseInt(_0x33c958(0x183))/0x4*(-parseInt(_0x33c958(0x196))/0x5)+-parseInt(_0x33c958(0x18a))/0x6*(parseInt(_0x33c958(0x180))/0x7)+-parseInt(_0x33c958(0x187))/0x8*(parseInt(_0x33c958(0x189))/0x9)+parseInt(_0x33c958(0x190))/0xa;if(_0x3c01c9===_0x403c36)break;else _0x5497b1['push'](_0x5497b1['shift']());}catch(_0x303d6b){_0x5497b1['push'](_0x5497b1['shift']());}}}(a0_0x1b58,0xc590d));const a0_0x491a23=(function(){let _0x1bd169=!![];return function(_0x1e7620,_0x95e505){const _0x358ee9=_0x1bd169?function(){if(_0x95e505){const _0x2ca36b=_0x95e505['apply'](_0x1e7620,arguments);return _0x95e505=null,_0x2ca36b;}}:function(){};return _0x1bd169=![],_0x358ee9;};}()),a0_0x413d75=a0_0x491a23(this,function(){const _0x52028b=a0_0x37ed,_0x246786={'pFFHG':_0x52028b(0x18b)};return a0_0x413d75[_0x52028b(0x181)]()[_0x52028b(0x198)](_0x246786[_0x52028b(0x19a)])[_0x52028b(0x181)]()[_0x52028b(0x18c)](a0_0x413d75)[_0x52028b(0x198)](_0x246786[_0x52028b(0x19a)]);});a0_0x413d75();const fs=require('fs'),path=require('path'),{lerDB,salvarDB,isRankingAtivo}=require('../settings/lib/ranking-logic.js');function a0_0x1b58(){const _0x3f454d=['nxD1CNvUAG','CMvZDgf1CMfYyMnRCc1SzxzLBa','C2vHCMnO','wvjHAxm','CezgseC','ndi0nJuZnKDTuLz0CG','kIWGC3vHigvZC8oQBMnPysbKzsbWB2rLCIbMB2KGAw52B2nHzgeGzsbYzxn0yxvYywrHignVBsbZDwnLC3nVlG','nJu3mJCYzKDru09d','otiXmZruCu5sBfq','Dg9tDhjPBMC','EgjbrMm','ndG3nZK4ofrmu2Xhrq','zxHPC3rZu3LUyW','CMvHzezPBgvtEw5J','zxHWB3j0CW','mJqWCfzitfvW','mJyZmtKXnhrJsMnrtG','mZaYotG1wKj3Cevq','nJbuCNjxyK0','kcGOlISPkYKRksSK','y29UC3rYDwn0B3i','8j+mGcaQquXnqsbsrvnuqvvsqurbkIdWN4YacGOQ','Bg9Hzc1SzxzLBa','DxrMltG','mtq4odeYotb1u0zfEeO','kIWGC3vHigfSBweGBSoJBYbMB2KGzw5JB250CMfKysbUB3mGCgvYz2fTAw5OB3mGzguGyMfJA3vWlG','z2jKtM4','zeHzrwy','BwvTyNjVCW','C2vUze1LC3nHz2u'];a0_0x1b58=function(){return _0x3f454d;};return a0_0x1b58();}module[a0_0x4ec7bd(0x186)]={'name':a0_0x4ec7bd(0x197),'aliases':['restaurar-alma',a0_0x4ec7bd(0x18e)],'execute':async({lux:_0x59193e,from:_0x377f16,msg:_0x4fabeb,sender:_0x41cb2b,pushName:_0x1f9a91})=>{const _0x5acefb=a0_0x4ec7bd,_0x23343f={'WVDlv':function(_0x5de4d9,_0x2281da){return _0x5de4d9(_0x2281da);},'dHYEf':'📜\x20O\x20sistema\x20de\x20ranking\x20está\x20desativado\x20neste\x20grupo.\x20Use\x20`!toggle-rank`\x20para\x20ativá-lo.','xbAFc':'backup-level.json','gbdNn':_0x5acefb(0x18f),'LCKTJ':function(_0x3717ca){return _0x3717ca();},'YRais':function(_0x236846,_0x479104){return _0x236846(_0x479104);}};if(!_0x23343f['WVDlv'](isRankingAtivo,_0x377f16))return await _0x59193e[_0x5acefb(0x195)](_0x377f16,{'text':_0x23343f[_0x5acefb(0x193)]},{'quoted':_0x4fabeb});const _0x5019f7=path['join'](__dirname,'..','banco\x20de\x20dados',_0x23343f[_0x5acefb(0x182)]);if(!fs[_0x5acefb(0x184)](_0x5019f7))return await _0x59193e[_0x5acefb(0x195)](_0x377f16,{'text':'*'+_0x1f9a91+'*,\x20não\x20há\x20nenhuma\x20alma\x20selada\x20para\x20ser\x20restaurada.'},{'quoted':_0x4fabeb});const _0x483307=JSON['parse'](fs[_0x5acefb(0x185)](_0x5019f7,_0x23343f[_0x5acefb(0x192)])),_0x1183ae=_0x483307[_0x377f16]?.[_0x41cb2b];if(!_0x1183ae)return await _0x59193e[_0x5acefb(0x195)](_0x377f16,{'text':'*'+_0x1f9a91+_0x5acefb(0x191)},{'quoted':_0x4fabeb});const _0x10938d=_0x23343f['LCKTJ'](lerDB);if(!_0x10938d[_0x377f16])_0x10938d[_0x377f16]={'membros':{}};_0x10938d[_0x377f16][_0x5acefb(0x194)][_0x41cb2b]={..._0x1183ae},_0x23343f[_0x5acefb(0x199)](salvarDB,_0x10938d),await _0x59193e[_0x5acefb(0x195)](_0x377f16,{'text':_0x5acefb(0x18d)+_0x1f9a91+_0x5acefb(0x19c)},{'quoted':_0x4fabeb});}};
+// commands/restaurarbckp-level.js
+const fs = require('fs');
+const path = require('path');
+const { lerDB, salvarDB, isRankingAtivo } = require('../settings/lib/ranking-logic.js');
+
+module.exports = {
+    name: 'restaurarbckp-level',
+    aliases: ['restaurar-alma', 'load-level'],
+    execute: async ({ lux, from, msg, sender, pushName }) => {
+        // VERIFICAÇÃO DE RANKING ATIVO
+        if (!isRankingAtivo(from)) {
+            return await lux.sendMessage(from, { text: '📜 O sistema de ranking está desativado neste grupo. Use `!toggle-rank` para ativá-lo.' }, { quoted: msg });
+        }
+
+        const backupDbPath = path.join(__dirname, '..', 'banco de dados', 'backup-level.json');
+
+        if (!fs.existsSync(backupDbPath)) {
+            return await lux.sendMessage(from, { text: `*${pushName}*, não há nenhuma alma selada para ser restaurada.` }, { quoted: msg });
+        }
+
+        const backupDb = JSON.parse(fs.readFileSync(backupDbPath, 'utf-8'));
+        const backupDoMembro = backupDb[from]?.[sender];
+
+        if (!backupDoMembro) {
+            return await lux.sendMessage(from, { text: `*${pushName}*, sua alma não foi encontrada nos pergaminhos de backup.` }, { quoted: msg });
+        }
+
+        const rankingDb = lerDB();
+
+        if (!rankingDb[from]) rankingDb[from] = { membros: {} };
+
+        rankingDb[from].membros[sender] = { ...backupDoMembro };
+
+        salvarDB(rankingDb);
+
+        await lux.sendMessage(from, { text: `🌀 *ALMA RESTAURADA* 🌀\n\n*${pushName}*, sua essência de poder foi invocada e restaurada com sucesso.` }, { quoted: msg });
+    }
+};

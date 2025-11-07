@@ -1,1 +1,81 @@
-function a0_0x2b69(_0x564a61,_0x14efb9){const _0x358142=a0_0x1ac4();return a0_0x2b69=function(_0x1d810b,_0x4bfe01){_0x1d810b=_0x1d810b-0x1ad;let _0x1ac4d4=_0x358142[_0x1d810b];if(a0_0x2b69['SXZeaC']===undefined){var _0x2b695d=function(_0x25f36c){const _0x12a3bb='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x37bf9e='',_0x470ba9='',_0x434e01=_0x37bf9e+_0x2b695d;for(let _0x1cfdd5=0x0,_0x5404f1,_0x58cf8d,_0x13a62d=0x0;_0x58cf8d=_0x25f36c['charAt'](_0x13a62d++);~_0x58cf8d&&(_0x5404f1=_0x1cfdd5%0x4?_0x5404f1*0x40+_0x58cf8d:_0x58cf8d,_0x1cfdd5++%0x4)?_0x37bf9e+=_0x434e01['charCodeAt'](_0x13a62d+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x5404f1>>(-0x2*_0x1cfdd5&0x6)):_0x1cfdd5:0x0){_0x58cf8d=_0x12a3bb['indexOf'](_0x58cf8d);}for(let _0xa62662=0x0,_0x5646a4=_0x37bf9e['length'];_0xa62662<_0x5646a4;_0xa62662++){_0x470ba9+='%'+('00'+_0x37bf9e['charCodeAt'](_0xa62662)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x470ba9);};a0_0x2b69['DAKbUq']=_0x2b695d,_0x564a61=arguments,a0_0x2b69['SXZeaC']=!![];}const _0x575191=_0x358142[0x0],_0x20c070=_0x1d810b+_0x575191,_0x3197d7=_0x564a61[_0x20c070];if(!_0x3197d7){const _0x1832a9=function(_0x520fb9){this['GNiSvw']=_0x520fb9,this['STPBqr']=[0x1,0x0,0x0],this['bJAYrS']=function(){return'newState';},this['WsdHix']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['qszLrB']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x1832a9['prototype']['wXJAVW']=function(){const _0x1363e3=new RegExp(this['WsdHix']+this['qszLrB']),_0x4a57e0=_0x1363e3['test'](this['bJAYrS']['toString']())?--this['STPBqr'][0x1]:--this['STPBqr'][0x0];return this['UrzmKC'](_0x4a57e0);},_0x1832a9['prototype']['UrzmKC']=function(_0x47b5e1){if(!Boolean(~_0x47b5e1))return _0x47b5e1;return this['NPoFOw'](this['GNiSvw']);},_0x1832a9['prototype']['NPoFOw']=function(_0x1efb23){for(let _0x24489c=0x0,_0x1fcd17=this['STPBqr']['length'];_0x24489c<_0x1fcd17;_0x24489c++){this['STPBqr']['push'](Math['round'](Math['random']())),_0x1fcd17=this['STPBqr']['length'];}return _0x1efb23(this['STPBqr'][0x0]);},new _0x1832a9(a0_0x2b69)['wXJAVW'](),_0x1ac4d4=a0_0x2b69['DAKbUq'](_0x1ac4d4),_0x564a61[_0x20c070]=_0x1ac4d4;}else _0x1ac4d4=_0x3197d7;return _0x1ac4d4;},a0_0x2b69(_0x564a61,_0x14efb9);}const a0_0x183c44=a0_0x2b69;(function(_0x472758,_0x51d678){const _0x5c408d=a0_0x2b69,_0xcb034b=_0x472758();while(!![]){try{const _0x2fd3a1=parseInt(_0x5c408d(0x1f5))/0x1*(parseInt(_0x5c408d(0x1ae))/0x2)+parseInt(_0x5c408d(0x1cf))/0x3*(parseInt(_0x5c408d(0x1e4))/0x4)+-parseInt(_0x5c408d(0x1dd))/0x5*(parseInt(_0x5c408d(0x1b9))/0x6)+parseInt(_0x5c408d(0x1d7))/0x7*(parseInt(_0x5c408d(0x1bc))/0x8)+parseInt(_0x5c408d(0x1b7))/0x9*(-parseInt(_0x5c408d(0x1cb))/0xa)+-parseInt(_0x5c408d(0x1e8))/0xb*(-parseInt(_0x5c408d(0x1cc))/0xc)+parseInt(_0x5c408d(0x1ca))/0xd*(-parseInt(_0x5c408d(0x1bd))/0xe);if(_0x2fd3a1===_0x51d678)break;else _0xcb034b['push'](_0xcb034b['shift']());}catch(_0x44840a){_0xcb034b['push'](_0xcb034b['shift']());}}}(a0_0x1ac4,0xb4224));const a0_0x4bfe01=(function(){const _0x38cefe=a0_0x2b69,_0x4c8f75={'zsaKJ':function(_0x744045,_0x3dfcf7){return _0x744045===_0x3dfcf7;},'cxHWv':_0x38cefe(0x1ad)};let _0x1730ec=!![];return function(_0x3277ab,_0x41c8d9){const _0x23e307=_0x1730ec?function(){const _0xb70fbd=a0_0x2b69;if(_0x4c8f75[_0xb70fbd(0x1d6)](_0xb70fbd(0x1ad),_0x4c8f75[_0xb70fbd(0x1d1)])){if(_0x41c8d9){const _0x4a5a91=_0x41c8d9[_0xb70fbd(0x1d0)](_0x3277ab,arguments);return _0x41c8d9=null,_0x4a5a91;}}else throw new _0x1a6116(_0xc02501['mensagem']||_0xb70fbd(0x1fc));}:function(){};return _0x1730ec=![],_0x23e307;};}()),a0_0x1d810b=a0_0x4bfe01(this,function(){const _0x143d89=a0_0x2b69,_0x43ab5b={'RoqEC':'(((.+)+)+)+$'};return a0_0x1d810b[_0x143d89(0x1e9)]()[_0x143d89(0x1b6)]('(((.+)+)+)+$')[_0x143d89(0x1e9)]()['constructor'](a0_0x1d810b)[_0x143d89(0x1b6)](_0x43ab5b[_0x143d89(0x1c2)]);});function a0_0x1ac4(){const _0x2247ac=['DxnLCMHHC2G','twvZDhjLlcbHigLUDM9JyCoNW6nVigrHieLbigzHBgHVDs4GqsbLBMvYz2LHigfYy2fUysbLC3tdOsbPBNn0W6f2zwWUcGOQtw90AxzVoIOG','neLYr0zqvW','z1zwuLi','AM9PBG','wMvhtxC','mJjrBgT1r3C','Dg9tDhjPBMC','EK1QsvG','s3fws2K','Ahr0Chm6lY9JyxrIB3GUBw9Ll3vZzxiVyxbPlNbOCa','A1LdqwG','rxfJqvq','twvZDhjLlcbWyxjHihf1zsbLDsbWB3nZysbPBNzVy2fYigeGsw50zwXPz8oQBMnPysbbCMnHBMeSifzVC3nHifnLBMHVCMLHihbYzwnPC2eGCMvZCg9UzgvYigeGDw1HigLTywDLBsbJB20Gzxn0zsbJB21HBMrVlcbZzwD1AwrVigrLihn1ysbVCMrLBsaOChjVBxb0ks4','qsbJB211BMLJyCoNW6nVignVBsbVCYbZzxj2AwrVCMvZigrVienHDgjVEc5TB2uGzMfSAg91oIa','y29Uy2f0','vu9ku3i','uMvJzwjLBMrVihn1ysbVCMrLBs4UlIbjBNzVy2fUzg8GysbjBNrLBgLNW6PUy2LHiefYy2fUysbWyxjHihjLBw9KzwXHCIbHihjLywXPzgfKzs4GqwD1yxjKzs4UlG','C3rHDhvZ','mtm2m0PpvNvyyq','Cg9ZDa','thzcDeK','y2TQBw0','re9tB0K','wvzHrKW','twvZDhjLlcbWCMvJAxnVigrLihn1yxmGB3jKzw5ZlIbeAwDHlw1LignVBw8Gzgv2BYbTB2rPzMLJyxiGysbPBwfNzw0GyxddS3mGBYbJB21HBMrVlG','qsbbueKGBSoJBYbYzxrVCM5VDsb1BsbYzxn1BhrHzg8GDSoHBgLKBY4','Ahr0Chm6lY9ZExn0zw16B25LlNn0B3jLl2fWAs9Nzw1PBMKVBMfUBY1Iyw5HBMe/ChjVBxb0pq','s3nMwKm','mtG3neDrywTbqG','Aw1Hz2vT','sfLvyvm','zgLNCfu','ygbG','zxH0zw5KzwruzxH0twvZC2fNzq','t1Pqv3O','vvfsq0S','C2vHCMnO','ou9TtuTesa','tMH6wvi','mZuXmJu4r0ztDxDJ','BwvUC2fNzw0','zMLSzvrVvxbSB2fK','mta0mdbuEgvpDvy','mti3mJKWmZHIDuzXtwS','kK9srevnievyrunvvefeqsOG8j+oQaOktwvZDhjLlcbHieLUDgvSAwFdQM5JAweGqxjJyw5Hig9IzwrLy2v1igfVihnLDsbJB21HBMrViguGCMvTB2rLBg91igeGAw1Hz2vTignVBMzVCM1Lihn1ysb2B250ywrLlGOkkLnLDsbezwnYzxrVicHqCM9TChqPoIOGygbG','CMvXDhLWzq','r0zKwKO','AweTBw9K','uM9Xrum','Bw9KlwLH','BwvZC2fNzq','s0zevNC','z2v0sgvHzgvYCW','AxP1A28TBw9KlwLHlq','DLPYu2u','A3PyDKe','mJzNBfrlsMq','mta1nZy1mtbWwxvZzum','ndq1nZG5mKPKEhrurW','qLveAfe','zxHWB3j0CW','mZm3ndy2mxDtq2jTtW','yxbWBhK','y3Hiv3y','Aw1Hz2vnzxnZywDL','yxHPB3m','Aw1Hz2u','C2vUze1LC3nHz2u','ENnHs0O','ntm2mNPls256za','zM9YBs1KyxrH','lMPWzwC','BM93','zgf0yq','z2v0','ndvpzuftrMO','rxjYBYbUBYbJB21HBMrVicfTB2qTAwe6','yxbWzw5K','qLbrzfO','CxvVDgvKtwvZC2fNzq'];a0_0x1ac4=function(){return _0x2247ac;};return a0_0x1ac4();}a0_0x1d810b();const {downloadContentFromMessage,getContentType}=require('@whiskeysockets/baileys'),axios=require(a0_0x183c44(0x1d3)),FormData=require(a0_0x183c44(0x1d8));async function uploadToCatbox(_0xa5e5a){const _0x41ca84=a0_0x183c44,_0x2a767b={'BUDhQ':_0x41ca84(0x1bf),'BPQdZ':'fileupload','kYCAh':_0x41ca84(0x1e2),'KqVKi':_0x41ca84(0x1bb),'vZrSe':function(_0x4b4c1a,_0x47a8db){return _0x4b4c1a!==_0x47a8db;},'OZPWz':_0x41ca84(0x1c0)},_0x5d0ea9=new FormData();_0x5d0ea9[_0x41ca84(0x1df)](_0x2a767b[_0x41ca84(0x1cd)],_0x2a767b[_0x41ca84(0x1e0)]),_0x5d0ea9[_0x41ca84(0x1df)](_0x2a767b[_0x41ca84(0x1ed)],''),_0x5d0ea9['append'](_0x2a767b[_0x41ca84(0x1eb)],_0xa5e5a,{'filename':_0x41ca84(0x1c7)+Date[_0x41ca84(0x1da)]()+_0x41ca84(0x1d9)});try{if(_0x2a767b[_0x41ca84(0x1c8)](_0x2a767b[_0x41ca84(0x1b4)],_0x2a767b[_0x41ca84(0x1b4)]))_0x26f938=_0x1f1dc6['concat']([_0x5edd04,_0x48abec]);else{const _0x29f885=await axios[_0x41ca84(0x1f6)](_0x41ca84(0x1ec),_0x5d0ea9,{'headers':{..._0x5d0ea9[_0x41ca84(0x1c6)]()}});return _0x29f885['data'];}}catch(_0x2370fb){throw new Error('A\x20comunicação\x20com\x20os\x20servidores\x20do\x20Catbox.moe\x20falhou:\x20'+_0x2370fb['message']);}}module[a0_0x183c44(0x1ce)]={'name':a0_0x183c44(0x1c3),'aliases':[a0_0x183c44(0x1c1)],'execute':async({lux:_0x46a6be,from:_0x59ae05,msg:_0x20b53b,args:_0x4ea766})=>{const _0x5c8456=a0_0x183c44,_0x26a005={'DOSoI':function(_0x5eaba9,_0x244b9f){return _0x5eaba9===_0x244b9f;},'UQRCK':function(_0x3eeabd,_0x32f5b7){return _0x3eeabd(_0x32f5b7);},'NhzYR':_0x5c8456(0x1d2),'YVaFL':_0x5c8456(0x1ef),'LvBtI':function(_0x4d8ba4,_0x44e238){return _0x4d8ba4!==_0x44e238;},'EqcAT':_0x5c8456(0x1b1),'KFDVw':_0x5c8456(0x1f3),'kzXvA':_0x5c8456(0x1d4),'zMjIX':'gemXZ','ckjmm':function(_0x5b424a,_0x3fa56a){return _0x5b424a(_0x3fa56a);},'FdXIT':_0x5c8456(0x1f2),'rRpOH':_0x5c8456(0x1fc),'ahoRv':'vTNjA','gVVRR':_0x5c8456(0x1de)},_0x368b54=_0x4ea766[_0x5c8456(0x1e6)]('\x20');let _0x6c7ce8;const _0x4f4d58=_0x20b53b[_0x5c8456(0x1c4)][_0x5c8456(0x1b3)]?.['contextInfo']?.[_0x5c8456(0x1e1)];if(_0x4f4d58&&_0x26a005[_0x5c8456(0x1f9)](_0x26a005[_0x5c8456(0x1b5)](getContentType,_0x4f4d58),_0x26a005[_0x5c8456(0x1b8)]))_0x6c7ce8=_0x4f4d58['imageMessage'];else return await _0x46a6be[_0x5c8456(0x1d5)](_0x59ae05,{'text':_0x26a005[_0x5c8456(0x1fa)]},{'quoted':_0x20b53b});if(!_0x368b54){if(_0x26a005[_0x5c8456(0x1f7)](_0x26a005[_0x5c8456(0x1ee)],_0x5c8456(0x1b0)))return await _0x46a6be[_0x5c8456(0x1d5)](_0x59ae05,{'text':_0x5c8456(0x1fb)},{'quoted':_0x20b53b});else{if(_0xece6a7){const _0x47ff02=_0xa34075[_0x5c8456(0x1d0)](_0x559b79,arguments);return _0x2897e9=null,_0x47ff02;}}}await _0x46a6be[_0x5c8456(0x1d5)](_0x59ae05,{'text':_0x26a005[_0x5c8456(0x1c5)]},{'quoted':_0x20b53b});try{const _0x273bde=await downloadContentFromMessage(_0x6c7ce8,_0x26a005[_0x5c8456(0x1c9)]);let _0x208515=Buffer['from']([]);for await(const _0x179910 of _0x273bde){if(_0x26a005[_0x5c8456(0x1f9)](_0x26a005[_0x5c8456(0x1ea)],_0x26a005[_0x5c8456(0x1ea)]))_0x208515=Buffer[_0x5c8456(0x1f1)]([_0x208515,_0x179910]);else throw new _0x307459(_0x5c8456(0x1f0)+_0xee50bc[_0x5c8456(0x1c4)]);}const _0x2fcd6d=await _0x26a005[_0x5c8456(0x1b5)](uploadToCatbox,_0x208515),_0x2f0f4d=_0x5c8456(0x1fd)+_0x26a005[_0x5c8456(0x1b5)](encodeURIComponent,_0x368b54)+'&imageUrl='+_0x26a005[_0x5c8456(0x1f8)](encodeURIComponent,_0x2fcd6d),_0x5e4732=await axios[_0x5c8456(0x1dc)](_0x2f0f4d),_0x465747=_0x5e4732[_0x5c8456(0x1db)];if(!_0x465747||_0x26a005[_0x5c8456(0x1f7)](_0x465747[_0x5c8456(0x1f4)],!![])||!_0x465747[_0x5c8456(0x1af)]){if(_0x26a005[_0x5c8456(0x1f9)]('MobuM',_0x26a005['FdXIT'])){const _0x26370d=_0x7fe73['apply'](_0x10c5fd,arguments);return _0x5c4f45=null,_0x26370d;}else throw new Error(_0x465747[_0x5c8456(0x1ba)]||_0x26a005['rRpOH']);}const _0x305ecc=_0x5c8456(0x1be)+_0x368b54+_0x5c8456(0x1b2);await _0x46a6be['sendMessage'](_0x59ae05,{'image':{'url':_0x465747['imagem']},'caption':_0x305ecc},{'quoted':_0x20b53b});}catch(_0x3a4faf){_0x26a005[_0x5c8456(0x1f9)](_0x26a005['ahoRv'],_0x5c8456(0x1e7))?_0x36582b=_0x55d755[_0x5c8456(0x1d2)]:(console['error'](_0x26a005[_0x5c8456(0x1e5)],_0x3a4faf),await _0x46a6be[_0x5c8456(0x1d5)](_0x59ae05,{'text':_0x5c8456(0x1e3)+_0x3a4faf['message']},{'quoted':_0x20b53b}));}}};
+// commands/mod-ia.js
+const { downloadContentFromMessage, getContentType } = require('@whiskeysockets/baileys');
+const axios = require('axios');
+const FormData = require('form-data');
+
+// Função para fazer o upload para o Catbox.moe
+async function uploadToCatbox(buffer) {
+    const form = new FormData();
+    form.append('reqtype', 'fileupload');
+    form.append('userhash', '');
+    form.append('fileToUpload', buffer, {
+        filename: `izuko-mod-ia-${Date.now()}.jpeg`,
+    });
+
+    try {
+        const response = await axios.post('https://catbox.moe/user/api.php', form, {
+            headers: { ...form.getHeaders( ) }
+        });
+        return response.data;
+    } catch (error) {
+        throw new Error(`A comunicação com os servidores do Catbox.moe falhou: ${error.message}`);
+    }
+}
+
+module.exports = {
+    name: 'mod-ia',
+    aliases: ['ia-mod'],
+    execute: async ({ lux, from, msg, args }) => {
+        const prompt = args.join(' ');
+        let mediaMessage;
+
+        // Verifica se a mensagem é uma resposta a uma imagem
+        const quoted = msg.message.extendedTextMessage?.contextInfo?.quotedMessage;
+        if (quoted && getContentType(quoted) === 'imageMessage') {
+            mediaMessage = quoted.imageMessage;
+        } else {
+            return await lux.sendMessage(from, { text: 'Mestre, para que eu possa invocar a Inteligência Arcana, Vossa Senhoria precisa responder a uma imagem com este comando, seguido de sua ordem (prompt).' }, { quoted: msg });
+        }
+
+        if (!prompt) {
+            return await lux.sendMessage(from, { text: 'Mestre, preciso de suas ordens. Diga-me como devo modificar a imagem após o comando.' }, { quoted: msg });
+        }
+
+        await lux.sendMessage(from, { text: 'Recebendo sua ordem... Invocando a Inteligência Arcana para remodelar a realidade. Aguarde...' }, { quoted: msg });
+
+        try {
+            // 1. Faz o download da imagem
+            const stream = await downloadContentFromMessage(mediaMessage, 'image');
+            let buffer = Buffer.from([]);
+            for await (const chunk of stream) {
+                buffer = Buffer.concat([buffer, chunk]);
+            }
+
+            // 2. Faz o upload da imagem para o Catbox.moe
+            const imageUrl = await uploadToCatbox(buffer);
+
+            // 3. Constrói a URL da API de modificação
+            const apiUrl = `https://systemzone.store/api/gemini/nano-banana?prompt=${encodeURIComponent(prompt )}&imageUrl=${encodeURIComponent(imageUrl)}`;
+
+            // 4. Chama a API
+            const response = await axios.get(apiUrl);
+            const data = response.data;
+
+            if (!data || data.status !== true || !data.imagem) {
+                throw new Error(data.mensagem || 'A API não retornou um resultado válido.');
+            }
+
+            // 5. Envia a imagem modificada com a legenda personalizada
+            const caption = `*ORDEM EXECUTADA* 🎨\n\nMestre, a Inteligência Arcana obedeceu ao seu comando e remodelou a imagem conforme sua vontade.\n\n*Seu Decreto (Prompt):* \`\`\`${prompt}\`\`\``;
+
+            await lux.sendMessage(from, {
+                image: { url: data.imagem },
+                caption: caption
+            }, { quoted: msg });
+
+        } catch (error) {
+            console.error("Erro no comando !mod-ia:", error);
+            await lux.sendMessage(from, { text: `Mestre, a invocação da IA falhou. A energia arcana está instável.\n\n*Motivo:* ${error.message}` }, { quoted: msg });
+        }
+    }
+};

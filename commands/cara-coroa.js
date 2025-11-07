@@ -1,1 +1,95 @@
-const a0_0x3c1ec0=a0_0xe1ec;(function(_0x5406ce,_0x3440be){const _0x33e366=a0_0xe1ec,_0x3783ea=_0x5406ce();while(!![]){try{const _0x573494=-parseInt(_0x33e366(0xd4))/0x1+parseInt(_0x33e366(0xfc))/0x2*(-parseInt(_0x33e366(0xec))/0x3)+parseInt(_0x33e366(0xd6))/0x4+-parseInt(_0x33e366(0xda))/0x5*(parseInt(_0x33e366(0xff))/0x6)+-parseInt(_0x33e366(0x114))/0x7+parseInt(_0x33e366(0x103))/0x8*(parseInt(_0x33e366(0x10f))/0x9)+-parseInt(_0x33e366(0xe8))/0xa*(-parseInt(_0x33e366(0xf5))/0xb);if(_0x573494===_0x3440be)break;else _0x3783ea['push'](_0x3783ea['shift']());}catch(_0x4e64b7){_0x3783ea['push'](_0x3783ea['shift']());}}}(a0_0x2d6f,0x9e338));const a0_0x191858=(function(){const _0x21289a=a0_0xe1ec,_0x4686c1={'OHkur':_0x21289a(0xe7)};let _0x24e8fa=!![];return function(_0x4b0fa6,_0x4839bb){const _0x7f1bbc=_0x24e8fa?function(){const _0x442c14=a0_0xe1ec;if(_0x4686c1[_0x442c14(0xee)]!==_0x4686c1['OHkur']){if(_0x7ad93b){const _0x53923f=_0x57f52e['apply'](_0x560de9,arguments);return _0x388dee=null,_0x53923f;}}else{if(_0x4839bb){const _0x43b30c=_0x4839bb['apply'](_0x4b0fa6,arguments);return _0x4839bb=null,_0x43b30c;}}}:function(){};return _0x24e8fa=![],_0x7f1bbc;};}()),a0_0x4ae147=a0_0x191858(this,function(){const _0x5bb543=a0_0xe1ec,_0x2c0027={'vWwvc':_0x5bb543(0x113)};return a0_0x4ae147[_0x5bb543(0x10b)]()[_0x5bb543(0xea)](_0x2c0027[_0x5bb543(0x111)])[_0x5bb543(0x10b)]()[_0x5bb543(0xf6)](a0_0x4ae147)[_0x5bb543(0xea)](_0x2c0027[_0x5bb543(0x111)]);});function a0_0xe1ec(_0x1be722,_0x2d7e7b){const _0x27669c=a0_0x2d6f();return a0_0xe1ec=function(_0x4ae147,_0x191858){_0x4ae147=_0x4ae147-0xcc;let _0x2d6f56=_0x27669c[_0x4ae147];if(a0_0xe1ec['pEIljP']===undefined){var _0xe1ecfd=function(_0x1e8053){const _0x1c842b='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2113f7='',_0x30dbfb='',_0xc52ffd=_0x2113f7+_0xe1ecfd;for(let _0x2e79d3=0x0,_0x41d554,_0x35cc3b,_0xea4338=0x0;_0x35cc3b=_0x1e8053['charAt'](_0xea4338++);~_0x35cc3b&&(_0x41d554=_0x2e79d3%0x4?_0x41d554*0x40+_0x35cc3b:_0x35cc3b,_0x2e79d3++%0x4)?_0x2113f7+=_0xc52ffd['charCodeAt'](_0xea4338+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x41d554>>(-0x2*_0x2e79d3&0x6)):_0x2e79d3:0x0){_0x35cc3b=_0x1c842b['indexOf'](_0x35cc3b);}for(let _0x761273=0x0,_0x1f3494=_0x2113f7['length'];_0x761273<_0x1f3494;_0x761273++){_0x30dbfb+='%'+('00'+_0x2113f7['charCodeAt'](_0x761273)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x30dbfb);};a0_0xe1ec['EQXNVH']=_0xe1ecfd,_0x1be722=arguments,a0_0xe1ec['pEIljP']=!![];}const _0x552732=_0x27669c[0x0],_0x59b19e=_0x4ae147+_0x552732,_0x413418=_0x1be722[_0x59b19e];if(!_0x413418){const _0x41f38a=function(_0x658491){this['iIDhgc']=_0x658491,this['fHvaFw']=[0x1,0x0,0x0],this['XcMxnn']=function(){return'newState';},this['mrmXhL']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['BIVfYC']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x41f38a['prototype']['lfhdXo']=function(){const _0x4560e4=new RegExp(this['mrmXhL']+this['BIVfYC']),_0x2debb0=_0x4560e4['test'](this['XcMxnn']['toString']())?--this['fHvaFw'][0x1]:--this['fHvaFw'][0x0];return this['bbtVuX'](_0x2debb0);},_0x41f38a['prototype']['bbtVuX']=function(_0x2a48aa){if(!Boolean(~_0x2a48aa))return _0x2a48aa;return this['wmxDFJ'](this['iIDhgc']);},_0x41f38a['prototype']['wmxDFJ']=function(_0x440eab){for(let _0x19783b=0x0,_0x44c59c=this['fHvaFw']['length'];_0x19783b<_0x44c59c;_0x19783b++){this['fHvaFw']['push'](Math['round'](Math['random']())),_0x44c59c=this['fHvaFw']['length'];}return _0x440eab(this['fHvaFw'][0x0]);},new _0x41f38a(a0_0xe1ec)['lfhdXo'](),_0x2d6f56=a0_0xe1ec['EQXNVH'](_0x2d6f56),_0x1be722[_0x59b19e]=_0x2d6f56;}else _0x2d6f56=_0x413418;return _0x2d6f56;},a0_0xe1ec(_0x1be722,_0x2d7e7b);}a0_0x4ae147();const fs=require('fs'),path=require('path'),{lerDB,salvarDB}=require(a0_0x3c1ec0(0xe4)),cooldownDbPath=path['join'](__dirname,'..','..',a0_0x3c1ec0(0xfd),'cooldown_cara-coroa.json'),lerCooldownDB=()=>{const _0x248ad0=a0_0x3c1ec0,_0x4ce9c5={'tPsKV':'utf-8'};if(!fs[_0x248ad0(0xed)](cooldownDbPath))return{};return JSON[_0x248ad0(0xcd)](fs[_0x248ad0(0x106)](cooldownDbPath,_0x4ce9c5['tPsKV']));},salvarCooldownDB=_0x3b813a=>{const _0x181896=a0_0x3c1ec0,_0x5a3ca5=path['dirname'](cooldownDbPath);!fs['existsSync'](_0x5a3ca5)&&fs[_0x181896(0xd1)](_0x5a3ca5,{'recursive':!![]}),fs[_0x181896(0x107)](cooldownDbPath,JSON[_0x181896(0xd8)](_0x3b813a,null,0x2));},LIMITE_USOS=0x14,COOLDOWN_HORAS=0xc;function a0_0x2d6f(){const _0x35b7ba=['wvnWyMO','mtC4ntK0oxnzrg5ttG','y29UC3rYDwn0B3i','uM9cruq','yLPJv2q','Dg9mB3DLCKnHC2u','EKr1EuS','BsbWyxjHigrLC2fMAwfYig8GzgvZDgLUBYbUB3zHBwvUDguU','mZbhB2z2s28','yMfUy28GzguGzgfKB3m','EvPzwvq','mJa4ndm0EhHbzK96','8j+QMsaQvKLuW5nssueHkIdWN6QzcGOQ','rhjtugy','C3biwLy','mtyZmM14CfbZsa','tLzhB3O','zMnnt20','CMvHzezPBgvtEw5J','D3jPDgvgAwXLu3LUyW','Bwf4','Dg9vChbLCKnHC2u','CerJqMu','Dg9tDhjPBMC','yxbWBhK','y29YB2e','y2fYyq','mJe5nJL5twzUzuq','zxHWB3j0CW','DLD3DMm','y2fYys1JB3jVyq','kcGOlISPkYKRksSK','mZKWmtu5mevVrensCW','B3LJBg8','CgfYC2u','8j+QMsaQrevsuK9uqseQipcFQPKkcIO','DhvLA3O','kIWGC3vHihnVCNrLihbVCIbOB2PLihnLigvZz290B3uUifzVy8oQigf0Aw5NAxuGBYbSAw1PDguGzguG','BwTKAxjtEw5J','twjiqwm','s0nyzgW','nZCYmJm3CfLusejs','DxLxvK4','mZi4odGYne5Hsw9YAq','zePVvvK','C3rYAw5NAwz5','t2nIy2K','mtbWDhjMqMS','u0jJExm','DxnVCW','kI4kcIPqDw5PW6FdO286kIaTmsbyuc4','C2vUze1LC3nHz2u','BwvTyNjVCW','kIbLigeGBw9LzgeGy2fPDsbLBsaQ','qLnwyK4','4P2mieD1zxjYzwLYBYWGDM9JW6OGzgv2zsbLC2nVBgHLCIb1BsbSywrVisbvC2u6icOHy2fYys1JB3jVysbJyxjHkIbVDsaQiwnHCMeTy29YB2eGy29YB2eQlG','ze9Juge','lI4VC2v0DgLUz3mVBgLIl3jHBMTPBMCTBg9NAwmUANm','rwHwDLi','kIbTyxmGysbTB2vKysbJywL1igvTicO','u3HLtxi','odbht2fWyM8','zMXVB3i','C2vHCMnO','kIWGDM9JW6OGyxbVC3rVDsbLBsaQ','mte0mZKZzw5msvvr','zxHPC3rZu3LUyW','t0HRDxi','kI4kcIPszwnVBxbLBNnHoIOGkZeGwfaGkgvXDwL2ywXLBNrLigeGmJaWifbVBNrVCYbUysbJB252zxjZW6nVks4','D2zqyK0','CMfdB1m','zxHWAxjHrw0','AwnzAwG'];a0_0x2d6f=function(){return _0x35b7ba;};return a0_0x2d6f();}module[a0_0x3c1ec0(0x110)]={'name':a0_0x3c1ec0(0x112),'usage':'!cara-coroa\x20<cara|coroa>','execute':async({lux:_0x3ae293,msg:_0x3a6366,from:_0x34265f,isGroup:_0x28ebed,sender:_0x51c2a4,pushName:_0xe866e5,args:_0x2e72f4})=>{const _0x1ffbd3=a0_0x3c1ec0,_0x451fa6={'BSVbN':function(_0x31f6df,_0x38ed83){return _0x31f6df-_0x38ed83;},'DrSPf':'Guerreiro,\x20o\x20Jogo\x20do\x20Destino\x20só\x20pode\x20ser\x20jogado\x20na\x20arena\x20de\x20um\x20clã.','vUuoQ':function(_0x4c23a3){return _0x4c23a3();},'NVGoz':_0x1ffbd3(0xd5),'EhVvR':function(_0x385b3a,_0x16100b){return _0x385b3a!==_0x16100b;},'RoBED':'AnZTo','Ocbci':'QIKyB','SBcys':function(_0x1379e1,_0x5eb365){return _0x1379e1!==_0x5eb365;},'bZcWd':_0x1ffbd3(0x10e),'tuekz':function(_0x544dd3,_0x59baea){return _0x544dd3>=_0x59baea;},'icYih':function(_0x32a29b,_0x5370b9){return _0x32a29b/_0x5370b9;},'dOcPa':function(_0xc0d183,_0x4358b0){return _0xc0d183%_0x4358b0;},'gptfz':function(_0x1e5573){return _0x1e5573();},'MTXwy':_0x1ffbd3(0x10d),'fcMOm':function(_0x52c531,_0x1b0f1c){return _0x52c531*_0x1b0f1c;},'raCoS':function(_0xda5666,_0x15c99f){return _0xda5666===_0x15c99f;},'MbHAc':'fLTGF','zDuyK':_0x1ffbd3(0xcc),'pDcBe':function(_0x2156a3,_0x5d3ae8){return _0x2156a3-_0x5d3ae8;},'dJoUY':'VWOLx','spHZV':_0x1ffbd3(0xf4),'KCXdl':function(_0xf401a7,_0x1a2c9f){return _0xf401a7+_0x1a2c9f;},'wfPbM':function(_0x3baefb,_0x26ab55){return _0x3baefb*_0x26ab55;},'yZYYT':function(_0x2b0899,_0x478152){return _0x2b0899(_0x478152);}};if(!_0x28ebed)return await _0x3ae293[_0x1ffbd3(0xde)](_0x34265f,{'text':_0x451fa6[_0x1ffbd3(0x101)]},{'quoted':_0x3a6366});const _0x615b87=Date['now'](),_0x12927a=_0x451fa6['vUuoQ'](lerCooldownDB);if(!_0x12927a[_0x51c2a4]){if(_0x451fa6[_0x1ffbd3(0x104)]!==_0x451fa6[_0x1ffbd3(0x104)]){const _0x1549fa=_0x761273?function(){if(_0x2a48aa){const _0x3a63d3=_0x5a99dd['apply'](_0x5f194e,arguments);return _0x22dbab=null,_0x3a63d3;}}:function(){};return _0x2debb0=![],_0x1549fa;}else _0x12927a[_0x51c2a4]={'usos':0x0,'expiraEm':0x0};}if(_0x615b87>_0x12927a[_0x51c2a4][_0x1ffbd3(0xf2)]){if(_0x451fa6[_0x1ffbd3(0xe5)](_0x451fa6[_0x1ffbd3(0xf7)],_0x451fa6[_0x1ffbd3(0xd9)]))_0x12927a[_0x51c2a4][_0x1ffbd3(0xdc)]=0x0;else{const _0x447045=_0xf23bb4[_0x1ffbd3(0x10c)](_0x401436,arguments);return _0x1fb5ce=null,_0x447045;}}const _0x43db76=_0x2e72f4[0x0]?.[_0x1ffbd3(0xf9)]();if(!_0x43db76||_0x451fa6[_0x1ffbd3(0xdb)](_0x43db76,_0x451fa6[_0x1ffbd3(0xf8)])&&_0x451fa6['EhVvR'](_0x43db76,'coroa'))return await _0x3ae293['sendMessage'](_0x34265f,{'text':_0x1ffbd3(0xe2)},{'quoted':_0x3a6366});if(_0x451fa6[_0x1ffbd3(0xcf)](_0x12927a[_0x51c2a4]['usos'],LIMITE_USOS)){const _0x5cae3b=_0x451fa6['BSVbN'](_0x12927a[_0x51c2a4][_0x1ffbd3(0xf2)],_0x615b87),_0x2137f6=Math['floor'](_0x451fa6[_0x1ffbd3(0xf3)](_0x5cae3b,0x36ee80)),_0x5ee586=Math[_0x1ffbd3(0xe9)](_0x451fa6[_0x1ffbd3(0xe3)](_0x5cae3b,0x36ee80)/0xea60);return await _0x3ae293['sendMessage'](_0x34265f,{'text':'*'+_0xe866e5+_0x1ffbd3(0xd0)+LIMITE_USOS+'\x20tentativas.\x20Aguarde\x20'+_0x2137f6+'h\x20e\x20'+_0x5ee586+_0x1ffbd3(0xfb)},{'quoted':_0x3a6366});}const _0x345077=_0x451fa6['gptfz'](lerDB);if(!_0x345077[_0x34265f])_0x345077[_0x34265f]={'membros':{}};if(!_0x345077[_0x34265f][_0x1ffbd3(0xdf)][_0x51c2a4])_0x345077[_0x34265f][_0x1ffbd3(0xdf)][_0x51c2a4]={'nome':_0xe866e5,'nivel':0x1,'xp':0x0,'pontos':0x0};const _0x57d3de=_0x345077[_0x34265f][_0x1ffbd3(0xdf)][_0x51c2a4],_0x55e25d=[_0x451fa6['bZcWd'],_0x451fa6['MTXwy']],_0x3ac070=_0x55e25d[Math[_0x1ffbd3(0xe9)](_0x451fa6[_0x1ffbd3(0x105)](Math['random'](),_0x55e25d['length']))],_0x1d5720=_0x451fa6[_0x1ffbd3(0xf1)](_0x43db76,_0x3ac070);let _0x521820;_0x1d5720?(_0x57d3de['xp']+=0x1,_0x521820=_0x1ffbd3(0x100)+_0xe866e5+'*,\x20você\x20apostou\x20em\x20*'+_0x43db76[_0x1ffbd3(0x109)]()+_0x1ffbd3(0xe0)+_0x3ac070[_0x1ffbd3(0x109)]()+_0x1ffbd3(0xef)):_0x451fa6[_0x1ffbd3(0xd2)]!==_0x451fa6[_0x1ffbd3(0xfa)]?(_0x57d3de['xp']=Math[_0x1ffbd3(0x108)](0x0,_0x451fa6[_0x1ffbd3(0x10a)](_0x57d3de['xp'],0x1)),_0x521820=_0x1ffbd3(0xce)+_0xe866e5+_0x1ffbd3(0xeb)+_0x43db76['toUpperCase']()+_0x1ffbd3(0xe6)+_0x3ac070[_0x1ffbd3(0x109)]()+_0x1ffbd3(0xdd)):(_0x23c2d7['xp']=_0x1a670e[_0x1ffbd3(0x108)](0x0,_0x451fa6[_0x1ffbd3(0xe1)](_0x4a5dcf['xp'],0x1)),_0x29827f='🪙\x20*DERROTA!*\x20🪙\x0a\x0a*'+_0xb26bd0+_0x1ffbd3(0xeb)+_0x3bbf3c[_0x1ffbd3(0x109)]()+_0x1ffbd3(0xe6)+_0x832b52[_0x1ffbd3(0x109)]()+_0x1ffbd3(0xdd));_0x12927a[_0x51c2a4][_0x1ffbd3(0xdc)]++;_0x12927a[_0x51c2a4][_0x1ffbd3(0xdc)]===0x1&&(_0x451fa6['raCoS'](_0x451fa6[_0x1ffbd3(0xd7)],_0x451fa6[_0x1ffbd3(0x102)])?_0x4b9437[_0x1ffbd3(0xd1)](_0x3cfa9f,{'recursive':!![]}):_0x12927a[_0x51c2a4][_0x1ffbd3(0xf2)]=_0x451fa6[_0x1ffbd3(0xd3)](_0x615b87,_0x451fa6[_0x1ffbd3(0x105)](_0x451fa6[_0x1ffbd3(0xf0)](COOLDOWN_HORAS*0x3c,0x3c),0x3e8)));const _0x43bb5a=LIMITE_USOS-_0x12927a[_0x51c2a4][_0x1ffbd3(0xdc)];_0x521820+='\x0a\x0a*Tentativas\x20restantes\x20neste\x20ciclo:*\x20'+_0x43bb5a+'/'+LIMITE_USOS,_0x451fa6[_0x1ffbd3(0xfe)](salvarDB,_0x345077),salvarCooldownDB(_0x12927a),await _0x3ae293[_0x1ffbd3(0xde)](_0x34265f,{'text':_0x521820},{'quoted':_0x3a6366});}};
+// Salvar como: commands/cara-coroa.js
+const fs = require('fs');
+const path = require('path');
+const { lerDB, salvarDB } = require('../settings/lib/ranking-logic.js'); // Importa as funções robustas
+
+const cooldownDbPath = path.join(__dirname, '..', '..', 'banco de dados', 'cooldown_cara-coroa.json');
+
+// Funções de leitura e escrita para o COOLDOWN (que é um arquivo separado)
+const lerCooldownDB = () => {
+    if (!fs.existsSync(cooldownDbPath)) return {};
+    return JSON.parse(fs.readFileSync(cooldownDbPath, 'utf-8'));
+};
+const salvarCooldownDB = (dados) => {
+    // Garante que o diretório exista antes de salvar
+    const dirPath = path.dirname(cooldownDbPath);
+    if (!fs.existsSync(dirPath)) {
+        fs.mkdirSync(dirPath, { recursive: true });
+    }
+    fs.writeFileSync(cooldownDbPath, JSON.stringify(dados, null, 2));
+};
+
+const LIMITE_USOS = 20;
+const COOLDOWN_HORAS = 12;
+
+module.exports = {
+    name: 'cara-coroa',
+    usage: '!cara-coroa <cara|coroa>',
+
+    execute: async ({ lux, msg, from, isGroup, sender, pushName, args }) => {
+        if (!isGroup) {
+            return await lux.sendMessage(from, { text: 'Guerreiro, o Jogo do Destino só pode ser jogado na arena de um clã.' }, { quoted: msg });
+        }
+
+        const agora = Date.now();
+        const cooldownDb = lerCooldownDB();
+
+        if (!cooldownDb[sender]) {
+            cooldownDb[sender] = { usos: 0, expiraEm: 0 };
+        }
+
+        // Se o tempo de cooldown já passou, reseta os usos.
+        if (agora > cooldownDb[sender].expiraEm) {
+            cooldownDb[sender].usos = 0;
+        }
+
+        // 1. Validar aposta do usuário
+        const aposta = args[0]?.toLowerCase();
+        if (!aposta || (aposta !== 'cara' && aposta !== 'coroa')) {
+            return await lux.sendMessage(from, { text: `❌ Guerreiro, você deve escolher um lado! Use: *!cara-coroa cara* ou *!cara-coroa coroa*.` }, { quoted: msg });
+        }
+
+        if (cooldownDb[sender].usos >= LIMITE_USOS) {
+            const tempoRestanteMs = cooldownDb[sender].expiraEm - agora;
+            const horas = Math.floor(tempoRestanteMs / 3600000);
+            const minutos = Math.floor((tempoRestanteMs % 3600000) / 60000);
+            return await lux.sendMessage(from, { text: `*${pushName}*, sua sorte por hoje se esgotou. Você atingiu o limite de ${LIMITE_USOS} tentativas. Aguarde ${horas}h e ${minutos}m para desafiar o destino novamente.` }, { quoted: msg });
+        }
+
+        const rankingDb = lerDB(); // Usa a função robusta do ranking-logic.js
+        if (!rankingDb[from]) rankingDb[from] = { membros: {} };
+        if (!rankingDb[from].membros[sender]) rankingDb[from].membros[sender] = { nome: pushName, nivel: 1, xp: 0, pontos: 0 };
+        
+        const membro = rankingDb[from].membros[sender];
+
+        // Lógica do jogo: 50/50
+        const lados = ['cara', 'coroa'];
+        const resultado = lados[Math.floor(Math.random() * lados.length)];
+        const ganhou = aposta === resultado;
+        let resposta;
+
+        if (ganhou) {
+            membro.xp += 1; // Ganha 1 de XP
+            resposta = `🪙 *VITÓRIA!* 🪙\n\n*${pushName}*, você apostou em *${aposta.toUpperCase()}* e a moeda caiu em *${resultado.toUpperCase()}*.\n\n*Recompensa:* +1 XP (equivalente a 200 Pontos na conversão).`;
+        } else {
+            membro.xp = Math.max(0, membro.xp - 1); // Perde 1 de XP, sem ficar negativo
+            resposta = `🪙 *DERROTA!* 🪙\n\n*${pushName}*, você apostou em *${aposta.toUpperCase()}* mas a moeda caiu em *${resultado.toUpperCase()}*.\n\n*Punição:* -1 XP.`;
+        }
+
+        // Atualiza o cooldown
+        cooldownDb[sender].usos++;
+        // Se for o primeiro uso do ciclo, define o tempo de expiração.
+        if (cooldownDb[sender].usos === 1) {
+            cooldownDb[sender].expiraEm = agora + (COOLDOWN_HORAS * 60 * 60 * 1000);
+        }
+        
+        const usosRestantes = LIMITE_USOS - cooldownDb[sender].usos;
+        resposta += `\n\n*Tentativas restantes neste ciclo:* ${usosRestantes}/${LIMITE_USOS}`;
+
+        // Salva ambos os bancos de dados
+        salvarDB(rankingDb); // Usa a função robusta do ranking-logic.js
+        salvarCooldownDB(cooldownDb);
+
+        await lux.sendMessage(from, { text: resposta }, { quoted: msg });
+    }
+};

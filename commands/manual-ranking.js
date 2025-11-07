@@ -1,1 +1,73 @@
-const a0_0x3fde88=a0_0xd1a2;(function(_0xce4d01,_0x2cc83c){const _0x311a33=a0_0xd1a2,_0x173bf7=_0xce4d01();while(!![]){try{const _0x1e438c=parseInt(_0x311a33(0x142))/0x1+-parseInt(_0x311a33(0x13d))/0x2+parseInt(_0x311a33(0x138))/0x3+parseInt(_0x311a33(0x136))/0x4+parseInt(_0x311a33(0x141))/0x5*(-parseInt(_0x311a33(0x135))/0x6)+parseInt(_0x311a33(0x13c))/0x7*(-parseInt(_0x311a33(0x13e))/0x8)+-parseInt(_0x311a33(0x134))/0x9*(-parseInt(_0x311a33(0x137))/0xa);if(_0x1e438c===_0x2cc83c)break;else _0x173bf7['push'](_0x173bf7['shift']());}catch(_0x149ae5){_0x173bf7['push'](_0x173bf7['shift']());}}}(a0_0x4f09,0x8d154));const a0_0x19f5a8=(function(){let _0x309b92=!![];return function(_0x1c4401,_0x4647ea){const _0x40cd3f=_0x309b92?function(){if(_0x4647ea){const _0x211a18=_0x4647ea['apply'](_0x1c4401,arguments);return _0x4647ea=null,_0x211a18;}}:function(){};return _0x309b92=![],_0x40cd3f;};}()),a0_0x400f74=a0_0x19f5a8(this,function(){const _0x27ba32=a0_0xd1a2,_0x45d777={'EiJVw':'(((.+)+)+)+$'};return a0_0x400f74[_0x27ba32(0x143)]()[_0x27ba32(0x140)](_0x45d777[_0x27ba32(0x13f)])[_0x27ba32(0x143)]()[_0x27ba32(0x144)](a0_0x400f74)[_0x27ba32(0x140)](_0x45d777[_0x27ba32(0x13f)]);});function a0_0xd1a2(_0x27fcff,_0x25a3d2){const _0x276424=a0_0x4f09();return a0_0xd1a2=function(_0x400f74,_0x19f5a8){_0x400f74=_0x400f74-0x133;let _0x4f09a1=_0x276424[_0x400f74];if(a0_0xd1a2['vTrRzo']===undefined){var _0xd1a25f=function(_0x2fffde){const _0x511a6d='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x312270='',_0x4ffb36='',_0x3f7187=_0x312270+_0xd1a25f;for(let _0x2cb3c7=0x0,_0xf02a5b,_0x5ea148,_0x5f123c=0x0;_0x5ea148=_0x2fffde['charAt'](_0x5f123c++);~_0x5ea148&&(_0xf02a5b=_0x2cb3c7%0x4?_0xf02a5b*0x40+_0x5ea148:_0x5ea148,_0x2cb3c7++%0x4)?_0x312270+=_0x3f7187['charCodeAt'](_0x5f123c+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0xf02a5b>>(-0x2*_0x2cb3c7&0x6)):_0x2cb3c7:0x0){_0x5ea148=_0x511a6d['indexOf'](_0x5ea148);}for(let _0x512505=0x0,_0x22b52d=_0x312270['length'];_0x512505<_0x22b52d;_0x512505++){_0x4ffb36+='%'+('00'+_0x312270['charCodeAt'](_0x512505)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x4ffb36);};a0_0xd1a2['UmnbKp']=_0xd1a25f,_0x27fcff=arguments,a0_0xd1a2['vTrRzo']=!![];}const _0x5a6886=_0x276424[0x0],_0x5f5054=_0x400f74+_0x5a6886,_0x4a41c6=_0x27fcff[_0x5f5054];if(!_0x4a41c6){const _0x45ed65=function(_0x24fed2){this['GUxWpI']=_0x24fed2,this['rnPXNq']=[0x1,0x0,0x0],this['iTjqGp']=function(){return'newState';},this['olhIHY']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['ZsfUbV']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x45ed65['prototype']['tYmBss']=function(){const _0x34326d=new RegExp(this['olhIHY']+this['ZsfUbV']),_0x1ad024=_0x34326d['test'](this['iTjqGp']['toString']())?--this['rnPXNq'][0x1]:--this['rnPXNq'][0x0];return this['elFGJn'](_0x1ad024);},_0x45ed65['prototype']['elFGJn']=function(_0x181ffa){if(!Boolean(~_0x181ffa))return _0x181ffa;return this['IyFeMj'](this['GUxWpI']);},_0x45ed65['prototype']['IyFeMj']=function(_0x3d2c83){for(let _0x2c71d4=0x0,_0x560785=this['rnPXNq']['length'];_0x2c71d4<_0x560785;_0x2c71d4++){this['rnPXNq']['push'](Math['round'](Math['random']())),_0x560785=this['rnPXNq']['length'];}return _0x3d2c83(this['rnPXNq'][0x0]);},new _0x45ed65(a0_0xd1a2)['tYmBss'](),_0x4f09a1=a0_0xd1a2['UmnbKp'](_0x4f09a1),_0x27fcff[_0x5f5054]=_0x4f09a1;}else _0x4f09a1=_0x4a41c6;return _0x4f09a1;},a0_0xd1a2(_0x27fcff,_0x25a3d2);}a0_0x400f74(),module['exports']={'name':'manual-ranking','aliases':[a0_0x3fde88(0x133),a0_0x3fde88(0x145)],'execute':async({lux:_0x391b41,from:_0x330457,msg:_0x48c4d9})=>{const _0x53552d=a0_0x3fde88,_0x5d546b=_0x53552d(0x13b);await _0x391b41[_0x53552d(0x139)](_0x330457,{'text':_0x5d546b[_0x53552d(0x13a)]()},{'quoted':_0x48c4d9});}};function a0_0x4f09(){const _0x5c41e3=['rwLkvNC','C2vHCMnO','nuXKC2fztq','nJqYnJmWCgfnv0X3','Dg9tDhjPBMC','y29UC3rYDwn0B3i','z3vPys1Yyw5R','ywP1zgeTCMfUAW','mty1mZaZovb5Aw1Ksq','ntqYntmWmNjnzvDODq','mJqXotm2tLngt3bs','nZbruhjPtg8','nZK5nJKYBw5WEfnj','C2vUze1LC3nHz2u','DhjPBq','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','mty5nhf1DKXhta','mZi3oduYuNzivfPr','mJaXndrAvwrsAgW'];a0_0x4f09=function(){return _0x5c41e3;};return a0_0x4f09();}
+// commands/manual-ranking.js
+
+module.exports = {
+    name: 'manual-ranking',
+    aliases: ['ajuda-rank', 'guia-rank'],
+    execute: async ({ lux, from, msg }) => {
+        const manualText = `
+📜⚔️ O CAMINHO DO GUERREIRO: MANUAL DO SISTEMA DE RANKING ⚔️📜
+
+Saudações, guerreiros! O Izuko BOT agora observa seus feitos e recompensa sua lealdade e atividade no clã. Sua jornada rumo à glória começa agora, e este pergaminho é seu guia.
+
+-------------------------------------------
+
+✨ COMO O PODER É FORJADO ✨
+
+Sua ascensão é baseada em uma economia de poder com dois recursos principais: *XP* e *Pontos*.
+
+1.  *XP (Experiência):*
+    *É o poder bruto que você ganha por ser ativo.*
+    *Como ganhar:* Envie qualquer tipo de mensagem (texto, áudio, figurinha, etc.) ou use um comando do bot. Cada ação lhe concede +2 de XP*.
+    *Regra de Honra:** Para garantir que o poder seja ganho por mérito, você só pode ganhar XP **uma vez a cada 2 minutos*.
+
+2.  *PONTOS:*
+    *São a sua força de combate real, o recurso usado para subir de patente.*
+    *Como ganhar:* Você deve "forjar" seu XP acumulado para transformá-lo em Pontos.*
+
+-------------------------------------------
+
+🔥 A FORJA DE PODER: CONVERTENDO XP EM PONTOS 🔥
+
+Seu XP precisa ser convertido para que seu poder se manifeste. Isso acontece de duas formas:
+
+*1. A Forja Manual (Seu Controle Estratégico)*
+*Comando:* \`!converter-xp\`
+*O que faz:* Converte TODO o seu XP acumulado em Pontos. Cada 1 de XP vale 200 Pontos. Use este comando para dar o impulso final e alcançar uma nova patente!
+
+*2. A Conversão Automática (A Recompensa Explosiva)*
+*O que acontece:* Quando você acumula *100 de XP*, o sistema automaticamente os converte em *20.000 Pontos* para você!
+*O propósito:* É uma recompensa por sua atividade constante. Mesmo que esqueça de converter, o sistema garante que seu poder seja reconhecido com um grande bônus.
+
+-------------------------------------------
+
+🏆 A JORNADA DAS PATENTES 🏆
+
+Seu objetivo é subir na hierarquia do clã. A cada *3.000 Pontos* que você acumula, sua patente sobe automaticamente!
+
+*Exemplo:* Você está em "Bronze I" com 2.800 Pontos. Ao converter 2 de XP, você ganha 400 Pontos, totalizando 3.200. O sistema então deduz 3.000 Pontos, promove você para "Bronze II", e você já começa a nova jornada com 200 Pontos de vantagem!
+
+As patentes são: Bronze, Prata, Platina, Ouro, Diamante, Esmeralda, Mestre, Mestre de Honra e, para os mais dedicados, o título supremo de *Lendário Místico*.
+
+-------------------------------------------
+
+📖 OS COMANDOS DO GUERREIRO 📖
+
+Use estes comandos para guiar sua jornada:
+
+*\`!rank\`*
+_Mostra o Top 10 do grupo, exibindo os guerreiros mais poderosos e suas patentes._
+
+*\`!level\`*
+_Mostra SEU status pessoal: sua patente, seu XP acumulado e seus Pontos atuais._
+
+*\`!converter-xp\`*
+*O comando de ação! Use-o para forjar seu XP em Pontos e acelerar sua ascensão.*
+
+-------------------------------------------
+
+Agora que o caminho foi revelado, que sua jornada seja repleta de glória e poder. Forje seu destino, guerreiro!
+        `;
+
+        await lux.sendMessage(from, { text: manualText.trim() }, { quoted: msg });
+    }
+};

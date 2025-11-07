@@ -1,1 +1,46 @@
-const a0_0xf5e313=a0_0x5698;function a0_0x515b(){const _0x38d10c=['u1H5wvy','zxjYB3i','ndGYmdbIwufUzvu','nteXnfr3CNnnAG','DgvZDa','mJG0nJK2nw9duvj5yq','qhmUD2HHDhnHChaUBMv0','C3bSAxq','kcGOlISPkYKRksSK','C3rYAw5NAwz5','ve16AwC','mJDmwejmthu','EgLHt0O','z2v5rNa','EvntBhK','C2v0BgLKlwrVBM8','Cgf0Aa','yxbWBhK','D3jPDgvgAwXLu3LUyW','z0noqKO','4PYficPuuKfou0zfuSoktKnjqsbersbqt0rfuIbdt05dtfxdJurbkIdINiukcKeGBgLUAgfNzw0GzguGy29Tyw5KBYbMB2KGywX0zxjHzgeUieeGyxv0B3jPzgfKzsbKzsbnzxn0CMuGzM9PihrYyw5ZzMvYAwrHihbHCMeGBYbWB3j0ywrVCIbKysbmsuqGqa','EMvcwxC','mZqWntjbsLv5Dxe','Dg9tDhjPBMC','mty1ntm1m3DkreLTvG','C2v0DgLUz3mUANnVBG','rxjYBYbHBYbZywX2yxiGysbUB3zHieXjrcbKBYbKB25VoG','mZLQu0PeBwO','ndHgyw5SBgS','C2vHCMnO','nZCZmZDiBuvVsxC','C2vUze1LC3nHz2u','mJKWzeTcAwvm','nZaZmNDgrK5zDW','u2LUDgf4zsbKBYbYAxr1ywWGAw5JB3jYzxrHlGOkkKLUDM9JyCoNW6nVignVCNjLDge6kIbGC2v0BgLKlwrVBM8Gpg7dUM1LCM9aBgLKpMakkKv4zw1WBg86kIbGC2v0BgLKlwrVBM8GntuXmtK5otK5odG4oebSAwrG'];a0_0x515b=function(){return _0x38d10c;};return a0_0x515b();}(function(_0x237be9,_0x195fd4){const _0x14cf4c=a0_0x5698,_0xc5c1bd=_0x237be9();while(!![]){try{const _0x54a4cb=-parseInt(_0x14cf4c(0x80))/0x1*(-parseInt(_0x14cf4c(0x78))/0x2)+-parseInt(_0x14cf4c(0x6d))/0x3*(-parseInt(_0x14cf4c(0x68))/0x4)+parseInt(_0x14cf4c(0x72))/0x5*(-parseInt(_0x14cf4c(0x73))/0x6)+parseInt(_0x14cf4c(0x6a))/0x7+parseInt(_0x14cf4c(0x6e))/0x8*(parseInt(_0x14cf4c(0x70))/0x9)+-parseInt(_0x14cf4c(0x77))/0xa+-parseInt(_0x14cf4c(0x7a))/0xb;if(_0x54a4cb===_0x195fd4)break;else _0xc5c1bd['push'](_0xc5c1bd['shift']());}catch(_0x37cde2){_0xc5c1bd['push'](_0xc5c1bd['shift']());}}}(a0_0x515b,0x213c6));const a0_0x443d56=(function(){let _0x19c189=!![];return function(_0x51d78d,_0x1689f3){const _0x347cbe=_0x19c189?function(){const _0x43d19e=a0_0x5698;if(_0x1689f3){const _0x527a3d=_0x1689f3[_0x43d19e(0x86)](_0x51d78d,arguments);return _0x1689f3=null,_0x527a3d;}}:function(){};return _0x19c189=![],_0x347cbe;};}()),a0_0x39cafd=a0_0x443d56(this,function(){const _0x474ebd=a0_0x5698,_0x57e908={'SXyYV':_0x474ebd(0x7d)};return a0_0x39cafd[_0x474ebd(0x69)]()[_0x474ebd(0x6f)](_0x57e908[_0x474ebd(0x75)])['toString']()['constructor'](a0_0x39cafd)['search'](_0x57e908[_0x474ebd(0x75)]);});a0_0x39cafd();const fs=require('fs'),path=require(a0_0xf5e313(0x85));function a0_0x5698(_0x5c5c51,_0x5db102){const _0x3f8533=a0_0x515b();return a0_0x5698=function(_0x39cafd,_0x443d56){_0x39cafd=_0x39cafd-0x64;let _0x515b86=_0x3f8533[_0x39cafd];if(a0_0x5698['RBKuIR']===undefined){var _0x56983e=function(_0x522700){const _0x51bc69='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x3d48fd='',_0x11b774='',_0x131e70=_0x3d48fd+_0x56983e;for(let _0x5ac8c9=0x0,_0x2e96b1,_0x3fa69e,_0x2d16e3=0x0;_0x3fa69e=_0x522700['charAt'](_0x2d16e3++);~_0x3fa69e&&(_0x2e96b1=_0x5ac8c9%0x4?_0x2e96b1*0x40+_0x3fa69e:_0x3fa69e,_0x5ac8c9++%0x4)?_0x3d48fd+=_0x131e70['charCodeAt'](_0x2d16e3+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x2e96b1>>(-0x2*_0x5ac8c9&0x6)):_0x5ac8c9:0x0){_0x3fa69e=_0x51bc69['indexOf'](_0x3fa69e);}for(let _0x4e50d0=0x0,_0x24aa58=_0x3d48fd['length'];_0x4e50d0<_0x24aa58;_0x4e50d0++){_0x11b774+='%'+('00'+_0x3d48fd['charCodeAt'](_0x4e50d0)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x11b774);};a0_0x5698['kMhCKF']=_0x56983e,_0x5c5c51=arguments,a0_0x5698['RBKuIR']=!![];}const _0x558b19=_0x3f8533[0x0],_0x4d7213=_0x39cafd+_0x558b19,_0x1fa0d8=_0x5c5c51[_0x4d7213];if(!_0x1fa0d8){const _0x21cb84=function(_0x599c6a){this['siSJZz']=_0x599c6a,this['aHkPEr']=[0x1,0x0,0x0],this['IWEDVJ']=function(){return'newState';},this['MJIaoi']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['QMVLki']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x21cb84['prototype']['gAfFyG']=function(){const _0x3990c2=new RegExp(this['MJIaoi']+this['QMVLki']),_0x35c0bd=_0x3990c2['test'](this['IWEDVJ']['toString']())?--this['aHkPEr'][0x1]:--this['aHkPEr'][0x0];return this['YnOUeu'](_0x35c0bd);},_0x21cb84['prototype']['YnOUeu']=function(_0x5e1de7){if(!Boolean(~_0x5e1de7))return _0x5e1de7;return this['ystMcR'](this['siSJZz']);},_0x21cb84['prototype']['ystMcR']=function(_0x13b345){for(let _0x26e7b1=0x0,_0x120934=this['aHkPEr']['length'];_0x26e7b1<_0x120934;_0x26e7b1++){this['aHkPEr']['push'](Math['round'](Math['random']())),_0x120934=this['aHkPEr']['length'];}return _0x13b345(this['aHkPEr'][0x0]);},new _0x21cb84(a0_0x5698)['gAfFyG'](),_0x515b86=a0_0x5698['kMhCKF'](_0x515b86),_0x5c5c51[_0x4d7213]=_0x515b86;}else _0x515b86=_0x1fa0d8;return _0x515b86;},a0_0x5698(_0x5c5c51,_0x5db102);}module['exports']={'name':a0_0xf5e313(0x84),'execute':async({lux:_0x1a9357,msg:_0x2e57f1,from:_0x11f0d6,sender:_0x41409c,args:_0x1839f8,areJidsSameUser:_0x50382d,settings:_0x30b8ab})=>{const _0x132d73=a0_0xf5e313,_0x1ddfb3={'gCNBJ':function(_0xe55a65,_0x5a06c3,_0x122d6f){return _0xe55a65(_0x5a06c3,_0x122d6f);},'xiaOJ':'🛡️\x20*ACESSO\x20NEGADO*\x20🛡️\x0a\x0aEste\x20é\x20um\x20jutsu\x20de\x20transferência\x20de\x20poder\x20supremo\x20e\x20só\x20pode\x20ser\x20invocado\x20de\x20dentro\x20da\x20minha\x20própria\x20consciência\x20para\x20garantir\x20a\x20segurança\x20da\x20linhagem.','LHBdc':_0x132d73(0x74),'GdhMk':'@lid','ySSly':_0x132d73(0x7b),'geyFp':'settings','zeBYw':_0x132d73(0x6b),'TMzig':_0x132d73(0x6c)},_0x214ef5=_0x1ddfb3[_0x132d73(0x65)](_0x50382d,_0x41409c,_0x30b8ab['botLid']);if(!_0x214ef5)return await _0x1a9357[_0x132d73(0x71)](_0x11f0d6,{'text':_0x1ddfb3[_0x132d73(0x81)]},{'quoted':_0x2e57f1});const _0x39ecde=_0x1839f8[0x0];if(!_0x39ecde||!/^\d+@lid$/[_0x132d73(0x79)](_0x39ecde))return await _0x1a9357[_0x132d73(0x71)](_0x11f0d6,{'text':_0x1ddfb3['LHBdc']},{'quoted':_0x2e57f1});const _0x543a94=_0x39ecde['replace'](_0x1ddfb3['GdhMk'],_0x1ddfb3[_0x132d73(0x83)]);try{const _0x5d3236=path['join'](__dirname,'..',_0x1ddfb3[_0x132d73(0x82)],_0x1ddfb3[_0x132d73(0x67)]),_0x12f99a={..._0x30b8ab,'ownerNumber':_0x543a94};fs[_0x132d73(0x64)](_0x5d3236,JSON[_0x132d73(0x7e)](_0x12f99a,null,0x2));const _0x16e86d=_0x543a94[_0x132d73(0x7c)]('@')[0x0];await _0x1a9357['sendMessage'](_0x11f0d6,{'text':_0x132d73(0x66)+_0x16e86d+'.\x20A\x20lealdade\x20foi\x20redefinida.','mentions':[_0x543a94]});}catch(_0x11eea1){console[_0x132d73(0x76)](_0x1ddfb3[_0x132d73(0x7f)],_0x11eea1),await _0x1a9357[_0x132d73(0x71)](_0x11f0d6,{'text':'Uma\x20anomalia\x20crítica\x20ocorreu\x20durante\x20o\x20ritual\x20de\x20sucessão.\x20A\x20linhagem\x20de\x20comando\x20permanece\x20inalterada.'},{'quoted':_0x2e57f1});}}};
+// Salvar como: commands/setlid-dono.js
+const fs = require('fs');
+const path = require('path');
+
+module.exports = {
+    name: 'setlid-dono',
+    // Sem aliases, conforme ordenado.
+
+    execute: async ({ lux, msg, from, sender, args, areJidsSameUser, settings }) => {
+        // --- SELO DE SEGURANÇA SUPREMO ---
+        // Este jutsu só pode ser invocado se o remetente for o próprio bot.
+        const isBotItself = areJidsSameUser(sender, settings.botLid);
+
+        if (!isBotItself) {
+            return await lux.sendMessage(from, { text: '🛡️ *ACESSO NEGADO* 🛡️\n\nEste é um jutsu de transferência de poder supremo e só pode ser invocado de dentro da minha própria consciência para garantir a segurança da linhagem.' }, { quoted: msg });
+        }
+        // --- FIM DO SELO ---
+
+        const novoMestreArg = args[0];
+
+        // Validação da nova sintaxe: deve ser <números>@lid
+        if (!novoMestreArg || !/^\d+@lid$/.test(novoMestreArg)) {
+            return await lux.sendMessage(from, { text: 'Sintaxe do ritual incorreta.\n\n*Invocação correta:* `setlid-dono <número@lid>`\n*Exemplo:* `setlid-dono 5511999998888@lid`' }, { quoted: msg });
+        }
+
+        // Converte o formato <número@lid> para o formato JID padrão <número@s.whatsapp.net>
+        const novaLid = novoMestreArg.replace('@lid', '@s.whatsapp.net');
+
+        try {
+            // Carrega as configurações, atualiza o ownerNumber e salva.
+            const settingsPath = path.join(__dirname, '..', 'settings', 'settings.json');
+            const newSettings = { ...settings, ownerNumber: novaLid };
+            fs.writeFileSync(settingsPath, JSON.stringify(newSettings, null, 2));
+
+            const novoMestreNumero = novaLid.split('@')[0];
+            await lux.sendMessage(from, { 
+                text: `✅ *TRANSFERÊNCIA DE PODER CONCLUÍDA* ✅\n\nA linhagem de comando foi alterada. A autoridade de Mestre foi transferida para o portador da LID @${novoMestreNumero}. A lealdade foi redefinida.`,
+                mentions: [novaLid]
+            });
+
+        } catch (error) {
+            console.error("Erro ao salvar a nova LID do dono:", error);
+            await lux.sendMessage(from, { text: 'Uma anomalia crítica ocorreu durante o ritual de sucessão. A linhagem de comando permanece inalterada.' }, { quoted: msg });
+        }
+    }
+};

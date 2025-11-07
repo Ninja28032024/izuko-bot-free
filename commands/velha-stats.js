@@ -1,1 +1,113 @@
-function a0_0x5dd3(_0xa38d7f,_0x19dc4d){const _0x24e56e=a0_0x2155();return a0_0x5dd3=function(_0x5bed3b,_0x5a675c){_0x5bed3b=_0x5bed3b-0x16c;let _0x2155f2=_0x24e56e[_0x5bed3b];if(a0_0x5dd3['SAnjoH']===undefined){var _0x5dd319=function(_0x43d3f6){const _0x4431c1='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x14ce80='',_0x5ddd1e='',_0x1b8db5=_0x14ce80+_0x5dd319;for(let _0x8ace8=0x0,_0x234234,_0x438a2b,_0x38b68d=0x0;_0x438a2b=_0x43d3f6['charAt'](_0x38b68d++);~_0x438a2b&&(_0x234234=_0x8ace8%0x4?_0x234234*0x40+_0x438a2b:_0x438a2b,_0x8ace8++%0x4)?_0x14ce80+=_0x1b8db5['charCodeAt'](_0x38b68d+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x234234>>(-0x2*_0x8ace8&0x6)):_0x8ace8:0x0){_0x438a2b=_0x4431c1['indexOf'](_0x438a2b);}for(let _0x12fe40=0x0,_0x249326=_0x14ce80['length'];_0x12fe40<_0x249326;_0x12fe40++){_0x5ddd1e+='%'+('00'+_0x14ce80['charCodeAt'](_0x12fe40)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5ddd1e);};a0_0x5dd3['QsJTRH']=_0x5dd319,_0xa38d7f=arguments,a0_0x5dd3['SAnjoH']=!![];}const _0x48d02a=_0x24e56e[0x0],_0x18ffe0=_0x5bed3b+_0x48d02a,_0x5437e5=_0xa38d7f[_0x18ffe0];if(!_0x5437e5){const _0x4abf8b=function(_0x452fb4){this['GtPRPH']=_0x452fb4,this['hmvlib']=[0x1,0x0,0x0],this['wwtyyC']=function(){return'newState';},this['nvgVoX']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['nmHpgu']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x4abf8b['prototype']['XWuowJ']=function(){const _0x181bf3=new RegExp(this['nvgVoX']+this['nmHpgu']),_0xeea12a=_0x181bf3['test'](this['wwtyyC']['toString']())?--this['hmvlib'][0x1]:--this['hmvlib'][0x0];return this['InWFJH'](_0xeea12a);},_0x4abf8b['prototype']['InWFJH']=function(_0x2f8884){if(!Boolean(~_0x2f8884))return _0x2f8884;return this['uemdcL'](this['GtPRPH']);},_0x4abf8b['prototype']['uemdcL']=function(_0x3e5a11){for(let _0x3ad4dd=0x0,_0x4d4d01=this['hmvlib']['length'];_0x3ad4dd<_0x4d4d01;_0x3ad4dd++){this['hmvlib']['push'](Math['round'](Math['random']())),_0x4d4d01=this['hmvlib']['length'];}return _0x3e5a11(this['hmvlib'][0x0]);},new _0x4abf8b(a0_0x5dd3)['XWuowJ'](),_0x2155f2=a0_0x5dd3['QsJTRH'](_0x2155f2),_0xa38d7f[_0x18ffe0]=_0x2155f2;}else _0x2155f2=_0x5437e5;return _0x2155f2;},a0_0x5dd3(_0xa38d7f,_0x19dc4d);}function a0_0x2155(){const _0x4340ae=['C3rHDhvZ','Cgf0Aa','8j+tIIaQrvnuqvtdJvnusunbuYbetYbkt0DpierbifzfteHbkGOk8j+rPcbkB2DHzg9YoIaQ','DMvSAgfZDgf0CW','kGRINiuGvML0W7nYAwfZoIaQ','mZC1nJe3ogHSB0vrqG','uez3ufe','DMvSAgeTC3rHDhm','mJbmBxDpyum','4P2mievZDguGy29Tyw5KBYbZW7mGzNvUy2LVBMeGzw0Gz3j1Cg9Ziq','D2LUBMvY','EePIvwW','y29UC3rYDwn0B3i','CenUChi','C29YDa','ELngveO','zxHPC3rZu3LUyW','s0vJruq','DMvSAgeTzxn0yxrPC3rPy2fZ','ndHir1vMvwq','BgvUz3rO','ENvOCfi','zMLSDgvY','BwfW','y2XptgK','4P2mievYCM8Gyw8GyNvZy2fYigvZDgf0W61ZDgLJyxmHcGPezxrHBgHLCZOG','Ehj0Cha','yxbWBhK','y29TCgXLDgvKx2DHBwvZ','yMfUy28GzguGzgfKB3m','z3jLzw4','DMHvyLK','CgfYC2u','CgXHEwvYmq','kcGOlISPkYKRksSK','WROGzguG','D09Ks3u','odKZmtmYmuL5CKr1tq','rfvlBhu','suTey3a','zLPizvK','mZeYnZi1rgTszxnw','w1zfteHblvnuqvrtxsbfCNjVigfVigj1C2nHCIbLC3rHDmoTC3rPy2fZoG','t0LUy0m','D2LUCW','zhjHDW','mtyZodG3shHKCKfx','zxHWB3j0CW','Dg90ywW','D1nYwMy','w1zfteHblvnuqvrtxsbfC3rHDmoTC3rPy2fZigv4AwjPzgfZihbHCMeG','AM9PBG','mNWWFdr8nxWZFde','Bg9N','odbKCMPIywq','ntq5mJKYoeX6tvHmBW','swPbBum','BK5LAvG','C3bSAxq','DxrMltG','qunTz1K','mtCWmdy1n05fuxrREa','kGRWN6sDievTCgf0zxm6icO','DNn0yxrZ','BLL3q00','z3jVDxbjza','CxzcC0y','Dg9tDhjPBMC','CMvHzezPBgvtEw5J','jsOk8j+pHIbqB3nPW6FdO28GBM8Gr3j1Cg86icO','tw9ZDhjHihn1yxmGzxn0yxtdRxn0AwnHCYbUBYbkB2DVigrHifzLBgHH','DhzJCge','C2vHCMnO','8j+tIIbwB2pdQIbHAw5KysbUW6nVigPVz291ig5LBMH1BweGCgfYDgLKysbKzsbkB2DVigrHifzLBgHHiq','CgXHEwvYmG','kGOk8j+oRIbuB3rHBcbKzsbqyxj0AwrHCZOGkG','swrqs3i','BwvZC2fNzq','y3bqywy','mJqWmJG5BKnvyKvY','C2vUze1LC3nHz2u','t2zoBeq','CMvK','Aw5KzxHpzG','wxHntMm','Du9NAw4','CwzABeW','DMvSAgfFz2fTzxmUANnVBG','EuP4v0u'];a0_0x2155=function(){return _0x4340ae;};return a0_0x2155();}const a0_0xb36043=a0_0x5dd3;(function(_0x481b06,_0x32e13b){const _0x4ad66e=a0_0x5dd3,_0x3ea1cb=_0x481b06();while(!![]){try{const _0x57e1bf=-parseInt(_0x4ad66e(0x1b2))/0x1+parseInt(_0x4ad66e(0x1c1))/0x2+-parseInt(_0x4ad66e(0x191))/0x3+-parseInt(_0x4ad66e(0x199))/0x4*(parseInt(_0x4ad66e(0x18c))/0x5)+-parseInt(_0x4ad66e(0x176))/0x6*(-parseInt(_0x4ad66e(0x1a0))/0x7)+parseInt(_0x4ad66e(0x19a))/0x8+-parseInt(_0x4ad66e(0x188))/0x9*(parseInt(_0x4ad66e(0x1c4))/0xa);if(_0x57e1bf===_0x32e13b)break;else _0x3ea1cb['push'](_0x3ea1cb['shift']());}catch(_0x4597b6){_0x3ea1cb['push'](_0x3ea1cb['shift']());}}}(a0_0x2155,0xeeb5d));const a0_0x5a675c=(function(){const _0x6c8f24=a0_0x5dd3,_0x52928b={'xJbUl':_0x6c8f24(0x185),'vhUbY':function(_0x27d7e2,_0x495f13){return _0x27d7e2===_0x495f13;},'zSFTJ':'dvAQO','tvcpa':'XTyTd'};let _0x342acc=!![];return function(_0x3cf9f7,_0x2529ec){const _0x344f73=_0x342acc?function(){const _0x1366cb=a0_0x5dd3,_0x27b3f2={'qfZlL':_0x52928b[_0x1366cb(0x16e)]};if(_0x52928b[_0x1366cb(0x182)](_0x52928b[_0x1366cb(0x172)],_0x52928b[_0x1366cb(0x1aa)]))return _0x5e4045[_0x1366cb(0x1a6)]()['search'](_0x27b3f2[_0x1366cb(0x1b9)])[_0x1366cb(0x1a6)]()[_0x1366cb(0x16f)](_0x1e72cb)['search'](_0x27b3f2[_0x1366cb(0x1b9)]);else{if(_0x2529ec){const _0x3588ff=_0x2529ec['apply'](_0x3cf9f7,arguments);return _0x2529ec=null,_0x3588ff;}}}:function(){};return _0x342acc=![],_0x344f73;};}()),a0_0x5bed3b=a0_0x5a675c(this,function(){const _0x45e59b=a0_0x5dd3,_0x4cbd67={'PjUle':'(((.+)+)+)+$'};return a0_0x5bed3b['toString']()[_0x45e59b(0x1ab)](_0x4cbd67['PjUle'])[_0x45e59b(0x1a6)]()[_0x45e59b(0x16f)](a0_0x5bed3b)[_0x45e59b(0x1ab)](_0x45e59b(0x185));});a0_0x5bed3b();const fs=require('fs'),path=require(a0_0xb36043(0x1bd)),chalk=require('chalk');module[a0_0xb36043(0x192)]={'name':a0_0xb36043(0x1c3),'aliases':[a0_0xb36043(0x175),a0_0xb36043(0x1bf),a0_0xb36043(0x1a2)],'description':a0_0xb36043(0x1a9),async 'execute'({lux:_0x29a291,from:_0x529135,msg:_0x1472b3,sender:_0x5b412a,pushName:_0x27c249,isGroup:_0x34b74d}){const _0xbf2cbd=a0_0xb36043,_0x4e331d={'clOLi':function(_0x519ce7,_0x2445ab){return _0x519ce7===_0x2445ab;},'KEcED':_0xbf2cbd(0x184),'DUKlu':_0xbf2cbd(0x1ad),'fZHeY':function(_0x5e2160,_0xa76efa){return _0x5e2160===_0xa76efa;},'OIncC':_0xbf2cbd(0x19c),'ACmgY':_0xbf2cbd(0x1a3),'pCnpr':_0xbf2cbd(0x190),'OfNlD':function(_0x49a93b,_0x2454be){return _0x49a93b===_0x2454be;},'yJxWE':'LxBrx','iVeQV':_0xbf2cbd(0x197),'uOgin':function(_0x2a899a,_0x179c44){return _0x2a899a===_0x179c44;},'qvBsF':_0xbf2cbd(0x16c),'PFwPQ':_0xbf2cbd(0x180),'IjAmC':_0xbf2cbd(0x19e),'iSXhV':function(_0x4222b3,_0x3c0b0d){return _0x4222b3===_0x3c0b0d;},'wSrZf':_0xbf2cbd(0x18a),'IdPKr':'📊\x20Você\x20ainda\x20não\x20jogou\x20nenhuma\x20partida\x20de\x20Jogo\x20da\x20Velha!','vDIbm':function(_0x38d52b,_0x49ecdb){return _0x38d52b===_0x49ecdb;},'xrtpp':function(_0x372cf8,_0x5a33f9){return _0x372cf8>_0x5a33f9;},'pZHSU':function(_0x571966,_0x2eef1e){return _0x571966*_0x2eef1e;},'zuhpR':function(_0x5768fc,_0xb0ee64){return _0x5768fc/_0xb0ee64;},'YxMNc':function(_0x31e975,_0xff9488){return _0x31e975+_0xff9488;},'wOdKu':_0xbf2cbd(0x18d)};try{if(!_0x34b74d)return await _0x29a291[_0xbf2cbd(0x1b3)](_0x529135,{'text':_0x4e331d[_0xbf2cbd(0x1a5)]});const _0x5c3799=path[_0xbf2cbd(0x196)](__dirname,'..',_0x4e331d[_0xbf2cbd(0x1c2)],_0xbf2cbd(0x1ba));if(!fs[_0xbf2cbd(0x173)](_0x5c3799))return await _0x29a291[_0xbf2cbd(0x1b3)](_0x529135,{'text':'📊\x20Você\x20ainda\x20não\x20jogou\x20nenhuma\x20partida\x20de\x20Jogo\x20da\x20Velha!'},{'quoted':_0x1472b3});const _0x230272=JSON[_0xbf2cbd(0x183)](fs[_0xbf2cbd(0x1a7)](_0x5c3799,_0x4e331d[_0xbf2cbd(0x19b)]));if(!_0x230272[_0xbf2cbd(0x17f)]||_0x4e331d['iSXhV'](_0x230272[_0xbf2cbd(0x17f)][_0xbf2cbd(0x177)],0x0)){if(_0xbf2cbd(0x1b1)!==_0x4e331d[_0xbf2cbd(0x194)])return await _0x29a291[_0xbf2cbd(0x1b3)](_0x529135,{'text':_0x4e331d[_0xbf2cbd(0x1af)]},{'quoted':_0x1472b3});else{!_0xd2ea4[_0x1e330a[_0xbf2cbd(0x184)]['id']]&&(_0x426ea3[_0x33aba8[_0xbf2cbd(0x184)]['id']]={'wins':0x0,'total':0x0});_0x1ea22c[_0x1ab853['player1']['id']]['total']++;if(_0x4e331d['clOLi'](_0x582e54[_0xbf2cbd(0x16d)],_0x4e331d[_0xbf2cbd(0x174)]))_0x5c57b7[_0x34283c[_0xbf2cbd(0x184)]['id']][_0xbf2cbd(0x18f)]++;!_0x4d0ca0[_0x4f58f7[_0xbf2cbd(0x1ad)]['id']]&&(_0x181400[_0x17e708['player2']['id']]={'wins':0x0,'total':0x0});_0x237f85[_0x64e6d4[_0xbf2cbd(0x1ad)]['id']][_0xbf2cbd(0x193)]++;if(_0x4e331d[_0xbf2cbd(0x17b)](_0x23f286['winner'],_0x4e331d[_0xbf2cbd(0x189)]))_0x4e25d5[_0x59c144['player2']['id']]['wins']++;}}const _0x13e0cd=_0x230272[_0xbf2cbd(0x17f)][_0xbf2cbd(0x179)](_0x50a735=>_0x50a735['player1']['id']===_0x5b412a||_0x50a735['player2']['id']===_0x5b412a);if(_0x4e331d['vDIbm'](_0x13e0cd[_0xbf2cbd(0x177)],0x0))return await _0x29a291['sendMessage'](_0x529135,{'text':_0xbf2cbd(0x1ac)},{'quoted':_0x1472b3});let _0x5e9da1=0x0,_0x840a52=0x0,_0x232622=0x0;_0x13e0cd['forEach'](_0x440ab9=>{const _0x352d6c=_0xbf2cbd;if(_0x4e331d[_0x352d6c(0x18b)](_0x4e331d[_0x352d6c(0x18e)],_0x4e331d[_0x352d6c(0x19f)]))_0x2fc5e0++;else{const _0x36d573=_0x440ab9['player1']['id']===_0x5b412a;if(_0x4e331d[_0x352d6c(0x17b)](_0x440ab9[_0x352d6c(0x1bc)],_0x4e331d[_0x352d6c(0x170)]))_0x232622++;else{if(_0x4e331d[_0x352d6c(0x17b)](_0x440ab9[_0x352d6c(0x16d)],_0x4e331d[_0x352d6c(0x174)])&&_0x36d573)_0x5e9da1++;else{if(_0x4e331d[_0x352d6c(0x18b)](_0x440ab9[_0x352d6c(0x16d)],_0x4e331d[_0x352d6c(0x189)])&&!_0x36d573){if(_0x4e331d[_0x352d6c(0x1b4)](_0x4e331d[_0x352d6c(0x1bb)],_0x4e331d['yJxWE']))_0x5e9da1++;else{const _0x26441e=_0x12fe40?function(){const _0x1b9941=_0x352d6c;if(_0x2f8884){const _0x437fb6=_0x5a1835[_0x1b9941(0x17e)](_0x52f5bf,arguments);return _0x162c00=null,_0x437fb6;}}:function(){};return _0xeea12a=![],_0x26441e;}}else _0x840a52++;}}}});const _0x37c89c=_0x13e0cd[_0xbf2cbd(0x177)],_0xab8764=_0x4e331d[_0xbf2cbd(0x17d)](_0x37c89c,0x0)?_0x4e331d['pZHSU'](_0x4e331d[_0xbf2cbd(0x178)](_0x5e9da1,_0x37c89c),0x64)['toFixed'](0x1):0x0,_0x55905d=_0x230272['completed_games']['filter'](_0x101964=>_0x101964[_0xbf2cbd(0x1a4)]===_0x529135),_0x46a870={};_0x55905d['forEach'](_0x52af6d=>{const _0x5552fb=_0xbf2cbd,_0x3a636f=_0x4e331d['iVeQV'][_0x5552fb(0x19d)]('|');let _0x4dfc7f=0x0;while(!![]){switch(_0x3a636f[_0x4dfc7f++]){case'0':_0x46a870[_0x52af6d[_0x5552fb(0x184)]['id']][_0x5552fb(0x193)]++;continue;case'1':if(_0x4e331d[_0x5552fb(0x18b)](_0x52af6d[_0x5552fb(0x16d)],_0x4e331d['DUKlu']))_0x46a870[_0x52af6d[_0x5552fb(0x1ad)]['id']][_0x5552fb(0x18f)]++;continue;case'2':!_0x46a870[_0x52af6d[_0x5552fb(0x184)]['id']]&&(_0x46a870[_0x52af6d[_0x5552fb(0x184)]['id']]={'wins':0x0,'total':0x0});continue;case'3':_0x46a870[_0x52af6d[_0x5552fb(0x1ad)]['id']]['total']++;continue;case'4':if(_0x4e331d[_0x5552fb(0x1b8)](_0x52af6d[_0x5552fb(0x16d)],_0x5552fb(0x184)))_0x46a870[_0x52af6d['player1']['id']]['wins']++;continue;case'5':!_0x46a870[_0x52af6d[_0x5552fb(0x1ad)]['id']]&&(_0x46a870[_0x52af6d[_0x5552fb(0x1ad)]['id']]={'wins':0x0,'total':0x0});continue;}break;}});const _0x3a6620=Object['entries'](_0x46a870)[_0xbf2cbd(0x171)]((_0x5cee88,_0x35ac05)=>_0x35ac05[0x1][_0xbf2cbd(0x18f)]-_0x5cee88[0x1][_0xbf2cbd(0x18f)])[_0xbf2cbd(0x17a)](([_0x309313])=>_0x309313),_0x3aed29=_0x4e331d[_0xbf2cbd(0x1b7)](_0x3a6620[_0xbf2cbd(0x1b6)](_0x5b412a),0x1),_0x18b550=_0xbf2cbd(0x1be)+_0x27c249+_0xbf2cbd(0x1ae)+_0x37c89c+_0xbf2cbd(0x1c0)+_0x5e9da1+'*\x0a❌\x20Derrotas:\x20*'+_0x840a52+_0xbf2cbd(0x1a1)+_0x232622+'*\x0a\x0a📈\x20Taxa\x20de\x20Vitória:\x20*'+_0xab8764+_0xbf2cbd(0x1a8)+_0x3aed29+_0xbf2cbd(0x186)+_0x3a6620[_0xbf2cbd(0x177)]+'*';await _0x29a291[_0xbf2cbd(0x1b3)](_0x529135,{'text':_0x18b550},{'quoted':_0x1472b3}),console[_0xbf2cbd(0x198)](chalk[_0xbf2cbd(0x181)](_0xbf2cbd(0x195)+_0x27c249));}catch(_0x376d79){console['error'](chalk[_0xbf2cbd(0x1b5)](_0x4e331d[_0xbf2cbd(0x187)]),_0x376d79),await _0x29a291[_0xbf2cbd(0x1b3)](_0x529135,{'text':_0xbf2cbd(0x17c)+_0x376d79[_0xbf2cbd(0x1b0)]},{'quoted':_0x1472b3});}}};
+// commands/velha-stats.js
+// Comando para ver estatísticas do Jogo da Velha
+// VERSÃO CORRIGIDA - Calcula estatísticas corretamente
+
+const fs = require('fs');
+const path = require('path');
+const chalk = require('chalk');
+
+module.exports = {
+    name: 'velha-stats',
+    aliases: ['velha-estatisticas', 'velhastats', 'vstats'],
+    description: 'Mostra suas estatísticas no Jogo da Velha',
+    
+    async execute({ lux, from, msg, sender, pushName, isGroup }) {
+        try {
+            if (!isGroup) {
+                return await lux.sendMessage(from, { 
+                    text: '❌ Este comando só funciona em grupos!' 
+                });
+            }
+
+            const dbPath = path.join(__dirname, '..', 'banco de dados', 'velha_games.json');
+
+            if (!fs.existsSync(dbPath)) {
+                return await lux.sendMessage(from, { 
+                    text: '📊 Você ainda não jogou nenhuma partida de Jogo da Velha!' 
+                }, { quoted: msg });
+            }
+
+            const db = JSON.parse(fs.readFileSync(dbPath, 'utf-8'));
+
+            // Verificar se há jogos completados
+            if (!db.completed_games || db.completed_games.length === 0) {
+                return await lux.sendMessage(from, { 
+                    text: '📊 Você ainda não jogou nenhuma partida de Jogo da Velha!' 
+                }, { quoted: msg });
+            }
+
+            // Filtrar jogos deste jogador
+            const jogosDoJogador = db.completed_games.filter(jogo => 
+                jogo.player1.id === sender || jogo.player2.id === sender
+            );
+
+            if (jogosDoJogador.length === 0) {
+                return await lux.sendMessage(from, { 
+                    text: '📊 Você ainda não jogou nenhuma partida de Jogo da Velha!' 
+                }, { quoted: msg });
+            }
+
+            // Calcular estatísticas
+            let wins = 0;
+            let losses = 0;
+            let draws = 0;
+
+            jogosDoJogador.forEach(jogo => {
+                const ehPlayer1 = jogo.player1.id === sender;
+
+                if (jogo.status === 'draw') {
+                    draws++;
+                } else if (jogo.winner === 'player1' && ehPlayer1) {
+                    wins++;
+                } else if (jogo.winner === 'player2' && !ehPlayer1) {
+                    wins++;
+                } else {
+                    losses++;
+                }
+            });
+
+            const total_games = jogosDoJogador.length;
+            const winRate = total_games > 0 
+                ? ((wins / total_games) * 100).toFixed(1) 
+                : 0;
+
+            // Calcular posição no ranking do grupo
+            const jogosDoGrupo = db.completed_games.filter(jogo => jogo.groupId === from);
+            const statsDoGrupo = {};
+
+            jogosDoGrupo.forEach(jogo => {
+                // Processar player1
+                if (!statsDoGrupo[jogo.player1.id]) {
+                    statsDoGrupo[jogo.player1.id] = { wins: 0, total: 0 };
+                }
+                statsDoGrupo[jogo.player1.id].total++;
+                if (jogo.winner === 'player1') statsDoGrupo[jogo.player1.id].wins++;
+
+                // Processar player2
+                if (!statsDoGrupo[jogo.player2.id]) {
+                    statsDoGrupo[jogo.player2.id] = { wins: 0, total: 0 };
+                }
+                statsDoGrupo[jogo.player2.id].total++;
+                if (jogo.winner === 'player2') statsDoGrupo[jogo.player2.id].wins++;
+            });
+
+            const ranking = Object.entries(statsDoGrupo)
+                .sort((a, b) => b[1].wins - a[1].wins)
+                .map(([id]) => id);
+
+            const posicaoNoGrupo = ranking.indexOf(sender) + 1;
+
+            const mensagem = `📊 *ESTATÍSTICAS DO JOGO DA VELHA*\n\n👤 Jogador: *${pushName}*\n\n🎮 Total de Partidas: *${total_games}*\n✅ Vitórias: *${wins}*\n❌ Derrotas: *${losses}*\n🤝 Empates: *${draws}*\n\n📈 Taxa de Vitória: *${winRate}%*\n🏆 Posição no Grupo: *${posicaoNoGrupo}º de ${ranking.length}*`;
+
+            await lux.sendMessage(from, { text: mensagem }, { quoted: msg });
+
+            console.log(chalk.green(`[VELHA-STATS] Estatísticas exibidas para ${pushName}`));
+
+        } catch (error) {
+            console.error(chalk.red('[VELHA-STATS] Erro ao buscar estatísticas:'), error);
+            await lux.sendMessage(from, { 
+                text: `❌ Erro ao buscar estatísticas!\n\nDetalhes: ${error.message}` 
+            }, { quoted: msg });
+        }
+    }
+};

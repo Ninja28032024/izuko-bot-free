@@ -1,1 +1,46 @@
-const a0_0x1a19d7=a0_0x41c3;(function(_0x89b604,_0x2890a5){const _0x114ed6=a0_0x41c3,_0x2d776b=_0x89b604();while(!![]){try{const _0x25a60c=parseInt(_0x114ed6(0x100))/0x1+-parseInt(_0x114ed6(0x113))/0x2+parseInt(_0x114ed6(0x106))/0x3*(parseInt(_0x114ed6(0x111))/0x4)+-parseInt(_0x114ed6(0x10b))/0x5*(parseInt(_0x114ed6(0x11b))/0x6)+parseInt(_0x114ed6(0x117))/0x7+parseInt(_0x114ed6(0x103))/0x8*(parseInt(_0x114ed6(0xfd))/0x9)+-parseInt(_0x114ed6(0x10a))/0xa*(parseInt(_0x114ed6(0x104))/0xb);if(_0x25a60c===_0x2890a5)break;else _0x2d776b['push'](_0x2d776b['shift']());}catch(_0x4267e8){_0x2d776b['push'](_0x2d776b['shift']());}}}(a0_0x344f,0xa9af3));function a0_0x41c3(_0x39868d,_0x58cc5f){const _0x5d18ce=a0_0x344f();return a0_0x41c3=function(_0x1be5c3,_0x4c36b0){_0x1be5c3=_0x1be5c3-0xfa;let _0x344f91=_0x5d18ce[_0x1be5c3];if(a0_0x41c3['HpCHPj']===undefined){var _0x41c33c=function(_0x33fa47){const _0x2070e1='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x471d7d='',_0x380f36='',_0xa61b8b=_0x471d7d+_0x41c33c;for(let _0x274d63=0x0,_0x416581,_0x33097b,_0x32b197=0x0;_0x33097b=_0x33fa47['charAt'](_0x32b197++);~_0x33097b&&(_0x416581=_0x274d63%0x4?_0x416581*0x40+_0x33097b:_0x33097b,_0x274d63++%0x4)?_0x471d7d+=_0xa61b8b['charCodeAt'](_0x32b197+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x416581>>(-0x2*_0x274d63&0x6)):_0x274d63:0x0){_0x33097b=_0x2070e1['indexOf'](_0x33097b);}for(let _0x4357a8=0x0,_0x8d3cc8=_0x471d7d['length'];_0x4357a8<_0x8d3cc8;_0x4357a8++){_0x380f36+='%'+('00'+_0x471d7d['charCodeAt'](_0x4357a8)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x380f36);};a0_0x41c3['OBnlML']=_0x41c33c,_0x39868d=arguments,a0_0x41c3['HpCHPj']=!![];}const _0x46fe3f=_0x5d18ce[0x0],_0x3ccb5d=_0x1be5c3+_0x46fe3f,_0x2f9964=_0x39868d[_0x3ccb5d];if(!_0x2f9964){const _0x298391=function(_0x13a13c){this['AzvcPF']=_0x13a13c,this['ZOEsYy']=[0x1,0x0,0x0],this['ijzVMp']=function(){return'newState';},this['ZgKemq']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['frwuZv']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x298391['prototype']['SaTzdS']=function(){const _0x2f7772=new RegExp(this['ZgKemq']+this['frwuZv']),_0x1b8187=_0x2f7772['test'](this['ijzVMp']['toString']())?--this['ZOEsYy'][0x1]:--this['ZOEsYy'][0x0];return this['OiUAbj'](_0x1b8187);},_0x298391['prototype']['OiUAbj']=function(_0x5d4162){if(!Boolean(~_0x5d4162))return _0x5d4162;return this['kGFedC'](this['AzvcPF']);},_0x298391['prototype']['kGFedC']=function(_0x317fca){for(let _0x50d5cc=0x0,_0x29cdfb=this['ZOEsYy']['length'];_0x50d5cc<_0x29cdfb;_0x50d5cc++){this['ZOEsYy']['push'](Math['round'](Math['random']())),_0x29cdfb=this['ZOEsYy']['length'];}return _0x317fca(this['ZOEsYy'][0x0]);},new _0x298391(a0_0x41c3)['SaTzdS'](),_0x344f91=a0_0x41c3['OBnlML'](_0x344f91),_0x39868d[_0x3ccb5d]=_0x344f91;}else _0x344f91=_0x2f9964;return _0x344f91;},a0_0x41c3(_0x39868d,_0x58cc5f);}const a0_0x4c36b0=(function(){let _0x510136=!![];return function(_0x9e3f38,_0x327a5d){const _0x173947=_0x510136?function(){const _0x51969f=a0_0x41c3;if(_0x327a5d){const _0xbada8c=_0x327a5d[_0x51969f(0xfc)](_0x9e3f38,arguments);return _0x327a5d=null,_0xbada8c;}}:function(){};return _0x510136=![],_0x173947;};}()),a0_0x1be5c3=a0_0x4c36b0(this,function(){const _0x3a113b=a0_0x41c3,_0x5bcc42={'YKmtH':_0x3a113b(0x10f)};return a0_0x1be5c3[_0x3a113b(0xfa)]()[_0x3a113b(0x114)](_0x5bcc42[_0x3a113b(0xff)])[_0x3a113b(0xfa)]()[_0x3a113b(0x116)](a0_0x1be5c3)[_0x3a113b(0x114)](_0x5bcc42[_0x3a113b(0xff)]);});function a0_0x344f(){const _0x29e2b7=['BgLUA2rVz3j1Cg8','twvZDhjLlcb1BweGzM9YW6DHihnVBwjYAweGBwuGAw1WzwrLigrLigzVCMPHCIbVigXPBMSGzguGy29UDML0zs4GvMvYAwzPCxvLig1PBMHHCYbWzxjTAxnZW7vLCYbVDsb0zw50zsbUB3zHBwvUDguU','mtKZoevjAMPIAq','z3bSAw5R','Dg9tDhjPBMC','qxbLBMfZig9ZigDLBMvYywLZicHHzg1PBNmPigrLC3rLignSW6mGCg9Kzw0GC29SAwnPDgfYigeGy2HHDMuGzguGywnLC3nVlG','yxbWBhK','mtaYntKXotLIqvPMq1a','twvZDhjLlcbWCMvJAxnVihbVCNrHCIbVihnLBg8GzguGz3vHCMrPW6nVicHHzg1PBIKGCgfYysbWB2rLCIbMB3jQyxiGBYbSAw5RigrLignVBNzPDguU','wuTTDeG','nZKZmtm1D0PvAhnY','z3jVDxbnzxrHzgf0yq','Ahr0Chm6lY9JAgf0lNDOyxrZyxbWlMnVBs8','oefttLLHAq','nJKZnZm3wwHMzfLv','twvZDhjLlcbLC3rLihbLCMDHBwLUAg8GC8oZihbVzguGC2vYigLUDM9JywrVigrLBNrYBYbKzsb1BsbJBmoJicHNCNvWBYKU','mZnjugPituq','C2vUze1LC3nHz2u','zxjYB3i','uuPlEeu','mtGWq1n6q2f0','mtiXnZvPt2jJsw8','yM90tgLK','8j+tNcaQq0HbvKuGre8Gq0ZdGYbgt1jkqurbkIdWN5oCcGPhzw5LCMfSlcbJB25MB3jTzsbZDweGB3jKzw0SigzVCMPLAsbVihbVCNrHBcbKzsbHy2vZC28GCgfYysbLC3rLigrVBCoTBMLVlGOkvxnLigvZDguGBgLUAYbJB20GC2fIzwrVCMLHihbHCMeGy29UDM9JyxiGBM92B3mGz3vLCNjLAxjVCZOk','zMLUza','kcGOlISPkYKRksSK','z3jVDxbjBNzPDgvdB2rL','mJKYodC2BgT3zgzo','BgLUAW','nti2nJy4CeTADxvk','C2vHCMnO','EhfRyK0','y29UC3rYDwn0B3i','otKXmZe5A1jeBK9q','zxHWB3j0CW'];a0_0x344f=function(){return _0x29e2b7;};return a0_0x344f();}a0_0x1be5c3(),module[a0_0x1a19d7(0x118)]={'name':'linkgp','aliases':[a0_0x1a19d7(0x112),a0_0x1a19d7(0x11c),a0_0x1a19d7(0x119)],'execute':async({lux:_0x3a5702,from:_0x34cace,msg:_0x13c1cd,isGroup:_0x31a5f7,sender:_0xaa3dbc,areJidsSameUser:_0xfab019,settings:_0x16e10d})=>{const _0x5408d9=a0_0x1a19d7,_0x57fd8b={'vWmLf':_0x5408d9(0xfb),'QJKxE':'Erro\x20ao\x20gerar\x20link\x20do\x20grupo:','xqkbM':_0x5408d9(0x11a)};if(!_0x31a5f7)return await _0x3a5702['sendMessage'](_0x34cace,{'text':_0x5408d9(0x105)},{'quoted':_0x13c1cd});const _0x4955e7=await _0x3a5702[_0x5408d9(0x101)](_0x34cace),_0x47e8b9=_0x4955e7['participants'][_0x5408d9(0x10e)](_0xfe9011=>_0xfab019(_0xfe9011['id'],_0xaa3dbc))?.['admin'],_0x305242=_0x4955e7['participants'][_0x5408d9(0x10e)](_0x4c228c=>_0xfab019(_0x4c228c['id'],_0x16e10d[_0x5408d9(0x10c)]))?.['admin'];if(!_0x47e8b9)return await _0x3a5702[_0x5408d9(0x107)](_0x34cace,{'text':_0x57fd8b['vWmLf']},{'quoted':_0x13c1cd});if(!_0x305242)return await _0x3a5702[_0x5408d9(0x107)](_0x34cace,{'text':_0x5408d9(0xfe)},{'quoted':_0x13c1cd});try{const _0x5b1147=await _0x3a5702[_0x5408d9(0x110)](_0x34cace),_0x3bf7e2=_0x5408d9(0x102)+_0x5b1147,_0x2e9b83=_0x5408d9(0x10d)+_0x3bf7e2;await _0x3a5702[_0x5408d9(0x107)](_0x34cace,{'text':_0x2e9b83},{'quoted':_0x13c1cd});}catch(_0x42433b){console[_0x5408d9(0x108)](_0x57fd8b[_0x5408d9(0x109)],_0x42433b),await _0x3a5702[_0x5408d9(0x107)](_0x34cace,{'text':_0x57fd8b[_0x5408d9(0x115)]},{'quoted':_0x13c1cd});}}};
+// commands/linkgp.js
+module.exports = {
+    name: 'linkgp',
+    aliases: ['link', 'gplink', 'linkdogrupo'],
+    execute: async ({ lux, from, msg, isGroup, sender, areJidsSameUser, settings }) => {
+        // 1. VERIFICAÇÃO DE AMBIENTE
+        if (!isGroup) {
+            return await lux.sendMessage(from, { text: 'Mestre, este pergaminho só pode ser invocado dentro de um clã (grupo).' }, { quoted: msg });
+        }
+
+        // 2. VERIFICAÇÃO DE PERMISSÕES
+        const groupMeta = await lux.groupMetadata(from);
+        const senderIsAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, sender))?.admin;
+        const botIsAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, settings.botLid))?.admin;
+
+        // Apenas Admins podem usar o comando
+        if (!senderIsAdmin) {
+            return await lux.sendMessage(from, { text: 'Apenas os generais (admins) deste clã podem solicitar a chave de acesso.' }, { quoted: msg });
+        }
+
+        // O Bot precisa ser admin para ter o poder de criar o link
+        if (!botIsAdmin) {
+            return await lux.sendMessage(from, { text: 'Mestre, preciso portar o selo de guardião (admin) para poder forjar o link de convite.' }, { quoted: msg });
+        }
+
+        // 3. EXECUÇÃO
+        try {
+            // Pede à API do WhatsApp para gerar o código de convite do grupo
+            const inviteCode = await lux.groupInviteCode(from);
+            const inviteLink = `https://chat.whatsapp.com/${inviteCode}`;
+
+            const resposta = `📜 *CHAVE DO CLÃ FORJADA* 📜
+
+General, conforme sua ordem, forjei o portal de acesso para este domínio.
+
+Use este link com sabedoria para convocar novos guerreiros:
+${inviteLink}`;
+
+            await lux.sendMessage(from, { text: resposta }, { quoted: msg } );
+
+        } catch (error) {
+            console.error("Erro ao gerar link do grupo:", error);
+            await lux.sendMessage(from, { text: 'Mestre, uma força sombria me impede de forjar o link de convite. Verifique minhas permissões ou tente novamente.' }, { quoted: msg });
+        }
+    }
+};

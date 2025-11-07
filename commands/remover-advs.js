@@ -1,1 +1,61 @@
-const a0_0x57072b=a0_0x26a6;function a0_0x26a6(_0x3167dd,_0x1bd314){const _0x25ace0=a0_0x4ae5();return a0_0x26a6=function(_0x5133cc,_0x129f76){_0x5133cc=_0x5133cc-0x1a8;let _0x4ae573=_0x25ace0[_0x5133cc];if(a0_0x26a6['JqzhHU']===undefined){var _0x26a6a5=function(_0xbc830b){const _0x3a1c43='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2d9e36='',_0x33865f='',_0x48bd00=_0x2d9e36+_0x26a6a5;for(let _0x31a7c5=0x0,_0x4e38af,_0x3aa02d,_0x4396db=0x0;_0x3aa02d=_0xbc830b['charAt'](_0x4396db++);~_0x3aa02d&&(_0x4e38af=_0x31a7c5%0x4?_0x4e38af*0x40+_0x3aa02d:_0x3aa02d,_0x31a7c5++%0x4)?_0x2d9e36+=_0x48bd00['charCodeAt'](_0x4396db+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x4e38af>>(-0x2*_0x31a7c5&0x6)):_0x31a7c5:0x0){_0x3aa02d=_0x3a1c43['indexOf'](_0x3aa02d);}for(let _0x181b64=0x0,_0x265a90=_0x2d9e36['length'];_0x181b64<_0x265a90;_0x181b64++){_0x33865f+='%'+('00'+_0x2d9e36['charCodeAt'](_0x181b64)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x33865f);};a0_0x26a6['HnsxNc']=_0x26a6a5,_0x3167dd=arguments,a0_0x26a6['JqzhHU']=!![];}const _0x583991=_0x25ace0[0x0],_0xaece24=_0x5133cc+_0x583991,_0x25c4c1=_0x3167dd[_0xaece24];if(!_0x25c4c1){const _0x385760=function(_0x2cffda){this['tTBhie']=_0x2cffda,this['CSteFQ']=[0x1,0x0,0x0],this['uVGZMg']=function(){return'newState';},this['cTEKMx']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['eviXqE']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x385760['prototype']['RCLETb']=function(){const _0x5e7740=new RegExp(this['cTEKMx']+this['eviXqE']),_0xb7581=_0x5e7740['test'](this['uVGZMg']['toString']())?--this['CSteFQ'][0x1]:--this['CSteFQ'][0x0];return this['RDoPdu'](_0xb7581);},_0x385760['prototype']['RDoPdu']=function(_0x25d4ce){if(!Boolean(~_0x25d4ce))return _0x25d4ce;return this['MCNnuO'](this['tTBhie']);},_0x385760['prototype']['MCNnuO']=function(_0x561870){for(let _0x4cf306=0x0,_0x4356a5=this['CSteFQ']['length'];_0x4cf306<_0x4356a5;_0x4cf306++){this['CSteFQ']['push'](Math['round'](Math['random']())),_0x4356a5=this['CSteFQ']['length'];}return _0x561870(this['CSteFQ'][0x0]);},new _0x385760(a0_0x26a6)['RCLETb'](),_0x4ae573=a0_0x26a6['HnsxNc'](_0x4ae573),_0x3167dd[_0xaece24]=_0x4ae573;}else _0x4ae573=_0x25c4c1;return _0x4ae573;},a0_0x26a6(_0x3167dd,_0x1bd314);}(function(_0x1a0a26,_0x1e17e5){const _0x1afd7c=a0_0x26a6,_0x156b81=_0x1a0a26();while(!![]){try{const _0x37582f=-parseInt(_0x1afd7c(0x1bb))/0x1+-parseInt(_0x1afd7c(0x1be))/0x2*(parseInt(_0x1afd7c(0x1e0))/0x3)+-parseInt(_0x1afd7c(0x1d9))/0x4*(-parseInt(_0x1afd7c(0x1b0))/0x5)+parseInt(_0x1afd7c(0x1d7))/0x6+-parseInt(_0x1afd7c(0x1d5))/0x7+-parseInt(_0x1afd7c(0x1db))/0x8*(parseInt(_0x1afd7c(0x1b1))/0x9)+parseInt(_0x1afd7c(0x1ad))/0xa;if(_0x37582f===_0x1e17e5)break;else _0x156b81['push'](_0x156b81['shift']());}catch(_0x232e35){_0x156b81['push'](_0x156b81['shift']());}}}(a0_0x4ae5,0x9ef63));const a0_0x129f76=(function(){const _0x1e382e=a0_0x26a6,_0x2092aa={'jhLuW':'JZKWo','OQruS':_0x1e382e(0x1d6)};let _0x5c063d=!![];return function(_0x59c426,_0x156ee2){const _0x190da1=_0x1e382e;if(_0x2092aa[_0x190da1(0x1bf)]===_0x2092aa['OQruS']){const _0x3879d3=_0x44fa5b['apply'](_0x1da6f,arguments);return _0x5eabdf=null,_0x3879d3;}else{const _0x444eb3=_0x5c063d?function(){const _0x3730d7=_0x190da1;if(_0x156ee2){const _0x139229=_0x156ee2[_0x3730d7(0x1c7)](_0x59c426,arguments);return _0x156ee2=null,_0x139229;}}:function(){};return _0x5c063d=![],_0x444eb3;}};}()),a0_0x5133cc=a0_0x129f76(this,function(){const _0x2b1466=a0_0x26a6,_0x59932f={'uKcOy':_0x2b1466(0x1ac)};return a0_0x5133cc[_0x2b1466(0x1cf)]()[_0x2b1466(0x1d3)](_0x59932f[_0x2b1466(0x1d8)])[_0x2b1466(0x1cf)]()['constructor'](a0_0x5133cc)[_0x2b1466(0x1d3)]('(((.+)+)+)+$');});a0_0x5133cc();const fs=require('fs'),path=require(a0_0x57072b(0x1ae)),dbPath=path[a0_0x57072b(0x1b8)](__dirname,'..',a0_0x57072b(0x1c1),'advertencias.json'),lerAdvertenciasDB=()=>{const _0x49d394=a0_0x57072b,_0x1b10fd={'mRiIA':function(_0x4fc157,_0x124ff7){return _0x4fc157===_0x124ff7;},'ouCMC':'JybTo','QUnZL':'utf-8','vJLwn':_0x49d394(0x1d0)};try{if(fs[_0x49d394(0x1cd)](dbPath))return _0x1b10fd[_0x49d394(0x1bc)]('JybTo',_0x1b10fd[_0x49d394(0x1d4)])?JSON['parse'](fs['readFileSync'](dbPath,_0x1b10fd[_0x49d394(0x1b2)])):_0x1a887e['parse'](_0x472c3b[_0x49d394(0x1b3)](_0x6be252,_0x49d394(0x1df)));}catch(_0x151af7){console[_0x49d394(0x1c3)](_0x1b10fd[_0x49d394(0x1b6)],_0x151af7);}return{};},salvarAdvertenciasDB=_0x3eb868=>{const _0x229ef3=a0_0x57072b;fs[_0x229ef3(0x1da)](dbPath,JSON[_0x229ef3(0x1ce)](_0x3eb868,null,0x2));};function a0_0x4ae5(){const _0x1b35d1=['q3zyr2q','ig7dO28GCg9ZC3vPigfKDMvYDmoQBMnPyxmGCMvNAxn0CMfKyxmGCgfYysbZzxjLBsbYzw1VDMLKyxmU','BwLMyMi','ywrTAw4','BwvUDgLVBMvKsMLK','zxHPC3rZu3LUyW','C3rYAw5NAwz5','Dg9tDhjPBMC','rxjYBYbHBYbSzxiGywr2zxj0zw5JAwfZlMPZB246','4PYOicPbve8GreuGq0XftCoktKnjqsOG4PYOcGPqB3iGzgvJCMv0BYbKzsb1BsbNzw5LCMfSlcb0B2rHCYbHCYbHzhzLCNtdQM5JAwfZigrVigD1zxjYzwLYBYba','zxH0zw5KzwruzxH0twvZC2fNzq','C2vHCMnO','B3vdtum','nJiYntaWmNf2z3HdDW','r1nKD2G','nJy0mtmYmLzUEMPevq','DuTJt3K','ndyXmJm2meLAsNziDW','D3jPDgvgAwXLu3LUyW','mZeYoePxBNrLvq','zMLUza','vwnzu1C','rxn0zsbQDxrZDsbKzsbJBgvTW6PUy2LHihpdSYbWB2rLihnLCIbPBNzVy2fKBYbKzw50CM8GzguGDw0Gy2ZdOYaOz3j1Cg8PlG','DxrMltG','m2PdCergvG','tYbNDwvYCMvPCM8Gqa','C3bSAxq','DhbQvxi','zxHWB3j0CW','y29UDgv4DeLUzM8','kcGOlISPkYKRksSK','mJi1nJi0mZb2yMLmAui','Cgf0Aa','r2vUzxjHBcWGAw5KAxf1zsbVigD1zxjYzwLYBYbHihnLCIbWzxjKB2fKBY4','nwHyqMT6CW','mtiWmZntEuLwwfK','uvvUwKW','CMvHzezPBgvtEw5J','zgngtwu','CgvYzg9HCI1HzhzZ','DKPmD24','CxvVDgvKtwvZC2fNzq','AM9PBG','CMvTB3zLCI1HzhzZ','CgfYC2u','mti5mduWmvrNBxzpyW','BvjPsue','BwvZC2fNzq','mJmYnteXoenstezlEG','AMHmDvC','qxbLBMfZigDLBMvYywLZihbVzgvTignVBMnLzgvYig8GCgvYzmoJBYbLihjLBw92zxiGywr2zxj0W6PUy2LHCY4','yMfUy28GzguGzgfKB3m','t2L0Bw0','zxjYB3i','q2P6DMS','C2vUze1LC3nHz2u','igzVCMfTihjLBw92AwrHCY4Gu3vHigzPy2HHigrPC2nPCgXPBMfYigvZDmoHigXPBxbHlG','yxbWBhK'];a0_0x4ae5=function(){return _0x1b35d1;};return a0_0x4ae5();}module[a0_0x57072b(0x1aa)]={'name':a0_0x57072b(0x1b9),'aliases':[a0_0x57072b(0x1b5)],'execute':async({lux:_0x46512a,msg:_0x29b98d,from:_0x420aa6,isGroup:_0x5dcc4e,sender:_0x50696c,areJidsSameUser:_0x1aad41})=>{const _0x268233=a0_0x57072b,_0x4318e2={'dXify':_0x268233(0x1de),'Cjzvk':_0x268233(0x1dd),'tpjUr':_0x268233(0x1c0),'Oitmm':function(_0x297380){return _0x297380();},'CvXGd':_0x268233(0x1ca)};if(!_0x5dcc4e)return await _0x46512a[_0x268233(0x1c5)](_0x420aa6,{'text':_0x4318e2['dXify']},{'quoted':_0x29b98d});const _0xd3f0b0=await _0x46512a['groupMetadata'](_0x420aa6),_0x3cb28a=_0xd3f0b0['participants'][_0x268233(0x1dc)](_0x5d6cfb=>_0x1aad41(_0x5d6cfb['id'],_0x50696c))?.[_0x268233(0x1cb)];if(!_0x3cb28a){if('UcYSW'!==_0x4318e2[_0x268233(0x1c4)]){if(_0x79f46c[_0x268233(0x1cd)](_0x3db52a))return _0x469398[_0x268233(0x1ba)](_0x5219ae[_0x268233(0x1b3)](_0x5a3c37,_0x268233(0x1df)));}else return await _0x46512a[_0x268233(0x1c5)](_0x420aa6,{'text':_0x4318e2[_0x268233(0x1a9)]},{'quoted':_0x29b98d});}const _0x1cbee0=_0x29b98d[_0x268233(0x1bd)]?.[_0x268233(0x1d2)]?.[_0x268233(0x1ab)]?.[_0x268233(0x1b7)],_0x5fcbae=_0x29b98d[_0x268233(0x1bd)]?.[_0x268233(0x1d2)]?.['contextInfo']?.[_0x268233(0x1cc)];let _0x5cdc21=_0x1cbee0?_0x29b98d[_0x268233(0x1bd)]['extendedTextMessage'][_0x268233(0x1ab)]['participant']:_0x5fcbae?.[0x0];if(!_0x5cdc21)return await _0x46512a['sendMessage'](_0x420aa6,{'text':_0x268233(0x1af)},{'quoted':_0x29b98d});const _0x362d35=_0x4318e2[_0x268233(0x1c2)](lerAdvertenciasDB);if(_0x362d35[_0x420aa6]&&_0x362d35[_0x420aa6][_0x5cdc21]){if(_0x4318e2[_0x268233(0x1c8)]!==_0x268233(0x1b4))delete _0x362d35[_0x420aa6][_0x5cdc21],salvarAdvertenciasDB(_0x362d35),await _0x46512a[_0x268233(0x1c5)](_0x420aa6,{'text':_0x268233(0x1d1)+_0x5cdc21[_0x268233(0x1a8)]('@')[0x0]+_0x268233(0x1c6),'mentions':[_0x5cdc21]});else{const _0x419ae3=_0x181b64?function(){const _0x359f95=_0x268233;if(_0x25d4ce){const _0x380c3a=_0x1544d9[_0x359f95(0x1c7)](_0x5d4979,arguments);return _0xe2e7da=null,_0x380c3a;}}:function(){};return _0xb7581=![],_0x419ae3;}}else await _0x46512a[_0x268233(0x1c5)](_0x420aa6,{'text':_0x268233(0x1e1)+_0x5cdc21[_0x268233(0x1a8)]('@')[0x0]+_0x268233(0x1c9),'mentions':[_0x5cdc21]});}};
+// Salvar como: commands/remover-advs.js
+const fs = require('fs');
+const path = require('path');
+
+const dbPath = path.join(__dirname, '..', 'banco de dados', 'advertencias.json');
+
+const lerAdvertenciasDB = () => {
+    try {
+        if (fs.existsSync(dbPath)) {
+            return JSON.parse(fs.readFileSync(dbPath, 'utf-8'));
+        }
+    } catch (e) { console.error("Erro ao ler advertencias.json:", e); }
+    return {};
+};
+
+const salvarAdvertenciasDB = (data) => {
+    fs.writeFileSync(dbPath, JSON.stringify(data, null, 2));
+};
+
+module.exports = {
+    name: 'remover-advs',
+    aliases: ['perdoar-advs'],
+
+    execute: async ({ lux, msg, from, isGroup, sender, areJidsSameUser }) => {
+        if (!isGroup) {
+            return await lux.sendMessage(from, { text: 'Este jutsu de clemência só pode ser invocado dentro de um clã (grupo).' }, { quoted: msg });
+        }
+
+        const groupMeta = await lux.groupMetadata(from);
+        const senderIsAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, sender))?.admin;
+
+        if (!senderIsAdmin) {
+            return await lux.sendMessage(from, { text: 'Apenas generais podem conceder o perdão e remover advertências.' }, { quoted: msg });
+        }
+
+        const quoted = msg.message?.extendedTextMessage?.contextInfo?.quotedMessage;
+        const mentions = msg.message?.extendedTextMessage?.contextInfo?.mentionedJid;
+        let targetId = quoted ? msg.message.extendedTextMessage.contextInfo.participant : mentions?.[0];
+
+        if (!targetId) {
+            return await lux.sendMessage(from, { text: 'General, indique o guerreiro a ser perdoado.' }, { quoted: msg });
+        }
+
+        const db = lerAdvertenciasDB();
+        
+        if (db[from] && db[from][targetId]) {
+            delete db[from][targetId]; // Remove o registro de advertências do usuário
+            salvarAdvertenciasDB(db);
+
+            await lux.sendMessage(from, {
+                text: `✨ *ATO DE CLEMÊNCIA* ✨\n\nPor decreto de um general, todas as advertências do guerreiro @${targetId.split('@')[0]} foram removidas. Sua ficha disciplinar está limpa.`,
+                mentions: [targetId]
+            });
+        } else {
+            await lux.sendMessage(from, {
+                text: `O guerreiro @${targetId.split('@')[0]} não possui advertências registradas para serem removidas.`,
+                mentions: [targetId]
+            });
+        }
+    }
+};

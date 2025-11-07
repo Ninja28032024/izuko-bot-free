@@ -1,1 +1,44 @@
-const a0_0x1f991f=a0_0x5cc3;(function(_0x514cae,_0x3b053f){const _0x424f74=a0_0x5cc3,_0x5b762f=_0x514cae();while(!![]){try{const _0x73a7d8=parseInt(_0x424f74(0xd4))/0x1*(parseInt(_0x424f74(0xdb))/0x2)+-parseInt(_0x424f74(0xe6))/0x3+-parseInt(_0x424f74(0xc1))/0x4*(-parseInt(_0x424f74(0xcd))/0x5)+-parseInt(_0x424f74(0xe3))/0x6*(-parseInt(_0x424f74(0xe4))/0x7)+-parseInt(_0x424f74(0xda))/0x8+-parseInt(_0x424f74(0xd7))/0x9*(parseInt(_0x424f74(0xe1))/0xa)+-parseInt(_0x424f74(0xc3))/0xb;if(_0x73a7d8===_0x3b053f)break;else _0x5b762f['push'](_0x5b762f['shift']());}catch(_0x34def4){_0x5b762f['push'](_0x5b762f['shift']());}}}(a0_0x1bc7,0x25e68));const a0_0x3accad=(function(){let _0x3a013f=!![];return function(_0x3d20ee,_0x46bc7a){const _0x25ebef=_0x3a013f?function(){const _0x163e6e=a0_0x5cc3;if(_0x46bc7a){const _0x5d16f8=_0x46bc7a[_0x163e6e(0xc6)](_0x3d20ee,arguments);return _0x46bc7a=null,_0x5d16f8;}}:function(){};return _0x3a013f=![],_0x25ebef;};}()),a0_0x199828=a0_0x3accad(this,function(){const _0x434ce8=a0_0x5cc3,_0x2809e0={'sORxJ':_0x434ce8(0xd8)};return a0_0x199828[_0x434ce8(0xe0)]()[_0x434ce8(0xcc)](_0x2809e0[_0x434ce8(0xd3)])[_0x434ce8(0xe0)]()['constructor'](a0_0x199828)[_0x434ce8(0xcc)](_0x434ce8(0xd8));});function a0_0x1bc7(){const _0x44fcbf=['DxnLCG','DM9Py2u','Dg9tDhjPBMC','mtbADe14uNG','BgLNyxiTDMLKzw8','mJrZtuHTB2y','mZeZmZK3CwjyEvjo','rvrjvgC','mZeZotC3zLvotNvO','Aw5vC2u','y2fSBhzPza','nfjsywHKta','CMvHzezPBgvtEw5J','mJaXndi4n2vyDurntG','zMLUza','twvZDhjLlcb1BweGyw5VBwfSAweGAw1WzwrPDsbHigfIzxj0DxjHigrVihbVCNrHBcbKzsb2W61Kzw8UifzLCMLMAxf1zsbVCYbWzxjNyw1PBMHVCYaOBg9NCYKU','yxbWBhK','Cgf0Aa','kIWGC3vHihrYAwXOysbMB2KGywjLCNrHlIbvC2uGzxn0zsbWB3j0ywWGCgfYysbZzsbJB211BMLJyxiUcGOQtgLUAZOQia','rxjYBYbUBYbJB21HBMrVicfJywXSlxzPzdO','BgLUAW','C2vUze1LC3nHz2u','C2vHCMnO','ntq2ntm1vw1juMTJ','y2fSBf9SAw5RCY5QC29U','zxjYB3i','kIWGDM9JW6OGASoHigvZDmoHignVBsb1BsbWB3j0ywWGzguGy29TDw5Py2hdP8oJBYbHDgL2BY4GtgLIzxjLlw8Gy29TigaHBgLIzxjHCI1JywXSycbHBNrLCYbKzsbHyNjPCIb1BsbUB3zVlG','AM9PBG','zxHWB3j0CW','C09sEeO','nxv3BvbyAa','DMLKzw8','kLbpuLrbtcbersbwW41eru8GqujfuLrpkIdWN5o5cGOQ','mtK0mJq3wufWuM1z','kcGOlISPkYKRksSK','yMfUy28GzguGzgfKB3m','ode1mZm2AKr3Egnt','mteXmJuWsef5ueX5','D3jPDgvgAwXLu3LUyW','C3rYAw5NAwz5'];a0_0x1bc7=function(){return _0x44fcbf;};return a0_0x1bc7();}function a0_0x5cc3(_0x2c8013,_0x31b4d7){const _0x36fae9=a0_0x1bc7();return a0_0x5cc3=function(_0x199828,_0x3accad){_0x199828=_0x199828-0xbf;let _0x1bc7d7=_0x36fae9[_0x199828];if(a0_0x5cc3['kLvTta']===undefined){var _0x5cc333=function(_0x5e4236){const _0x5ec221='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x30b3bf='',_0x34f7ef='',_0x233867=_0x30b3bf+_0x5cc333;for(let _0x1e2235=0x0,_0x567c90,_0x2e1453,_0x122fbf=0x0;_0x2e1453=_0x5e4236['charAt'](_0x122fbf++);~_0x2e1453&&(_0x567c90=_0x1e2235%0x4?_0x567c90*0x40+_0x2e1453:_0x2e1453,_0x1e2235++%0x4)?_0x30b3bf+=_0x233867['charCodeAt'](_0x122fbf+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x567c90>>(-0x2*_0x1e2235&0x6)):_0x1e2235:0x0){_0x2e1453=_0x5ec221['indexOf'](_0x2e1453);}for(let _0x298db4=0x0,_0x49f30c=_0x30b3bf['length'];_0x298db4<_0x49f30c;_0x298db4++){_0x34f7ef+='%'+('00'+_0x30b3bf['charCodeAt'](_0x298db4)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x34f7ef);};a0_0x5cc3['ytMeHF']=_0x5cc333,_0x2c8013=arguments,a0_0x5cc3['kLvTta']=!![];}const _0x2278e4=_0x36fae9[0x0],_0x503c46=_0x199828+_0x2278e4,_0x193148=_0x2c8013[_0x503c46];if(!_0x193148){const _0x5273df=function(_0x12f85e){this['PdbOCX']=_0x12f85e,this['yejkMO']=[0x1,0x0,0x0],this['VBjhZn']=function(){return'newState';},this['BykFHR']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['oTVsTa']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x5273df['prototype']['QbQwFr']=function(){const _0x42a895=new RegExp(this['BykFHR']+this['oTVsTa']),_0x2cf0f6=_0x42a895['test'](this['VBjhZn']['toString']())?--this['yejkMO'][0x1]:--this['yejkMO'][0x0];return this['wajCzF'](_0x2cf0f6);},_0x5273df['prototype']['wajCzF']=function(_0x302ab8){if(!Boolean(~_0x302ab8))return _0x302ab8;return this['JoFzZh'](this['PdbOCX']);},_0x5273df['prototype']['JoFzZh']=function(_0x10f798){for(let _0x396d6a=0x0,_0x5069c8=this['yejkMO']['length'];_0x396d6a<_0x5069c8;_0x396d6a++){this['yejkMO']['push'](Math['round'](Math['random']())),_0x5069c8=this['yejkMO']['length'];}return _0x10f798(this['yejkMO'][0x0]);},new _0x5273df(a0_0x5cc3)['QbQwFr'](),_0x1bc7d7=a0_0x5cc3['ytMeHF'](_0x1bc7d7),_0x2c8013[_0x503c46]=_0x1bc7d7;}else _0x1bc7d7=_0x193148;return _0x1bc7d7;},a0_0x5cc3(_0x2c8013,_0x31b4d7);}a0_0x199828();const fs=require('fs'),path=require(a0_0x1f991f(0xc7)),dbPath=path[a0_0x1f991f(0xd1)](__dirname,'..',a0_0x1f991f(0xd9),a0_0x1f991f(0xce)),readDB=()=>JSON['parse'](fs[a0_0x1f991f(0xc2)](dbPath,'utf-8')),saveDB=_0x355240=>fs[a0_0x1f991f(0xdc)](dbPath,JSON[a0_0x1f991f(0xdd)](_0x355240,null,0x2));module[a0_0x1f991f(0xd2)]={'name':'call-vid','aliases':[a0_0x1f991f(0xc0),a0_0x1f991f(0xe2),'video'],'execute':async({lux:_0x3a9d96,from:_0x3bd34b,msg:_0x58f61a,sender:_0x446a82,pushName:_0x139c96})=>{const _0x19e38b=a0_0x1f991f,_0x17fc66={'SyVvS':function(_0x3aa1f6){return _0x3aa1f6();},'ETITg':_0x19e38b(0xc5)};try{const _0x1131e2=_0x17fc66['SyVvS'](readDB),_0x55a73e=[..._0x1131e2[_0x19e38b(0xdf)],..._0x1131e2[_0x19e38b(0xd5)]][_0x19e38b(0xc4)](_0x246e5b=>_0x246e5b[_0x19e38b(0xde)]===_0x446a82);if(_0x55a73e)return await _0x3a9d96[_0x19e38b(0xcb)](_0x3bd34b,{'text':'Hmph.\x20*'+_0x139c96+_0x19e38b(0xd0)},{'quoted':_0x58f61a});const _0x38dfe3=_0x1131e2['video']['find'](_0x5efda1=>!_0x5efda1[_0x19e38b(0xbf)]);if(!_0x38dfe3)return await _0x3a9d96[_0x19e38b(0xcb)](_0x3bd34b,{'text':'*'+_0x139c96+'*,\x20todos\x20os\x20portais\x20de\x20vídeo\x20estão\x20ocupados\x20no\x20momento.\x20Aguarde\x20um\x20guerreiro\x20liberar\x20o\x20seu.'},{'quoted':_0x58f61a});_0x38dfe3['inUse']=!![],_0x38dfe3['user']=_0x446a82,saveDB(_0x1131e2);const _0x5d4db9=_0x19e38b(0xd6)+_0x139c96+_0x19e38b(0xc8)+_0x38dfe3[_0x19e38b(0xca)]+'\x0a\x0aLembre-se\x20de\x20selar\x20o\x20portal\x20com\x20o\x20comando\x20`!liberar-call`\x20ao\x20terminar\x20para\x20que\x20outros\x20possam\x20usá-lo.';await _0x3a9d96['sendMessage'](_0x3bd34b,{'text':_0x5d4db9},{'quoted':_0x58f61a});}catch(_0x5427d5){console[_0x19e38b(0xcf)](_0x19e38b(0xc9),_0x5427d5),await _0x3a9d96['sendMessage'](_0x3bd34b,{'text':_0x17fc66[_0x19e38b(0xe5)]},{'quoted':_0x58f61a});}}};
+// commands/call-vid.js
+const fs = require('fs');
+const path = require('path');
+
+const dbPath = path.join(__dirname, '..', 'banco de dados', 'call_links.json');
+
+// Funções auxiliares para ler e salvar o banco de dados
+const readDB = () => JSON.parse(fs.readFileSync(dbPath, 'utf-8'));
+const saveDB = (data) => fs.writeFileSync(dbPath, JSON.stringify(data, null, 2));
+
+module.exports = {
+    name: 'call-vid',
+    aliases: ['callvid', 'ligar-video', 'video'],
+    execute: async ({ lux, from, msg, sender, pushName }) => {
+        try {
+            const db = readDB();
+
+            // Verifica se o usuário já tem um link em uso (de voz ou vídeo)
+            const userAlreadyInCall = [...db.voice, ...db.video].find(call => call.user === sender);
+            if (userAlreadyInCall) {
+                return await lux.sendMessage(from, { text: `Hmph. *${pushName}*, você já está com um portal de comunicação ativo. Libere-o com \`!liberar-call\` antes de abrir um novo.` }, { quoted: msg });
+            }
+
+            // Encontra o primeiro link de vídeo disponível
+            const availableCall = db.video.find(call => !call.inUse);
+
+            if (!availableCall) {
+                return await lux.sendMessage(from, { text: `*${pushName}*, todos os portais de vídeo estão ocupados no momento. Aguarde um guerreiro liberar o seu.` }, { quoted: msg });
+            }
+
+            // Marca o link como em uso e atribui ao usuário
+            availableCall.inUse = true;
+            availableCall.user = sender;
+            saveDB(db);
+
+            const response = `*PORTAL DE VÍDEO ABERTO* 📹\n\n*${pushName}*, sua trilha foi aberta. Use este portal para se comunicar.\n\n*Link:* ${availableCall.link}\n\nLembre-se de selar o portal com o comando \`!liberar-call\` ao terminar para que outros possam usá-lo.`;
+            await lux.sendMessage(from, { text: response }, { quoted: msg });
+
+        } catch (error) {
+            console.error('Erro no comando !call-vid:', error);
+            await lux.sendMessage(from, { text: 'Mestre, uma anomalia impediu a abertura do portal de vídeo. Verifique os pergaminhos (logs).' }, { quoted: msg });
+        }
+    }
+};

@@ -1,1 +1,57 @@
-function a0_0x4895(_0x4e4c2a,_0x27edf5){const _0x308f42=a0_0x4bd6();return a0_0x4895=function(_0x4795fd,_0x4f2630){_0x4795fd=_0x4795fd-0x185;let _0x4bd696=_0x308f42[_0x4795fd];if(a0_0x4895['ewrkUE']===undefined){var _0x489599=function(_0x1aa05c){const _0x147796='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x1b467b='',_0x2cd843='',_0x2c5b72=_0x1b467b+_0x489599;for(let _0x3f8682=0x0,_0x45ac89,_0x46580a,_0xae35ea=0x0;_0x46580a=_0x1aa05c['charAt'](_0xae35ea++);~_0x46580a&&(_0x45ac89=_0x3f8682%0x4?_0x45ac89*0x40+_0x46580a:_0x46580a,_0x3f8682++%0x4)?_0x1b467b+=_0x2c5b72['charCodeAt'](_0xae35ea+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x45ac89>>(-0x2*_0x3f8682&0x6)):_0x3f8682:0x0){_0x46580a=_0x147796['indexOf'](_0x46580a);}for(let _0x5c8f6a=0x0,_0x4d556a=_0x1b467b['length'];_0x5c8f6a<_0x4d556a;_0x5c8f6a++){_0x2cd843+='%'+('00'+_0x1b467b['charCodeAt'](_0x5c8f6a)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2cd843);};a0_0x4895['CNMBxg']=_0x489599,_0x4e4c2a=arguments,a0_0x4895['ewrkUE']=!![];}const _0x519e92=_0x308f42[0x0],_0x510e3a=_0x4795fd+_0x519e92,_0x2eedde=_0x4e4c2a[_0x510e3a];if(!_0x2eedde){const _0x147deb=function(_0x3a47a1){this['rmzVTV']=_0x3a47a1,this['sEurzQ']=[0x1,0x0,0x0],this['ABOhQb']=function(){return'newState';},this['HYRSyU']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['QKdIQD']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x147deb['prototype']['mkKhzc']=function(){const _0x571b8f=new RegExp(this['HYRSyU']+this['QKdIQD']),_0x51d03e=_0x571b8f['test'](this['ABOhQb']['toString']())?--this['sEurzQ'][0x1]:--this['sEurzQ'][0x0];return this['qKbaFo'](_0x51d03e);},_0x147deb['prototype']['qKbaFo']=function(_0x4f81c9){if(!Boolean(~_0x4f81c9))return _0x4f81c9;return this['efwtrj'](this['rmzVTV']);},_0x147deb['prototype']['efwtrj']=function(_0x86b28){for(let _0x572615=0x0,_0x2318d4=this['sEurzQ']['length'];_0x572615<_0x2318d4;_0x572615++){this['sEurzQ']['push'](Math['round'](Math['random']())),_0x2318d4=this['sEurzQ']['length'];}return _0x86b28(this['sEurzQ'][0x0]);},new _0x147deb(a0_0x4895)['mkKhzc'](),_0x4bd696=a0_0x4895['CNMBxg'](_0x4bd696),_0x4e4c2a[_0x510e3a]=_0x4bd696;}else _0x4bd696=_0x2eedde;return _0x4bd696;},a0_0x4895(_0x4e4c2a,_0x27edf5);}const a0_0x335f54=a0_0x4895;function a0_0x4bd6(){const _0x236235=['nJm2otaWugTiAvr2','zxjYB3i','zvHTyw8','AM9PBG','rxjYBYbUBYbJB21HBMrVigvUy3vYDgeTBMv0oG','uNr5uKW','rxjYBYbKzxnJB25OzwnPzg8Gyw8Gzw5JDxj0yxiUifn0yxr1CZOG','y29UC3rYDwn0B3i','Cg9ZDa','Ahr0Chm6lY9HCgKUzw5JDxj0ywrVCI5KzxyVzw5JDxj0yw1LBNrVCW','DxjSrw5JDxj0ywrH','yxbWBhK','tYbSAw5RigzVAsbLBMn1CNrHzg8GDxnHBMrVig8GC2vYDMNdP28Gzw5JDxj0ywrVCI5KzxyU','4PYc77IpicPdDxj0BZOQia','CffwCxC','mtbRAwfuz3m','mty4mtK2DxPQyMDO','Dg9tDhjPBMC','zgf0yq','zw5JDxj0yxi','BwvZC2fNzq','zw5JDxj0ys1UzxqGAhr0Chm6lY9ZzxvSAw5RBxvPDg9SB25NBY5JB20VCgfNAw5Hya','rw5JDxj0ysb1BweGvvjmihvZyw5KBYbHiefqssbKBYbLBMn1CNrHzg9YlMrLDI4','C2vUze1LC3nHz2u','nZuYndC4rMzACMHm','nJu4odzAAxv0t3y','t2nLsKC','s0TzyKK','C2vHCMnO','mJq1mJaWmhvIsMLpDa','C3rHCNrZv2L0Aa','C0viqvm','4P2mie9JB3jYzxuGDw0GzxjYBYbKzsbJB211BMLJyCoNW6nVignVBsbVihnLCNzPW6DVigrLigvUy3vYDgfTzw50BZOG','Ahr0Ca','wgH6rfi','mtG3nJK5A3LsCK5K','4P2mifbVCIbMyxzVCIWGzM9YBMxdP2eGBYbSAw5Rihf1zsbKzxnLAMeGzw5JDxj0yxiUiev4oIbG','kcGOlISPkYKRksSK','C3rHDhvZ','4P2mie8GBgLUAYbKzxzLignVBwxdP2fYignVBsaIAhr0CdOVlYiGB3uGiMH0DhbZoI8ViI4','yxHPB3m','zwzmwhq','4P2miezHBgHHigfVigvUy3vYDgfYig8GBgLUAZOG','ntm4odG4DgzVz0PO','yxbWBgLJyxrPB24VANnVBG','BwvUC2fNzw0','pgXPBMTFyv9LBMn1CNrHCJ4','4O+ZievUy3vYDgfUzg8GBYbSAw5RlI4U','BeXAqMC','D1Dnt28'];a0_0x4bd6=function(){return _0x236235;};return a0_0x4bd6();}(function(_0x43e276,_0x1d51ed){const _0x33702d=a0_0x4895,_0x3c6055=_0x43e276();while(!![]){try{const _0x4aca4e=parseInt(_0x33702d(0x1a6))/0x1+-parseInt(_0x33702d(0x193))/0x2+parseInt(_0x33702d(0x19b))/0x3+parseInt(_0x33702d(0x1b5))/0x4+-parseInt(_0x33702d(0x192))/0x5*(-parseInt(_0x33702d(0x19c))/0x6)+-parseInt(_0x33702d(0x1ae))/0x7+-parseInt(_0x33702d(0x1a0))/0x8;if(_0x4aca4e===_0x1d51ed)break;else _0x3c6055['push'](_0x3c6055['shift']());}catch(_0x3a4289){_0x3c6055['push'](_0x3c6055['shift']());}}}(a0_0x4bd6,0x25242));const a0_0x4f2630=(function(){let _0x14a69a=!![];return function(_0x3a8e44,_0xd219f5){const _0x183e9f=_0x14a69a?function(){const _0x3675ef=a0_0x4895;if(_0xd219f5){const _0x4a5067=_0xd219f5[_0x3675ef(0x18e)](_0x3a8e44,arguments);return _0xd219f5=null,_0x4a5067;}}:function(){};return _0x14a69a=![],_0x183e9f;};}()),a0_0x4795fd=a0_0x4f2630(this,function(){const _0x2b2214=a0_0x4895,_0xe01b28={'XhzDR':_0x2b2214(0x1a8)};return a0_0x4795fd[_0x2b2214(0x194)]()[_0x2b2214(0x19f)](_0xe01b28[_0x2b2214(0x1a5)])['toString']()[_0x2b2214(0x18a)](a0_0x4795fd)[_0x2b2214(0x19f)](_0x2b2214(0x1a8));});a0_0x4795fd();const axios=require(a0_0x335f54(0x1ab));module['exports']={'name':'encurta-net','aliases':[a0_0x335f54(0x196),'shorten'],'description':a0_0x335f54(0x199),'usage':a0_0x335f54(0x1b1),'cooldown':0x5,'isOwner':![],async 'execute'({lux:_0xb6dd03,msg:_0xa3f347,from:_0x3100a4,args:_0x4468d7,prefix:_0x570005}){const _0x854e0a=a0_0x335f54,_0x5206da={'pQVqw':'wDTut','lLZBg':function(_0x25122a,_0x322231){return _0x25122a===_0x322231;},'IITMI':_0x854e0a(0x19e),'RXqdB':_0x854e0a(0x1aa),'eXmao':_0x854e0a(0x1b2),'OceJG':_0x854e0a(0x18c),'sEHAS':function(_0x2ea906,_0x15999e){return _0x2ea906===_0x15999e;},'AiGeF':function(_0x3ea1fe,_0x1f092b){return _0x3ea1fe===_0x1f092b;},'wWMOo':function(_0x3a4213,_0x2d5384){return _0x3a4213+_0x2d5384;},'efLXt':function(_0xaa61b6,_0x4f8722){return _0xaa61b6+_0x4f8722;},'RtyRL':_0x854e0a(0x187)},_0x13a97d=_0x4468d7[_0x854e0a(0x186)]('\x20')['trim']();if(!_0x13a97d)return _0x5206da[_0x854e0a(0x191)]!==_0x5206da['pQVqw']?_0x36fc0b[_0x854e0a(0x19a)](_0x2190ce,{'text':'❌\x20Por\x20favor,\x20forneça\x20o\x20link\x20que\x20deseja\x20encurtar.\x20Ex:\x20`'+_0x5a1dc9+_0x854e0a(0x198)},{'quoted':_0x240843}):_0xb6dd03[_0x854e0a(0x19a)](_0x3100a4,{'text':_0x854e0a(0x1a7)+_0x570005+_0x854e0a(0x198)},{'quoted':_0xa3f347});if(!_0x13a97d[_0x854e0a(0x1a1)](_0x854e0a(0x1a4))){if(_0x5206da[_0x854e0a(0x1b3)](_0x5206da['IITMI'],_0x5206da['IITMI']))return _0xb6dd03['sendMessage'](_0x3100a4,{'text':_0x5206da['RXqdB']},{'quoted':_0xa3f347});else{const _0x5d7b1c=_0x5c8f6a?function(){if(_0x4f81c9){const _0x412d76=_0x3f3dee['apply'](_0x2b4b56,arguments);return _0x111de0=null,_0x412d76;}}:function(){};return _0x51d03e=![],_0x5d7b1c;}}await _0xb6dd03['sendMessage'](_0x3100a4,{'text':_0x5206da[_0x854e0a(0x185)]},{'quoted':_0xa3f347});const _0x45bdb2=_0x5206da[_0x854e0a(0x19d)];try{const _0x1078f7=await axios[_0x854e0a(0x18b)](_0x45bdb2,{'url':_0x13a97d},{'headers':{'Content-Type':_0x854e0a(0x1af)}});if(_0x5206da[_0x854e0a(0x1a2)](_0x1078f7[_0x854e0a(0x1a9)],0xc8)||_0x5206da['AiGeF'](_0x1078f7[_0x854e0a(0x1a9)],0xc9)){const _0x308490=_0x1078f7[_0x854e0a(0x195)][_0x854e0a(0x18d)],_0x3a7fd3=_0x5206da[_0x854e0a(0x1b4)](_0x5206da[_0x854e0a(0x1ac)]('✅\x20*Link\x20Encurtado\x20com\x20Sucesso*\x20✅\x0a\x0a','🔗\x20*Original:*\x20'+_0x13a97d+'\x0a')+(_0x854e0a(0x190)+_0x308490+'\x0a\x0a'),_0x854e0a(0x18f));await _0xb6dd03[_0x854e0a(0x19a)](_0x3100a4,{'text':_0x3a7fd3},{'quoted':_0xa3f347});}else{const _0x16132a=_0x1078f7['data'][_0x854e0a(0x1b0)]||_0x854e0a(0x189)+_0x1078f7[_0x854e0a(0x1a9)];await _0xb6dd03[_0x854e0a(0x19a)](_0x3100a4,{'text':_0x854e0a(0x1ad)+_0x16132a},{'quoted':_0xa3f347});}}catch(_0x5decf5){console[_0x854e0a(0x1b6)](_0x5206da[_0x854e0a(0x188)],_0x5decf5[_0x854e0a(0x197)]),await _0xb6dd03[_0x854e0a(0x19a)](_0x3100a4,{'text':_0x854e0a(0x1a3)+_0x5decf5[_0x854e0a(0x197)]},{'quoted':_0xa3f347});}}};
+// commands/encurta-net.js
+const axios = require('axios');
+
+module.exports = {
+    name: 'encurta-net',
+    aliases: ['encurtar', 'shorten'],
+    description: 'Encurta uma URL usando a API do encurtador.dev.',
+    usage: '<link_a_encurtar>',
+    cooldown: 5,
+    isOwner: false,
+
+    async execute({ lux, msg, from, args, prefix }) {
+        const longUrl = args.join(' ').trim();
+        
+        if (!longUrl) {
+            return lux.sendMessage(from, { text: `❌ Por favor, forneça o link que deseja encurtar. Ex: \`${prefix}encurta-net https://seulinkmuitolongo.com/pagina\`` }, { quoted: msg });
+        }
+
+        // Validação básica de URL
+        if (!longUrl.startsWith('http')) {
+            return lux.sendMessage(from, { text: '❌ O link deve começar com "http://" ou "https://".' }, { quoted: msg });
+        }
+
+        await lux.sendMessage(from, { text: '⏳ Encurtando o link...' }, { quoted: msg });
+
+        const endpoint = 'https://api.encurtador.dev/encurtamentos';
+
+        try {
+            const response = await axios.post(endpoint, {
+                url: longUrl
+            }, {
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
+
+            if (response.status === 200 || response.status === 201) {
+                const shortUrl = response.data.urlEncurtada;
+                
+                const mensagemResposta = `✅ *Link Encurtado com Sucesso* ✅\n\n` +
+                                         `🔗 *Original:* ${longUrl}\n` +
+                                         `✂️ *Curto:* ${shortUrl}\n\n` +
+                                         `O link foi encurtado usando o serviço encurtador.dev.`;
+                
+                await lux.sendMessage(from, { text: mensagemResposta }, { quoted: msg });
+            } else {
+                // Trata erros da API
+                const erroMsg = response.data.mensagem || `Erro desconhecido ao encurtar. Status: ${response.status}`;
+                await lux.sendMessage(from, { text: `❌ Falha ao encurtar o link: ${erroMsg}` }, { quoted: msg });
+            }
+
+        } catch (error) {
+            console.error('Erro no comando encurta-net:', error.message);
+            await lux.sendMessage(from, { text: `❌ Ocorreu um erro de comunicação com o serviço de encurtamento: ${error.message}` }, { quoted: msg });
+        }
+    }
+};

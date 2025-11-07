@@ -1,1 +1,156 @@
-const a0_0x306e9f=a0_0x4b9d;(function(_0x371c6f,_0x4558d2){const _0x2fd1=a0_0x4b9d,_0x590b89=_0x371c6f();while(!![]){try{const _0x20fcf3=parseInt(_0x2fd1(0x23d))/0x1+parseInt(_0x2fd1(0x230))/0x2*(-parseInt(_0x2fd1(0x1ff))/0x3)+parseInt(_0x2fd1(0x217))/0x4+parseInt(_0x2fd1(0x20b))/0x5*(parseInt(_0x2fd1(0x23a))/0x6)+-parseInt(_0x2fd1(0x225))/0x7+parseInt(_0x2fd1(0x1f6))/0x8*(-parseInt(_0x2fd1(0x23b))/0x9)+-parseInt(_0x2fd1(0x1f3))/0xa*(parseInt(_0x2fd1(0x245))/0xb);if(_0x20fcf3===_0x4558d2)break;else _0x590b89['push'](_0x590b89['shift']());}catch(_0x245c6e){_0x590b89['push'](_0x590b89['shift']());}}}(a0_0x55ab,0xdbb6a));const a0_0x58ca6e=(function(){const _0x5d724d=a0_0x4b9d,_0x216863={'Eekjy':function(_0x33775d,_0x4a2baa){return _0x33775d===_0x4a2baa;},'fCWgz':_0x5d724d(0x22b),'Wrivm':_0x5d724d(0x1fc),'uQngO':function(_0x5e2ddb,_0x32d99c){return _0x5e2ddb+_0x32d99c;},'BibBa':function(_0x4e91c8,_0x376d62){return _0x4e91c8*_0x376d62;}};let _0x1d1b09=!![];return function(_0x2f950f,_0x216591){const _0x3ee9db={'FAMfS':function(_0x197842,_0x1605eb){const _0x2fa116=a0_0x4b9d;return _0x216863[_0x2fa116(0x244)](_0x197842,_0x1605eb);},'TtVlL':function(_0x44f9a3,_0x3f4075){const _0x5d82c4=a0_0x4b9d;return _0x216863[_0x5d82c4(0x20e)](_0x44f9a3,_0x3f4075);}},_0x1a9131=_0x1d1b09?function(){const _0xd68da4=a0_0x4b9d;if(_0x216591){if(_0x216863[_0xd68da4(0x22a)](_0x216863[_0xd68da4(0x241)],_0x216863[_0xd68da4(0x24b)]))_0x1b8b90[_0xd68da4(0x22c)](_0x3ee9db['FAMfS'](_0x3ee9db['TtVlL'](_0x3eafe8,0x3)+_0x3903ca,0x1));else{const _0x108eb4=_0x216591[_0xd68da4(0x21b)](_0x2f950f,arguments);return _0x216591=null,_0x108eb4;}}}:function(){};return _0x1d1b09=![],_0x1a9131;};}()),a0_0x3cbcc9=a0_0x58ca6e(this,function(){const _0x11148d=a0_0x4b9d,_0x3fed44={'OdqAa':_0x11148d(0x203)};return a0_0x3cbcc9[_0x11148d(0x242)]()['search'](_0x11148d(0x203))[_0x11148d(0x242)]()[_0x11148d(0x222)](a0_0x3cbcc9)[_0x11148d(0x216)](_0x3fed44[_0x11148d(0x1f7)]);});a0_0x3cbcc9();const chalk=require('chalk');module[a0_0x306e9f(0x231)]={'calcularMelhorMovimento'(_0x449db9,_0x2b07c3,_0x1a1055){const _0x54a136=a0_0x306e9f,_0x18050f={'ixXvN':function(_0x57240e,_0x4364f7){return _0x57240e*_0x4364f7;},'qPPcK':_0x54a136(0x20c),'xNzqG':function(_0x459751,_0x416e79){return _0x459751===_0x416e79;},'fjYdE':function(_0x4d73d9,_0x267c34){return _0x4d73d9===_0x267c34;},'mZLAe':_0x54a136(0x234),'ngwjc':_0x54a136(0x204),'NPUEO':function(_0x16c5ce,_0xe79487,_0x34fa9f,_0x19ab66){return _0x16c5ce(_0xe79487,_0x34fa9f,_0x19ab66);},'FxQMs':function(_0x2dc40e,_0x740e0a){return _0x2dc40e===_0x740e0a;},'apgvL':_0x54a136(0x23e),'HQpbp':function(_0x1afad7,_0x46152a){return _0x1afad7(_0x46152a);},'NhGYv':function(_0x23b64d,_0x20d87c,_0x5153a1,_0x582046){return _0x23b64d(_0x20d87c,_0x5153a1,_0x582046);},'XJZDp':function(_0x3b2e97,_0x39b376,_0x434118){return _0x3b2e97(_0x39b376,_0x434118);},'OPBWo':function(_0x179622,_0x53c8e4){return _0x179622!==_0x53c8e4;},'xWMDE':_0x54a136(0x21e),'stBEs':'rRxbv','bmAYI':function(_0x24b929,_0x1dc9c2){return _0x24b929>_0x1dc9c2;},'pKSBw':function(_0xc7bbe3,_0x20a605){return _0xc7bbe3*_0x20a605;},'fooNc':_0x54a136(0x21a),'zzpwE':function(_0x3d35b5,_0x2aab21){return _0x3d35b5(_0x2aab21);},'egJRv':function(_0x306ebc,_0xeeac95){return _0x306ebc>_0xeeac95;}};try{if(_0x18050f[_0x54a136(0x21d)]===_0x54a136(0x24a)){if(_0x383286){const _0x11a9ab=_0x1e909a[_0x54a136(0x21b)](_0x3841cb,arguments);return _0x843c37=null,_0x11a9ab;}}else{const _0x35303e=obterPosicoeVazias(_0x449db9);if(_0x18050f['xNzqG'](_0x35303e[_0x54a136(0x246)],0x0))return _0x18050f['fjYdE'](_0x18050f['mZLAe'],_0x54a136(0x200))?!![]:(console[_0x54a136(0x208)](chalk[_0x54a136(0x201)](_0x18050f[_0x54a136(0x1f9)])),null);for(const _0x29250b of _0x35303e){const _0x2d5e8e=copiarTabuleiro(_0x449db9);_0x18050f[_0x54a136(0x247)](fazerMovimentoIA,_0x2d5e8e,_0x29250b,_0x2b07c3);if(verificarVencedorIA(_0x2d5e8e,_0x2b07c3))return console[_0x54a136(0x1f8)](chalk[_0x54a136(0x227)]('[VELHA-IA]\x20Estratégia:\x20VENCER\x20na\x20posição\x20'+_0x29250b)),_0x29250b;}for(const _0x209122 of _0x35303e){if(_0x18050f[_0x54a136(0x1fd)](_0x18050f[_0x54a136(0x20a)],_0x18050f[_0x54a136(0x20a)])){const _0x3f4f1f=_0x18050f['HQpbp'](copiarTabuleiro,_0x449db9);_0x18050f['NhGYv'](fazerMovimentoIA,_0x3f4f1f,_0x209122,_0x1a1055);if(_0x18050f[_0x54a136(0x211)](verificarVencedorIA,_0x3f4f1f,_0x1a1055))return console[_0x54a136(0x1f8)](chalk[_0x54a136(0x201)](_0x54a136(0x20f)+_0x209122)),_0x209122;}else{const _0x2c7c64=_0x49ee81[_0x4f969e[_0x54a136(0x21f)](_0x18050f[_0x54a136(0x219)](_0x538c9c[_0x54a136(0x215)](),_0x96857b[_0x54a136(0x246)]))];return _0x4697d4[_0x54a136(0x1f8)](_0x3f0954['blue'](_0x54a136(0x1fa)+_0x2c7c64+')')),_0x2c7c64;}}if(_0x35303e['includes'](0x5))return _0x18050f[_0x54a136(0x237)](_0x18050f[_0x54a136(0x1f2)],_0x18050f[_0x54a136(0x212)])?(console['log'](chalk['blue'](_0x54a136(0x23c))),0x5):!![];const _0x10a79d=_0x35303e[_0x54a136(0x24d)](_0x5c68f3=>[0x1,0x3,0x7,0x9][_0x54a136(0x210)](_0x5c68f3));if(_0x18050f['bmAYI'](_0x10a79d[_0x54a136(0x246)],0x0)){const _0x1b5d0f=_0x10a79d[Math[_0x54a136(0x21f)](_0x18050f[_0x54a136(0x22f)](Math['random'](),_0x10a79d[_0x54a136(0x246)]))];return console[_0x54a136(0x1f8)](chalk['blue'](_0x54a136(0x1fa)+_0x1b5d0f+')')),_0x1b5d0f;}const _0x81784d=_0x35303e[Math['floor'](Math[_0x54a136(0x215)]()*_0x35303e[_0x54a136(0x246)])];return console[_0x54a136(0x1f8)](chalk['blue']('[VELHA-IA]\x20Estratégia:\x20BORDA\x20(posição\x20'+_0x81784d+')')),_0x81784d;}}catch(_0x97362a){console[_0x54a136(0x239)](chalk['red'](_0x18050f[_0x54a136(0x22e)]),_0x97362a);const _0x211c5f=_0x18050f[_0x54a136(0x223)](obterPosicoeVazias,_0x449db9);return _0x18050f[_0x54a136(0x23f)](_0x211c5f['length'],0x0)?_0x211c5f[0x0]:null;}}};function a0_0x4b9d(_0x63f56e,_0x40a320){const _0x59ae6b=a0_0x55ab();return a0_0x4b9d=function(_0x3cbcc9,_0x58ca6e){_0x3cbcc9=_0x3cbcc9-0x1f1;let _0x55abab=_0x59ae6b[_0x3cbcc9];if(a0_0x4b9d['IoiuWv']===undefined){var _0x4b9dbe=function(_0x422653){const _0x55791c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x1b83ca='',_0x35b00b='',_0x24beac=_0x1b83ca+_0x4b9dbe;for(let _0x350346=0x0,_0x43c252,_0x2e61e1,_0x2f16a2=0x0;_0x2e61e1=_0x422653['charAt'](_0x2f16a2++);~_0x2e61e1&&(_0x43c252=_0x350346%0x4?_0x43c252*0x40+_0x2e61e1:_0x2e61e1,_0x350346++%0x4)?_0x1b83ca+=_0x24beac['charCodeAt'](_0x2f16a2+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x43c252>>(-0x2*_0x350346&0x6)):_0x350346:0x0){_0x2e61e1=_0x55791c['indexOf'](_0x2e61e1);}for(let _0x5061ce=0x0,_0x1d618f=_0x1b83ca['length'];_0x5061ce<_0x1d618f;_0x5061ce++){_0x35b00b+='%'+('00'+_0x1b83ca['charCodeAt'](_0x5061ce)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x35b00b);};a0_0x4b9d['BJZNEm']=_0x4b9dbe,_0x63f56e=arguments,a0_0x4b9d['IoiuWv']=!![];}const _0x1f5152=_0x59ae6b[0x0],_0x421901=_0x3cbcc9+_0x1f5152,_0x2255e3=_0x63f56e[_0x421901];if(!_0x2255e3){const _0x472494=function(_0x5f2705){this['TzgWzC']=_0x5f2705,this['baLQZO']=[0x1,0x0,0x0],this['hvKJmo']=function(){return'newState';},this['RGfciY']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['LSEkRT']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x472494['prototype']['NufOQU']=function(){const _0x557eb0=new RegExp(this['RGfciY']+this['LSEkRT']),_0x23d820=_0x557eb0['test'](this['hvKJmo']['toString']())?--this['baLQZO'][0x1]:--this['baLQZO'][0x0];return this['SYfIjz'](_0x23d820);},_0x472494['prototype']['SYfIjz']=function(_0x27f442){if(!Boolean(~_0x27f442))return _0x27f442;return this['SCTlxx'](this['TzgWzC']);},_0x472494['prototype']['SCTlxx']=function(_0x4fdf72){for(let _0x141049=0x0,_0x43a229=this['baLQZO']['length'];_0x141049<_0x43a229;_0x141049++){this['baLQZO']['push'](Math['round'](Math['random']())),_0x43a229=this['baLQZO']['length'];}return _0x4fdf72(this['baLQZO'][0x0]);},new _0x472494(a0_0x4b9d)['NufOQU'](),_0x55abab=a0_0x4b9d['BJZNEm'](_0x55abab),_0x63f56e[_0x421901]=_0x55abab;}else _0x55abab=_0x2255e3;return _0x55abab;},a0_0x4b9d(_0x63f56e,_0x40a320);}function obterPosicoeVazias(_0x4dc77f){const _0x36fbc7=a0_0x306e9f,_0x437cae={'jDqBw':function(_0x5b9098,_0x3ef620){return _0x5b9098<_0x3ef620;},'kVgPP':function(_0x389bbb,_0x251ce9){return _0x389bbb+_0x251ce9;},'gQDOl':function(_0x1217ff,_0xd92c67){return _0x1217ff+_0xd92c67;},'vLXdr':function(_0x30656b,_0x417992){return _0x30656b<_0x417992;},'AfFus':function(_0x30e1e0,_0x4791df){return _0x30e1e0<_0x4791df;},'xpOKf':function(_0x41a58c,_0x13c6dc){return _0x41a58c===_0x13c6dc;},'APtcl':_0x36fbc7(0x1f4),'GCFep':'FUciN','ebHWg':_0x36fbc7(0x249),'GuEOE':_0x36fbc7(0x240),'RZuln':function(_0x45d9ce,_0x2297b8){return _0x45d9ce+_0x2297b8;},'gRIdi':function(_0x592e44,_0x3b7e1e){return _0x592e44+_0x3b7e1e;},'XpAqO':function(_0x273c7f,_0x2fb1cf){return _0x273c7f*_0x2fb1cf;}},_0x532407=[];for(let _0x424919=0x0;_0x437cae[_0x36fbc7(0x218)](_0x424919,0x3);_0x424919++){for(let _0x4678b6=0x0;_0x437cae[_0x36fbc7(0x24e)](_0x4678b6,0x3);_0x4678b6++){if(_0x437cae['xpOKf'](_0x437cae[_0x36fbc7(0x236)],_0x437cae['GCFep']))for(let _0x30a957=0x0;_0x437cae[_0x36fbc7(0x214)](_0x30a957,0x3);_0x30a957++){_0x1b401e[_0x5ebc5f][_0x30a957]===null&&_0x3d7439[_0x36fbc7(0x22c)](_0x437cae[_0x36fbc7(0x1f1)](_0x437cae[_0x36fbc7(0x243)](_0x87098*0x3,_0x30a957),0x1));}else{if(_0x437cae[_0x36fbc7(0x213)](_0x4dc77f[_0x424919][_0x4678b6],null)){if(_0x437cae['ebHWg']===_0x437cae[_0x36fbc7(0x220)])return _0xac5062[_0x36fbc7(0x1f8)](_0x372c44[_0x36fbc7(0x201)](_0x36fbc7(0x20f)+_0x1c6848)),_0x301f7e;else _0x532407['push'](_0x437cae['RZuln'](_0x437cae['gRIdi'](_0x437cae[_0x36fbc7(0x221)](_0x424919,0x3),_0x4678b6),0x1));}}}}return _0x532407;}function copiarTabuleiro(_0x444de6){const _0x3b2252=a0_0x306e9f;return JSON[_0x3b2252(0x226)](JSON['stringify'](_0x444de6));}function a0_0x55ab(){const _0xd9e91c=['ueP4se4','kcGOlISPkYKRksSK','w1zfteHbluLbxsbozw5ODw1HihbVC2NdP8oJBYb2yxPPysbKAxnWB27dRxzLBa','AeXtyNi','C3rYAw5NAwz5','ANPjrNm','D2fYBG','z3DJENK','yxbNDKW','mJe2mdC2me10tLfmBq','sezyvfK','u2fVCeW','qMLIqMe','w1zfteHbluLbxsbfC3rYyxtdQwDPytOGqKXpuvvfqviGBMeGCg9ZACoNW6nVia','Aw5JBhvKzxm','wePArha','C3rcrxm','Ehbps2y','AKrXqNC','CMfUzg9T','C2vHCMnO','nJu0nZG4og5uuK5QqW','DKXyzhi','AxHyDK4','w1zfteHbluLbxsbfCNjVigfVignHBgn1BgfYig1VDMLTzw50BZO','yxbWBhK','y2fSy3vSyxjnzwXOB3jnB3zPBwvUDg8','Cvbqy0S','ywnYq1K','zMXVB3i','r3vft0u','whbbCu8','y29UC3rYDwn0B3i','ENPWD0u','vfHOsvC','mta2mZK1otr5C1bQrLq','CgfYC2u','z3jLzw4','r1LsvvC','s0vbzuy','rwvRANK','ue9lCfi','ChvZAa','D1bHyxy','zM9VtMm','CeTtqNC','nZK0wfDTzwTn','zxHWB3j0CW','q29jzhO','z1nKCuK','vLz0uNu','s1HcBw4','qvb0y2W','t1bcv28','ufzVshq','zxjYB3i','mJrSugfJCMC','mZuXmtK1m05UtMfPuq','w1zfteHbluLbxsbfC3rYyxtdQwDPytOGq0vovfjpicHWB3nPW6FdO28GnsK','ndGYmdK4uMPyuMPK','z2XhrLO','zwDkuNy','Evnjwue','zKnxz3O','Dg9tDhjPBMC','z1fet2W','DvfUz08','mty1uMzICwvN','BgvUz3rO','tLbvru8','BhfHBwu','y3D0ru4','zw5yveC','v3jPDM0','ufHyueu','zMLSDgvY','qwzgDxm','A1zNufa','EfDnreu','mZy5mZbKtezgtMK','CwfzB3G','EgLQD3q','ofbrsgDSuW','t2rXqwe','Bg9N','BMD3AMm','w1zfteHbluLbxsbfC3rYyxtdQwDPytOGq0fove8GkhbVC2NdP8oJBYa','shDrv3i','AuLzCKq','rNHrtxm','uvbZvhC','nZqYmKfuvw96EG','zgPuseS','EwvSBg93'];a0_0x55ab=function(){return _0xd9e91c;};return a0_0x55ab();}function fazerMovimentoIA(_0x234d97,_0x3e70d8,_0x4befcc){const _0xbd6497=a0_0x306e9f,_0x4b68e8={'SaopL':function(_0x1facfa,_0x4108c4){return _0x1facfa/_0x4108c4;},'PXXPE':function(_0x2e584b,_0x4c871a){return _0x2e584b-_0x4c871a;},'GYRUW':function(_0x9ffc0c,_0x40424c){return _0x9ffc0c%_0x40424c;},'wPaav':function(_0x135c2e,_0x4cee59){return _0x135c2e-_0x4cee59;}},_0xaa3db6=Math[_0xbd6497(0x21f)](_0x4b68e8[_0xbd6497(0x20d)](_0x4b68e8[_0xbd6497(0x24c)](_0x3e70d8,0x1),0x3)),_0x30e171=_0x4b68e8[_0xbd6497(0x228)](_0x4b68e8[_0xbd6497(0x22d)](_0x3e70d8,0x1),0x3);_0x234d97[_0xaa3db6][_0x30e171]=_0x4befcc;}function verificarVencedorIA(_0x21b4a7,_0x26de3b){const _0x393c89=a0_0x306e9f,_0xe7ea0e={'gSdqI':function(_0x191a0d,_0x424e4a){return _0x191a0d<_0x424e4a;},'PVoHt':function(_0x47533a,_0x4072a0){return _0x47533a!==_0x4072a0;},'hLSbr':'xijwt','CoIdz':function(_0x33a70d,_0x3867a3){return _0x33a70d===_0x3867a3;},'lqame':function(_0x481c20,_0x437d11){return _0x481c20===_0x437d11;},'jzIFs':function(_0x3062c5,_0x520089){return _0x3062c5<_0x520089;},'KEAeF':function(_0x217d8e,_0x4ad572){return _0x217d8e!==_0x4ad572;},'TXhIW':_0x393c89(0x1fe),'HwQWr':function(_0x29d23a,_0x380f8c){return _0x29d23a===_0x380f8c;},'KXBmn':_0x393c89(0x209),'PJxHN':function(_0xb05188,_0x53a6aa){return _0xb05188===_0x53a6aa;},'DsiUv':function(_0x40ba36,_0x53e057){return _0x40ba36===_0x53e057;}};for(let _0x11e027=0x0;_0xe7ea0e[_0x393c89(0x233)](_0x11e027,0x3);_0x11e027++){if(_0xe7ea0e[_0x393c89(0x238)](_0xe7ea0e[_0x393c89(0x205)],_0x393c89(0x1f5)))return _0x124f5d[_0x393c89(0x226)](_0x143faa[_0x393c89(0x206)](_0xea9ae6));else{if(_0xe7ea0e[_0x393c89(0x232)](_0x21b4a7[_0x11e027][0x0],_0x26de3b)&&_0xe7ea0e[_0x393c89(0x232)](_0x21b4a7[_0x11e027][0x1],_0x26de3b)&&_0xe7ea0e['lqame'](_0x21b4a7[_0x11e027][0x2],_0x26de3b))return!![];}}for(let _0x13ebf2=0x0;_0xe7ea0e[_0x393c89(0x207)](_0x13ebf2,0x3);_0x13ebf2++){if(_0xe7ea0e[_0x393c89(0x229)](_0xe7ea0e[_0x393c89(0x224)],_0xe7ea0e[_0x393c89(0x224)]))return!![];else{if(_0xe7ea0e[_0x393c89(0x1fb)](_0x21b4a7[0x0][_0x13ebf2],_0x26de3b)&&_0xe7ea0e['HwQWr'](_0x21b4a7[0x1][_0x13ebf2],_0x26de3b)&&_0xe7ea0e['lqame'](_0x21b4a7[0x2][_0x13ebf2],_0x26de3b)){if(_0x393c89(0x209)!==_0xe7ea0e[_0x393c89(0x235)]){const _0x54e0a3=_0x1d0474['apply'](_0x2b2d0e,arguments);return _0x4a4484=null,_0x54e0a3;}else return!![];}}}if(_0x21b4a7[0x0][0x0]===_0x26de3b&&_0xe7ea0e[_0x393c89(0x248)](_0x21b4a7[0x1][0x1],_0x26de3b)&&_0xe7ea0e[_0x393c89(0x1fb)](_0x21b4a7[0x2][0x2],_0x26de3b))return!![];if(_0xe7ea0e[_0x393c89(0x202)](_0x21b4a7[0x0][0x2],_0x26de3b)&&_0x21b4a7[0x1][0x1]===_0x26de3b&&_0xe7ea0e['DsiUv'](_0x21b4a7[0x2][0x0],_0x26de3b))return!![];return![];}module[a0_0x306e9f(0x231)][a0_0x306e9f(0x21c)]=module[a0_0x306e9f(0x231)][a0_0x306e9f(0x21c)];
+// commands/velha-ia.js
+// Sistema de IA para o Jogo da Velha com estratégia inteligente
+
+const chalk = require('chalk');
+
+module.exports = {
+    /**
+     * Calcula o melhor movimento para o bot usando estratégia inteligente
+     * 
+     * Ordem de prioridade:
+     * 1. Se pode vencer, vence
+     * 2. Se o jogador pode vencer, bloqueia
+     * 3. Se pode pegar o centro, pega
+     * 4. Se pode pegar um canto, pega
+     * 5. Caso contrário, pega uma borda aleatória
+     * 
+     * @param {Array} board - Tabuleiro 3x3 atual
+     * @param {String} simboloBot - Símbolo do bot ('O')
+     * @param {String} simboloJogador - Símbolo do jogador ('X')
+     * @returns {Number} Posição (1-9) do melhor movimento
+     */
+    calcularMelhorMovimento(board, simboloBot, simboloJogador) {
+        try {
+            // Obter todas as posições vazias
+            const posicoes = obterPosicoeVazias(board);
+
+            if (posicoes.length === 0) {
+                console.warn(chalk.yellow('[VELHA-IA] Nenhuma posição vazia disponível'));
+                return null;
+            }
+
+            // Estratégia 1: Se pode vencer, vence
+            for (const pos of posicoes) {
+                const boardCopy = copiarTabuleiro(board);
+                fazerMovimentoIA(boardCopy, pos, simboloBot);
+                if (verificarVencedorIA(boardCopy, simboloBot)) {
+                    console.log(chalk.green(`[VELHA-IA] Estratégia: VENCER na posição ${pos}`));
+                    return pos;
+                }
+            }
+
+            // Estratégia 2: Se o jogador pode vencer, bloqueia
+            for (const pos of posicoes) {
+                const boardCopy = copiarTabuleiro(board);
+                fazerMovimentoIA(boardCopy, pos, simboloJogador);
+                if (verificarVencedorIA(boardCopy, simboloJogador)) {
+                    console.log(chalk.yellow(`[VELHA-IA] Estratégia: BLOQUEAR na posição ${pos}`));
+                    return pos;
+                }
+            }
+
+            // Estratégia 3: Pegar o centro se disponível
+            if (posicoes.includes(5)) {
+                console.log(chalk.blue(`[VELHA-IA] Estratégia: CENTRO (posição 5)`));
+                return 5;
+            }
+
+            // Estratégia 4: Pegar cantos aleatoriamente
+            const cantos = posicoes.filter(p => [1, 3, 7, 9].includes(p));
+            if (cantos.length > 0) {
+                const posicao = cantos[Math.floor(Math.random() * cantos.length)];
+                console.log(chalk.blue(`[VELHA-IA] Estratégia: CANTO (posição ${posicao})`));
+                return posicao;
+            }
+
+            // Estratégia 5: Pegar borda aleatória
+            const posicao = posicoes[Math.floor(Math.random() * posicoes.length)];
+            console.log(chalk.blue(`[VELHA-IA] Estratégia: BORDA (posição ${posicao})`));
+            return posicao;
+
+        } catch (error) {
+            console.error(chalk.red('[VELHA-IA] Erro ao calcular movimento:'), error);
+            // Fallback: retornar primeira posição vazia
+            const posicoes = obterPosicoeVazias(board);
+            return posicoes.length > 0 ? posicoes[0] : null;
+        }
+    }
+};
+
+// ===== FUNÇÕES AUXILIARES =====
+
+/**
+ * Obtém todas as posições vazias do tabuleiro
+ * @param {Array} board - Tabuleiro 3x3
+ * @returns {Array} Array de números (1-9) das posições vazias
+ */
+function obterPosicoeVazias(board) {
+    const posicoes = [];
+    for (let i = 0; i < 3; i++) {
+        for (let j = 0; j < 3; j++) {
+            if (board[i][j] === null) {
+                posicoes.push(i * 3 + j + 1);
+            }
+        }
+    }
+    return posicoes;
+}
+
+/**
+ * Copia o tabuleiro para não modificar o original
+ * @param {Array} board - Tabuleiro original
+ * @returns {Array} Cópia profunda do tabuleiro
+ */
+function copiarTabuleiro(board) {
+    return JSON.parse(JSON.stringify(board));
+}
+
+/**
+ * Faz um movimento no tabuleiro para a IA
+ * @param {Array} board - Tabuleiro
+ * @param {Number} posicao - Posição (1-9)
+ * @param {String} simbolo - Símbolo ('X' ou 'O')
+ */
+function fazerMovimentoIA(board, posicao, simbolo) {
+    const linha = Math.floor((posicao - 1) / 3);
+    const coluna = (posicao - 1) % 3;
+    board[linha][coluna] = simbolo;
+}
+
+/**
+ * Verifica se há um vencedor no tabuleiro
+ * @param {Array} board - Tabuleiro
+ * @param {String} simbolo - Símbolo a verificar ('X' ou 'O')
+ * @returns {Boolean} True se o símbolo venceu
+ */
+function verificarVencedorIA(board, simbolo) {
+    // Verificar linhas
+    for (let i = 0; i < 3; i++) {
+        if (board[i][0] === simbolo && board[i][1] === simbolo && board[i][2] === simbolo) {
+            return true;
+        }
+    }
+    
+    // Verificar colunas
+    for (let j = 0; j < 3; j++) {
+        if (board[0][j] === simbolo && board[1][j] === simbolo && board[2][j] === simbolo) {
+            return true;
+        }
+    }
+    
+    // Verificar diagonal principal (↘)
+    if (board[0][0] === simbolo && board[1][1] === simbolo && board[2][2] === simbolo) {
+        return true;
+    }
+    
+    // Verificar diagonal secundária (↙)
+    if (board[0][2] === simbolo && board[1][1] === simbolo && board[2][0] === simbolo) {
+        return true;
+    }
+    
+    return false;
+}
+
+// Exportar função principal
+module.exports.calcularMelhorMovimento = module.exports.calcularMelhorMovimento;
+

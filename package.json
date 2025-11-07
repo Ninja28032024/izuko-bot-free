@@ -1,15 +1,15 @@
 {
   "name": "Izuko-Bot-VIP",
   "version": "1.5.0",
-  "description": "Bot VIP desenvolvido sob o comando do Mestre Lucky - Versão Ofuscada",
+  "description": "Bot VIP - Versão Otimizada para Baixo Consumo de Memória",
   "main": "main.js",
   "engines": {
     "node": ">=20.0.0 <21.0.0"
   },
   "scripts": {
-    "start": "node main.js",
-    "dev": "node --watch main.js",
-    "pm2:start": "pm2 start ecosystem.config.js",
+    "start": "node --max-old-space-size=512 main.js",
+    "dev": "node --max-old-space-size=512 --watch main.js",
+    "pm2:start": "pm2 start main.js --name IzukoBOT --max-memory-restart 512M",
     "pm2:stop": "pm2 stop IzukoBOT",
     "pm2:restart": "pm2 restart IzukoBOT"
   },

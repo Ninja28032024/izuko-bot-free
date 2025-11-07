@@ -1,1 +1,72 @@
-const a0_0x35c5cc=a0_0x31db;(function(_0x5c1a02,_0x54e203){const _0x42e7fb=a0_0x31db,_0x4e88eb=_0x5c1a02();while(!![]){try{const _0x19ec64=parseInt(_0x42e7fb(0x98))/0x1+-parseInt(_0x42e7fb(0x94))/0x2*(parseInt(_0x42e7fb(0x92))/0x3)+-parseInt(_0x42e7fb(0xa0))/0x4*(parseInt(_0x42e7fb(0x9a))/0x5)+parseInt(_0x42e7fb(0x97))/0x6+-parseInt(_0x42e7fb(0x95))/0x7*(-parseInt(_0x42e7fb(0xa3))/0x8)+parseInt(_0x42e7fb(0x96))/0x9*(-parseInt(_0x42e7fb(0xa6))/0xa)+parseInt(_0x42e7fb(0xa5))/0xb;if(_0x19ec64===_0x54e203)break;else _0x4e88eb['push'](_0x4e88eb['shift']());}catch(_0x4ead9c){_0x4e88eb['push'](_0x4e88eb['shift']());}}}(a0_0x1f79,0xaa50d));function a0_0x1f79(){const _0x5920bb=['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','ntu1ndyYDxHRtMLN','zxHWB3j0CW','mNjsruvmsq','mZK2mKflEuDvDW','nta5oduWDKfQvgnR','mtC2mtuYohfKBMn1tW','ntK3ndqYB1LmDxn3','BwfUDwfSlwfUDgLSAw5RCW','mJm4mtv5qwnrt0e','uhz5DMy','z3jVDxbnzxrHzgf0yq','C2vUze1LC3nHz2u','tvfIufy','twvZDhjLlcbHCgvUyxmGB3mGz2vUzxjHAxmGkgfKBwLUCYKGzgvZDguGy2ZdOYbWB2rLBsbJB25ZDwX0yxiGB3mGChjVDg9JB2XVCYbKzsbKzwzLC2eU','mteXnMTmzufesG','kcGOlISPkYKRksSK','C2vHCMnO','mteYmdHovhHQCg8','Dg9tDhjPBMC','nZy3mZu3ogLIthHntq','mZbVu1HHB3a','DhjPBq'];a0_0x1f79=function(){return _0x5920bb;};return a0_0x1f79();}function a0_0x31db(_0x394426,_0x3a7723){const _0x49b975=a0_0x1f79();return a0_0x31db=function(_0x316db8,_0xd3e415){_0x316db8=_0x316db8-0x92;let _0x1f79ad=_0x49b975[_0x316db8];if(a0_0x31db['AxCvCK']===undefined){var _0x31dbcd=function(_0x86ad80){const _0x47d5fc='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x3a1450='',_0x3102dc='',_0x21bb14=_0x3a1450+_0x31dbcd;for(let _0x594058=0x0,_0x572e08,_0x3e6050,_0x589b38=0x0;_0x3e6050=_0x86ad80['charAt'](_0x589b38++);~_0x3e6050&&(_0x572e08=_0x594058%0x4?_0x572e08*0x40+_0x3e6050:_0x3e6050,_0x594058++%0x4)?_0x3a1450+=_0x21bb14['charCodeAt'](_0x589b38+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x572e08>>(-0x2*_0x594058&0x6)):_0x594058:0x0){_0x3e6050=_0x47d5fc['indexOf'](_0x3e6050);}for(let _0x5ac075=0x0,_0x1b5c5c=_0x3a1450['length'];_0x5ac075<_0x1b5c5c;_0x5ac075++){_0x3102dc+='%'+('00'+_0x3a1450['charCodeAt'](_0x5ac075)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x3102dc);};a0_0x31db['UyzTsm']=_0x31dbcd,_0x394426=arguments,a0_0x31db['AxCvCK']=!![];}const _0x5df431=_0x49b975[0x0],_0x36bd3c=_0x316db8+_0x5df431,_0x4768cb=_0x394426[_0x36bd3c];if(!_0x4768cb){const _0x20d5d1=function(_0x2121e6){this['nkUgtp']=_0x2121e6,this['tAwAOz']=[0x1,0x0,0x0],this['qRbVBp']=function(){return'newState';},this['sTswwV']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['ToRGtD']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x20d5d1['prototype']['aGEuUQ']=function(){const _0x2aa05d=new RegExp(this['sTswwV']+this['ToRGtD']),_0x3384c5=_0x2aa05d['test'](this['qRbVBp']['toString']())?--this['tAwAOz'][0x1]:--this['tAwAOz'][0x0];return this['bEYuGW'](_0x3384c5);},_0x20d5d1['prototype']['bEYuGW']=function(_0x2f024a){if(!Boolean(~_0x2f024a))return _0x2f024a;return this['EIrsuj'](this['nkUgtp']);},_0x20d5d1['prototype']['EIrsuj']=function(_0x26a844){for(let _0x5b955a=0x0,_0x5cc50d=this['tAwAOz']['length'];_0x5b955a<_0x5cc50d;_0x5b955a++){this['tAwAOz']['push'](Math['round'](Math['random']())),_0x5cc50d=this['tAwAOz']['length'];}return _0x26a844(this['tAwAOz'][0x0]);},new _0x20d5d1(a0_0x31db)['aGEuUQ'](),_0x1f79ad=a0_0x31db['UyzTsm'](_0x1f79ad),_0x394426[_0x36bd3c]=_0x1f79ad;}else _0x1f79ad=_0x4768cb;return _0x1f79ad;},a0_0x31db(_0x394426,_0x3a7723);}const a0_0xd3e415=(function(){let _0x5ca758=!![];return function(_0x42ab57,_0x5a7d35){const _0x367f75=_0x5ca758?function(){if(_0x5a7d35){const _0x15d765=_0x5a7d35['apply'](_0x42ab57,arguments);return _0x5a7d35=null,_0x15d765;}}:function(){};return _0x5ca758=![],_0x367f75;};}()),a0_0x316db8=a0_0xd3e415(this,function(){const _0x46b4a0=a0_0x31db,_0x391805={'MQbPV':_0x46b4a0(0xa1)};return a0_0x316db8[_0x46b4a0(0xa4)]()['search'](_0x46b4a0(0xa1))[_0x46b4a0(0xa4)]()['constructor'](a0_0x316db8)[_0x46b4a0(0xa2)](_0x391805[_0x46b4a0(0x9e)]);});a0_0x316db8(),module[a0_0x35c5cc(0x93)]={'name':a0_0x35c5cc(0x99),'aliases':[],'execute':async({lux:_0x3700a5,from:_0x263861,msg:_0xdda8d2,isGroup:_0x5c5bf8,sender:_0x19aad0,areJidsSameUser:_0x3999c9})=>{const _0x292099=a0_0x35c5cc,_0x77dba8={'Pvyvf':'Mestre,\x20este\x20pergaminho\x20só\x20pode\x20ser\x20revelado\x20em\x20um\x20grupo.'};if(!_0x5c5bf8)return await _0x3700a5[_0x292099(0x9d)](_0x263861,{'text':_0x77dba8[_0x292099(0x9b)]},{'quoted':_0xdda8d2});const _0x571d6d=await _0x3700a5[_0x292099(0x9c)](_0x263861),_0x45d105=_0x571d6d['participants']['find'](_0x4065b8=>_0x3999c9(_0x4065b8['id'],_0x19aad0))?.['admin'];if(!_0x45d105)return await _0x3700a5[_0x292099(0x9d)](_0x263861,{'text':_0x292099(0x9f)},{'quoted':_0xdda8d2});const _0x51b84c=_0x292099(0xa8);await _0x3700a5[_0x292099(0x9d)](_0x263861,{'text':_0x51b84c[_0x292099(0xa7)]()},{'quoted':_0xdda8d2});}};
+// commands/manual-antilinks.js
+
+module.exports = {
+    name: 'manual-antilinks',
+    aliases: [], // Sem aliases, conforme ordenado
+    execute: async ({ lux, from, msg, isGroup, sender, areJidsSameUser }) => {
+        
+        if (!isGroup) {
+            return await lux.sendMessage(from, { text: 'Mestre, este pergaminho só pode ser revelado em um grupo.' }, { quoted: msg });
+        }
+
+        // Verifica se o autor da mensagem é um administrador do grupo
+        const groupMeta = await lux.groupMetadata(from);
+        const senderIsAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, sender))?.admin;
+
+        if (!senderIsAdmin) {
+            return await lux.sendMessage(from, { text: 'Mestre, apenas os generais (admins) deste clã podem consultar os protocolos de defesa.' }, { quoted: msg });
+        }
+
+        const manualText = `
+📜 *MANUAL DOS PROTOCOLOS DE DEFESA ANTI-LINK* 📜
+
+Saudações, General. Eu, Izuko BOT, fui forjado para manter a ordem e a disciplina. A seguir, detalho os cinco níveis de defesa que Vossa Senhoria pode decretar para proteger este clã contra o envio de links por membros comuns.
+
+Cada nível é ativado e desativado usando o mesmo comando. Use-o uma vez para ativar, e novamente para desativar.
+
+-------------------------------------------
+
+🛡️ *NÍVEL 1: A MURALHA (Comando: !anti-link)* 🛡️
+
+*Ação:* Aniquilação da Mensagem.
+*Descrição:* Este é o protocolo de defesa padrão. Ao ser ativado, qualquer mensagem contendo um link enviada por um membro comum será *instantaneamente apagada.* Uma advertência será emitida, mas o membro não sofrerá outra punição. É a defesa ideal para manter a limpeza sem ser excessivamente punitivo.
+
+-------------------------------------------
+
+🚨 *NÍVEL 2: A LEI MARCIAL (Comando: !anti-link2)* 🚨
+
+*Ação:* Exílio Imediato.
+*Descrição:* Um protocolo severo para clãs que exigem disciplina máxima. Ao ser ativado, o membro comum que enviar um link será *imediatamente banido* do grupo. A mensagem contendo o link permanecerá como prova da transgressão.
+
+-------------------------------------------
+
+🔥 *NÍVEL 3: A SENTENÇA SUPREMA (Comando: !anti-link3)* 🔥
+
+*Ação:* Exílio e Aniquilação.
+*Descrição:* A combinação das duas leis anteriores. O membro transgressor será *imediatamente banido*, e a mensagem contendo o link será *apagada em seguida*. Não deixa rastros da infração, apenas a ausência do infrator.
+
+-------------------------------------------
+
+☠️ *NÍVEL 4: O RITUAL DE EXÍLIO (Comando: !anti-link4)* ☠️
+
+*Ação:* Punição Exemplar Coreografada.
+*Descrição:* Este protocolo não é apenas uma punição, é uma demonstração de poder. Ao detectar um link, eu seguirei uma sequência dramática: fecharei o grupo, apagarei a mensagem, anunciarei o banimento, banirei o membro, reabrirei o grupo e, por fim, proclamarei a sentença a todos, desafiando outros a cometerem o mesmo erro. É a escolha ideal para deixar uma mensagem clara e intimidadora.
+
+-------------------------------------------
+
+⚖️ *NÍVEL 5: A LEI DA REINCIDÊNCIA (Comando: !anti-link5)* ⚖️
+
+*Ação:* Advertência Progressiva.
+*Descrição:* O mais justo e sofisticado dos protocolos. Cada membro tem 4 chances.
+*1ª a 4ª Vez:* A mensagem com o link é apagada, e eu emito uma advertência, informando quantas chances restam.
+*5ª Vez:* A paciência se esgota. O ritual do Nível 4 é iniciado, e o membro é banido de forma exemplar.
+    Este protocolo é ideal para grupos que desejam educar antes de punir.
+
+-------------------------------------------
+
+Use estes poderes com sabedoria, General. A ordem do clã está em suas mãos.
+        `;
+
+        await lux.sendMessage(from, { text: manualText.trim() }, { quoted: msg });
+    }
+};

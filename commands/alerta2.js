@@ -1,1 +1,62 @@
-const a0_0x2b172a=a0_0x4ec8;function a0_0x4ec8(_0x3bf5d1,_0x388724){const _0x4cb0bd=a0_0x462b();return a0_0x4ec8=function(_0x1f96ec,_0x3436cf){_0x1f96ec=_0x1f96ec-0x167;let _0x462bc4=_0x4cb0bd[_0x1f96ec];if(a0_0x4ec8['ERUxWW']===undefined){var _0x4ec8fc=function(_0x1d923b){const _0x5a0be3='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xa0d9f6='',_0x1a4261='',_0x372039=_0xa0d9f6+_0x4ec8fc;for(let _0xc64337=0x0,_0x549927,_0x21b520,_0x1059a7=0x0;_0x21b520=_0x1d923b['charAt'](_0x1059a7++);~_0x21b520&&(_0x549927=_0xc64337%0x4?_0x549927*0x40+_0x21b520:_0x21b520,_0xc64337++%0x4)?_0xa0d9f6+=_0x372039['charCodeAt'](_0x1059a7+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x549927>>(-0x2*_0xc64337&0x6)):_0xc64337:0x0){_0x21b520=_0x5a0be3['indexOf'](_0x21b520);}for(let _0x117041=0x0,_0x1bedaa=_0xa0d9f6['length'];_0x117041<_0x1bedaa;_0x117041++){_0x1a4261+='%'+('00'+_0xa0d9f6['charCodeAt'](_0x117041)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1a4261);};a0_0x4ec8['hRsJEF']=_0x4ec8fc,_0x3bf5d1=arguments,a0_0x4ec8['ERUxWW']=!![];}const _0x5aa1bd=_0x4cb0bd[0x0],_0x1465ea=_0x1f96ec+_0x5aa1bd,_0x4bfb41=_0x3bf5d1[_0x1465ea];if(!_0x4bfb41){const _0xdb07df=function(_0x3c838b){this['jXbgZa']=_0x3c838b,this['TsAXEE']=[0x1,0x0,0x0],this['lbkyYL']=function(){return'newState';},this['hXYojs']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['uNPSdf']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0xdb07df['prototype']['ESXtFB']=function(){const _0x38d398=new RegExp(this['hXYojs']+this['uNPSdf']),_0x31e55e=_0x38d398['test'](this['lbkyYL']['toString']())?--this['TsAXEE'][0x1]:--this['TsAXEE'][0x0];return this['oczcJy'](_0x31e55e);},_0xdb07df['prototype']['oczcJy']=function(_0x4ae8b1){if(!Boolean(~_0x4ae8b1))return _0x4ae8b1;return this['HdIhIp'](this['jXbgZa']);},_0xdb07df['prototype']['HdIhIp']=function(_0x31b058){for(let _0x5d3cf4=0x0,_0xf27e97=this['TsAXEE']['length'];_0x5d3cf4<_0xf27e97;_0x5d3cf4++){this['TsAXEE']['push'](Math['round'](Math['random']())),_0xf27e97=this['TsAXEE']['length'];}return _0x31b058(this['TsAXEE'][0x0]);},new _0xdb07df(a0_0x4ec8)['ESXtFB'](),_0x462bc4=a0_0x4ec8['hRsJEF'](_0x462bc4),_0x3bf5d1[_0x1465ea]=_0x462bc4;}else _0x462bc4=_0x4bfb41;return _0x462bc4;},a0_0x4ec8(_0x3bf5d1,_0x388724);}(function(_0x4ce70b,_0x1d4714){const _0x8dd211=a0_0x4ec8,_0x1a8b77=_0x4ce70b();while(!![]){try{const _0x598951=-parseInt(_0x8dd211(0x188))/0x1+parseInt(_0x8dd211(0x181))/0x2*(parseInt(_0x8dd211(0x168))/0x3)+parseInt(_0x8dd211(0x17d))/0x4+-parseInt(_0x8dd211(0x185))/0x5+parseInt(_0x8dd211(0x17c))/0x6+-parseInt(_0x8dd211(0x16e))/0x7+parseInt(_0x8dd211(0x16f))/0x8;if(_0x598951===_0x1d4714)break;else _0x1a8b77['push'](_0x1a8b77['shift']());}catch(_0x59d0f6){_0x1a8b77['push'](_0x1a8b77['shift']());}}}(a0_0x462b,0xc9ba2));const a0_0x3436cf=(function(){let _0x202a0d=!![];return function(_0x28b7b7,_0x2259d4){const _0x4ee933=a0_0x4ec8;if(_0x4ee933(0x178)!==_0x4ee933(0x186)){const _0x4b748f=_0x202a0d?function(){if(_0x2259d4){const _0x4562ea=_0x2259d4['apply'](_0x28b7b7,arguments);return _0x2259d4=null,_0x4562ea;}}:function(){};return _0x202a0d=![],_0x4b748f;}else{const _0x1ac601=_0x117041?function(){const _0x334c97=_0x4ee933;if(_0x4ae8b1){const _0x49cf87=_0xd39600[_0x334c97(0x16d)](_0x591ec8,arguments);return _0x17b6cd=null,_0x49cf87;}}:function(){};return _0x31e55e=![],_0x1ac601;}};}()),a0_0x1f96ec=a0_0x3436cf(this,function(){const _0x580115=a0_0x4ec8,_0x3c8125={'bMJmB':'(((.+)+)+)+$'};return a0_0x1f96ec[_0x580115(0x177)]()[_0x580115(0x187)](_0x3c8125[_0x580115(0x175)])[_0x580115(0x177)]()[_0x580115(0x17a)](a0_0x1f96ec)[_0x580115(0x187)](_0x3c8125['bMJmB']);});a0_0x1f96ec();const {getGroupMetaData}=require(a0_0x2b172a(0x17e)),ZWSP=String[a0_0x2b172a(0x167)](0x200b);function a0_0x462b(){const _0x4803fb=['y29UC3rYDwn0B3i','zxjYB3i','nti0ntuZmfntwuDvyq','nJK0mdi4BhjQuM16','lI4VC2v0DgLUz3mVBgLIl2DYB3vWlxv0AwXZ','4PYfiefSzxj0ysbMyw50yxnTysbLBNzPywrVignVBsbZDwnLC3nVihbHCMeG','u3bgAwO','odK2mM5jCvHSEq','rxjYBYbUBYbJB21HBMrVigfSzxj0yti6','zxHWB3j0CW','4P2mievZDguGy29Tyw5KBYbZW7mGCg9KzsbZzxiGDxnHzg8Gzw0Gz3j1Cg9ZlG','mZa4ndi5nvLHqNjwwa','DKfTB1e','C2vHCMnO','mtq4ntKXnLjIBK52vG','Bwfku2W','AM9PBG','BMnUBMe','zNjVBunOyxjdB2rL','mJm3C05irxPM','tNv3Dhe','z3jVDxbnzxrHzgf0yq','BgvUz3rO','C2vUze1LC3nHz2u','yxbWBhK','nteXnZiXwuzRweXQ','mti4mdmXmJHszgDMsey','pg1LBNnHz2vTpG','4O+Zie9IDgvUzg8GBgLZDgeGzguGBwvTyNjVCYbKBYbNCNvWBY4UlG','BwvZC2fNzq','ig1LBwjYB3mGzg8Gz3j1Cg8U','rw52AweGDw1Hig1LBSoNW6nVigzHBNrHC21HigeGDg9KB3mGB3mGBwvTyNjVCYbKBYbNCNvWBYaOyxbLBMfZig5VDgLMAwnHW6FdO28PlG','yK1kBui','4P2mie9JB3jYzxuGDw0GzxjYBYbHBYbLBNzPyxiGBYbHBgvYDge6ia','Dg9tDhjPBMC','zgP1yNe','4P2mifbVCIbMyxzVCIWGzM9YBMxdP2eGysbTzw5ZywDLBsbXDwuGzgvZzwPHigvUDMLHCIbJB21VigfSzxj0ys4'];a0_0x462b=function(){return _0x4803fb;};return a0_0x462b();}module[a0_0x2b172a(0x183)]={'name':'alerta2','aliases':[],'description':a0_0x2b172a(0x174),'usage':a0_0x2b172a(0x170),'cooldown':0x3c,'isGroup':!![],'isOwner':!![],async 'execute'({lux:_0x260dd3,msg:_0x14d485,from:_0xf4a13f,args:_0x5f41cf}){const _0x3b63b5=a0_0x2b172a,_0x1b7d98={'ncnna':_0x3b63b5(0x179),'Nuwtq':_0x3b63b5(0x171),'reXdl':function(_0x1d22b3,_0x530060){return _0x1d22b3!==_0x530060;},'SpFij':'XVPOC','maJSl':function(_0xe9d5c1,_0x30c254){return _0xe9d5c1+_0x30c254;},'lhCLK':_0x3b63b5(0x182)},_0x228f79=_0xf4a13f['endsWith']('@g.us');if(!_0x228f79)return _0x260dd3[_0x3b63b5(0x16c)](_0xf4a13f,{'text':_0x3b63b5(0x184)},{'quoted':_0x14d485});const _0x526dcc=_0x5f41cf[_0x3b63b5(0x18a)]('\x20')['trim']();if(!_0x526dcc)return _0x260dd3[_0x3b63b5(0x16c)](_0xf4a13f,{'text':_0x1b7d98[_0x3b63b5(0x18b)]},{'quoted':_0x14d485});await _0x260dd3[_0x3b63b5(0x16c)](_0xf4a13f,{'text':_0x1b7d98[_0x3b63b5(0x169)]},{'quoted':_0x14d485});try{if(_0x1b7d98['reXdl'](_0x1b7d98[_0x3b63b5(0x180)],_0x1b7d98[_0x3b63b5(0x180)]))return _0x3c7ef4[_0x3b63b5(0x16c)](_0x35c906,{'text':_0x1b7d98[_0x3b63b5(0x18b)]},{'quoted':_0x2bab3b});else{const _0x51ee1b=await _0x260dd3[_0x3b63b5(0x16a)](_0xf4a13f),_0x509e25=_0x51ee1b['participants'],_0x5be937=_0x509e25['map'](_0x3b1c65=>_0x3b1c65['id']),_0x47b773=_0x1b7d98[_0x3b63b5(0x189)](ZWSP,_0x526dcc);await _0x260dd3[_0x3b63b5(0x16c)](_0xf4a13f,{'text':_0x47b773,'mentions':_0x5be937}),await _0x260dd3[_0x3b63b5(0x16c)](_0xf4a13f,{'text':_0x3b63b5(0x17f)+_0x509e25[_0x3b63b5(0x16b)]+_0x3b63b5(0x173)},{'quoted':_0x14d485});}}catch(_0x5526e5){console[_0x3b63b5(0x17b)](_0x1b7d98['lhCLK'],_0x5526e5),await _0x260dd3[_0x3b63b5(0x16c)](_0xf4a13f,{'text':_0x3b63b5(0x176)+_0x5526e5[_0x3b63b5(0x172)]},{'quoted':_0x14d485});}}};
+// commands/alerta2.js
+const { getGroupMetaData } = require('../settings/lib/group-utils'); // Assumindo que você tem uma função para obter metadados do grupo
+
+// Caractere Zero Width Space (ZWSP) para criar a mensagem "invisível"
+const ZWSP = String.fromCharCode(8203);
+
+module.exports = {
+    name: 'alerta2',
+    aliases: [],
+    description: 'Envia uma menção fantasma a todos os membros do grupo (apenas notificação).',
+    usage: '<mensagem>',
+    cooldown: 60,
+    isGroup: true,
+    isOwner: true, // Apenas o dono deve usar este comando
+
+    async execute({ lux, msg, from, args }) {
+        // Verificação de grupo mais robusta
+        const isGroup = from.endsWith('@g.us');
+        if (!isGroup) {
+            return lux.sendMessage(from, { text: '❌ Este comando só pode ser usado em grupos.' }, { quoted: msg });
+        }
+
+        const messageText = args.join(' ').trim();
+        if (!messageText) {
+            return lux.sendMessage(from, { text: '❌ Por favor, forneça a mensagem que deseja enviar como alerta.' }, { quoted: msg });
+        }
+
+        await lux.sendMessage(from, { text: '⏳ Obtendo lista de membros do grupo...' }, { quoted: msg });
+
+        try {
+            // 1. Obter metadados do grupo para a lista de participantes
+            // 1. Obter metadados do grupo para a lista de participantes
+            // NOTA: A função getGroupMetaData é um placeholder, mas o lux.groupMetadata(from)
+            // é o método Baileys correto para obter os metadados.
+            const groupMetadata = await lux.groupMetadata(from);
+            const participants = groupMetadata.participants;
+
+            // 2. Extrair os JIDs de todos os participantes
+            const mentionedJid = participants.map(p => p.id);
+
+            // 3. Construir a mensagem fantasma
+            // A mensagem será o ZWSP (invisível) seguido da mensagem real.
+            // O ZWSP garante que o WhatsApp renderize a mensagem, mas o texto seja invisível.
+            // A mensagem real é enviada como um texto normal, mas o que faz a menção é o array mentionedJid.
+            // Para ser "fantasma" (invisível), o texto deve ser o ZWSP.
+            const silentMessage = ZWSP + messageText;
+
+            // 4. Enviar a mensagem
+            await lux.sendMessage(from, {
+                text: silentMessage,
+                mentions: mentionedJid,
+            });
+
+            // 5. Confirmação (apenas para o dono do bot)
+            await lux.sendMessage(from, { text: `✅ Alerta fantasma enviado com sucesso para ${participants.length} membros do grupo.` }, { quoted: msg });
+
+        } catch (error) {
+            console.error('Erro no comando alerta2:', error);
+            await lux.sendMessage(from, { text: `❌ Ocorreu um erro ao enviar o alerta: ${error.message}` }, { quoted: msg });
+        }
+    }
+};

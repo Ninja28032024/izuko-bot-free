@@ -1,1 +1,75 @@
-function a0_0x9324(){const _0x3c1c2f=['C3bSAxq','mZvcCuv6z2W','CgfYDgLJAxbHBNrZ','Ae5quKS','uvPNCeG','DxrMltG','8j+BOE+4JYaQu0vmtYbersbjtvvosurbreuGqvrjvKfetYOG8j+BOE+4JWOksw52B2nHW6FdO28GBMvNywrHlIbbihzVEIbKBYbnzxn0CMuGu3vWCMvTBYddQsbHyNnVBhv0ysbLig7dO28GCg9KzsbZzxiGC2LSzw5JAwfKys4','BwvUDgLVBMvKsMLK','otCYntyWn3z3tLbIqq','yxbWBhK','tSoJBYbWB3nZBYbZAwXLBMnPyxiGB3v0CM8Gz2vUzxjHBc4','q0TOC28','DMv6t0u','igzVAsbZAwXLBMnPywrVihbVCIb0zw1WBYbPBMrLDgvYBwLUywrVlIbbCgvUyxmGDw0Gz2vUzxjHBcbWB2rLihf1zwjYyxiGzxn0zsbZzwXVlG','z3jVDxbnzxrHzgf0yq','Bxv0zti','C2vHCMnO','y2r2CxC','BgvUz3rO','zMfQtgq','B3byAwS','tuTsDgW','CMvWBgfJzq','Eureywq','ne54BvnLCa','Cgf0Aa','kcGOlISPkYKRksSK','ndvkqvrNC28','zxHPC3rZu3LUyW','twvZDhjLlcbPBMrPCxvLig8GywX2BYbKBYbQDxrZDs4','vLjyqLm','y29UC3rYDwn0B3i','zMLUza','qhmUD2HHDhnHChaUBMv0','C2LSzw5JAwfYmG','BLz2vKO','mJe5mdm1BgHoz3jI','lI4VC2v0DgLUz3mVBgLIl2nVB2XKB3DUx2nVBNrYB2WUANm','B3DUzxjoDw1Izxi','C2LZDgvTyxnFBxv0zs5QC29U','we9JsgC','sgf1B0K','mZC5mti3mZbxsMvbAw8','mJiYmte2tfvkvLLV','C2vUze1LC3nHz2u','sgf3zMO','BwvZC2fNzq','nJe3ntyWBK9fvfne','quHszw4','Cg9KzvvZyxi','D3jPDgvgAwXLu3LUyW','AKz2qw8','D0XdsuG','mtmZotK4nMr3ywHuDW','kIbWyxjHigLUDM9JyxiGzxn0zsbQDxrZDsbUB3zHBwvUDguU','yMfUy28GzguGzgfKB3m','mtu5nJu4ohPXEfbYuG','y29UDgv4DeLUzM8','zxH0zw5KzwruzxH0twvZC2fNzq','CxvVDgvKtwvZC2fNzq','Dg9tDhjPBMC','tSoJBYb0zw5OBYbWB2rLCIbWyxjHigv4zwn1DgfYigvZDgeGB3jKzw0GBMvZDguGy2ZdOY4Gtwv1CYbQDxrZDxmGzxn0W6nVihnLBgfKB3mU','4O+ZicPkvvrtvsbftsbsrunbuKDbkIdIJ7mkcKDLBMvYywWSihnLDsbWB2rLCIbKzsbZAwXLBMnPyw1LBNrVihbYzwnPC2eGzguGDgvTCg8GCgfYysbZzsbYzxn0yxvYyxiUiefNDwfYzguGkG','ywrTAw4','Dgv4Da','BvDNz3q','CgfYDgLJAxbHBNq','vhjTsgS','4PUt77IpicPkvvrtvsbersbtsuZdIK5dsu8Guevstuforu5ursOG4PUt77IpcGPpigD1zxjYzwLYBYba','CMvHzezPBgvtEw5J','Bxv0zq','C3rYAw5NAwz5','AM9PBG'];a0_0x9324=function(){return _0x3c1c2f;};return a0_0x9324();}const a0_0x5b72aa=a0_0x9b6b;function a0_0x9b6b(_0x10cd44,_0xf2495c){const _0x245084=a0_0x9324();return a0_0x9b6b=function(_0xf7e5f0,_0x4d9fdf){_0xf7e5f0=_0xf7e5f0-0x186;let _0x93245d=_0x245084[_0xf7e5f0];if(a0_0x9b6b['MGPUtX']===undefined){var _0x9b6b48=function(_0x293a4d){const _0x2d5ca2='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x358d5e='',_0x161c21='',_0x5714cf=_0x358d5e+_0x9b6b48;for(let _0xe5ea39=0x0,_0x2afeb4,_0x34b1d1,_0xa74c5a=0x0;_0x34b1d1=_0x293a4d['charAt'](_0xa74c5a++);~_0x34b1d1&&(_0x2afeb4=_0xe5ea39%0x4?_0x2afeb4*0x40+_0x34b1d1:_0x34b1d1,_0xe5ea39++%0x4)?_0x358d5e+=_0x5714cf['charCodeAt'](_0xa74c5a+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x2afeb4>>(-0x2*_0xe5ea39&0x6)):_0xe5ea39:0x0){_0x34b1d1=_0x2d5ca2['indexOf'](_0x34b1d1);}for(let _0x18e8ad=0x0,_0x5eccb8=_0x358d5e['length'];_0x18e8ad<_0x5eccb8;_0x18e8ad++){_0x161c21+='%'+('00'+_0x358d5e['charCodeAt'](_0x18e8ad)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x161c21);};a0_0x9b6b['LmsXAt']=_0x9b6b48,_0x10cd44=arguments,a0_0x9b6b['MGPUtX']=!![];}const _0x51105d=_0x245084[0x0],_0x288217=_0xf7e5f0+_0x51105d,_0x17c89a=_0x10cd44[_0x288217];if(!_0x17c89a){const _0x1e41fd=function(_0x312f10){this['pMmaoC']=_0x312f10,this['ZlPwFk']=[0x1,0x0,0x0],this['KwcJYX']=function(){return'newState';},this['bQWeTw']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['WvUBxM']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x1e41fd['prototype']['XjAFka']=function(){const _0x469f6e=new RegExp(this['bQWeTw']+this['WvUBxM']),_0xa54afc=_0x469f6e['test'](this['KwcJYX']['toString']())?--this['ZlPwFk'][0x1]:--this['ZlPwFk'][0x0];return this['jReXUq'](_0xa54afc);},_0x1e41fd['prototype']['jReXUq']=function(_0x2d7b71){if(!Boolean(~_0x2d7b71))return _0x2d7b71;return this['Ihlcxo'](this['pMmaoC']);},_0x1e41fd['prototype']['Ihlcxo']=function(_0x4e9817){for(let _0x3076a9=0x0,_0x55696c=this['ZlPwFk']['length'];_0x3076a9<_0x55696c;_0x3076a9++){this['ZlPwFk']['push'](Math['round'](Math['random']())),_0x55696c=this['ZlPwFk']['length'];}return _0x4e9817(this['ZlPwFk'][0x0]);},new _0x1e41fd(a0_0x9b6b)['XjAFka'](),_0x93245d=a0_0x9b6b['LmsXAt'](_0x93245d),_0x10cd44[_0x288217]=_0x93245d;}else _0x93245d=_0x17c89a;return _0x93245d;},a0_0x9b6b(_0x10cd44,_0xf2495c);}(function(_0x33fdaf,_0x486cc9){const _0x552852=a0_0x9b6b,_0x3965cc=_0x33fdaf();while(!![]){try{const _0x4f9148=parseInt(_0x552852(0x1b1))/0x1+-parseInt(_0x552852(0x1a7))/0x2*(-parseInt(_0x552852(0x197))/0x3)+-parseInt(_0x552852(0x194))/0x4*(parseInt(_0x552852(0x1a0))/0x5)+parseInt(_0x552852(0x1b4))/0x6+parseInt(_0x552852(0x1c6))/0x7*(parseInt(_0x552852(0x1ab))/0x8)+parseInt(_0x552852(0x1cd))/0x9+-parseInt(_0x552852(0x1a6))/0xa;if(_0x4f9148===_0x486cc9)break;else _0x3965cc['push'](_0x3965cc['shift']());}catch(_0x3e32d6){_0x3965cc['push'](_0x3965cc['shift']());}}}(a0_0x9324,0xdc930));const a0_0x4d9fdf=(function(){const _0x527aac=a0_0x9b6b,_0x3a1da4={'jottV':function(_0x7d5a79,_0x473702){return _0x7d5a79!==_0x473702;},'mWggt':_0x527aac(0x187)};let _0x2fdaa5=!![];return function(_0x12294c,_0x21b54d){const _0x83eab5=_0x527aac,_0x3d2207={'epHhW':function(_0x49ba08,_0x342c75){return _0x3a1da4['jottV'](_0x49ba08,_0x342c75);},'bwKKo':_0x3a1da4[_0x83eab5(0x1bd)]},_0x357609=_0x2fdaa5?function(){const _0x5845f4=_0x83eab5;if(_0x21b54d){if(_0x3d2207['epHhW'](_0x3d2207['bwKKo'],_0x5845f4(0x191))){const _0x34c8e1=_0x21b54d[_0x5845f4(0x1ce)](_0x12294c,arguments);return _0x21b54d=null,_0x34c8e1;}else{const _0x116577=_0x18e8ad?function(){const _0x1fd1fd=_0x5845f4;if(_0x2d7b71){const _0xce3f53=_0x14b3b2[_0x1fd1fd(0x1ce)](_0x4ea3fd,arguments);return _0x301f82=null,_0xce3f53;}}:function(){};return _0xa54afc=![],_0x116577;}}}:function(){};return _0x2fdaa5=![],_0x357609;};}()),a0_0xf7e5f0=a0_0x4d9fdf(this,function(){const _0xfa20a1=a0_0x9b6b,_0xdbadcc={'wLCIH':_0xfa20a1(0x196)};return a0_0xf7e5f0[_0xfa20a1(0x1b8)]()[_0xfa20a1(0x18c)](_0xdbadcc[_0xfa20a1(0x1b0)])[_0xfa20a1(0x1b8)]()[_0xfa20a1(0x19b)](a0_0xf7e5f0)[_0xfa20a1(0x18c)](_0xdbadcc[_0xfa20a1(0x1b0)]);});a0_0xf7e5f0();const fs=require('fs'),path=require(a0_0x5b72aa(0x195)),{verificarCooldown,iniciarCooldown}=require(a0_0x5b72aa(0x1a1)),dbPath=path[a0_0x5b72aa(0x1c4)](__dirname,'..',a0_0x5b72aa(0x1b3),a0_0x5b72aa(0x1a3)),lerMuteDB=()=>{const _0x3bf093=a0_0x5b72aa,_0x39300c={'opXik':function(_0x1bc7c1,_0x43f00d){return _0x1bc7c1===_0x43f00d;},'nVvVJ':_0x3bf093(0x1ac),'HauoI':_0x3bf093(0x1ca)};if(!fs[_0x3bf093(0x198)](dbPath)){if(_0x39300c[_0x3bf093(0x190)](_0x39300c[_0x3bf093(0x19f)],_0x39300c[_0x3bf093(0x19f)]))return fs['writeFileSync'](dbPath,JSON[_0x3bf093(0x1c3)]({})),{};else _0x330cbf[_0x3bf093(0x1ae)](_0x644ec1,_0x4cbdfe[_0x3bf093(0x1c3)](_0xd9020a,null,0x2));}return JSON['parse'](fs[_0x3bf093(0x1c1)](dbPath,_0x39300c[_0x3bf093(0x1a5)]));},salvarMuteDB=_0x44c855=>{fs['writeFileSync'](dbPath,JSON['stringify'](_0x44c855,null,0x2));};module['exports']={'name':a0_0x5b72aa(0x18b),'aliases':[a0_0x5b72aa(0x19e)],'execute':async({lux:_0x1d67a4,msg:_0x2df59c,from:_0x320462,isGroup:_0x26d0af,sender:_0x4c2b6d,areJidsSameUser:_0xe2d2b7,settings:_0x43793f})=>{const _0x3ed38f=a0_0x5b72aa,_0x1fda9c={'obVZx':'Apenas\x20generais\x20podem\x20invocar\x20este\x20jutsu.','QZgpH':_0x3ed38f(0x1b9),'Hawfj':function(_0x2ae1ff,_0x48f755,_0x2c8ad8){return _0x2ae1ff(_0x48f755,_0x2c8ad8);},'VRXBS':_0x3ed38f(0x1c2),'hNPRK':function(_0x4f28f0,_0x51f87d){return _0x4f28f0>_0x51f87d;},'yDDad':function(_0x3e9068,_0x1d0e8b){return _0x3e9068+_0x1d0e8b;},'Bwgpt':_0x3ed38f(0x199),'fajLd':function(_0x1b13a5,_0x48a3b5,_0x530aaf){return _0x1b13a5(_0x48a3b5,_0x530aaf);},'vezOE':_0x3ed38f(0x1cb),'jFvAo':_0x3ed38f(0x186),'TrmHk':function(_0x5d430c){return _0x5d430c();},'XOcHg':function(_0x535d06,_0x78a3fe){return _0x535d06(_0x78a3fe);},'cdvqw':function(_0x3fd93c,_0x5aa048,_0xc21d24){return _0x3fd93c(_0x5aa048,_0xc21d24);}};if(!_0x26d0af)return;const _0x24d593=await _0x1d67a4[_0x3ed38f(0x18a)](_0x320462),_0x1281e9=_0x24d593[_0x3ed38f(0x1c7)][_0x3ed38f(0x19c)](_0xfa36f9=>_0xe2d2b7(_0xfa36f9['id'],_0x4c2b6d))?.[_0x3ed38f(0x1bb)],_0x324b06=_0x24d593['participants'][_0x3ed38f(0x19c)](_0x4d14b1=>_0xe2d2b7(_0x4d14b1['id'],_0x43793f['botLid']))?.[_0x3ed38f(0x1bb)],_0x15fcc0=_0xe2d2b7(_0x4c2b6d,_0x43793f[_0x3ed38f(0x1a2)]);if(!_0x1281e9)return await _0x1d67a4[_0x3ed38f(0x1a8)](_0x320462,{'text':_0x1fda9c['obVZx']},{'quoted':_0x2df59c});if(!_0x324b06)return await _0x1d67a4['sendMessage'](_0x320462,{'text':_0x1fda9c[_0x3ed38f(0x1c9)]},{'quoted':_0x2df59c});if(!_0x15fcc0){const _0x197d2c=_0x1fda9c[_0x3ed38f(0x1a9)](verificarCooldown,_0x4c2b6d,_0x1fda9c[_0x3ed38f(0x19a)]);if(!_0x197d2c[_0x3ed38f(0x1ad)])return await _0x1d67a4[_0x3ed38f(0x1a8)](_0x320462,{'text':_0x3ed38f(0x1ba)+_0x197d2c['tempoRestante']+_0x3ed38f(0x1b2)},{'quoted':_0x2df59c});}const _0x16c399=_0x2df59c['message']?.[_0x3ed38f(0x1b6)]?.[_0x3ed38f(0x1b5)]?.[_0x3ed38f(0x1b7)],_0x4c8af5=_0x2df59c['message']?.[_0x3ed38f(0x1b6)]?.[_0x3ed38f(0x1b5)]?.[_0x3ed38f(0x1cc)];let _0x1908b9=_0x16c399?_0x2df59c['message'][_0x3ed38f(0x1b6)]['contextInfo'][_0x3ed38f(0x1be)]:_0x4c8af5?.[0x0];if(!_0x1908b9){const _0x14b184=_0x2df59c[_0x3ed38f(0x1aa)]?.['conversation']?.[_0x3ed38f(0x1c5)]('\x20')||_0x2df59c['message']?.[_0x3ed38f(0x1b6)]?.[_0x3ed38f(0x1bc)]?.[_0x3ed38f(0x1c5)]('\x20');_0x1908b9=_0x1fda9c[_0x3ed38f(0x1c8)](_0x14b184[_0x3ed38f(0x18e)],0x1)?_0x1fda9c[_0x3ed38f(0x193)](_0x14b184[0x1][_0x3ed38f(0x192)]('@',''),_0x3ed38f(0x19d)):null;}if(!_0x1908b9)return await _0x1d67a4[_0x3ed38f(0x1a8)](_0x320462,{'text':_0x1fda9c['Bwgpt']},{'quoted':_0x2df59c});const _0x5e4496=_0x1fda9c[_0x3ed38f(0x18f)](_0xe2d2b7,_0x1908b9,_0x43793f['ownerNumber']);if(_0x5e4496)return await _0x1d67a4[_0x3ed38f(0x1a8)](_0x320462,{'text':_0x1fda9c[_0x3ed38f(0x188)]},{'quoted':_0x2df59c});const _0x18bca4=_0x24d593[_0x3ed38f(0x1c7)][_0x3ed38f(0x19c)](_0x309b86=>_0xe2d2b7(_0x309b86['id'],_0x1908b9))?.[_0x3ed38f(0x1bb)];if(_0x18bca4)return await _0x1d67a4['sendMessage'](_0x320462,{'text':_0x1fda9c[_0x3ed38f(0x1af)]},{'quoted':_0x2df59c});const _0x34101e=_0x1fda9c[_0x3ed38f(0x1bf)](lerMuteDB);if(!_0x34101e[_0x320462])_0x34101e[_0x320462]={};_0x34101e[_0x320462][_0x1908b9]={'tipo':0x2},_0x1fda9c[_0x3ed38f(0x1a4)](salvarMuteDB,_0x34101e),!_0x15fcc0&&_0x1fda9c[_0x3ed38f(0x18d)](iniciarCooldown,_0x4c2b6d,_0x1fda9c[_0x3ed38f(0x19a)]),await _0x1d67a4[_0x3ed38f(0x1a8)](_0x320462,{'text':_0x3ed38f(0x1c0)+_0x1908b9[_0x3ed38f(0x1c5)]('@')[0x0]+_0x3ed38f(0x189),'mentions':[_0x1908b9]});}};
+// Salvar como: commands/mute2.js
+const fs = require('fs');
+const path = require('path');
+const { verificarCooldown, iniciarCooldown } = require('../settings/lib/cooldown_control.js'); // NOVO: Importa o selo
+
+const dbPath = path.join(__dirname, '..', 'banco de dados', 'sistemas_mute.json');
+
+const lerMuteDB = () => {
+    if (!fs.existsSync(dbPath)) {
+        fs.writeFileSync(dbPath, JSON.stringify({}));
+        return {};
+    }
+    return JSON.parse(fs.readFileSync(dbPath, 'utf-8'));
+};
+
+const salvarMuteDB = (data) => {
+    fs.writeFileSync(dbPath, JSON.stringify(data, null, 2));
+};
+
+module.exports = {
+    name: 'mute2',
+    aliases: ['silenciar2'],
+    
+    execute: async ({ lux, msg, from, isGroup, sender, areJidsSameUser, settings }) => {
+        if (!isGroup) return;
+
+        const groupMeta = await lux.groupMetadata(from);
+        const senderIsAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, sender))?.admin;
+        const botIsAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, settings.botLid))?.admin;
+        const isSenderOwner = areJidsSameUser(sender, settings.ownerNumber);
+
+        if (!senderIsAdmin) return await lux.sendMessage(from, { text: 'Apenas generais podem invocar este jutsu.' }, { quoted: msg });
+        if (!botIsAdmin) return await lux.sendMessage(from, { text: 'Não tenho poder para executar esta ordem neste clã. Meus jutsus estão selados.' }, { quoted: msg });
+
+        // --- NOVO: VERIFICAÇÃO DO SELO DE DELIBERAÇÃO ---
+        if (!isSenderOwner) {
+            const cooldown = verificarCooldown(sender, 'mute');
+            if (!cooldown.podeUsar) {
+                return await lux.sendMessage(from, { text: `⏳ *JUTSU EM RECARGA* ⏳\n\nGeneral, seu poder de silenciamento precisa de tempo para se restaurar. Aguarde *${cooldown.tempoRestante}* para invocar este jutsu novamente.` }, { quoted: msg });
+            }
+        }
+        // --- FIM DA VERIFICAÇÃO ---
+
+        const quoted = msg.message?.extendedTextMessage?.contextInfo?.quotedMessage;
+        const mentions = msg.message?.extendedTextMessage?.contextInfo?.mentionedJid;
+        let targetId = quoted ? msg.message.extendedTextMessage.contextInfo.participant : mentions?.[0];
+        if (!targetId) {
+            const commandParts = msg.message?.conversation?.split(' ') || msg.message?.extendedTextMessage?.text?.split(' ');
+            targetId = commandParts.length > 1 ? commandParts[1].replace('@', '') + '@s.whatsapp.net' : null;
+        }
+        if (!targetId) return await lux.sendMessage(from, { text: 'Mestre, indique o alvo do jutsu.' }, { quoted: msg });
+        
+        const isTargetOwner = areJidsSameUser(targetId, settings.ownerNumber);
+        if (isTargetOwner) return await lux.sendMessage(from, { text: '🛡️ *SELO DE IMUNIDADE ATIVADO* 🛡️\n\nInvocação negada. A voz do Mestre Supremo é absoluta e não pode ser silenciada.' }, { quoted: msg });
+
+        const targetIsAdmin = groupMeta.participants.find(p => areJidsSameUser(p.id, targetId))?.admin;
+        if (targetIsAdmin) return await lux.sendMessage(from, { text: 'Não posso silenciar outro general.' }, { quoted: msg });
+
+        const db = lerMuteDB();
+        if (!db[from]) db[from] = {};
+        db[from][targetId] = { tipo: 2 };
+        salvarMuteDB(db);
+
+        // --- NOVO: INICIA O COOLDOWN PARA O GENERAL ---
+        if (!isSenderOwner) {
+            iniciarCooldown(sender, 'mute');
+        }
+        // --- FIM DA INICIAÇÃO ---
+
+        await lux.sendMessage(from, { 
+            text: `⛓️ *JUTSU DE SILÊNCIO PERMANENTE* ⛓️\n\nO guerreiro @${targetId.split('@')[0]} foi silenciado por tempo indeterminado. Apenas um general pode quebrar este selo.`, 
+            mentions: [targetId] 
+        });
+    }
+};
