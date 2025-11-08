@@ -414,7 +414,7 @@ Este projeto está licenciado sob a **Licença Pública Geral GNU (GPL-3.0)**. I
 ✅ **Você pode:**
 - Usar este código como quiser, seja para projetos pessoais ou comerciais
 - Modificar o código para adaptá-lo às suas necessidades
-- Compartilhar ou vender o código, mesmo modificado
+- Compartilhar o código de forma gratuita
 
 ⚠️ **Você deve:**
 - Manter os créditos ao autor original (Ninja Dev's & Izuko)
@@ -422,6 +422,7 @@ Este projeto está licenciado sob a **Licença Pública Geral GNU (GPL-3.0)**. I
 
 ❌ **Você não pode:**
 - Transformar este código em algo proprietário (fechado) e impedir outras pessoas de acessá-lo
+- Vender este código ou versões modificadas sem consentimento expresso do autor original
 
 Esta licença garante que todos tenham acesso ao código-fonte e podem colaborar livremente, promovendo o compartilhamento e o aprimoramento do projeto.
 
