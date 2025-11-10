@@ -1,23 +1,8 @@
-# Dependências
 node_modules/
-
-# Arquivos de autenticação
-banco de dados/ninja-qr/
-
-# Cache e temporários
-node_cache/*
-temp/*
+node_cache/
+temp/
 *.log
-
-# Arquivos do sistema
-.DS_Store
-Thumbs.db
-
-# Configurações locais
 .env
-.env.local
-
-# Arquivos de backup
-*.bak
+banco de dados/ninja-qr/
 *.backup
-backup-*.json
+.DS_Store

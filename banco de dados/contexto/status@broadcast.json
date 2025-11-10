@@ -30,5 +30,37 @@
     "timestamp": "2025-11-01T00:08:40.729Z",
     "ordem": 4,
     "respondeA": "AC091CAC7160E41C8336E5AF230B2473"
+  },
+  {
+    "id": "AC79CF36C3246EF7C1FFCE36E343DB54",
+    "remetente": "Usuário",
+    "texto": "Bom dia",
+    "timestamp": "2025-11-06T14:37:41.262Z",
+    "ordem": 5,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1762439871505",
+    "remetente": "Wendel",
+    "texto": "Bom diaaa, acordou cedo hj ou foi virada?",
+    "timestamp": "2025-11-06T14:37:51.506Z",
+    "ordem": 6,
+    "respondeA": "AC79CF36C3246EF7C1FFCE36E343DB54"
+  },
+  {
+    "id": "ACB7A4688118D2C1A60F9D0A780F9E8F",
+    "remetente": "Usuário",
+    "texto": "2 primeiros reels no insta novo e ja viralizou, ta melhor q o insta q eu perdi slk",
+    "timestamp": "2025-11-06T19:04:51.196Z",
+    "ordem": 7,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1762455900234",
+    "remetente": "Wendel",
+    "texto": "SLK, já chegou botando pressão kkk esse novo vai voar MT mais, confia!",
+    "timestamp": "2025-11-06T19:05:00.234Z",
+    "ordem": 8,
+    "respondeA": "ACB7A4688118D2C1A60F9D0A780F9E8F"
   }
 ]

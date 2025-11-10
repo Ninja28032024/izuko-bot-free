@@ -1,15 +1,19 @@
-#!/bin/bash
-CYAN='\033[0;36m'
 NOCOLOR='\033[0m'
-
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+DARKGRAY='\033[1;30m'
+PURPLE='\033[1;31m'
+YELLOW='\033[1;33m'
+WHITE='\033[1;37m'
 while :
 do
-echo -e "${CYAN} 
- 💧 IZUKO BOT VIP V1.5 - VERSÃO OTIMIZADA
- 🔒 OFUSCAÇÃO LEVE - BAIXO CONSUMO DE MEMÓRIA
- ⚡ AUTO RECONEXÃO ATIVADA
- 📊 LIMITE DE MEMÓRIA: 512MB
- ⏳ AGUARDE O CARREGAMENTO...${NOCOLOR}"
-node --max-old-space-size=512 main.js 
+echo "${CYAN} 
+ 💧 ESTOU INICIANDO MESTRE AGUARDE... AUTO CONEXÃO ATIVADO 
+ PARA ENVITAR OS ERROS DO BOT AGUARDE᭄......"
+node comandos.js 
 sleep 1      
 done

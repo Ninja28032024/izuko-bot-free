@@ -1,0 +1,50 @@
+[
+  {
+    "id": "AC8B251A672BC6A2E05BC8DFAA3358BC",
+    "remetente": "Usuário",
+    "texto": "Bom dia",
+    "timestamp": "2025-11-06T11:46:39.852Z",
+    "ordem": 1,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1762429610339",
+    "remetente": "Wendel",
+    "texto": "Bom diaa! Td certo por aí?",
+    "timestamp": "2025-11-06T11:46:50.339Z",
+    "ordem": 2,
+    "respondeA": "AC8B251A672BC6A2E05BC8DFAA3358BC"
+  },
+  {
+    "id": "AC1F28F761FA7923B3F5F03AEEA09EDC",
+    "remetente": "Usuário",
+    "texto": "Sim, graças a Deus",
+    "timestamp": "2025-11-06T11:48:32.360Z",
+    "ordem": 3,
+    "respondeA": null
+  },
+  {
+    "id": "ACF32C6C73CDC2D65C989400DAD81D56",
+    "remetente": "Usuário",
+    "texto": "E com você?",
+    "timestamp": "2025-11-06T11:48:36.471Z",
+    "ordem": 4,
+    "respondeA": null
+  },
+  {
+    "id": "BOT_1762429722078",
+    "remetente": "Wendel",
+    "texto": "Showww! Bora aproveitar o dia então, né.",
+    "timestamp": "2025-11-06T11:48:42.078Z",
+    "ordem": 5,
+    "respondeA": "AC1F28F761FA7923B3F5F03AEEA09EDC"
+  },
+  {
+    "id": "BOT_1762429724898",
+    "remetente": "Wendel",
+    "texto": "Td de boa tb, só com preguiça eterna kkk. Mas vamo q vamo né.",
+    "timestamp": "2025-11-06T11:48:44.899Z",
+    "ordem": 6,
+    "respondeA": "ACF32C6C73CDC2D65C989400DAD81D56"
+  }
+]

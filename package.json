@@ -1,34 +1,34 @@
 {
-  "name": "Izuko-Bot-VIP",
-  "version": "1.5.0",
-  "description": "Bot VIP - Versão Otimizada para Baixo Consumo de Memória",
+  "name": "Izuko-Bot",
+  "version": "1.0.0",
+  "description": "Bot desenvolvido sob o comando do Mestre Lucky.",
   "main": "main.js",
-  "engines": {
-    "node": ">=20.0.0 <21.0.0"
-  },
   "scripts": {
-    "start": "node --max-old-space-size=512 main.js",
-    "dev": "node --max-old-space-size=512 --watch main.js",
-    "pm2:start": "pm2 start main.js --name IzukoBOT --max-memory-restart 512M",
-    "pm2:stop": "pm2 stop IzukoBOT",
-    "pm2:restart": "pm2 restart IzukoBOT"
+    "start": "pm2 start ecosystem.config.js",
+    "stop": "pm2 stop IzukoBOT",
+    "restart": "pm2 restart IzukoBOT",
+    "sh start.sh": "sh start.sh",
+    "npm start": "npm start",
+    "izuko start": "node main.js",
+    "go start": "node main.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.8",
-    "axios": "^1.7.7",
+    "@whiskeysockets/baileys": "latest",
+    "axios": "^1.12.2",
     "chalk": "^4.1.2",
-    "cheerio": "^1.0.0",
+    "cheerio": "^1.1.2",
     "fluent-ffmpeg": "^2.1.3",
-    "form-data": "^4.0.1",
-    "googleapis": "^144.0.0",
+    "form-data": "^4.0.4",
+    "googleapis": "^162.0.0",
+    "javascript-obfuscator": "^4.1.1",
     "megajs": "^1.3.9",
     "moment-timezone": "^0.5.45",
     "node-cache": "^5.1.2",
     "node-cleanup": "^2.1.2",
-    "node-cron": "^3.0.3",
+    "node-cron": "^4.2.1",
     "node-webpmux": "^3.2.0",
-    "pino": "^9.4.0",
-    "sharp": "^0.33.5"
+    "pino": "^7.11.0",
+    "sharp": "^0.34.4"
   },
   "author": "Mestre Ninja Devs Of Bots",
   "license": "ISC"
