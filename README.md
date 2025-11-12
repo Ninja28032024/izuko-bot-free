@@ -25,7 +25,7 @@
 
 ### Pré-requisitos
 
-- **Node.js** v16 ou superior
+- **Node.js** v20.x (obrigatório)
 - **FFmpeg** (para processamento de áudio/vídeo)
 - **Git**
 
@@ -36,11 +36,16 @@
 git clone https://github.com/Ninja28032024/izuko-bot-free.git
 cd izuko-bot-free
 ```
+2. **Instale as dependências** ⚠️ **IMPORTANTE**
 
-2. **Instale as dependências**
 ```bash
 npm install
 ```
+
+> ⚠️ **ATENÇÃO**: Este passo é **OBRIGATÓRIO**! Sem executar `npm install`, você receberá o erro:
+> `Error: Cannot find module '@whiskeysockets/baileys'`
+>
+> O repositório não inclui a pasta `node_modules/` (que contém as dependências). Você **DEVE** executar `npm install` para baixar e instalar todos os módulos necessários.
 
 3. **Configure o bot**
 
