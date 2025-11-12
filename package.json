@@ -13,7 +13,7 @@
     "go start": "node main.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "latest",
+    "@whiskeysockets/baileys": "^6.7.21",
     "axios": "^1.12.2",
     "chalk": "^4.1.2",
     "cheerio": "^1.1.2",
