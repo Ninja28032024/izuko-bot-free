@@ -30,6 +30,9 @@
     "pino": "^7.11.0",
     "sharp": "^0.34.4"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "author": "Mestre Ninja Devs Of Bots",
   "license": "ISC"
 }
