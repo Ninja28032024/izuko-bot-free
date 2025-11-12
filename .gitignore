@@ -1,4 +1,4 @@
-node_modules/
+# node_modules/ - Incluído no repositório por solicitação
 node_cache/
 temp/
 *.log
