@@ -1,25 +1,29 @@
-# 🥷 Izuko Bot Free - Versão 2.0
+# 🥷 Izuko Bot Free - Versão 2.5
 
 <div align="center">
-  <img src="https://files.catbox.moe/3ed8q5.jpg" alt="Izuko Bot Banner" width="100%">
+  <img src="https://files.catbox.moe/aysh82.png" alt="Izuko Bot Banner" width="100%">
 </div>
 
 ## 📋 Sobre o Projeto
 
 **Izuko Bot Free** é um bot multifuncional para WhatsApp desenvolvido em Node.js utilizando a biblioteca Baileys. Esta é a versão gratuita e open-source do projeto, oferecendo uma ampla gama de funcionalidades para administração de grupos, moderação, jogos, integração com IA e muito mais.
 
+**Versão atual: 2.5** | **Total de comandos: 163+**
+
 ## ✨ Características Principais
 
 - 🛡️ **Sistemas de Moderação**: Anti-link, Anti-flood, Anti-imagem, Sistema de Mute
-- 🎮 **Jogos Interativos**: Jogo da Velha, Cara ou Coroa, Eu Nunca, Sorteios
+- 🎮 **Jogos Interativos**: Jogo da Velha, Cara ou Coroa, Eu Nunca, Sorteios, Quiz
 - 📊 **Sistema de Ranking**: XP, Níveis e Ranking de Mensagens
-- 🤖 **Integração com IA**: GPT e Wendel IA para conversas inteligentes
+- 🤖 **Integração com IA**: ChatGPT, Copilot, Gemini, GPT e Wendel IA para conversas inteligentes
+- 🎨 **Geração de Imagens com IA**: Crie imagens personalizadas usando inteligência artificial
 - 🎵 **Download de Mídia**: YouTube, Instagram, SoundCloud e mais
 - 🎨 **Criação de Figurinhas**: Conversão de imagens e vídeos
 - 📤 **Upload de Arquivos**: Catbox, Google Drive, Telegraph
 - ⚙️ **Comandos de Administração**: Promote, Demote, Ban, Configurações de Grupo
 - 🎉 **Sistema de Boas-Vindas**: Mensagens personalizadas para novos membros
 - 📅 **Agendamento**: Agende mensagens e tarefas
+- 🎭 **Comandos de Diversão**: Mais de 10 comandos interativos e divertidos
 
 ## 🚀 Instalação
 
@@ -57,7 +61,7 @@ Edite o arquivo `settings/settings.json`:
   "botLid": "BOT_LID@lid",
   "nomeBot": "Izuko Bot",
   "nomeDono": "Seu Nome",
-  "versao": "2.0"
+  "versao": "2.5"
 }
 ```
 
@@ -90,11 +94,18 @@ Para documentação completa sobre todos os comandos e funcionalidades, consulte
 - `&antiimg` - Ativa/desativa bloqueio de imagens
 - `&mute @usuario 10m` - Silencia um usuário
 
+### Inteligência Artificial (Novos!)
+- `&chatgpt-ai-gp` - Ativa ChatGPT no grupo
+- `&copilot-ai-gp` - Ativa Copilot no grupo
+- `&gemini-ai-gp` - Ativa Gemini no grupo
+- `&gerarimg-ai` - Gera imagens com IA
+
 ### Jogos
 - `&velha @oponente` - Inicia jogo da velha
 - `&cara-coroa` - Joga cara ou coroa
 - `&eununca` - Inicia o jogo "Eu Nunca"
 - `&sortear` - Cria um sorteio
+- `&quiz` - Inicia um quiz interativo
 
 ### Mídia
 - `&play música` - Baixa música do YouTube
@@ -103,7 +114,7 @@ Para documentação completa sobre todos os comandos e funcionalidades, consulte
 - `&tomp3` - Converte vídeo em áudio
 
 ### Utilidades
-- `&menu` - Exibe o menu completo
+- `&menu` - Exibe o menu completo (163+ comandos)
 - `&ping` - Verifica latência do bot
 - `&status` - Mostra status do bot
 - `&upload` - Faz upload de mídia
@@ -125,7 +136,8 @@ izuko-bot-free/
 ├── main.js                    # Arquivo principal
 ├── package.json               # Dependências
 ├── start.sh                   # Script de inicialização
-├── commands/                  # Comandos do bot
+├── update.sh                  # Script de atualização
+├── commands/                  # Comandos do bot (163+)
 ├── settings/
 │   ├── settings.json          # Configurações
 │   └── lib/                   # Bibliotecas auxiliares
@@ -134,6 +146,18 @@ izuko-bot-free/
 ├── node_cache/                # Cache temporário
 └── temp/                      # Arquivos temporários
 ```
+
+## 🆕 Novidades da Versão 2.5
+
+- ✨ **19 novos comandos** adicionados
+- 🤖 **Integração com múltiplas IAs**: ChatGPT, Copilot e Gemini
+- 🎨 **Geração de imagens com IA**
+- 🎮 **Sistema de Quiz** interativo
+- 🎭 **Novos comandos de diversão**: bebado, beijar, calvo, corno, feio, gay, gostoso e mais
+- 📊 **Novos rankings**: rankgay e outros
+- 🔧 **Script de atualização automática** (update.sh)
+- 🐛 **Correções de bugs** e melhorias de performance
+- 📝 **Melhorias na documentação**
 
 ## 🤝 Contribuindo
 
