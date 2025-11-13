@@ -284,6 +284,310 @@
       "moves": 9,
       "duration": 88707,
       "completedAt": 1762109294704
+    },
+    {
+      "gameId": "120363424991407187@g.us_1762560930361",
+      "groupId": "120363424991407187@g.us",
+      "player1": {
+        "id": "244938059026618@lid",
+        "name": "Adriel",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "4441298190338@lid",
+        "name": "@4441298190338",
+        "symbol": "O"
+      },
+      "winner": null,
+      "status": "draw",
+      "moves": 9,
+      "duration": 154728,
+      "completedAt": 1762561085091
+    },
+    {
+      "gameId": "120363424991407187@g.us_1762561130380",
+      "groupId": "120363424991407187@g.us",
+      "player1": {
+        "id": "19830098903053@lid",
+        "name": "Milena",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "205763729473552@lid",
+        "name": "@205763729473552",
+        "symbol": "O"
+      },
+      "winner": "player1",
+      "status": "won",
+      "moves": 7,
+      "duration": 121172,
+      "completedAt": 1762561251552
+    },
+    {
+      "gameId": "120363424991407187@g.us_1762569991340",
+      "groupId": "120363424991407187@g.us",
+      "player1": {
+        "id": "115775742451874@lid",
+        "name": "Ninja Dev's Of Bots",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "4441298190338@lid",
+        "name": "@4441298190338",
+        "symbol": "O"
+      },
+      "winner": null,
+      "status": "draw",
+      "moves": 9,
+      "duration": 97228,
+      "completedAt": 1762570088568
+    },
+    {
+      "gameId": "120363424991407187@g.us_1762706243731",
+      "groupId": "120363424991407187@g.us",
+      "player1": {
+        "id": "19830098903053@lid",
+        "name": "Milena",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "205763729473552@lid",
+        "name": "@205763729473552",
+        "symbol": "O"
+      },
+      "winner": null,
+      "status": "draw",
+      "moves": 9,
+      "duration": 103670,
+      "completedAt": 1762706347401
+    },
+    {
+      "gameId": "120363424991407187@g.us_1762706373444",
+      "groupId": "120363424991407187@g.us",
+      "player1": {
+        "id": "19830098903053@lid",
+        "name": "Milena",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "196679621968030@lid",
+        "name": "@196679621968030",
+        "symbol": "O"
+      },
+      "winner": "player1",
+      "status": "won",
+      "moves": 7,
+      "duration": 169284,
+      "completedAt": 1762706542729
+    },
+    {
+      "gameId": "120363421106085550@g.us_1762790702622",
+      "groupId": "120363421106085550@g.us",
+      "player1": {
+        "id": "126684539920406@lid",
+        "name": "⛩️☯︎KAKAZUKIO☯︎⛩️",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "176793889841227@lid",
+        "name": "@176793889841227",
+        "symbol": "O"
+      },
+      "winner": "player1",
+      "status": "won",
+      "moves": 9,
+      "duration": 116461,
+      "completedAt": 1762790819083
+    },
+    {
+      "gameId": "120363421106085550@g.us_1762790822167",
+      "groupId": "120363421106085550@g.us",
+      "player1": {
+        "id": "176793889841227@lid",
+        "name": "Alonso mikael",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "126684539920406@lid",
+        "name": "@126684539920406",
+        "symbol": "O"
+      },
+      "winner": null,
+      "status": "draw",
+      "moves": 9,
+      "duration": 121961,
+      "completedAt": 1762790944129
+    },
+    {
+      "gameId": "120363421106085550@g.us_1762790949048",
+      "groupId": "120363421106085550@g.us",
+      "player1": {
+        "id": "176793889841227@lid",
+        "name": "Alonso mikael",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "126684539920406@lid",
+        "name": "@126684539920406",
+        "symbol": "O"
+      },
+      "winner": "player1",
+      "status": "won",
+      "moves": 7,
+      "duration": 77246,
+      "completedAt": 1762791026294
+    },
+    {
+      "gameId": "120363421106085550@g.us_1762791032419",
+      "groupId": "120363421106085550@g.us",
+      "player1": {
+        "id": "176793889841227@lid",
+        "name": "Alonso mikael",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "126684539920406@lid",
+        "name": "@126684539920406",
+        "symbol": "O"
+      },
+      "winner": "player2",
+      "status": "won",
+      "moves": 8,
+      "duration": 149747,
+      "completedAt": 1762791182166
+    },
+    {
+      "gameId": "120363424991407187@g.us_1762905692133",
+      "groupId": "120363424991407187@g.us",
+      "player1": {
+        "id": "19830098903053@lid",
+        "name": "Milena",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "196679621968030@lid",
+        "name": "@196679621968030",
+        "symbol": "O"
+      },
+      "winner": "player1",
+      "status": "won",
+      "moves": 7,
+      "duration": 109600,
+      "completedAt": 1762905801733
+    },
+    {
+      "gameId": "120363422186415432@g.us_1762908025262",
+      "groupId": "120363422186415432@g.us",
+      "player1": {
+        "id": "115775742451874@lid",
+        "name": "Ninja Devs</>",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "90078969860143@lid",
+        "name": "@90078969860143",
+        "symbol": "O"
+      },
+      "winner": null,
+      "status": "draw",
+      "moves": 9,
+      "duration": 83241,
+      "completedAt": 1762908108503
+    },
+    {
+      "gameId": "120363422186415432@g.us_1762908193262",
+      "groupId": "120363422186415432@g.us",
+      "player1": {
+        "id": "235261631946918@lid",
+        "name": "...",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "90078969860143@lid",
+        "name": "@90078969860143",
+        "symbol": "O"
+      },
+      "winner": "player1",
+      "status": "won",
+      "moves": 7,
+      "duration": 128451,
+      "completedAt": 1762908321714
+    },
+    {
+      "gameId": "120363422186415432@g.us_1762908706897",
+      "groupId": "120363422186415432@g.us",
+      "player1": {
+        "id": "90078969860143@lid",
+        "name": "Paiva👻😶‍🌫️",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "115775742451874@lid",
+        "name": "@115775742451874",
+        "symbol": "O"
+      },
+      "winner": null,
+      "status": "draw",
+      "moves": 9,
+      "duration": 175730,
+      "completedAt": 1762908882627
+    },
+    {
+      "gameId": "120363422186415432@g.us_1762908972063",
+      "groupId": "120363422186415432@g.us",
+      "player1": {
+        "id": "90078969860143@lid",
+        "name": "Paiva👻😶‍🌫️",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "81342989607042@lid",
+        "name": "@81342989607042",
+        "symbol": "O"
+      },
+      "winner": "player1",
+      "status": "won",
+      "moves": 7,
+      "duration": 62050,
+      "completedAt": 1762909034113
+    },
+    {
+      "gameId": "120363422186415432@g.us_1762909055128",
+      "groupId": "120363422186415432@g.us",
+      "player1": {
+        "id": "90078969860143@lid",
+        "name": "Paiva👻😶‍🌫️",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "81342989607042@lid",
+        "name": "@81342989607042",
+        "symbol": "O"
+      },
+      "winner": null,
+      "status": "draw",
+      "moves": 9,
+      "duration": 126182,
+      "completedAt": 1762909181311
+    },
+    {
+      "gameId": "120363422186415432@g.us_1762909188211",
+      "groupId": "120363422186415432@g.us",
+      "player1": {
+        "id": "90078969860143@lid",
+        "name": "Paiva👻😶‍🌫️",
+        "symbol": "X"
+      },
+      "player2": {
+        "id": "81342989607042@lid",
+        "name": "@81342989607042",
+        "symbol": "O"
+      },
+      "winner": "player1",
+      "status": "won",
+      "moves": 7,
+      "duration": 104582,
+      "completedAt": 1762909292794
     }
   ],
   "statistics": {
@@ -305,8 +609,8 @@
       "nome": "@115775742451874",
       "wins": 3,
       "losses": 2,
-      "draws": 1,
-      "total_games": 6
+      "draws": 4,
+      "total_games": 9
     },
     "230313343115379@lid": {
       "nome": "@230313343115379",
@@ -318,16 +622,16 @@
     "205763729473552@lid": {
       "nome": "Kauan 🥷🏾",
       "wins": 0,
-      "losses": 1,
-      "draws": 1,
-      "total_games": 2
+      "losses": 2,
+      "draws": 2,
+      "total_games": 4
     },
     "19830098903053@lid": {
       "nome": "@19830098903053",
-      "wins": 1,
+      "wins": 4,
       "losses": 0,
-      "draws": 1,
-      "total_games": 2
+      "draws": 2,
+      "total_games": 6
     },
     "126199225422030@lid": {
       "nome": "Victor",
@@ -347,8 +651,8 @@
       "nome": "Adriel",
       "wins": 1,
       "losses": 0,
-      "draws": 3,
-      "total_games": 4
+      "draws": 4,
+      "total_games": 5
     },
     "150758217482375@lid": {
       "nome": "@150758217482375",
@@ -362,6 +666,55 @@
       "wins": 0,
       "losses": 0,
       "draws": 3,
+      "total_games": 3
+    },
+    "4441298190338@lid": {
+      "nome": "@4441298190338",
+      "wins": 0,
+      "losses": 0,
+      "draws": 2,
+      "total_games": 2
+    },
+    "196679621968030@lid": {
+      "nome": "@196679621968030",
+      "wins": 0,
+      "losses": 2,
+      "draws": 0,
+      "total_games": 2
+    },
+    "126684539920406@lid": {
+      "nome": "⛩️☯︎KAKAZUKIO☯︎⛩️",
+      "wins": 2,
+      "losses": 1,
+      "draws": 1,
+      "total_games": 4
+    },
+    "176793889841227@lid": {
+      "nome": "@176793889841227",
+      "wins": 1,
+      "losses": 2,
+      "draws": 1,
+      "total_games": 4
+    },
+    "90078969860143@lid": {
+      "nome": "@90078969860143",
+      "wins": 2,
+      "losses": 1,
+      "draws": 3,
+      "total_games": 6
+    },
+    "235261631946918@lid": {
+      "nome": "...",
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "total_games": 1
+    },
+    "81342989607042@lid": {
+      "nome": "@81342989607042",
+      "wins": 0,
+      "losses": 2,
+      "draws": 1,
       "total_games": 3
     }
   }

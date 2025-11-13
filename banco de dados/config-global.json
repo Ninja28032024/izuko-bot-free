@@ -1,5 +1,5 @@
 {
-  "gptPrivadoAtivo": false,
+  "gptPrivadoAtivo": true,
   "wendelPvAtivo": true,
   "comandosGrupoAtivos": true
 }

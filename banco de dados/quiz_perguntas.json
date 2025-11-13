@@ -1,0 +1,757 @@
+[
+  {
+    "pergunta": "Qual é o único mamífero capaz de voar verdadeiramente?",
+    "resposta": "morcego",
+    "dica": "Animal noturno com asas"
+  },
+  {
+    "pergunta": "Em que ano o homem pisou na Lua pela primeira vez?",
+    "resposta": "1969",
+    "dica": "Década de 60"
+  },
+  {
+    "pergunta": "Qual é o maior oceano do planeta Terra?",
+    "resposta": "pacífico",
+    "dica": "Maior que Atlântico"
+  },
+  {
+    "pergunta": "Quem pintou a obra 'Mona Lisa'?",
+    "resposta": "leonardo da vinci",
+    "dica": "Artista renascentista italiano"
+  },
+  {
+    "pergunta": "Qual é o elemento químico representado pela letra 'O'?",
+    "resposta": "oxigênio",
+    "dica": "Essencial para respirar"
+  },
+  {
+    "pergunta": "Quantos continentes existem no mundo?",
+    "resposta": "7",
+    "dica": "Número entre 6 e 8"
+  },
+  {
+    "pergunta": "Qual é a capital do Japão?",
+    "resposta": "tóquio",
+    "dica": "Capital asiática"
+  },
+  {
+    "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+    "resposta": "marte",
+    "dica": "4º planeta do Sol"
+  },
+  {
+    "pergunta": "Quem escreveu 'Dom Casmurro'?",
+    "resposta": "machado de assis",
+    "dica": "Autor brasileiro clássico"
+  },
+  {
+    "pergunta": "Qual é o menor país do mundo?",
+    "resposta": "vaticano",
+    "dica": "Fica na Europa"
+  },
+  {
+    "pergunta": "Em que continente fica o Egito?",
+    "resposta": "áfrica",
+    "dica": "Norte da África"
+  },
+  {
+    "pergunta": "Qual é o metal mais abundante na crosta terrestre?",
+    "resposta": "alumínio",
+    "dica": "Metal leve e prateado"
+  },
+  {
+    "pergunta": "Quantos ossos tem o corpo humano adulto?",
+    "resposta": "206",
+    "dica": "Mais de 200"
+  },
+  {
+    "pergunta": "Qual é a língua mais falada no mundo?",
+    "resposta": "inglês",
+    "dica": "Língua germânica"
+  },
+  {
+    "pergunta": "Quem descobriu o Brasil?",
+    "resposta": "pedro álvares cabral",
+    "dica": "Navegador português"
+  },
+  {
+    "pergunta": "Qual é a montanha mais alta do mundo?",
+    "resposta": "everest",
+    "dica": "Fica no Nepal/Tibet"
+  },
+  {
+    "pergunta": "Em que ano começou a Segunda Guerra Mundial?",
+    "resposta": "1939",
+    "dica": "Década de 30"
+  },
+  {
+    "pergunta": "Qual é o rio mais extenso do mundo?",
+    "resposta": "amazonas",
+    "dica": "Fica na América do Sul"
+  },
+  {
+    "pergunta": "Quem foi o primeiro presidente do Brasil?",
+    "resposta": "deodoro da fonseca",
+    "dica": "Marechal brasileiro"
+  },
+  {
+    "pergunta": "Qual é a fórmula química da água?",
+    "resposta": "h2o",
+    "dica": "Duas letras e um número"
+  },
+  {
+    "pergunta": "Quantos estados tem o Brasil?",
+    "resposta": "26",
+    "dica": "Mais de 20"
+  },
+  {
+    "pergunta": "Qual é a velocidade da luz no vácuo?",
+    "resposta": "300000",
+    "dica": "Muito rápida, em km/s"
+  },
+  {
+    "pergunta": "Quem pintou 'A Última Ceia'?",
+    "resposta": "leonardo da vinci",
+    "dica": "Mesmo autor da Mona Lisa"
+  },
+  {
+    "pergunta": "Qual é o animal terrestre mais rápido do mundo?",
+    "resposta": "guepardo",
+    "dica": "Felino africano"
+  },
+  {
+    "pergunta": "Em que ano caiu o Muro de Berlim?",
+    "resposta": "1989",
+    "dica": "Final dos anos 80"
+  },
+  {
+    "pergunta": "Qual é a capital da França?",
+    "resposta": "paris",
+    "dica": "Capital europeia"
+  },
+  {
+    "pergunta": "Quem inventou a lâmpada elétrica?",
+    "resposta": "thomas edison",
+    "dica": "Inventor americano"
+  },
+  {
+    "pergunta": "Qual é o maior deserto do mundo?",
+    "resposta": "saara",
+    "dica": "Fica na África"
+  },
+  {
+    "pergunta": "Quantos dentes tem um adulto humano?",
+    "resposta": "32",
+    "dica": "Número par"
+  },
+  {
+    "pergunta": "Qual é a moeda oficial do Japão?",
+    "resposta": "iene",
+    "dica": "Moeda japonesa"
+  },
+  {
+    "pergunta": "Quem escreveu 'Romeu e Julieta'?",
+    "resposta": "william shakespeare",
+    "dica": "Dramaturgo inglês"
+  },
+  {
+    "pergunta": "Qual é o maior mamífero do mundo?",
+    "resposta": "baleia azul",
+    "dica": "Animal marinho gigante"
+  },
+  {
+    "pergunta": "Em que ano foi proclamada a República no Brasil?",
+    "resposta": "1889",
+    "dica": "Século XIX"
+  },
+  {
+    "pergunta": "Qual é o gás mais abundante na atmosfera terrestre?",
+    "resposta": "nitrogênio",
+    "dica": "Gás abundante no ar"
+  },
+  {
+    "pergunta": "Quem foi o autor de 'O Pequeno Príncipe'?",
+    "resposta": "antoine de saint-exupéry",
+    "dica": "Escritor francês"
+  },
+  {
+    "pergunta": "Qual é a capital da Austrália?",
+    "resposta": "camberra",
+    "dica": "Não é Sydney"
+  },
+  {
+    "pergunta": "Quantos planetas existem no Sistema Solar?",
+    "resposta": "8",
+    "dica": "Número entre 7 e 9"
+  },
+  {
+    "pergunta": "Qual é o símbolo químico do ouro?",
+    "resposta": "au",
+    "dica": "Símbolo químico de 2 letras"
+  },
+  {
+    "pergunta": "Quem pintou 'Guernica'?",
+    "resposta": "pablo picasso",
+    "dica": "Pintor espanhol"
+  },
+  {
+    "pergunta": "Qual é o país com maior população do mundo?",
+    "resposta": "índia",
+    "dica": "País asiático populoso"
+  },
+  {
+    "pergunta": "Em que ano terminou a Segunda Guerra Mundial?",
+    "resposta": "1945",
+    "dica": "Metade dos anos 40"
+  },
+  {
+    "pergunta": "Qual é a capital do Canadá?",
+    "resposta": "ottawa",
+    "dica": "Capital norte-americana"
+  },
+  {
+    "pergunta": "Quem descobriu a penicilina?",
+    "resposta": "alexander fleming",
+    "dica": "Cientista escocês"
+  },
+  {
+    "pergunta": "Qual é o maior país do mundo em área territorial?",
+    "resposta": "rússia",
+    "dica": "País maior do mundo"
+  },
+  {
+    "pergunta": "Quantos graus tem um ângulo reto?",
+    "resposta": "90",
+    "dica": "Ângulo comum"
+  },
+  {
+    "pergunta": "Qual é a capital da Itália?",
+    "resposta": "roma",
+    "dica": "Capital italiana"
+  },
+  {
+    "pergunta": "Quem escreveu 'Cem Anos de Solidão'?",
+    "resposta": "gabriel garcía márquez",
+    "dica": "Autor colombiano"
+  },
+  {
+    "pergunta": "Qual é o metal líquido à temperatura ambiente?",
+    "resposta": "mercúrio",
+    "dica": "Metal líquido tóxico"
+  },
+  {
+    "pergunta": "Em que ano foi assinada a Lei Áurea no Brasil?",
+    "resposta": "1888",
+    "dica": "Século XIX"
+  },
+  {
+    "pergunta": "Qual é a capital da Espanha?",
+    "resposta": "madri",
+    "dica": "Capital ibérica"
+  },
+  {
+    "pergunta": "Quem foi o líder da Revolução Cubana?",
+    "resposta": "fidel castro",
+    "dica": "Líder revolucionário"
+  },
+  {
+    "pergunta": "Qual é o maior lago do mundo?",
+    "resposta": "cáspio",
+    "dica": "Mar salgado"
+  },
+  {
+    "pergunta": "Quantos segundos tem uma hora?",
+    "resposta": "3600",
+    "dica": "60 x 60"
+  },
+  {
+    "pergunta": "Qual é a capital da Argentina?",
+    "resposta": "buenos aires",
+    "dica": "Capital sul-americana"
+  },
+  {
+    "pergunta": "Quem inventou o telefone?",
+    "resposta": "alexander graham bell",
+    "dica": "Inventor escocês"
+  },
+  {
+    "pergunta": "Qual é o símbolo químico da prata?",
+    "resposta": "ag",
+    "dica": "Símbolo químico Ag"
+  },
+  {
+    "pergunta": "Em que ano foi descoberto o Brasil?",
+    "resposta": "1500",
+    "dica": "Século XVI"
+  },
+  {
+    "pergunta": "Qual é a capital do México?",
+    "resposta": "cidade do méxico",
+    "dica": "Capital mexicana"
+  },
+  {
+    "pergunta": "Quem escreveu 'O Cortiço'?",
+    "resposta": "aluísio azevedo",
+    "dica": "Autor brasileiro naturalista"
+  },
+  {
+    "pergunta": "Qual é o maior órgão do corpo humano?",
+    "resposta": "pele",
+    "dica": "Maior órgão externo"
+  },
+  {
+    "pergunta": "Quantos lados tem um hexágono?",
+    "resposta": "6",
+    "dica": "Polígono de 6 lados"
+  },
+  {
+    "pergunta": "Qual é a capital da Alemanha?",
+    "resposta": "berlim",
+    "dica": "Capital alemã"
+  },
+  {
+    "pergunta": "Quem foi o primeiro homem a viajar ao espaço?",
+    "resposta": "yuri gagarin",
+    "dica": "Cosmonauta soviético"
+  },
+  {
+    "pergunta": "Qual é o animal mais lento do mundo?",
+    "resposta": "bicho-preguiça",
+    "dica": "Animal lento da floresta"
+  },
+  {
+    "pergunta": "Em que ano foi criada a ONU?",
+    "resposta": "1945",
+    "dica": "Pós Segunda Guerra"
+  },
+  {
+    "pergunta": "Qual é a capital da Rússia?",
+    "resposta": "moscou",
+    "dica": "Capital russa"
+  },
+  {
+    "pergunta": "Quem pintou 'O Grito'?",
+    "resposta": "edvard munch",
+    "dica": "Pintor norueguês"
+  },
+  {
+    "pergunta": "Qual é o maior planeta do Sistema Solar?",
+    "resposta": "júpiter",
+    "dica": "Maior planeta"
+  },
+  {
+    "pergunta": "Quantos minutos tem um dia?",
+    "resposta": "1440",
+    "dica": "24 x 60"
+  },
+  {
+    "pergunta": "Qual é a capital da Inglaterra?",
+    "resposta": "londres",
+    "dica": "Capital inglesa"
+  },
+  {
+    "pergunta": "Quem escreveu 'A Divina Comédia'?",
+    "resposta": "dante alighieri",
+    "dica": "Poeta italiano medieval"
+  },
+  {
+    "pergunta": "Qual é o símbolo químico do ferro?",
+    "resposta": "fe",
+    "dica": "Símbolo Fe"
+  },
+  {
+    "pergunta": "Em que ano foi a Proclamação da Independência do Brasil?",
+    "resposta": "1822",
+    "dica": "D. Pedro I"
+  },
+  {
+    "pergunta": "Qual é a capital da China?",
+    "resposta": "pequim",
+    "dica": "Capital chinesa"
+  },
+  {
+    "pergunta": "Quem inventou o avião?",
+    "resposta": "santos dumont",
+    "dica": "Inventor brasileiro"
+  },
+  {
+    "pergunta": "Qual é a maior floresta tropical do mundo?",
+    "resposta": "amazônia",
+    "dica": "Floresta sul-americana"
+  },
+  {
+    "pergunta": "Quantos cromossomos tem uma célula humana?",
+    "resposta": "46",
+    "dica": "23 pares"
+  },
+  {
+    "pergunta": "Qual é a capital dos Estados Unidos?",
+    "resposta": "washington",
+    "dica": "Capital dos EUA"
+  },
+  {
+    "pergunta": "Quem escreveu 'O Príncipe'?",
+    "resposta": "maquiavel",
+    "dica": "Filósofo italiano"
+  },
+  {
+    "pergunta": "Qual é o animal que vive mais tempo?",
+    "resposta": "tartaruga",
+    "dica": "Réptil de casco"
+  },
+  {
+    "pergunta": "Em que ano aconteceu a Revolução Francesa?",
+    "resposta": "1789",
+    "dica": "Revolução francesa"
+  },
+  {
+    "pergunta": "Qual é a capital da Índia?",
+    "resposta": "nova délhi",
+    "dica": "Capital indiana"
+  },
+  {
+    "pergunta": "Quem descobriu a América?",
+    "resposta": "cristóvão colombo",
+    "dica": "Navegador italiano"
+  },
+  {
+    "pergunta": "Qual é o menor osso do corpo humano?",
+    "resposta": "estribo",
+    "dica": "Osso do ouvido"
+  },
+  {
+    "pergunta": "Quantos lados tem um octógono?",
+    "resposta": "8",
+    "dica": "Polígono de 8 lados"
+  },
+  {
+    "pergunta": "Qual é a capital do Chile?",
+    "resposta": "santiago",
+    "dica": "Capital chilena"
+  },
+  {
+    "pergunta": "Quem escreveu '1984'?",
+    "resposta": "george orwell",
+    "dica": "Autor de distopia"
+  },
+  {
+    "pergunta": "Qual é o símbolo químico do sódio?",
+    "resposta": "na",
+    "dica": "Símbolo Na"
+  },
+  {
+    "pergunta": "Em que ano foi a Revolução Industrial?",
+    "resposta": "1760",
+    "dica": "Século XVIII"
+  },
+  {
+    "pergunta": "Qual é a capital da Holanda?",
+    "resposta": "amsterdã",
+    "dica": "Capital holandesa"
+  },
+  {
+    "pergunta": "Quem inventou a teoria da relatividade?",
+    "resposta": "albert einstein",
+    "dica": "Físico alemão"
+  },
+  {
+    "pergunta": "Qual é o maior vulcão ativo do mundo?",
+    "resposta": "mauna loa",
+    "dica": "Vulcão no Havaí"
+  },
+  {
+    "pergunta": "Quantos metros tem um quilômetro?",
+    "resposta": "1000",
+    "dica": "1000 metros"
+  },
+  {
+    "pergunta": "Qual é a capital da Suíça?",
+    "resposta": "berna",
+    "dica": "Capital suíça"
+  },
+  {
+    "pergunta": "Quem escreveu 'Memórias Póstumas de Brás Cubas'?",
+    "resposta": "machado de assis",
+    "dica": "Autor de Brás Cubas"
+  },
+  {
+    "pergunta": "Qual é o animal nacional da Austrália?",
+    "resposta": "canguru",
+    "dica": "Marsupial saltador"
+  },
+  {
+    "pergunta": "Em que ano foi criada a internet?",
+    "resposta": "1969",
+    "dica": "ARPANET"
+  },
+  {
+    "pergunta": "Qual é a capital da Noruega?",
+    "resposta": "oslo",
+    "dica": "Capital norueguesa"
+  },
+  {
+    "pergunta": "Quem pintou 'A Noite Estrelada'?",
+    "resposta": "vincent van gogh",
+    "dica": "Pintor holandês"
+  },
+  {
+    "pergunta": "Qual é o menor planeta do Sistema Solar?",
+    "resposta": "mercúrio",
+    "dica": "Menor planeta"
+  },
+  {
+    "pergunta": "Quantos graus tem um círculo completo?",
+    "resposta": "360",
+    "dica": "Círculo completo"
+  },
+  {
+    "pergunta": "Qual é a capital da Suécia?",
+    "resposta": "estocolmo",
+    "dica": "Capital sueca"
+  },
+  {
+    "pergunta": "Quem escreveu 'O Senhor dos Anéis'?",
+    "resposta": "j.r.r. tolkien",
+    "dica": "Autor de fantasia"
+  },
+  {
+    "pergunta": "Qual é o símbolo químico do carbono?",
+    "resposta": "c",
+    "dica": "Elemento básico da vida"
+  },
+  {
+    "pergunta": "Em que ano foi a primeira Copa do Mundo?",
+    "resposta": "1930",
+    "dica": "Primeira Copa"
+  },
+  {
+    "pergunta": "Qual é a capital da Áustria?",
+    "resposta": "viena",
+    "dica": "Capital austríaca"
+  },
+  {
+    "pergunta": "Quem inventou a máquina a vapor?",
+    "resposta": "james watt",
+    "dica": "Inventor escocês"
+  },
+  {
+    "pergunta": "Qual é o maior arquipélago do mundo?",
+    "resposta": "indonésia",
+    "dica": "País do sudeste asiático"
+  },
+  {
+    "pergunta": "Quantos dias tem um ano bissexto?",
+    "resposta": "366",
+    "dica": "Ano com dia extra"
+  },
+  {
+    "pergunta": "Qual é a capital da Bélgica?",
+    "resposta": "bruxelas",
+    "dica": "Capital belga"
+  },
+  {
+    "pergunta": "Quem escreveu 'Crime e Castigo'?",
+    "resposta": "fiódor dostoiévski",
+    "dica": "Autor russo"
+  },
+  {
+    "pergunta": "Qual é o animal símbolo da paz?",
+    "resposta": "pomba",
+    "dica": "Ave da paz"
+  },
+  {
+    "pergunta": "Em que ano foi a Queda da Bastilha?",
+    "resposta": "1789",
+    "dica": "Mesmo ano da Revolução"
+  },
+  {
+    "pergunta": "Qual é a capital da Dinamarca?",
+    "resposta": "copenhague",
+    "dica": "Capital dinamarquesa"
+  },
+  {
+    "pergunta": "Quem descobriu a radioatividade?",
+    "resposta": "marie curie",
+    "dica": "Cientista polonesa"
+  },
+  {
+    "pergunta": "Qual é a maior ilha do mundo?",
+    "resposta": "groenlândia",
+    "dica": "Maior ilha"
+  },
+  {
+    "pergunta": "Quantos centímetros tem um metro?",
+    "resposta": "100",
+    "dica": "100 centímetros"
+  },
+  {
+    "pergunta": "Qual é a capital da Finlândia?",
+    "resposta": "helsinque",
+    "dica": "Capital finlandesa"
+  },
+  {
+    "pergunta": "Quem escreveu 'Hamlet'?",
+    "resposta": "william shakespeare",
+    "dica": "Mesmo autor de Romeu"
+  },
+  {
+    "pergunta": "Qual é o símbolo químico do potássio?",
+    "resposta": "k",
+    "dica": "Símbolo K"
+  },
+  {
+    "pergunta": "Em que ano foi o primeiro voo do avião?",
+    "resposta": "1906",
+    "dica": "Santos Dumont"
+  },
+  {
+    "pergunta": "Qual é a capital da Polônia?",
+    "resposta": "varsóvia",
+    "dica": "Capital polonesa"
+  },
+  {
+    "pergunta": "Quem inventou a vacina contra a raiva?",
+    "resposta": "louis pasteur",
+    "dica": "Cientista francês"
+  },
+  {
+    "pergunta": "Qual é o maior felino do mundo?",
+    "resposta": "tigre",
+    "dica": "Maior felino selvagem"
+  },
+  {
+    "pergunta": "Quantas horas tem uma semana?",
+    "resposta": "168",
+    "dica": "7 x 24"
+  },
+  {
+    "pergunta": "Qual é a capital da Grécia?",
+    "resposta": "atenas",
+    "dica": "Capital grega"
+  },
+  {
+    "pergunta": "Quem escreveu 'A Metamorfose'?",
+    "resposta": "franz kafka",
+    "dica": "Autor tcheco"
+  },
+  {
+    "pergunta": "Qual é o animal mais alto do mundo?",
+    "resposta": "girafa",
+    "dica": "Animal pescoçudo"
+  },
+  {
+    "pergunta": "Em que ano foi criado o Facebook?",
+    "resposta": "2004",
+    "dica": "Rede social de Zuckerberg"
+  },
+  {
+    "pergunta": "Qual é a capital de Portugal?",
+    "resposta": "lisboa",
+    "dica": "Capital portuguesa"
+  },
+  {
+    "pergunta": "Quem pintou 'A Criação de Adão'?",
+    "resposta": "michelangelo",
+    "dica": "Artista da Capela Sistina"
+  },
+  {
+    "pergunta": "Qual é o planeta mais próximo do Sol?",
+    "resposta": "mercúrio",
+    "dica": "Mais próximo do Sol"
+  },
+  {
+    "pergunta": "Quantos milímetros tem um centímetro?",
+    "resposta": "10",
+    "dica": "10 milímetros"
+  },
+  {
+    "pergunta": "Qual é a capital da Turquia?",
+    "resposta": "ancara",
+    "dica": "Capital turca"
+  },
+  {
+    "pergunta": "Quem escreveu 'Orgulho e Preconceito'?",
+    "resposta": "jane austen",
+    "dica": "Autora inglesa"
+  },
+  {
+    "pergunta": "Qual é o símbolo químico do cálcio?",
+    "resposta": "ca",
+    "dica": "Símbolo Ca"
+  },
+  {
+    "pergunta": "Em que ano foi a Guerra do Vietnã?",
+    "resposta": "1955",
+    "dica": "Guerra asiática"
+  },
+  {
+    "pergunta": "Qual é a capital da Irlanda?",
+    "resposta": "dublin",
+    "dica": "Capital irlandesa"
+  },
+  {
+    "pergunta": "Quem inventou o microscópio?",
+    "resposta": "zacharias janssen",
+    "dica": "Inventor holandês"
+  },
+  {
+    "pergunta": "Qual é o maior réptil do mundo?",
+    "resposta": "crocodilo",
+    "dica": "Grande réptil aquático"
+  },
+  {
+    "pergunta": "Quantos meses têm 31 dias?",
+    "resposta": "7",
+    "dica": "Meses com 31 dias"
+  },
+  {
+    "pergunta": "Qual é a capital da Escócia?",
+    "resposta": "edimburgo",
+    "dica": "Capital escocesa"
+  },
+  {
+    "pergunta": "Quem escreveu 'Moby Dick'?",
+    "resposta": "herman melville",
+    "dica": "Autor de baleia branca"
+  },
+  {
+    "pergunta": "Qual é o animal mais inteligente depois do homem?",
+    "resposta": "golfinho",
+    "dica": "Mamífero marinho inteligente"
+  },
+  {
+    "pergunta": "Em que ano foi a Independência dos Estados Unidos?",
+    "resposta": "1776",
+    "dica": "Independência americana"
+  },
+  {
+    "pergunta": "Qual é a capital da Nova Zelândia?",
+    "resposta": "wellington",
+    "dica": "Capital neozelandesa"
+  },
+  {
+    "pergunta": "Quem descobriu a gravidade?",
+    "resposta": "isaac newton",
+    "dica": "Físico inglês"
+  },
+  {
+    "pergunta": "Qual é a maior ave do mundo?",
+    "resposta": "avestruz",
+    "dica": "Maior ave do mundo"
+  },
+  {
+    "pergunta": "Quantos litros tem um metro cúbico?",
+    "resposta": "1000",
+    "dica": "1000 litros"
+  },
+  {
+    "pergunta": "Qual é a capital da África do Sul?",
+    "resposta": "pretória",
+    "dica": "Três capitais"
+  },
+  {
+    "pergunta": "Quem escreveu 'O Morro dos Ventos Uivantes'?",
+    "resposta": "emily brontë",
+    "dica": "Irmã Brontë"
+  }
+]
